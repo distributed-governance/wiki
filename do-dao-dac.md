@@ -7,7 +7,7 @@ Bitcoin was effectively the first DAO as it relies on and rewards the wide group
 
 * Decentralized Autonomous Organizations by Allen & Overy
 * DAOs, Democracy and Governance by Ralph C. Merkle
-* DAOs, DACs, DAs and More: An Incomplete Terminology Guide by Vitalik Buterin
+* [DAOs, DACs, DAs and More: An Incomplete Terminology Guide by Vitalik Buterin](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/)
 * The radical DAO experiment by Alyx Williams
 * #TrueDAO by Colony
 * 5 ways blockchain can accelerate open organizations by Ron McFarland
@@ -17,3 +17,4 @@ Bitcoin was effectively the first DAO as it relies on and rewards the wide group
 * Better Decisions
 * Transparency
 * Bigger Turnover
+
