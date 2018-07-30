@@ -1,5 +1,7 @@
 # The State of Distributed Governance
 
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/MaxSemenchuk/dgovstate.svg?columns=all)](https://waffle.io/MaxSemenchuk/dgovstate)
+
 ## Purpose:
 
 * Capture the current state development of the distributed governance
