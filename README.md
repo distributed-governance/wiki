@@ -12,7 +12,7 @@
 ## Process:
 
 Open for contribution
-Moderation by Max Semenchuk (max.semenchuk@gmail.com)
+Moderation by Max Semenchuk [Max Semenchuk](mailto:max.semenchuk@gmail.com)
 
 
 ## Table of Contents:
