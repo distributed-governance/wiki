@@ -6,7 +6,7 @@
 
 * Capture the current state development of the distributed governance
 * Identify the needs and missing points
-* Inform and inspire next development in the field
+* Inform and inspire the next development in the field
 
 
 ## Process:
