@@ -15,9 +15,14 @@ Open for contribution
 Moderation by [Max Semenchuk](mailto:max.semenchuk@gmail.com)
 
 
-## Table of Contents:
+## Content
 
-* Preface
-* Glossary
-* What is dgov?
-* DO, DAO, DAC...
+
+Here's what is available now:
+
+| Section | Comment |
+|-------| ------|
+| [Preface](preface.md)| |
+| [Glossary](glossary.md)| |
+| [What is dgov?](what-is-dgov.md)| |
+| [DO, DAO, DAC](do-dao-dac.md)| |
