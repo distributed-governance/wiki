@@ -13,6 +13,9 @@ Bitcoin was effectively the first DAO as it relies on and rewards the wide group
 * The radical DAO experiment by Alyx Williams
 * #TrueDAO by Colony
 * 5 ways blockchain can accelerate open organizations by Ron McFarland
+* Bootstrapping A Decentralized Autonomous Corporation: Part I by Vitalik Buterin 
+* Bootstrapping An Autonomous Decentralized Corporation, Part 2: Interacting With the World by Vitalik Buterin 
+* Bootstrapping a Decentralized Autonomous Corporation, Part 3: Identity Corp by Vitalik Buterin
 
 ## DAO Benefits
 
