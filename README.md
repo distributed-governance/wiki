@@ -28,6 +28,7 @@ Here's what is available now:
 | [DO, DAO, DAC](do-dao-dac.md)                                    |         |
 | [DAO Infrastructure Projects](dao-infrastructure-projects.md)    |         |
 | [DAO Case Studies](dao-case-studies.md)                          |         |
+| [DAO Legal Status](dao-legal-status.md)                          |         |
 | IETF, BIP, EIP                                                   |         |
 | Signalling                                                       |         |
 | Radical Markets, Harberger Tax                                   |         |
