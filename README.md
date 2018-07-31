@@ -11,8 +11,8 @@
 
 ## Process:
 
-Open for contribution
-Moderation by [Max Semenchuk](mailto:max.semenchuk@gmail.com)
+* Open for contribution
+* Moderation by [Max Semenchuk](mailto:max.semenchuk@gmail.com)
 
 
 ## Content
