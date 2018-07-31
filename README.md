@@ -33,5 +33,7 @@ Here's what is available now:
 | Signalling                                                       |         |
 | Radical Markets, Harberger Tax                                   |         |
 | On-chain/Off-chain governance                                    |         |
+| [DAO/DGOV Foundation](dao-dgov-foundation.md)                    |         |
+
 
 
