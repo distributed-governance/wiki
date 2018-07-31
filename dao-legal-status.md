@@ -20,3 +20,5 @@
 * How to Sue A DAO by Stephen Palley
 
 https://daowiki.atlassian.net/wiki/spaces/DAO/pages/5996567/Publications+on+the+subject+of+the+legal+status+of+The+DAO
+
+...
