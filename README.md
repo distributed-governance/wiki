@@ -20,9 +20,13 @@ Moderation by [Max Semenchuk](mailto:max.semenchuk@gmail.com)
 
 Here's what is available now:
 
-| Section | Comment |
-|-------| ------|
-| [Preface](preface.md)| |
-| [Glossary](glossary.md)| |
-| [What is dgov?](what-is-dgov.md)| |
-| [DO, DAO, DAC](do-dao-dac.md)| |
+| Section                              | Comment |
+| -------                              | ------  |
+| [Preface](preface.md)                |         |
+| [Glossary](glossary.md)              |         |
+| [What is dgov?](what-is-dgov.md)     |         |
+| [DO, DAO, DAC](do-dao-dac.md)        |         |
+| IETF, BIP, EIP                       |         |
+| Signalling                           |         |
+| Radical Markets, Harberger Tax       |         |
+| On-chain/Off-chain governance        |         |
