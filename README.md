@@ -27,6 +27,7 @@ Here's what is available now:
 | [What is dgov?](what-is-dgov.md)                                 |         |
 | [DO, DAO, DAC](do-dao-dac.md)                                    |         |
 | [DAO Infrastructure Projects](dao-infrastructure-projects.md)    |         |
+| [DAO Case Studies](dao-case-studies.md)                          |         |
 | IETF, BIP, EIP                                                   |         |
 | Signalling                                                       |         |
 | Radical Markets, Harberger Tax                                   |         |
