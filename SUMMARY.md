@@ -7,7 +7,6 @@
 * [DAO](dao/README.md)
   * [DAO Case Studies](dao/dao-case-studies.md)
   * [DAO Legal Status](dao/dao-legal-status.md)
-  * [DAO INfrastructure Projects](dao/dao-infrastructure-projects.md)
-  * [What is DAO](dao/do-dao-dac.md)
+  * [DAO Infrastructure Projects](dao/dao-infrastructure-projects.md)
 * [DAO/DGOV Foundation](dao-dgov-foundation.md)
 

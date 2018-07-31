@@ -1,4 +1,4 @@
-# DAO INfrastructure Projects
+# DAO Infrastructure Projects
 
 * Aragon One    
 * Otonomos    
