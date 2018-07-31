@@ -13,6 +13,7 @@
 
 * Open for contribution
 * Moderation by [Max Semenchuk](mailto:max.semenchuk@gmail.com)
+* [Pull request tutorial](https://www.youtube.com/watch?v=IBYHohWm_5w)
 
 
 ## Content
