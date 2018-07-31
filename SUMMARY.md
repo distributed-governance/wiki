@@ -1,6 +1,6 @@
 # Table of contents
 
-* [The State of Distributed Governance](README.md)
+* [Welcome to the Community Report](README.md)
 * [Preface](preface.md)
 * [Glossary](glossary.md)
 * [What is Distributed Governance?](what-is-dgov.md)
