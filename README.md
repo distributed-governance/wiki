@@ -22,7 +22,7 @@
 Here's what is available now:
 
 | Section                              | Comment |
-| -------                              | ------  |
+| :-------                             | ------  |
 | [Preface](preface.md)                |         |
 | [Glossary](glossary.md)              |         |
 | [What is dgov?](what-is-dgov.md)     |         |
