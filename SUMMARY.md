@@ -18,4 +18,5 @@
 * [DAO/DGOV Foundation](dao-dgov-foundation.md)
 * [Game Theory](game-theory.md)
 * [Token Economics](token-economics.md)
+* [Liquid Democracy](liquid-democracy.md)
 
