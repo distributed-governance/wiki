@@ -6,7 +6,7 @@
 * DCR
 * ANT
 
-### Literature
+### References:
 
 * [http://tokenengineering.net/governance](http://tokenengineering.net/governance)
 * [https://tools.ietf.org/html/rfc2418](https://tools.ietf.org/html/rfc2418)
