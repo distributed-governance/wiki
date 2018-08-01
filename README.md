@@ -22,7 +22,7 @@ Here's what is available now:
 | :--- | --- |
 | [Preface](preface.md) |  |
 | [Glossary](glossary.md) |  |
-| [What is dgov?](what-is-dgov.md) |  |
+| [What is dgov?](what-is-dgov/) |  |
 | [DO, DAO, DAC](https://github.com/MaxSemenchuk/dgovstate/tree/b5b4cc2b05b5796eab98cee43e739e64530b3bff/do-dao-dac.md) |  |
 | [DAO Infrastructure Projects](https://github.com/MaxSemenchuk/dgovstate/tree/b5b4cc2b05b5796eab98cee43e739e64530b3bff/dao-infrastructure-projects.md) |  |
 | [DAO Case Studies](https://github.com/MaxSemenchuk/dgovstate/tree/b5b4cc2b05b5796eab98cee43e739e64530b3bff/dao-case-studies.md) |  |
