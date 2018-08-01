@@ -6,7 +6,15 @@
 * DCR
 * ANT
 
-{% embed data="{\"url\":\"https://tools.ietf.org/html/rfc2418\",\"type\":\"link\",\"title\":\"IETF Working Group Guidelines and Procedures\",\"icon\":{\"type\":\"icon\",\"url\":\"https://tools.ietf.org/images/rfc.png\",\"aspectRatio\":0}}" %}
+### Literature
 
-{% embed data="{\"url\":\"http://tokenengineering.net/governance\",\"type\":\"link\",\"title\":\"Governance - Token Engineering\",\"icon\":{\"type\":\"icon\",\"url\":\"http://tokenengineering.net/common--images/apple-touch-icon-114x114.png\",\"width\":114,\"height\":114,\"aspectRatio\":1}}" %}
+* [http://tokenengineering.net/governance](http://tokenengineering.net/governance)
+* [https://tools.ietf.org/html/rfc2418](https://tools.ietf.org/html/rfc2418)
+* [Will Warren tweet thread regarding token engineering and value of governance tokens](https://twitter.com/willwarren89/status/1009661231559368704)
+* [Blockchain Governance: Programming Our Future: Fred Ehrsam](https://medium.com/@FEhrsam/blockchain-governance-programming-our-future-c3bfe30f2d74)
+* [Thoughts on Governance and Network Effects: Luke Duncan](https://blog.aragon.one/thoughts-on-governance-and-network-effects-f40fda3e3f98)
+* [https://medium.com/@lkngtn/governance-processes-can-be-designed-and-different-designs-can-have-qualitatively-different-e9252fbbea52](https://medium.com/@lkngtn/governance-processes-can-be-designed-and-different-designs-can-have-qualitatively-different-e9252fbbea52) Luke Duncan's rebuttal to Vlad Zamfir\]
+* [Governance in 0x Protocol: Will Warren](https://blog.0xproject.com/governance-in-0x-protocol-86779ae5809e)
+* [Decred Investment Thesis: Placeholder VC](https://www.placeholder.vc/blog/2018/5/12/decred-investment-thesis)
+* [The Price and Value of Governance Video: Joel Monegro](https://www.youtube.com/watch?v=Mwv4nnvTI5E)
 
