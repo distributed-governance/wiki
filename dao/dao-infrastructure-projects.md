@@ -5,4 +5,5 @@
 * Colony    
 * District0x    
 * DAO stack    
+* Thetta.io
 
