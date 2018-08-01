@@ -1,2 +1,2 @@
-# IETF, BIP, EIP
+# BIP, EIP
 
