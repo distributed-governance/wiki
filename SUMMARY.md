@@ -16,4 +16,6 @@
 * [Holacracy](holacracy.md)
 * [Sociocracy](sociocracy.md)
 * [DAO/DGOV Foundation](dao-dgov-foundation.md)
+* [Game Theory](game-theory.md)
+* [Token Economics](token-economics.md)
 
