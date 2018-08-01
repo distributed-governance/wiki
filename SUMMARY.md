@@ -13,7 +13,7 @@
   * [IETF, BIP, EIP](on-chain-off-chain-governance/ietf-bip-eip.md)
 * [Radical Markets](radical-markets/README.md)
   * [Harberger Tax](radical-markets/harberger-tax.md)
-* [Holacracy](holacracy.md)
+* [Holacracy / Meshocracy](holacracy.md)
 * [Sociocracy](sociocracy.md)
 * [DAO/DGOV Foundation](dao-dgov-foundation.md)
 * [Game Theory](game-theory.md)

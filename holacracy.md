@@ -1,2 +1,2 @@
-# Holacracy
+# Holacracy / Meshocracy
 
