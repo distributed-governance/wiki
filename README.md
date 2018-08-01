@@ -14,5 +14,10 @@
 * Moderation by [Max Semenchuk](mailto:max.semenchuk@gmail.com)
 * [Pull request tutorial](https://www.youtube.com/watch?v=IBYHohWm_5w)
 
+## Check also:
+
+* [Reddit on distributed governance](https://new.reddit.com/r/dgov/)
+* [DGov Conference \(Athens Dec 7-9, 2018\)](https://dgov.earth/)
+
 
 
