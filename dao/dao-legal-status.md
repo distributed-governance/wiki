@@ -8,7 +8,7 @@
 * Lawyers Be DAMNed: Andreas Antonopoulos Takes Aim at Arbitration With DAO Proposal by Andreas Antonopoulos
 * The Law of The DAO by Andrew Hinkes
 * Blockchain Company Wants to Reinvent Companies by Matt Levine
-* **THEDAO: BROKEN, BUT WORTH FIXING by Preston J. Byrne**
+* THE DAO: BROKEN, BUT WORTH FIXING by Preston J. Byrne
 * The DAO, the Curators: Evaluating and mitigating the legal risks by Alexis Roussel
 * Critique of Slock.it DAO Paper by Addison Cameron-Huff
 * Vermont is ‘Blockchain Enabling’ by Brian Cohen
