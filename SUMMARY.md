@@ -18,6 +18,7 @@
     * [BIP, EIP](new-organization-forms/dao/ietf-bip-eip.md)
   * [Holacracy](new-organization-forms/holacracy.md)
   * [Sociocracy](new-organization-forms/sociocracy.md)
+  * [Culture & Practices](new-organization-forms/culture-and-practices.md)
 * [Markets & Economy](radical-markets/README.md)
   * [Futarchy](radical-markets/futarchy.md)
   * [Harberger Tax](radical-markets/harberger-tax.md)
