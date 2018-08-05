@@ -2,6 +2,8 @@
 
 [![Waffle.io - Columns and their card count](https://badge.waffle.io/MaxSemenchuk/dgovstate.svg?columns=all)](https://waffle.io/MaxSemenchuk/dgovstate)
 
+Chat: [https://matrix.to/\#/!DlRavbeBeGdyingXMd:matrix.org](https://matrix.to/#/!DlRavbeBeGdyingXMd:matrix.org)
+
 ## Purpose:
 
 * Capture the current state development of the distributed governance
