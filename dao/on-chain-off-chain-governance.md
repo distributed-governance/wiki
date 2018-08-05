@@ -19,4 +19,5 @@ On-chain governance is a double edged sword. On the upside it helps make sure a 
 * [Governance in 0x Protocol: Will Warren](https://blog.0xproject.com/governance-in-0x-protocol-86779ae5809e)
 * [Decred Investment Thesis: Placeholder VC](https://www.placeholder.vc/blog/2018/5/12/decred-investment-thesis)
 * [The Price and Value of Governance Video: Joel Monegro](https://www.youtube.com/watch?v=Mwv4nnvTI5E)
+* [http://hackingdistributed.com/2018/07/02/on-chain-vote-buying/](http://hackingdistributed.com/2018/07/02/on-chain-vote-buying/)
 

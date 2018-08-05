@@ -9,6 +9,7 @@
   * [Decision making](what-is-dgov/decision-making.md)
   * [Justice & Dispute Resolution](what-is-dgov/justice-and-dispute-resolution.md)
 * [Markets & Economy](radical-markets/README.md)
+  * [Radical Markets](radical-markets/radical-markets-1.md)
   * [Tragedy of the Commons](radical-markets/tragedy-of-the-commons.md)
   * [Futarchy](radical-markets/futarchy.md)
   * [Harberger Tax](radical-markets/harberger-tax.md)
