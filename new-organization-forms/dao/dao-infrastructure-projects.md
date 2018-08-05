@@ -1,9 +1,11 @@
 # DAO Infrastructure Projects
 
-* Aragon One    
-* Otonomos    
+* Aragon    
 * Colony    
 * District0x    
 * DAO stack    
 * Thetta.io
+* [Govurn](https://www.govurn.com/)
+* Otonomos
+* [Harbour Project](https://www.harbourproject.io/)
 

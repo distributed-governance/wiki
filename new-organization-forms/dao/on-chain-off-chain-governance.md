@@ -1,5 +1,7 @@
 # On-chain / Off-chain governance
 
+On-chain governance is a double edged sword. On the upside it helps make sure a process is consistently followed which can increase coordination and fairness. It also allows for quicker decision making. On the downside it’s risky because the metasystem becomes harder to change once instituted. Like anything put directly into code, it can be exploited or [gamed](https://en.wikipedia.org/wiki/Nomic) more quickly and easily if flawed. ****Vlad Zamfir, a principal architect of Ethereum’s proof of stake, [feels](https://www.youtube.com/watch?v=9RtSod8EXn4&feature=youtu.be&t=2h33m39s) “the risks far outweigh the rewards” and “represent an extremely risky proposition”.
+
 **Governance Tokens**
 
 * ZRX
