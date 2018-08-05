@@ -1,4 +1,4 @@
-# DAO
+# DAO and Automation
 
 ## What is DAO?
 
@@ -12,7 +12,7 @@ A decentralized autonomous organization \(DAO\), sometimes labeled a decentraliz
 * DAOs, Democracy and Governance by Ralph C. Merkle
 * [DAOs, DACs, DAs and More: An Incomplete Terminology Guide by Vitalik Buterin](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/)
 * The radical DAO experiment by Alyx Williams
-* **TrueDAO by Colony**
+* TrueDAO by Colony
 * 5 ways blockchain can accelerate open organizations by Ron McFarland
 * Bootstrapping A Decentralized Autonomous Corporation: Part I by Vitalik Buterin 
 * Bootstrapping An Autonomous Decentralized Corporation, Part 2: Interacting With the World by Vitalik Buterin 

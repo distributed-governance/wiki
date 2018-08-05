@@ -9,6 +9,14 @@
 * Tezos    
 * DFINITY    
 
+### Ethereum Governance
+
+* [https://www.ethnews.com/eip0-and-ethereums-challenges-for-collective-governance](https://www.ethnews.com/eip0-and-ethereums-challenges-for-collective-governance)
+* strange loop
+* EIP 0 conf
+* Vlad's stuff
+* [https://vitalik.ca/general/2017/12/17/voting.html](https://vitalik.ca/general/2017/12/17/voting.html)
+
 ### Most known DAO, “The DAO”
 
 [The DAO](https://forum.daohub.org/) was a investor-directed venture capital fund, where holders of tokens \(internal currency\) decided where to put funds by voting. In May 2016, TechCrunch described The DAO as _“a paradigm shift in the very idea of economic organization. … It offers complete transparency, total shareholder control, unprecedented flexibility, and autonomous governance.”_ It was built on the Ethereum platform.

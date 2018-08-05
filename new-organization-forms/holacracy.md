@@ -1,4 +1,6 @@
 # Holacracy
 
-Meshocracy
+Consensys Meshocracy
+
+Giveth Holacracy
 
