@@ -16,6 +16,7 @@ Governance is the process of establishing and maintaining the legitimacy of deci
 * [Majority Judgement](https://mitpress.mit.edu/books/majority-judgment): a new theory and method of voting, judging and ranking, majority judgment
 * [The Most Intolerant Wins: The Dictatorship of the Small Minority](https://medium.com/incerto/the-most-intolerant-wins-the-dictatorship-of-the-small-minority-3f1f83ce4e15)
 * [Engineering Security Through Coordination Problems](https://vitalik.ca/general/2017/05/08/coordination_problems.html)
+* [https://www.patreon.com/pietrosperoni](https://www.patreon.com/pietrosperoni)
 * [https://wmlawreview.org/distributed-governance](https://wmlawreview.org/distributed-governance)
 
 
