@@ -25,6 +25,7 @@
   * [DAO Case Studies](dao/dao-case-studies.md)
   * [DAO Legal Status](dao/dao-legal-status.md)
   * [DAO Infrastructure Projects](dao/dao-infrastructure-projects.md)
+  * [DAO Crowdfunding](dao/dao-crowdfunding.md)
   * [On-chain / Off-chain governance](dao/on-chain-off-chain-governance.md)
   * [BIP, EIP](dao/ietf-bip-eip.md)
 * [DAO/DGOV Foundation](dao-dgov-foundation.md)
