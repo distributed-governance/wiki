@@ -50,6 +50,13 @@ In [Tezos](https://www.tezos.com/), [anyone can submit a change to the governanc
 
 One step further would be a system which allows on-chain votes to the rules of the system like Tezos and direct, retroactive changes to the ledger itself. In other words, if something happens that tokenholders do not like \(ex: a hack, a marketplace selling drugs\), they can roll back or edit the ledger in addition to the rules of governance themselves. DFINITY, an in-development blockchain, is taking this approach. Proponents of this system point to events like hard fork caused by The DAO hack and the recent $150m Parity multi-sig bug and suggest such events would be much smoother if everyone could just vote to undo them. On the flip side, this system allows direct censorship and peoples’ tokens to be forcibly taken. As we saw with Ethereum’s hard fork to revert The DAO hack, this is possible with existing blockchains, but requires higher friction through off-chain coordination and hard forking instead of on-chain coordination with no forking. \[1\]
 
+## EOS
+
+
+
+* [https://cryptoslate.com/eos-governance-divides-crypto-community/](https://cryptoslate.com/eos-governance-divides-crypto-community/)
+* [https://medium.com/@bytemaster/decentralized-blockchain-governance-743f0273bf5a](https://medium.com/@bytemaster/decentralized-blockchain-governance-743f0273bf5a)
+
 ## Todo:
 
 * [ ] Digix    
