@@ -1,2 +1,6 @@
-# Proposals / IETF
+# Proposing
+
+## IETF
+
+## References:
 

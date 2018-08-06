@@ -5,7 +5,7 @@
 * [Glossary](glossary.md)
 * [What is Distributed Governance?](what-is-dgov/README.md)
   * [Signalling](what-is-dgov/signalling.md)
-  * [Proposals / IETF](what-is-dgov/proposals-ietf.md)
+  * [Proposing](what-is-dgov/proposals-ietf.md)
   * [Decision making](what-is-dgov/decision-making.md)
   * [Justice & Dispute Resolution](what-is-dgov/justice-and-dispute-resolution.md)
 * [Markets & Economy](radical-markets/README.md)
