@@ -2,19 +2,23 @@
 
 ## Bitcoin
 
-Bitcoin was the first successful attempt to create a standalone blockchain. Let’s examine it as a base:
+There is a common misconception that Bitcoin, the most decentralized and longest serving blockchain in existence has no “governance”. In actual fact, not only does Bitcoin have governance, all blockchains have or must have governance to function properly. Bitcoin’s governance may not be the most rigorous but can be thought of as being governed loosely by a meritocratic process of peer reviews and rough consensus among its most active contributors. 
 
-**1. Incentives**
+**Off-chain**
+
+Governance is achieved mostly off-chain through mailing lists, Bitcoin Improvement Proposals \([BIPS](https://en.bitcoin.it/wiki/Bitcoin_Improvement_Proposals)\), and Bitcoin github [pull requests](https://github.com/bitcoin/bitcoin/pulls). Users circulate an initial idea on a mailing list within a dedicated community and, if met positively, a formal improvement proposal is created. Further discussion follows usually with the creator championing the idea. The final stage is usually an improvement to the code and then a pull request made to have the new feature incorporated.
+
+**On-chain**
+
+On-chain governance in Bitcoin was most famously experimented with when deciding for the adoption of a new technology called Segregated Witness or SegWit. Here miners had to vote by placing a binary flag where ‘1’ represented for and ‘0’ against. The governance acceptance criteria was specified at the start for transparency. It was a mess that eventually ended up in an off-chain old school agreement known as the [New York Agreement](https://bitcoinmagazine.com/articles/dcgs-scaling-proposal-and-what-it-needs-succeed/) in order for the on-chain agreement to pass.
+
+\[[https://blog.apla.io/blockchain-governance-bafa872c13b3](https://blog.apla.io/blockchain-governance-bafa872c13b3)\]
+
+**Incentives**
 
 * Developers: increase value of existing token holdings, social recognition, maintain power for control over future direction.
 * Miners: increase value of existing token holdings, expected future block rewards, and expected future transactions fees.
 * Users: increase value of existing token holdings, increase functional utility \(e.g. store of value, uncensorable transactions, file storage\).
-
-**2. Mechanisms for coordination**
-
-Mostly off-chain. Developers coordinate through the Bitcoin Improvement Proposals \([BIPs](https://en.bitcoin.it/wiki/Bitcoin_Improvement_Proposals)\) process and a [mailing list](https://lists.ozlabs.org/pipermail/bitcoin-dev-moderation/). Miners can coordinate on-chain in the sense that they are creating the chain itself.
-
-\([https://medium.com/@FEhrsam/blockchain-governance-programming-our-future-c3bfe30f2d74](https://medium.com/@FEhrsam/blockchain-governance-programming-our-future-c3bfe30f2d74)\)
 
 ## Ethereum Governance
 
@@ -48,7 +52,7 @@ In [Tezos](https://www.tezos.com/), [anyone can submit a change to the governanc
 
 ## DFINITY
 
-One step further would be a system which allows on-chain votes to the rules of the system like Tezos and direct, retroactive changes to the ledger itself. In other words, if something happens that tokenholders do not like \(ex: a hack, a marketplace selling drugs\), they can roll back or edit the ledger in addition to the rules of governance themselves. DFINITY, an in-development blockchain, is taking this approach. Proponents of this system point to events like hard fork caused by The DAO hack and the recent $150m Parity multi-sig bug and suggest such events would be much smoother if everyone could just vote to undo them. On the flip side, this system allows direct censorship and peoples’ tokens to be forcibly taken. As we saw with Ethereum’s hard fork to revert The DAO hack, this is possible with existing blockchains, but requires higher friction through off-chain coordination and hard forking instead of on-chain coordination with no forking. \[1\]
+One step further would be a system which allows on-chain votes to the rules of the system like Tezos and direct, retroactive changes to the ledger itself. In other words, if something happens that tokenholders do not like \(ex: a hack, a marketplace selling drugs\), they can roll back or edit the ledger in addition to the rules of governance themselves. DFINITY, an in-development blockchain, is taking this approach. Proponents of this system point to events like hard fork caused by The DAO hack and the recent $150m Parity multi-sig bug and suggest such events would be much smoother if everyone could just vote to undo them. On the flip side, this system allows direct censorship and peoples’ tokens to be forcibly taken. As we saw with Ethereum’s hard fork to revert The DAO hack, this is possible with existing blockchains, but requires higher friction through off-chain coordination and hard forking instead of on-chain coordination with no forking. \[[https://medium.com/@FEhrsam/blockchain-governance-programming-our-future-c3bfe30f2d74](https://medium.com/@FEhrsam/blockchain-governance-programming-our-future-c3bfe30f2d74)\]
 
 ## EOS
 
@@ -65,5 +69,5 @@ One step further would be a system which allows on-chain votes to the rules of t
 
 ## References:
 
-1 –  \([https://medium.com/@FEhrsam/blockchain-governance-programming-our-future-c3bfe30f2d74](https://medium.com/@FEhrsam/blockchain-governance-programming-our-future-c3bfe30f2d74)\)
+
 

@@ -3,7 +3,7 @@
 * [Welcome to the Community Report](README.md)
 * [Preface](preface.md)
 * [Glossary](glossary.md)
-* [What is Distributed Governance?](what-is-dgov/README.md)
+* [Distributed Governance](what-is-dgov/README.md)
   * [Signalling](what-is-dgov/signalling.md)
   * [Proposing](what-is-dgov/proposals-ietf.md)
   * [Decision making](what-is-dgov/decision-making.md)
