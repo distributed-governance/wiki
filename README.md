@@ -16,6 +16,15 @@ Chat: [https://matrix.to/\#/!DlRavbeBeGdyingXMd:matrix.org](https://matrix.to/#/
 * Moderation by [Max Semenchuk](mailto:max.semenchuk@gmail.com)
 * [Pull request tutorial](https://www.youtube.com/watch?v=IBYHohWm_5w)
 
+| Chapter | Progress |
+| :--- | :--- |
+| Distributed Governance | 10% |
+| Markets & Economy | 10% |
+| Organisational Orders | 10% |
+| DAO & Automation | 10% |
+| DAO/DGOV Foundation | 10% |
+| **Total** | **10%** |
+
 ## Check also:
 
 * [Reddit on distributed governance](https://new.reddit.com/r/dgov/)
