@@ -1,8 +1,6 @@
 # Table of contents
 
 * [Welcome to the Community Report](README.md)
-* [Preface](preface.md)
-* [Glossary](glossary.md)
 * [Distributed Governance](what-is-dgov/README.md)
   * [Signalling](what-is-dgov/signalling.md)
   * [Proposing](what-is-dgov/proposals-ietf.md)
@@ -29,4 +27,5 @@
   * [On-chain / Off-chain governance](dao/on-chain-off-chain-governance.md)
   * [BIP, EIP](dao/ietf-bip-eip.md)
 * [DAO/DGOV Foundation](dao-dgov-foundation.md)
+* [Glossary](glossary.md)
 
