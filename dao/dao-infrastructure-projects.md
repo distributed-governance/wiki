@@ -11,5 +11,5 @@
 
 ## ToDo:
 
-* how are they different
+* understand how are they different, maybe use reddit for discussion
 
