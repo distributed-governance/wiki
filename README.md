@@ -5,10 +5,9 @@ description: 'The work is in progress from Aug''18, planned to be finished by De
 # Welcome to the Community Report
 
 {% hint style="info" %}
-We're looking for authors, join the [chat](https://matrix.to/#/!DlRavbeBeGdyingXMd:matrix.org) or email: max.semenchuk@gmail.com if you're interested
+We're looking for authors, join the chat: [https://matrix.to/\#/!DlRavbeBeGdyingXMd:matrix.org​](https://matrix.to/#/!DlRavbeBeGdyingXMd:matrix.org​)  
+or email: max.semenchuk@gmail.com if you're interested
 {% endhint %}
-
-Chat: [https://matrix.to/\#/!DlRavbeBeGdyingXMd:matrix.org](https://matrix.to/#/!DlRavbeBeGdyingXMd:matrix.org)
 
 ## Purpose:
 
