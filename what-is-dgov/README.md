@@ -1,33 +1,47 @@
 # Distributed Governance
 
-## What is Distributed Goverance?
+## What is Distributed Governance?
 
-Governance is the process of establishing and maintaining the legitimacy of decision making process \(Vlad Zamfir\)
+Distributed organisations are a new business and political that structures, that have no centralised management structure. Examples: Bitcoin, Anonymous Alcoholics...
 
-## Benefits / Why do we need it?
+> Instead of a hierarchical structure managed by a set of humans interacting in person and controlling property via the legal system, a decentralized organization involves a set of humans interacting with each other according to a protocol specified in code, and enforced on the blockchain.
 
-* VUCA
-* Decreased Cost of Financial Intermediation
-* Purpose / Community Driven
+Vitalik Buterin
+
+> Governance is the process of establishing and maintaining the legitimacy of decision making process
+
+Vlad Zamfir
+
+### Benefits & Why do we need it?
+
+* More Adaptive / Faster learning in VUCA Environment
+* More Efficient / Decreased Cost of Financial \(and other\) Intermediation
+* Purpose / Community Driven \(Selectively Incorporate Stakeholder Communities\)
 
 > I believe governance should be the primary focus of investors in the space
->
-> **Fred Ehrsam Following, Co-founder Conibase**
 
-\*\*\*\*
+Fred Ehrsam Following, Co-founder Conibase
 
-## Risks
+### Risks
 
-
+* Difficulty of Smart Contract Coding
+* Free-Rider Problems
+* Regulatory Risk
+* Public Accountability Concerns
 
 ## Blockchain & DLT
 
 DLT \(distributed ledger technology\) enables business governance structures that are more transparent, more flat, and more participatory. \[Yochai Benkler and others have written about how technology now enables peers to produce goods without traditional hierarchical structures. See generally Yochai Benkler et al., PeerProduction: A Form of Collective Intelligence,in HANDBOOK OF COLLECTIVE INTELLIGENCE \(Thomas Malone & Michael Bernstein eds., 2015\) \(exploring the development of peer production literature\). Distributed entities may advance this dynamic further\]
 
+### Smart Contracts
+
+> Instead, a smart contract is, at its core, “a computer protocol—an algorithm—that can self-execute, self-enforce, self-verify, and selfconstrain the performance of” its instructions.
+
+_50. TIM SWANSON, GREAT CHAIN OF NUMBERS: A GUIDE TO SMART CONTRACTS, SMART PROPERTY, AND TRUSTLESS ASSET MANAGEMENT 16 \(2014\);_ 
+
 ## References:
 
 * [Distributed Governance by Carla Reyes, Nizan Geslevich, Benjamin Edwards](https://poseidon01.ssrn.com/delivery.php?ID=969069125111072016017067108120098124096013037044021004025111068026065123018011126072011019010100011037017024078102088026098116024072012082004022105112085095122018028064037045093103075012105017086127116072010097076066111076006108122118025072116025090095&EXT=pdf)
-* [THE TYRANNY of STRUCTURELESSNESS](https://static1.squarespace.com/static/555557d5e4b0cc5c1ed71116/t/57e03ffb20099ef5d08202a6/1474314240758/TyrannyStructureless.pdf)
 * [The Tyranny of Structurelessness](https://static1.squarespace.com/static/555557d5e4b0cc5c1ed71116/t/57e03ffb20099ef5d08202a6/1474314240758/TyrannyStructureless.pdf)
 * [Notes on Blockchain Governance](https://vitalik.ca/general/2017/12/17/voting.html)
 * [Governance, Part 2: Plutocracy Is Still Bad](https://vitalik.ca/general/2018/03/28/plutocracy.html)
