@@ -20,9 +20,9 @@ Governance is the process of establishing and maintaining the legitimacy of deci
 
 
 
-## DLT
+## Blockchain & DLT
 
-DLT enables business governance structures that are more transparent, more flat, and more participatory. \[Yochai Benkler and others have written about how technology now enables peers to produce goods without traditional hierarchical structures. See generally Yochai Benkler et al., PeerProduction: A Form of Collective Intelligence,in HANDBOOK OF COLLECTIVE INTELLIGENCE \(Thomas Malone & Michael Bernstein eds., 2015\) \(exploring the development of peer production literature\). Distributed entities may advance this dynamic further\]
+DLT \(distributed ledger technology\) enables business governance structures that are more transparent, more flat, and more participatory. \[Yochai Benkler and others have written about how technology now enables peers to produce goods without traditional hierarchical structures. See generally Yochai Benkler et al., PeerProduction: A Form of Collective Intelligence,in HANDBOOK OF COLLECTIVE INTELLIGENCE \(Thomas Malone & Michael Bernstein eds., 2015\) \(exploring the development of peer production literature\). Distributed entities may advance this dynamic further\]
 
 ## References:
 
