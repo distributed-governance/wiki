@@ -1,6 +1,12 @@
+---
+description: 'The work is in progress from Aug''18, planned to be finished by Dec''18.'
+---
+
 # Welcome to the Community Report
 
-[![Waffle.io - Columns and their card count](https://badge.waffle.io/MaxSemenchuk/dgovstate.svg?columns=all)](https://waffle.io/MaxSemenchuk/dgovstate)
+{% hint style="info" %}
+We're looking for authors, join the [chat](https://matrix.to/#/!DlRavbeBeGdyingXMd:matrix.org) or email: max.semenchuk@gmail.com if you're interested
+{% endhint %}
 
 Chat: [https://matrix.to/\#/!DlRavbeBeGdyingXMd:matrix.org](https://matrix.to/#/!DlRavbeBeGdyingXMd:matrix.org)
 
