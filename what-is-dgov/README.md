@@ -18,6 +18,8 @@ Vlad Zamfir
 * More Efficient / Decreased Cost of Financial \(and other\) Intermediation
 * Purpose / Community Driven \(Selectively Incorporate Stakeholder Communities\)
 
+![](../.gitbook/assets/image%20%281%29.png)
+
 > I believe governance should be the primary focus of investors in the space
 
 Fred Ehrsam Following, Co-founder Conibase
