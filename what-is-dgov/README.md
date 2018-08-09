@@ -10,6 +10,12 @@ Governance is the process of establishing and maintaining the legitimacy of deci
 * Decreased Cost of Financial Intermediation
 * Purpose / Community Driven
 
+> I believe governance should be the primary focus of investors in the space
+>
+> **Fred Ehrsam Following, Co-founder Conibase**
+
+\*\*\*\*
+
 ## Risks
 
 

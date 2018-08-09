@@ -4,7 +4,7 @@
 
 * [https://github.com/jpantunes/awesome-cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics)
 * [Making sense of Cryptoeconomics](https://www.coindesk.com/making-sense-cryptoeconomics/)
-* [https://www.usv.com/blog/an-overview-of-blockchain-based-universal-basic-income-projects](https://www.usv.com/blog/an-overview-of-blockchain-based-universal-basic-income-projects)
 * [The Price of Inequality: How Today's Divided Society Endangers Our Future](https://www.amazon.com/Price-Inequality-Divided-Society-Endangers-ebook/dp/B007MKCQ30)
+* [https://www.nickgrossman.is/2018/minimum-viable-economy/](https://www.nickgrossman.is/2018/minimum-viable-economy/)
 * [The Dictatorship of the Small Minority](https://medium.com/incerto/the-most-intolerant-wins-the-dictatorship-of-the-small-minority-3f1f83ce4e15)
 
