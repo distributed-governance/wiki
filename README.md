@@ -23,7 +23,7 @@ or email: max.semenchuk@gmail.com if you're interested
 
 | Chapter | Progress |
 | :--- | :--- |
-| Distributed Governance | 10% |
+| Distributed Governance | 20% |
 | Markets & Economy | 10% |
 | Organisational Orders | 10% |
 | DAO & Automation | 10% |
