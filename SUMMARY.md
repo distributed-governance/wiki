@@ -13,7 +13,7 @@
   * [Harberger Tax](radical-markets/harberger-tax.md)
   * [Game Theory](radical-markets/game-theory.md)
   * [Reputation](radical-markets/culture-and-practices.md)
-* [Organisational Orders & Cultures](new-organization-forms/README.md)
+* [Values, Structures & Cultures](new-organization-forms/README.md)
   * [Meritocracy](new-organization-forms/meritocracy.md)
   * [Sociocracy](new-organization-forms/sociocracy.md)
   * [Holacracy](new-organization-forms/holacracy.md)
