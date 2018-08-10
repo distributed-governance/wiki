@@ -53,7 +53,8 @@ _50. TIM SWANSON, GREAT CHAIN OF NUMBERS: A GUIDE TO SMART CONTRACTS, SMART PROP
 * [The Most Intolerant Wins: The Dictatorship of the Small Minority](https://medium.com/incerto/the-most-intolerant-wins-the-dictatorship-of-the-small-minority-3f1f83ce4e15)
 * [Engineering Security Through Coordination Problems](https://vitalik.ca/general/2017/05/08/coordination_problems.html)
 * [https://github.com/aragon/aragon-monthly](https://github.com/aragon/aragon-monthly)
-* Evolution of organisations
+* Evolution of organisations / Spiral dynamics
+* [https://words.democracy.earth/designing-the-ux-of-distributed-governance-71ce24fcafe5?gi=b0a6e7be794f](https://words.democracy.earth/designing-the-ux-of-distributed-governance-71ce24fcafe5?gi=b0a6e7be794f)
 * [https://www.patreon.com/pietrosperoni](https://www.patreon.com/pietrosperoni)
 * [https://wmlawreview.org/distributed-governance](https://wmlawreview.org/distributed-governance)
 

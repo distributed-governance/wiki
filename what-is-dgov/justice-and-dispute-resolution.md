@@ -4,6 +4,10 @@
 
 ## Monopoly on violence
 
+## Conciliation
+
+## Reconciliation
+
 ## References:
 
 * [A Philosophical Approach to Alternative Dispute Resolution Systems](https://www.mediate.com/articles/SustacZ5.cfm)
