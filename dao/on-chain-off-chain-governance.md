@@ -15,7 +15,8 @@ On-chain governance is a double edged sword. On the upside it helps make sure a 
 * [Will Warren tweet thread regarding token engineering and value of governance tokens](https://twitter.com/willwarren89/status/1009661231559368704)
 * [Blockchain Governance: Programming Our Future: Fred Ehrsam](https://medium.com/@FEhrsam/blockchain-governance-programming-our-future-c3bfe30f2d74)
 * [Thoughts on Governance and Network Effects: Luke Duncan](https://blog.aragon.one/thoughts-on-governance-and-network-effects-f40fda3e3f98)
-* [https://medium.com/@lkngtn/governance-processes-can-be-designed-and-different-designs-can-have-qualitatively-different-e9252fbbea52](https://medium.com/@lkngtn/governance-processes-can-be-designed-and-different-designs-can-have-qualitatively-different-e9252fbbea52) Luke Duncan's rebuttal to Vlad Zamfir\]
+* [https://medium.com/@lkngtn/governance-processes-can-be-designed-and-different-designs-can-have-qualitatively-different-e9252fbbea52](https://medium.com/@lkngtn/governance-processes-can-be-designed-and-different-designs-can-have-qualitatively-different-e9252fbbea52)
+* [https://www.youtube.com/watch?v=AOlS4QddpNI](https://www.youtube.com/watch?v=AOlS4QddpNI)
 * [Governance in 0x Protocol: Will Warren](https://blog.0xproject.com/governance-in-0x-protocol-86779ae5809e)
 * [Decred Investment Thesis: Placeholder VC](https://www.placeholder.vc/blog/2018/5/12/decred-investment-thesis)
 * [The Price and Value of Governance Video: Joel Monegro](https://www.youtube.com/watch?v=Mwv4nnvTI5E)
