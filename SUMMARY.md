@@ -28,6 +28,7 @@
   * [On-chain / Off-chain governance](dao/on-chain-off-chain-governance.md)
   * [BIP, EIP](dao/ietf-bip-eip.md)
   * [Forking](dao/forking.md)
+  * [Reputation](dao/reputation.md)
 * [DAO/DGOV Foundation](dao-dgov-foundation.md)
 * [Glossary](glossary.md)
 

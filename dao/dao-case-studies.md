@@ -59,13 +59,15 @@ One step further would be a system which allows on-chain votes to the rules of t
 
 
 * [https://cryptoslate.com/eos-governance-divides-crypto-community/](https://cryptoslate.com/eos-governance-divides-crypto-community/)
-* [https://medium.com/@bytemaster/decentralized-blockchain-governance-743f0273bf5a](https://medium.com/@bytemaster/decentralized-blockchain-governance-743f0273bf5a)
+
+## Maker DAO
+
+[https://medium.com/makerdao/makerdao-governance-risk-framework-38625f514101](https://medium.com/makerdao/makerdao-governance-risk-framework-38625f514101)
 
 ## Todo:
 
 * [ ] Digix    
 * [ ] BitShares    
-* [ ] Maker DAO 
 
 ## References:
 
