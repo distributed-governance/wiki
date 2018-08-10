@@ -22,6 +22,10 @@ On-chain governance in Bitcoin was most famously experimented with when deciding
 
 ## Ethereum Governance
 
+* [ ] Ethereum Governance: Map of Ethereum Ecosystem
+
+
+
 * [https://www.ethnews.com/eip0-and-ethereums-challenges-for-collective-governance](https://www.ethnews.com/eip0-and-ethereums-challenges-for-collective-governance)
 * strange loop
 * EIP 0 conf
