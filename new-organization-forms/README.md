@@ -1,2 +1,2 @@
-# Values, Structures & Cultures
+# Values, Structures & Culture
 
