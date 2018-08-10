@@ -2,7 +2,7 @@
 
 ## What is Distributed Governance?
 
-Distributed organisations are a new business and political structures, that have no centralised management. Examples: Ethereum, Wikipedia or Anonymous Alcoholics.
+Distributed organisations are a new business and political structures, that have no centralised management, like Ethereum, Wikipedia or Anonymous Alcoholics.
 
 > Instead of a hierarchical structure managed by a set of humans interacting in person and controlling property via the legal system, a decentralized organization involves a set of humans interacting with each other according to a protocol specified in code, and enforced on the blockchain.
 
@@ -26,7 +26,7 @@ Fred Ehrsam Following, Co-founder Conibase
 
 ### Risks
 
-* Difficulty of Smart Contract Coding
+* Difficulty of setting fully formalised rules, like Smart Contract Coding
 * Free-Rider Problems
 * Regulatory Risk
 * Public Accountability Concerns
