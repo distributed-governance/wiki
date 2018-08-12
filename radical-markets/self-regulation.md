@@ -1,0 +1,6 @@
+# Self Regulation
+
+## Bonding Curve
+
+
+

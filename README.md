@@ -30,6 +30,12 @@ or email: max.semenchuk@gmail.com if you're interested
 | DAO/DGOV Foundation | 10% |
 | **Total** | **10%** |
 
+## License
+
+Current book is licensed under a [Creative Commons Atttibution 4.0 International License](http://creativecommons.org/licenses/by/4.0).
+
+![](.gitbook/assets/88x31.png)
+
 ## Check also:
 
 * [Reddit on distributed governance](https://new.reddit.com/r/dgov/)

@@ -12,6 +12,8 @@ Luke Riley can write and academic intro to liquid democracy and how it fits into
 
 [Quadratic voting](http://ericposner.com/quadratic-voting/) is a system of buying votes, where each additional vote costs twice as much as the one before it. In other words, money buys votes, but with strong diminishing returns. 
 
+[https://pdaian.com/blog/vote-buying-on-chain-governance-and-quadratic-plutocracy/](https://pdaian.com/blog/vote-buying-on-chain-governance-and-quadratic-plutocracy/)
+
 ## References:
 
 * [https://mitpress.mit.edu/books/majority-judgment](https://mitpress.mit.edu/books/majority-judgment)
