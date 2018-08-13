@@ -1,4 +1,4 @@
-# Decision making
+# Decision making / Acceptance
 
 ## Liquid Democracy
 
