@@ -26,6 +26,12 @@ Vlad Zamfir
 
 Fred Ehrsam, Co-founder Conibase
 
+### Tasks and Criteria
+
+{% hint style="info" %}
+tyrany of structureless as a support of need and criteria for distributed governance
+{% endhint %}
+
 ### Risks
 
 * Difficulty of setting fully formalised rules, like Smart Contract Coding
@@ -33,7 +39,7 @@ Fred Ehrsam, Co-founder Conibase
 * Regulatory Risk
 * Public Accountability Concerns
 
-## Role of Blockchain & DLT
+## Blockchain & DLT for Consensus
 
 DLT \(distributed ledger technology\) enables business governance structures that are more transparent, more flat, and more participatory. \[Yochai Benkler and others have written about how technology now enables peers to produce goods without traditional hierarchical structures. See generally Yochai Benkler et al., PeerProduction: A Form of Collective Intelligence,in HANDBOOK OF COLLECTIVE INTELLIGENCE \(Thomas Malone & Michael Bernstein eds., 2015\) \(exploring the development of peer production literature\). Distributed entities may advance this dynamic further\]
 
