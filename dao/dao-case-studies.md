@@ -68,10 +68,11 @@ One step further would be a system which allows on-chain votes to the rules of t
 
 [https://medium.com/makerdao/makerdao-governance-risk-framework-38625f514101](https://medium.com/makerdao/makerdao-governance-risk-framework-38625f514101)
 
-## Todo:
+## Polkadot
 
-* [ ] Digix    
-* [ ] BitShares    
+## Digix    
+
+## BitShares    
 
 ## References:
 
