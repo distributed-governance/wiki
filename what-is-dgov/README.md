@@ -46,7 +46,7 @@ Most of the networks are initialised under some leadership of a person or a smal
 
 Jo Freeman
 
-Thus finding the ways to discover and clarify existent structures, fetch out the existing policies and rules, especially when they don't align with the proclaimed values, is supporting the decentralization more than harming it.
+Thus finding the ways to discover and clarify existent structures, fetch out the existing policies and rules, especially when they are not aligned with the proclaimed values, is supporting the decentralization more than harming it.
 
 ### Free-Rider Problems & Incentive design {#free-rider-problems-and-incentive-design}
 
