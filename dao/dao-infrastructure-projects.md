@@ -13,3 +13,7 @@
 
 * understand how are they different, maybe use reddit for discussion
 
+## References:
+
+* [https://words.democracy.earth/designing-the-ux-of-distributed-governance-71ce24fcafe5?gi=b0a6e7be794f](https://words.democracy.earth/designing-the-ux-of-distributed-governance-71ce24fcafe5?gi=b0a6e7be794f)
+

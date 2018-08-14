@@ -24,3 +24,8 @@ A decentralized autonomous organization \(DAO\), sometimes labeled a decentraliz
 * Transparency
 * Bigger Turnover
 
+## References:
+
+* [Notes on Blockchain Governance](https://vitalik.ca/general/2017/12/17/voting.html)
+* [Engineering Security Through Coordination Problems](https://vitalik.ca/general/2017/05/08/coordination_problems.html)
+

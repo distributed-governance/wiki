@@ -5,7 +5,7 @@
   * [Values, Structures & Culture](what-is-dgov/new-organization-forms.md)
   * [Signalling](what-is-dgov/signalling.md)
   * [Proposing](what-is-dgov/proposals-ietf.md)
-  * [Decision making / Acceptance](what-is-dgov/decision-making.md)
+  * [Decision making, Voting & Acceptance](what-is-dgov/decision-making.md)
   * [Corruption and attack vectors](what-is-dgov/corruption-and-attack-vectors.md)
   * [Justice & Dispute Resolution](what-is-dgov/justice-and-dispute-resolution.md)
 * [Markets & Coordination](radical-markets/README.md)

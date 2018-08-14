@@ -1,4 +1,4 @@
-# Decision making / Acceptance
+# Decision making, Voting & Acceptance
 
 ## Liquid Democracy
 
@@ -16,5 +16,6 @@ Luke Riley can write and academic intro to liquid democracy and how it fits into
 
 ## References:
 
-* [https://mitpress.mit.edu/books/majority-judgment](https://mitpress.mit.edu/books/majority-judgment)
+* [Majority Judgement](https://mitpress.mit.edu/books/majority-judgment): a new theory and method of voting, judging and ranking, majority judgment
+* [https://www.patreon.com/pietrosperoni](https://www.patreon.com/pietrosperoni)
 
