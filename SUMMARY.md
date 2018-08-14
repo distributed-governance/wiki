@@ -3,6 +3,7 @@
 * [Welcome to the Community Report](README.md)
 * [Distributed Governance](what-is-dgov/README.md)
   * [Values, Structures & Culture](what-is-dgov/new-organization-forms.md)
+  * [Blockchain & DLT for Consensus](what-is-dgov/blockchain-and-dlt-for-consensus.md)
   * [Signalling](what-is-dgov/signalling.md)
   * [Proposing](what-is-dgov/proposals-ietf.md)
   * [Decision making / Acceptance](what-is-dgov/decision-making.md)

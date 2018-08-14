@@ -14,40 +14,43 @@ Challenge is how to maintain and implement changes in such an organisation. As t
 
 Vlad Zamfir
 
-### Benefits & Why do we need it?
-
-* More Adaptive / Faster learning in VUCA Environment
-* More Efficient / Decreased Cost of Financial \(and other\) Intermediation
-* Purpose / Community Driven \(Selectively Incorporate Stakeholder Communities\)
-
 ![](../.gitbook/assets/image%20%281%29.png)
+
+## Why do we need it?
 
 > I believe governance should be the primary focus of investors in the space
 
 Fred Ehrsam, Co-founder Conibase
 
-### Tasks and Criteria
+### More Adaptive & Safe {#more-adaptive-and-safe}
 
-{% hint style="info" %}
-tyrany of structureless as a support of need and criteria for distributed governance
-{% endhint %}
+Current world can be described with the acronym VUCA: volatility, uncertainty, complexity and ambiguity. So the rigid knowledge or established management practices don't help to keep up with the fast-moving world. The distribution of the governance support faster learning, experiments and while can be suboptimal at some intervals, helps to evolve in the long run. Also eliminating the single point of failure, so if the central node is taken out or corrupted, the organisation finds ways to restore the direction.
 
-### Risks
+### More Efficient {#more-efficient}
 
-* Difficulty of setting fully formalised rules, like Smart Contract Coding
-* Free-Rider Problems
-* Regulatory Risk
-* Public Accountability Concerns
+This is mostly connected withe the decreased cost of financial \(and other\) intermediation. E.g. Bitcoin that helped to eliminate costs and delays in the transfers, taking out the banks out of the system. But besides financial factors current management system can be too expensive. Usually a decision needs to pass many levels of the hierarchy, meanwhile the opportunity window can be lost or the cost of that decision can exceed it's value.
 
-## Blockchain & DLT for Consensus
+Another point is that people at the place usually have more info on the situation and make a better decision, as it will also directly involve them.
 
-DLT \(distributed ledger technology\) enables business governance structures that are more transparent, more flat, and more participatory. \[Yochai Benkler and others have written about how technology now enables peers to produce goods without traditional hierarchical structures. See generally Yochai Benkler et al., PeerProduction: A Form of Collective Intelligence,in HANDBOOK OF COLLECTIVE INTELLIGENCE \(Thomas Malone & Michael Bernstein eds., 2015\) \(exploring the development of peer production literature\). Distributed entities may advance this dynamic further\]
+### Driven by Purpose {#driven-by-purpose}
 
-### Smart Contracts
+If the organisation is clear in it's goals and open to participation it can organically attract people and resources motivated by the end goal. It usually results in stakeholder communities, where people solve own problems. Motivation and stake here is much bigger than in the typical hiring places of work. Thus participation in the governance is requested, not avoided.
 
-> Instead, a smart contract is, at its core, “a computer protocol—an algorithm—that can self-execute, self-enforce, self-verify, and selfconstrain the performance of” its instructions.
+## Tasks and Challenges {#tasks-and-existent-issues}
 
-_50. TIM SWANSON, GREAT CHAIN OF NUMBERS: A GUIDE TO SMART CONTRACTS, SMART PROPERTY, AND TRUSTLESS ASSET MANAGEMENT 16 \(2014\);_ 
+### The Tyranny of Structurelessness {#the-tyranny-of-structurelessness}
+
+The initial
+
+### Free-Rider Problems & Incentive design {#free-rider-problems-and-incentive-design}
+
+### Difficulty of setting fully formalised rules {#difficulty-of-setting-fully-formalised-rules}
+
+e.g. Smart Contract Coding
+
+### Regulatory Risk {#regulatory-risk}
+
+### Public Accountability Concerns {#public-accountability-concerns}
 
 ## References:
 
