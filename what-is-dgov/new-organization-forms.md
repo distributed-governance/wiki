@@ -18,3 +18,7 @@
 
 ## Anarchy / Cryptoanarchy
 
+## References:
+
+* [Governance, Part 2: Plutocracy Is Still Bad](https://vitalik.ca/general/2018/03/28/plutocracy.html)
+
