@@ -1,4 +1,4 @@
-# DAO and Automation
+# Blockchain & Automation
 
 ## What is DAO?
 

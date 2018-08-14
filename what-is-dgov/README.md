@@ -22,7 +22,7 @@ Vlad Zamfir
 
 Fred Ehrsam, Co-founder Conibase
 
-### More Adaptive & Safe {#more-adaptive-and-safe}
+### More Adaptive & Resilient {#more-adaptive-and-safe}
 
 Current world can be described with the acronym VUCA: volatility, uncertainty, complexity and ambiguity. So the rigid knowledge or established management practices don't help to keep up with the fast-moving world. The distribution of the governance support faster learning, experiments and while can be suboptimal at some intervals, helps to evolve in the long run. Also eliminating the single point of failure, so if the central node is taken out or corrupted, the organisation finds ways to restore the direction.
 
