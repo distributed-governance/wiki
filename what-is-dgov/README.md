@@ -20,7 +20,7 @@ Vlad Zamfir
 
 > I believe governance should be the primary focus of investors in the space
 
-Fred Ehrsam, Co-founder Conibase
+Fred Ehrsam, Co-founder Coinbase
 
 ### More Adaptive & Resilient {#more-adaptive-and-safe}
 
