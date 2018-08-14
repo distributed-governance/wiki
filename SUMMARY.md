@@ -37,6 +37,7 @@
   * [Digix](dao-case-studies/digix.md)
   * [BitShares](dao-case-studies/bitshares.md)
   * [Decred](dao-case-studies/decred.md)
+  * [Gnosis](dao-case-studies/gnosis.md)
 * [DAO/DGOV Foundation](dao-dgov-foundation.md)
 * [Glossary](glossary.md)
 
