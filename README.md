@@ -5,7 +5,12 @@ description: 'The work is in progress from Aug''18, planned to be finished by De
 # Welcome to the Community Report
 
 {% hint style="info" %}
-We're looking for authors and editors, join the chat: [https://matrix.to/\#/!DlRavbeBeGdyingXMd:matrix.org​](https://matrix.to/#/!DlRavbeBeGdyingXMd:matrix.org​)  
+We're looking for authors and editors!
+
+Join the Riot chat: [https://matrix.to/\#/!DlRavbeBeGdyingXMd:matrix.org​](https://matrix.to/#/!DlRavbeBeGdyingXMd:matrix.org​)
+
+or Telegram group: [https://t.me/joinchat/E9cyAw9Ix0g4CS8PNTvR3g](https://t.me/joinchat/E9cyAw9Ix0g4CS8PNTvR3g)
+
 or email: max.semenchuk@gmail.com if you're interested
 {% endhint %}
 
