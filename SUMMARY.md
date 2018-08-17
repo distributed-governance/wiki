@@ -11,7 +11,7 @@
 * [Markets & Coordination](radical-markets/README.md)
   * [Tragedy of the Commons](radical-markets/tragedy-of-the-commons.md)
   * [Radical Markets](radical-markets/radical-markets-1.md)
-  * [Futarchy](radical-markets/futarchy.md)
+  * [Futarchy / Governance market](radical-markets/futarchy.md)
   * [Harberger Tax](radical-markets/harberger-tax.md)
   * [Self Regulation](radical-markets/self-regulation.md)
   * [Game Theory](radical-markets/game-theory.md)
