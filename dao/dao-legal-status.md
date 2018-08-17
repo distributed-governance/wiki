@@ -1,6 +1,10 @@
 # DAO Legal Status
 
-### Links
+## Identity in DAO
+
+[https://www.amazon.com/Sovereign-Individual-Mastering-Transition-Information/dp/0684832720](https://www.amazon.com/Sovereign-Individual-Mastering-Transition-Information/dp/0684832720)
+
+## References:
 
 * Blockchains, Smart Contracts and The Law by    Reuben Bramanathan
 * A Legal Analysis of the DAO Exploit and Possible Investor Rights by Drew Hinkes
