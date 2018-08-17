@@ -2,6 +2,7 @@
 
 * [Welcome to the Community Report](README.md)
 * [Distributed Governance](what-is-dgov/README.md)
+  * [Tasks & Challenges](what-is-dgov/tasks-and-challenges.md)
   * [Values, Structures & Culture](what-is-dgov/new-organization-forms.md)
   * [Signalling](what-is-dgov/signalling.md)
   * [Proposing](what-is-dgov/proposals-ietf.md)
