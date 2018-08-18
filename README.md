@@ -4,16 +4,6 @@ description: 'The work is in progress from Aug''18, planned to be finished by De
 
 # Welcome to the Community Report
 
-{% hint style="info" %}
-We're looking for authors and editors!
-
-Join the Riot chat: [https://matrix.to/\#/!DlRavbeBeGdyingXMd:matrix.org​](https://matrix.to/#/!DlRavbeBeGdyingXMd:matrix.org​)
-
-or Telegram group: [https://t.me/joinchat/E9cyAw9Ix0g4CS8PNTvR3g](https://t.me/joinchat/E9cyAw9Ix0g4CS8PNTvR3g)
-
-or email: max.semenchuk@gmail.com if you're interested
-{% endhint %}
-
 ## Purpose:
 
 * Capture the current state development of the distributed governance
@@ -25,6 +15,19 @@ or email: max.semenchuk@gmail.com if you're interested
 * Open for contribution
 * Moderation by [Max Semenchuk](mailto:max.semenchuk@gmail.com)
 * [Pull request tutorial](https://www.youtube.com/watch?v=IBYHohWm_5w)
+
+## Authors:
+
+* Max Semenchuk, 4IRE labs
+* Anton Akentiev, Thetta.io
+
+{% hint style="info" %}
+We're looking for authors and editors!  
+Join our Telegram group: [https://t.me/joinchat/E9cyAw9Ix0g4CS8PNTvR3g](https://t.me/joinchat/E9cyAw9Ix0g4CS8PNTvR3g)  
+or email: max.semenchuk@gmail.com if you're interested
+{% endhint %}
+
+## Progress
 
 | Chapter | Progress |
 | :--- | :--- |
