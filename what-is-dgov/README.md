@@ -6,6 +6,8 @@ Distributed organisations are a new business and political structures, that have
 
 > Instead of a hierarchical structure managed by a set of humans interacting in person and controlling property via the legal system, a decentralized organization involves a set of humans interacting with each other according to a protocol specified in code, and enforced on the blockchain.
 
+> This concept of coordination flags encompasses all that we mean by "governance"; in scenarios where coordination games \(or more generally, multi-equilibrium games\) do not exist, the concept of governance is meaningless.
+
 Vitalik Buterin
 
 Challenge is how to maintain and implement changes in such an organisation. As there's no direct decision maker to manage and allocate resources, management in such structures is done through the process of signalling, proposing and distributed decision making. 

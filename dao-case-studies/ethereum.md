@@ -1,6 +1,6 @@
 # Ethereum
 
-
+miner voting: miners’ right to vote on the gas limit
 
 * [ ] Ethereum Governance: Map of Ethereum Ecosystem
 

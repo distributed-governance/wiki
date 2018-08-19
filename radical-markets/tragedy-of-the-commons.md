@@ -1,2 +1,0 @@
-# Tragedy of the Commons
-
