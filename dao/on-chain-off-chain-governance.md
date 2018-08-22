@@ -35,6 +35,7 @@ In blockchain governance, it seems like this is the only way forward as well. Th
 * [http://tokenengineering.net/governance](http://tokenengineering.net/governance)
 * [https://tools.ietf.org/html/rfc2418](https://tools.ietf.org/html/rfc2418)
 * [Will Warren tweet thread regarding token engineering and value of governance tokens](https://twitter.com/willwarren89/status/1009661231559368704)
+* [https://hackernoon.com/blockchains-should-not-be-democracies-14379e0e23ad](https://hackernoon.com/blockchains-should-not-be-democracies-14379e0e23ad)
 * [Blockchain Governance: Programming Our Future: Fred Ehrsam](https://medium.com/@FEhrsam/blockchain-governance-programming-our-future-c3bfe30f2d74)
 * [Thoughts on Governance and Network Effects: Luke Duncan](https://blog.aragon.one/thoughts-on-governance-and-network-effects-f40fda3e3f98)
 * [https://medium.com/@lkngtn/governance-processes-can-be-designed-and-different-designs-can-have-qualitatively-different-e9252fbbea52](https://medium.com/@lkngtn/governance-processes-can-be-designed-and-different-designs-can-have-qualitatively-different-e9252fbbea52)
