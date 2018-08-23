@@ -1,4 +1,4 @@
-# Consensus, corruption and attack vectors
+# Consensus Types
 
 ## Holographic Consensus
 

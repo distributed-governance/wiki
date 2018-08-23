@@ -18,37 +18,36 @@ by Vitalik
 
 ## Benefits
 
-* Can evolve rapidly and accept needed technical improvements
-* avoids the perceived pitfalls of _informal_ governance, which is viewed to either be too unstable and prone to chain splits
-* prone to becoming too de-facto centralized - the latter being the same argument made in the famous 1972 essay “[Tyranny of Structurelessness](http://www.jofreeman.com/joreen/tyranny.htm)”.
-* = scaling governance
+Most of the DAO benefits are connected with scaling the governance, mostly around public commodities. Automating the governance brings the next benefit:
+
+* Rapid evolvement and acceptance of needed technical improvements
+* Reduced costs and time for coordination
+* Protection from instability and chain splits
+* Protection from becoming too de-facto centralized \(see The Tyranny of Structurelessness\)
 
 ## Weaknesses / Criticism
 
-* game theory attacks 
-* non-representative
-* centralisation
+* Game theory attacks 
+* Non-representative
+* Centralisation
 
 > Vlad Zamfir, a principal architect of Ethereum’s proof of stake, [feels](https://www.youtube.com/watch?v=9RtSod8EXn4&feature=youtu.be&t=2h33m39s) “the risks far outweigh the rewards” and “represent an extremely risky proposition”.
 
 ## References:
 
-* [Notes on Blockchain Governance](https://vitalik.ca/general/2017/12/17/voting.html)
-* [https://vitalik.ca/general/2017/12/17/voting.html](https://vitalik.ca/general/2017/12/17/voting.html)
-* Decentralized Autonomous Organizations by Allen & Overy
-* DAOs, Democracy and Governance by Ralph C. Merkle
-* [DAOs, DACs, DAs and More: An Incomplete Terminology Guide by Vitalik Buterin](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/)
-* The radical DAO experiment by Alyx Williams
-* TrueDAO by Colony
-* 5 ways blockchain can accelerate open organizations by Ron McFarland
-* Bootstrapping A Decentralized Autonomous Corporation: Part I by Vitalik Buterin 
-* Bootstrapping An Autonomous Decentralized Corporation, Part 2: Interacting With the World by Vitalik Buterin 
-* Bootstrapping a Decentralized Autonomous Corporation, Part 3: Identity Corp by Vitalik Buterin
-* [http://tokenengineering.net/governance](http://tokenengineering.net/governance)
-* [https://tools.ietf.org/html/rfc2418](https://tools.ietf.org/html/rfc2418)
-* [Will Warren tweet thread regarding token engineering and value of governance tokens](https://twitter.com/willwarren89/status/1009661231559368704)
-* [https://hackernoon.com/blockchains-should-not-be-democracies-14379e0e23ad](https://hackernoon.com/blockchains-should-not-be-democracies-14379e0e23ad)
-* [Blockchain Governance: Programming Our Future: Fred Ehrsam](https://medium.com/@FEhrsam/blockchain-governance-programming-our-future-c3bfe30f2d74)
+* [DAOs, DACs, DAs and More: An Incomplete Terminology Guide](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/) by Vitalik Buterin
+* [Notes on Blockchain Governance](https://vitalik.ca/general/2017/12/17/voting.html) by Vitalik Buterin
+* Bootstrapping A Decentralized Autonomous Corporation: [Part 1](https://bitcoinmagazine.com/articles/bootstrapping-a-decentralized-autonomous-corporation-part-i-1379644274/), [Part 2: Interacting With the World](https://bitcoinmagazine.com/articles/bootstrapping-an-autonomous-decentralized-corporation-part-2-interacting-with-the-world-1379808279/), [Part 3: Identity Corp](https://bitcoinmagazine.com/articles/bootstrapping-a-decentralized-autonomous-corporation-part-3-identity-corp-1380073003/) by Vitalik Buterin 
+* [DAOs, Democracy and Governance](http://merkle.com/papers/DAOdemocracyDraft.pdf) by Ralph C. Merkle
+* [Decentralized Autonomous Organizations](http://www.allenovery.com/SiteCollectionDocuments/Article%20Decentralized%20Autonomous%20Organizations.pdf) by Allen & Overy
+* [\#TrueDAO](https://blog.colony.io/truedao-d270a94877b1) by Colony
+* [5 ways blockchain can accelerate open organizations](https://opensource.com/open-organization/17/11/blockchain-revolution-part-1) by Ron McFarland
+* [Against on-chain governance](https://medium.com/@Vlad_Zamfir/against-on-chain-governance-a4ceacd040ca) by Vlad Zamfir
+* [Blockchains should not be democracies](https://hackernoon.com/blockchains-should-not-be-democracies-14379e0e23ad) by Haseeb Qureshi
+* [Blockchain Governance: Programming Our Future](https://medium.com/@FEhrsam/blockchain-governance-programming-our-future-c3bfe30f2d74) by  Fred Ehrsam
+
+
+
 * [Thoughts on Governance and Network Effects: Luke Duncan](https://blog.aragon.one/thoughts-on-governance-and-network-effects-f40fda3e3f98)
 * [https://medium.com/@lkngtn/governance-processes-can-be-designed-and-different-designs-can-have-qualitatively-different-e9252fbbea52](https://medium.com/@lkngtn/governance-processes-can-be-designed-and-different-designs-can-have-qualitatively-different-e9252fbbea52)
 * [https://www.youtube.com/watch?v=AOlS4QddpNI](https://www.youtube.com/watch?v=AOlS4QddpNI)
