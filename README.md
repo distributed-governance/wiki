@@ -20,6 +20,8 @@ description: 'The work is in progress from Aug''18, planned to be finished by De
 
 * Max Semenchuk, 4IRE labs
 * Anton Akentiev, Thetta.io
+* Andrew Kuznetsov
+* Luke Riley
 
 {% hint style="info" %}
 We're looking for authors and editors!  
