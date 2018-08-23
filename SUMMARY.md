@@ -4,7 +4,6 @@
 * [Distributed Governance](what-is-dgov/README.md)
   * [Benefits of distributing governance](what-is-dgov/benefits-of-distributing-governance.md)
   * [Tasks & Challenges](what-is-dgov/tasks-and-challenges.md)
-  * [Values, Structures & Culture](what-is-dgov/new-organization-forms.md)
   * [Commons](what-is-dgov/commons.md)
 * [DAO & On-chain governance](dao/README.md)
   * [Consensus Types](dao/blockchain-and-dlt-for-consensus.md)
