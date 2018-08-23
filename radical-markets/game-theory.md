@@ -1,5 +1,9 @@
 # Game Theory
 
+> This concept of coordination flags encompasses all that we mean by "governance"; in scenarios where coordination games \(or more generally, multi-equilibrium games\) do not exist, the concept of governance is meaningless.
+
+Vitalik Buterin
+
 ## Prisoners Dilemma
 
 ## BFT

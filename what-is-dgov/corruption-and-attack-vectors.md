@@ -1,2 +1,0 @@
-# Corruption and attack vectors
-

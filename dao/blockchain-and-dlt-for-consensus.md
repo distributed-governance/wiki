@@ -1,4 +1,4 @@
-# Blockchain & DLT for Consensus
+# Consensus, corruption and attack vectors
 
 ## Holographic Consensus
 

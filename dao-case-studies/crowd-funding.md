@@ -1,4 +1,4 @@
-# DAO Crowdfunding
+# \(Crowd\) Funding
 
 token mechanism problems, eg milestones, decentralized board
 
