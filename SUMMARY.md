@@ -28,6 +28,7 @@
   * [Decred](dao-case-studies/decred.md)
   * [Gnosis](dao-case-studies/gnosis.md)
   * [Lisk](dao-case-studies/lisk.md)
+  * [0x](dao-case-studies/0x.md)
 * [eDemocracy](edemocracy.md)
 * [Markets & Coordination](radical-markets/README.md)
   * [Radical Markets](radical-markets/radical-markets-1.md)
