@@ -6,6 +6,7 @@ description: 'The work is in progress from Aug''18, planned to be finished by De
 
 ## Purpose:
 
+* Collect the body of knowledge in the topic
 * Capture the current state development of the distributed governance
 * Identify the needs and missing points
 * Inform and inspire the next development in the field
