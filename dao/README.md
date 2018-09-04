@@ -48,5 +48,7 @@ Most of the DAO benefits are connected with scaling the governance, mostly aroun
 * [On-Chain Governance meetup](https://www.youtube.com/watch?v=AOlS4QddpNI) by W3F July 2018
 * [Thoughts on Governance and Network Effects](https://blog.aragon.org/thoughts-on-governance-and-network-effects-f40fda3e3f98/) by Luke Duncan, Aragon
 * [The Price and Value of Governance](https://www.youtube.com/watch?v=Mwv4nnvTI5E) by Joel Monegro, Placeholder VC
+* [https://medium.com/@decanus/against-community-governance-326dc82b27d3](https://medium.com/@decanus/against-community-governance-326dc82b27d3)
+* [https://medium.com/@decanus/blockchains-are-not-companies-9f8ed7c13018](https://medium.com/@decanus/blockchains-are-not-companies-9f8ed7c13018)
 * [On-Chain Vote Buying and the Rise of Dark DAOs](http://hackingdistributed.com/2018/07/02/on-chain-vote-buying/) by Philip Daian, Tyler Kell, Ian Miers and Ari Juels
 
