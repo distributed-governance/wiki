@@ -40,6 +40,7 @@
   * [Focal / Shelling points](radical-markets/focal-shelling-points.md)
   * [Reputation](radical-markets/culture-and-practices.md)
   * [Identity](radical-markets/identity.md)
+  * [Token Economy](radical-markets/token-economy.md)
 * [DAO/DGOV Foundation](dao-dgov-foundation.md)
 * [Glossary](glossary.md)
 
