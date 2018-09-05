@@ -1,4 +1,0 @@
-# Consensus Types
-
-## Holographic Consensus
-
