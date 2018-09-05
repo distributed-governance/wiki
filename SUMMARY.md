@@ -35,7 +35,7 @@
   * [Network effects](radical-markets/network-effects.md)
   * [Futarchy / Prediction markets](radical-markets/futarchy.md)
   * [Harberger Tax](radical-markets/harberger-tax.md)
-  * [Self Regulation / Bonding Curve](radical-markets/self-regulation.md)
+  * [Curation Markets & Bonding Curve](radical-markets/curation-markets-and-bonding-curve.md)
   * [Game Theory](radical-markets/game-theory.md)
   * [Focal / Shelling points](radical-markets/focal-shelling-points.md)
   * [Reputation](radical-markets/culture-and-practices.md)

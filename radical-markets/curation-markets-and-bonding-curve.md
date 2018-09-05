@@ -1,6 +1,6 @@
-# Self Regulation / Bonding Curve
+# Curation Markets & Bonding Curve
 
-## Bonding Curve
+## References:
 
 * [https://medium.com/collabs-io/can-we-save-the-utility-token-55ef639370cf](https://medium.com/collabs-io/can-we-save-the-utility-token-55ef639370cf)
 * [https://medium.com/@simondlr/introducing-curation-markets-trade-popularity-of-memes-information-with-code-70bf6fed9881](https://medium.com/@simondlr/introducing-curation-markets-trade-popularity-of-memes-information-with-code-70bf6fed9881)
