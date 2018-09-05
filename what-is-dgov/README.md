@@ -2,7 +2,7 @@
 
 ## What is Distributed Governance?
 
-Distributed organisations are a new business and political structures, that have no centralised management, like Ethereum, Wikipedia, buurtzorg or Anonymous Alcoholics.
+Distributed governance is the specification of principles and methods which enable scalable coordination for forming consensus and to legitimate decisions. In such systems all participants are treated equally without the presence of a central actor of hierarchy. They are scalable, so efficiency is not reduced but steady or increased by an increasing number of participants.
 
 > Instead of a hierarchical structure managed by a set of humans interacting in person and controlling property via the legal system, a decentralized organization involves a set of humans interacting with each other according to a protocol specified in code, and enforced on the blockchain.
 
@@ -17,6 +17,8 @@ Vlad Zamfir
 The governance itself consists of signaling, proposing, review and acceptance. 
 
 ![](../.gitbook/assets/image%20%281%29.png)
+
+Distributed organisations are new business and political structures, that have no centralised management, like Ethereum, Wikipedia, buurtzorg or Anonymous Alcoholics.
 
 ## Signaling
 
