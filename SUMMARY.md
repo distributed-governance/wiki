@@ -13,6 +13,7 @@
   * [Crowdfunding](protocol-governance-case-studies/crowd-funding.md)
   * [Fund Distribution](protocol-governance-case-studies/fund-distribution.md)
   * [Voting](protocol-governance-case-studies/voting.md)
+  * [Justice & Dispute Resolution](protocol-governance-case-studies/justice-and-dispute-resolution.md)
   * [DAO Infrastructure Projects](protocol-governance-case-studies/dao-infrastructure-projects.md)
 * [DAO Governance Case Studies](dao/README.md)
   * [DAO List](dao/dao-list.md)
