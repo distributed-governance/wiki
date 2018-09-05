@@ -1,2 +1,2 @@
-# Reputation
+# Capital in DAO / Reputation
 

@@ -33,6 +33,8 @@ Most of the DAO benefits are connected with scaling the governance, mostly aroun
 
 > Vlad Zamfir, a principal architect of Ethereum’s proof of stake, [feels](https://www.youtube.com/watch?v=9RtSod8EXn4&feature=youtu.be&t=2h33m39s) “the risks far outweigh the rewards” and “represent an extremely risky proposition”.
 
+## Dark DAOs
+
 ## References:
 
 * [DAOs, DACs, DAs and More: An Incomplete Terminology Guide](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/) by Vitalik Buterin
