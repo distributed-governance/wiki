@@ -1,4 +1,4 @@
-# Radical Markets
+# Radical Markets & Harberger Tax
 
 ## References:
 
