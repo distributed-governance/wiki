@@ -1,6 +1,8 @@
 # Public Blockchain \(L1\) Governance Case Studies
 
+Vote Delegation \(EOS, Lisk\).
 
+Digital Constitution \(EOS, Poldadot, Cosmos\)
 
 ## Comparison
 
