@@ -1,4 +1,4 @@
-# DAO Governance Case Studies
+# DAO/DAC Governance Case Studies
 
 ## What is DAO?
 

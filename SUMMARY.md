@@ -15,7 +15,7 @@
   * [Voting](protocol-governance-case-studies/voting.md)
   * [Justice & Dispute Resolution](protocol-governance-case-studies/justice-and-dispute-resolution.md)
   * [DAO Infrastructure Projects](protocol-governance-case-studies/dao-infrastructure-projects.md)
-* [DAO Governance Case Studies](dao/README.md)
+* [DAO/DAC Governance Case Studies](dao/README.md)
   * [DAO List](dao/dao-list.md)
   * [Corruption and Attack vectors](dao/corruption-and-attack-vectors.md)
   * [Capital in DAO / Reputation](dao/reputation.md)
