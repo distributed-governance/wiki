@@ -6,5 +6,9 @@
 
 ## Ethereum: Miners gas limit
 
-## Ethereum: Miners free reduction
+## Ethereum: Miners free reduction call
+
+## Ethereum the DAO hard hardfork
+
+![](https://lh3.googleusercontent.com/oBQkgXZ0i-6UV_EEt8GV2_d8ZlcUDmylANtupOc2zbqN3Hm5RZtwci8nirjj1TIJGDNTAO8BMWwcpmbcYW0jkNHSLtXcU2FuUdcQzIhCk3-DkQ8z7No-9AlTorpHQrDtTBY-wOHab40)
 
