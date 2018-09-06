@@ -1,4 +1,4 @@
-# Public Blockchain Governance Case Studies
+# Public Blockchain \(L1\) Governance Case Studies
 
 
 
