@@ -16,6 +16,7 @@ description: 'The work is in progress from Aug''18, planned to be finished by De
 * Open for contribution
 * Moderation by [Max Semenchuk](mailto:max.semenchuk@gmail.com)
 * [Pull request tutorial](https://www.youtube.com/watch?v=IBYHohWm_5w)
+* Discussion can happen on Telegram Chat, Twitter or Research forums
 
 ## Authors:
 

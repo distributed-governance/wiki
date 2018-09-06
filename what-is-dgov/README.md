@@ -18,7 +18,14 @@ The governance itself consists of signaling, proposing, review and acceptance.
 
 ![](../.gitbook/assets/image%20%281%29.png)
 
-Distributed organisations are new business and political structures, that have no centralised management, like Ethereum, Wikipedia, buurtzorg or Anonymous Alcoholics.
+### Examples of things to be governed:
+
+* Community Values
+  * Monetary Policy
+  * Censorship Resistance
+  * "Code is law" immutability
+* Brand, Trademark
+* Protocol source code, access to software repos
 
 ## References:
 
