@@ -8,3 +8,5 @@ Governance is achieved mostly off-chain through mailing lists, Bitcoin Improveme
 
 ## DASH CEO removal proposal
 
+![](../.gitbook/assets/image%20%283%29.png)
+
