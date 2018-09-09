@@ -1,4 +1,4 @@
-# Public Blockchain \(L1\) Governance Case Studies
+# Public Network \(L1\) Governance Case Studies
 
 Vote Delegation \(EOS, Lisk\).
 

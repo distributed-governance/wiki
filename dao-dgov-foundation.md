@@ -2,13 +2,18 @@
 
 Purpose: Support the creation of organizations on the blockchain
 
-## Goals:
+## Purpose:
 
-* Research DAO \(management, tech, monetary and law aspects\)
-* Curate and educate on DAO best practices \(wiki, code, approaches, use cases, webinars\)
-* Promote and evangelize DAO
-* Manage Community
-* Fund / Support Open Source Development \(curation, bounties, hackathons\)
+* Concentrate the governance research for industry use
+* Keep the industry on the same page regarding terms and approaches
+* Connecting industry and academia
+
+## Tasks:
+
+* Curate and spread the base knowledge and best practices \(this report\)
+* Nurture the community through the conferences and other events \(conference\)
+* Support industry collaboration \(e.g. DAO0, EIP0\)
+* Maintain and moderate [the research forum](http://hub.daoresearchfoundation.org/)
 
 ## Why we need more orgs on blockchain:
 
@@ -20,7 +25,7 @@ Purpose: Support the creation of organizations on the blockchain
 
 ## Who do we need to connect in the community:
 
-* Blockchain entrepreneurs
+* Blockchain organizations
 * Infrastructure and solution providers – ethereum, consensys, aragon, colony, otonomos, etc.
 * Academies and thinkers
 * Regulators
