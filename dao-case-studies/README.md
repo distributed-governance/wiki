@@ -48,5 +48,9 @@ One step further would be a system which allows on-chain votes to the rules of t
 
 ## Lisk
 
+## Polkadot
 
+Digital Constitution
+
+[https://github.com/paritytech/polkadot/wiki/Governance](https://github.com/paritytech/polkadot/wiki/Governance)
 
