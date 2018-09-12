@@ -16,7 +16,7 @@ In blockchain governance, it seems like this is the only way forward as well. Th
 
 by Vitalik
 
-Organization = Markets + Public goods + Relations
+Organization = Markets + Public goods + Relationships \(Culture\)
 
 ## Benefits
 
