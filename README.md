@@ -16,7 +16,7 @@ description: 'The work is in progress from Aug''18, planned to be finished by De
 * Open for contribution
 * Moderation by [Max Semenchuk](mailto:max.semenchuk@gmail.com)
 * [Pull request tutorial](https://www.youtube.com/watch?v=IBYHohWm_5w)
-* Discussion can happen on [Telegram Chat](https://t.me/joinchat/E9cyAw9Ix0g4CS8PNTvR3g), Twitter or Research forums
+* Discussion can happen on [Telegram Chat](https://t.me/joinchat/E9cyAw9Ix0g4CS8PNTvR3g), [Twitter](https://twitter.com/hashtag/dgov) \(\#dgov\) or [Research forums](http://hub.daoresearchfoundation.org/)
 
 ## Authors:
 
@@ -27,9 +27,7 @@ description: 'The work is in progress from Aug''18, planned to be finished by De
 * Theodor Beutel
 
 {% hint style="info" %}
-We're looking for more authors and editors!  
-Join our Telegram group: [https://t.me/joinchat/E9cyAw9Ix0g4CS8PNTvR3g](https://t.me/joinchat/E9cyAw9Ix0g4CS8PNTvR3g)  
-or email: max.semenchuk@gmail.com if you're interested
+We're looking for more authors and editors! Talk to us
 {% endhint %}
 
 ## Progress
