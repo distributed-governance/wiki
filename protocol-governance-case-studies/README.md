@@ -16,5 +16,11 @@
 
 * [Governance in 0x Protocol: Will Warren](https://blog.0xproject.com/governance-in-0x-protocol-86779ae5809e)
 
+## Aragon
 
+Foundation and dev team divide
+
+2nd dev team
+
+Aragon nest
 

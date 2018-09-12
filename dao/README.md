@@ -37,6 +37,17 @@ Most of the DAO benefits are connected with scaling the governance, mostly aroun
 
 ## Dark DAOs
 
+Describing the dark DAO as an entity set up using smart contracts, it would be undetectable, buying users votes in order to overwhelm governance systems, issue false signals or engage in market manipulation. According to the paper, such an attack would have far reaching-consequences in that it's applicable to any project that uses a form of governance in which those who own the coins would have a say in decisions.
+
+\([http://hackingdistributed.com/2018/07/02/on-chain-vote-buying/](http://hackingdistributed.com/2018/07/02/on-chain-vote-buying/)\)
+
+## Case Studies
+
+* The DAO
+* Aragon
+* Giveth
+* ...
+
 ## References:
 
 * [DAOs, DACs, DAs and More: An Incomplete Terminology Guide](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/) by Vitalik Buterin
