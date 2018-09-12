@@ -14,11 +14,7 @@ description: 'Values, Structures & Culture'
 
 ## Meritocracy
 
-## Sociocracy
-
 ## Plutocracy
-
-## Holacracy
 
 ## Subjectivocracy
 
