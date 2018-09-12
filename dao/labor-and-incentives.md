@@ -1,4 +1,4 @@
-# Labor and Incentives
+# Culture, Labor and Incentives
 
 ## Holacracy
 

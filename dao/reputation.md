@@ -1,2 +1,2 @@
-# Capital in DAO / Reputation
+# Capital and Public Goods
 
