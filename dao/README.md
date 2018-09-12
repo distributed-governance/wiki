@@ -16,6 +16,8 @@ In blockchain governance, it seems like this is the only way forward as well. Th
 
 by Vitalik
 
+Organization = Markets + Public goods + Relations
+
 ## Benefits
 
 Most of the DAO benefits are connected with scaling the governance, mostly around public commodities. Automating the governance brings the next benefit:
