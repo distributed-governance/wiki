@@ -8,6 +8,7 @@
 * [Govurn](https://www.govurn.com/)
 * Otonomos
 * [Harbour Project](https://www.harbourproject.io/)
+* [GovBlocks](https://govblocks.io/)
 
 ## ToDo:
 
