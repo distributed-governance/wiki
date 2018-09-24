@@ -28,7 +28,7 @@
   * [Futarchy / Prediction markets](radical-markets/futarchy.md)
   * [Curation Markets & Bonding Curve](radical-markets/curation-markets-and-bonding-curve.md)
   * [Focal / Shelling points](radical-markets/focal-shelling-points.md)
-  * [Token Economy](radical-markets/token-economy.md)
+  * [Monetary Policy](radical-markets/monetary-policy.md)
 * [eDemocracy](edemocracy/README.md)
   * [Liquid Democracy](edemocracy/liquid-democracy.md)
   * [Identity](edemocracy/identity.md)

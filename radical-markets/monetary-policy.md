@@ -1,4 +1,4 @@
-# Token Economy
+# Monetary Policy
 
 ## References:
 
