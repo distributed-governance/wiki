@@ -21,7 +21,9 @@ miner voting: miners’ right to vote on the gas limit
 
 * [https://www.ethnews.com/eip0-and-ethereums-challenges-for-collective-governance](https://www.ethnews.com/eip0-and-ethereums-challenges-for-collective-governance)
 * strange loop
-* EIP 0 conf [https://www.youtube.com/watch?v=LcBqypKbYMA](https://www.youtube.com/watch?v=LcBqypKbYMA)
+* EIP 0 conf
+  * [https://www.youtube.com/watch?v=Xft6xlNtqkg](https://www.youtube.com/watch?v=Xft6xlNtqkg)
+  * [https://www.youtube.com/watch?v=LcBqypKbYMA](https://www.youtube.com/watch?v=LcBqypKbYMA)
 * Vlad's stuff
 * [https://vitalik.ca/general/2017/12/17/voting.html](https://vitalik.ca/general/2017/12/17/voting.html)
 
