@@ -33,6 +33,5 @@
   * [Liquid Democracy](edemocracy/liquid-democracy.md)
   * [Identity](edemocracy/identity.md)
   * [Reputation](edemocracy/culture-and-practices.md)
-* [DGOV/DAO Foundation](dao-dgov-foundation.md)
 * [Glossary](glossary.md)
 

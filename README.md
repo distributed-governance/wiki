@@ -46,6 +46,7 @@ Current book is licensed under a [Creative Commons Atttibution 4.0 International
 
 ## Check also:
 
+* [DGov Foundation](https://dgov.foundation/)
 * [Reddit on distributed governance](https://new.reddit.com/r/dgov/)
 * [DGov Conference \(Athens Dec 7-9, 2018\)](https://dgov.earth/)
 
