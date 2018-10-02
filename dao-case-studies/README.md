@@ -54,5 +54,10 @@ One step further would be a system which allows on-chain votes to the rules of t
 
 Digital Constitution
 
-[https://github.com/paritytech/polkadot/wiki/Governance](https://github.com/paritytech/polkadot/wiki/Governance)
+* [https://github.com/paritytech/polkadot/wiki/Governance](https://github.com/paritytech/polkadot/wiki/Governance)
+
+## References:
+
+* [https://blog.0xproject.com/blockchain-governance-7ff89e6ec383](https://blog.0xproject.com/blockchain-governance-7ff89e6ec383)
+* [https://medium.com/polkadot-network/why-on-chain-governance-82ecf28f314c](https://medium.com/polkadot-network/why-on-chain-governance-82ecf28f314c)
 
