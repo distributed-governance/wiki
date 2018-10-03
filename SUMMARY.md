@@ -26,7 +26,7 @@
   * [Commons](radical-markets/commons.md)
   * [Network effects](radical-markets/network-effects.md)
   * [Radical Markets & Harberger Tax](radical-markets/radical-markets-1.md)
-  * [Curation Markets & Bonding Curve](radical-markets/curation-markets-and-bonding-curve.md)
+  * [Curation Markets & Continuous Token Model](radical-markets/curation-markets-and-bonding-curve.md)
   * [Futarchy / Prediction markets](radical-markets/futarchy.md)
   * [Focal / Shelling points](radical-markets/focal-shelling-points.md)
   * [Monetary Policy](radical-markets/monetary-policy.md)

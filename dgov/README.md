@@ -16,7 +16,7 @@ Vlad Zamfir
 
 The governance itself consists of signaling, proposing, review and acceptance. 
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
 ### Examples of things to be governed:
 
