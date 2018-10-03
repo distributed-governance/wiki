@@ -29,3 +29,9 @@
 * [Aracon One](https://aracon.one/) Jan '19
 * [Dgov](https://dgov.earth/) Jun '19
 
+**Chats:**
+
+* [Curation Markets](https://gitter.im/Curation-Markets/Lobby)
+* [Ethereum Governance](https://gitter.im/ethereum/governance)
+* [DAO Incubator](https://t.me/DAOincubator)
+
