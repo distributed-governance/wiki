@@ -8,12 +8,12 @@
 
 **Newsletters:**
 
-* DGOV newsletter
-* Aragon monthly
-* DAO Stack newsletter
-* Colony newsletter
+* [Aragon monthly](https://monthly.aragon.org/)
 * [Token Economy](http://weekly.tokeneconomy.co/)
 * [Tony Sheng](https://www.tonysheng.com/)
+* DAO Stack newsletter
+* Colony newsletter
+* DGOV newsletter
 
 **Reddit:**
 
