@@ -10,8 +10,10 @@
 
 * DGOV newsletter
 * Aragon monthly
-* DAO Stack
-* Colony
+* DAO Stack newsletter
+* Colony newsletter
+* [Token Economy](http://weekly.tokeneconomy.co/)
+* [Tony Sheng](https://www.tonysheng.com/)
 
 **Reddit:**
 
@@ -21,17 +23,9 @@
 * [DAO Stack](https://www.reddit.com/r/daostack/)
 * [District0x](https://www.reddit.com/r/district0x)
 
+**Events:**
 
-
-
-
-Bitcoin Talk
-
-Maker DAO Community
-
-Events:
-
-* [Ethfinex Governance Summit](https://summit.ethfinex.com/)
-* Aracon
-* Dgov
+* [Ethfinex Governance Summit](https://summit.ethfinex.com/) Oct'18
+* [Aracon One](https://aracon.one/) Jan '19
+* [Dgov](https://dgov.earth/) Jun '19
 
