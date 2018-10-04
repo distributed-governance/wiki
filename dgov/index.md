@@ -35,3 +35,7 @@
 * [Ethereum Governance](https://gitter.im/ethereum/governance)
 * [DAO Incubator](https://t.me/DAOincubator)
 
+**Misc:**
+
+* [https://github.com/ParticipatoryOrgs](https://github.com/ParticipatoryOrgs)
+
