@@ -34,9 +34,12 @@ We're looking for more authors and editors! Talk to us
 
 | Chapter | Progress |
 | :--- | :--- |
-| Distributed Governance | 20% |
-| ... | ... |
-| **Total** | **10%** |
+| Distributed Governance | 90% |
+| Public Network \(L1\) Governance | 20% |
+| Public Network \(L2\) Governance | 5% |
+| DAO/DAC Governance | 5% |
+| Markets & Coordination | 5% |
+| **Total** | **25%** |
 
 ## License
 
