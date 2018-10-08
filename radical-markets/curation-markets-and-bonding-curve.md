@@ -14,7 +14,7 @@ The basic premise of curved bonding is as follows:
 
 ### Linear
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%287%29.png)
 
 ### Dynamic Token Bonding Curves \[[1](https://tokeneconomy.co/dynamic-token-bonding-curves-41d36e43befa), [2](https://medium.com/thoughtchains/on-single-bonding-curves-for-continuous-token-models-a167f5ffef89)\]
 
