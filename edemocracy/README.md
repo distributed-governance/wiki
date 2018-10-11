@@ -18,7 +18,7 @@ description: 'Values, Structures & Culture'
 
 ## Subjectivocracy
 
-{% embed data="{\"url\":\"https://blog.ethereum.org/2015/02/14/subjectivity-exploitability-tradeoff/\",\"type\":\"link\",\"title\":\"The Subjectivity / Exploitability Tradeoff\",\"description\":\"One of the issues inherent in many kinds of consensus architectures is that although they can be made to be robust against attackers or collusions up to a certain size, if an attacker gets large enough they are still, fundamentally, exploitable. If attackers in a proof of work system have...\",\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://blog.ethereum.org/img/avatar-icon.png\",\"width\":512,\"height\":512,\"aspectRatio\":1}}" %}
+{% embed url="https://blog.ethereum.org/2015/02/14/subjectivity-exploitability-tradeoff/" %}
 
 ## Anarchy / Cryptoanarchy
 

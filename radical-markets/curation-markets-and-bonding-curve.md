@@ -2,7 +2,7 @@
 
 Curation Markets is a set of protocol designs that aims to reduce information asymmetry through the use of tokenized signals. Tokens are minted as needed through a continuous token model.
 
-## Continuous token model & Bonding curve \[[1](https://medium.com/@simondlr/tokens-2-0-curved-token-bonding-in-curation-markets-1764a2e0bee5), [2](https://blog.relevant.community/how-to-make-bonding-curves-for-continuous-token-models-3784653f8b17), [3](https://medium.com/@justingoro/token-bonding-curves-explained-7a9332198e0e)\]
+## Continuous token model & Bonding curve \[[1](https://medium.com/@simondlr/tokens-2-0-curved-token-bonding-in-curation-markets-1764a2e0bee5), [2](https://blog.relevant.community/how-to-make-bonding-curves-for-continuous-token-models-3784653f8b17), [3](https://medium.com/@justingoro/token-bonding-curves-explained-7a9332198e0e), [4](https://medium.com/thoughtchains/on-single-bonding-curves-for-continuous-token-models-a167f5ffef89)\]
 
 Bonding curves is a core component of Curation Markets. It’s been interesting to see it adopted as the key feature from Curation Markets. It’s the opposite of the current ICO landscape, relying on once-off token sales that do not always provide the best incentives towards the teams and the buyers of the tokens.
 
@@ -64,6 +64,7 @@ A [bonding curve token 8](https://medium.com/@justingoro/token-bonding-curves-ex
 * [https://medium.com/@simondlr/tokens-2-0-curved-token-bonding-in-curation-markets-1764a2e0bee5](https://medium.com/@simondlr/tokens-2-0-curved-token-bonding-in-curation-markets-1764a2e0bee5)
 * [https://medium.com/incentivai/bonding-curve-simulation-using-incentivai-2b2bfe0c6400](https://medium.com/incentivai/bonding-curve-simulation-using-incentivai-2b2bfe0c6400)
 * [https://ethresear.ch/t/futarchy-with-bonding-curve-tokens/3449](https://ethresear.ch/t/futarchy-with-bonding-curve-tokens/3449)
+* [https://medium.com/thoughtchains/on-single-bonding-curves-for-continuous-token-models-a167f5ffef89](https://medium.com/thoughtchains/on-single-bonding-curves-for-continuous-token-models-a167f5ffef89)
 * [https://medium.com/@Paul.Haas/token-bonding-curves-in-practice-3eb904720cb8](https://medium.com/@Paul.Haas/token-bonding-curves-in-practice-3eb904720cb8)
 
 
