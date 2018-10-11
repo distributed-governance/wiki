@@ -14,3 +14,7 @@ On-chain governance in Bitcoin was most famously experimented with when deciding
 
 ## **EOS Core Arbitration Forum \(ECAF\) and blacklist**
 
+## References:
+
+* Vlad blockchain governance 101, 102 - 105, Vitalik reply etc
+
