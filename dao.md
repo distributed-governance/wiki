@@ -4,7 +4,7 @@
 
 A decentralized autonomous organization \(DAO\), sometimes labeled a decentralized autonomous corporation \(DAC\), is an organization that is run through rules encoded as computer programs called smart contracts. A DAO’s financial transaction record and program rules are maintained on a blockchain. There are several examples of this business model. The precise legal status of this type of business organization is unclear. © Wikipedia Bitcoin was effectively the first DAO as it relies on and rewards the wide group of miners. Valuation of bitcoin is heavily dependent on the support of it’s users. It’s rudimental, still fully decentralized organization. More sophisticated visions of DAO assume hiring, marketing and R&D decisions made automatically by voting, with no CEO, Board or substitute. And any user is authorized to make their proposals and all the laws are preprogrammed.
 
-![Classification by Vitalik Buterin](../.gitbook/assets/quadrant_chart_for_classifying_daos.png)
+![Classification by Vitalik Buterin](.gitbook/assets/quadrant_chart_for_classifying_daos.png)
 
 In blockchain governance, it seems like this is the only way forward as well. The approach for blockchain governance that I advocate is “multifactorial consensus”, where different coordination flags and different mechanisms and groups are polled, and the ultimate decision depends on the collective result of all of these mechanisms together. These coordination flags may include:
 

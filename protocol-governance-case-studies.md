@@ -1,4 +1,4 @@
-# Protocol \(L2\) Governance Case Studies
+# DAO Case Studies
 
 ## Maker DAO
 

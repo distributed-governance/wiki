@@ -1,2 +1,0 @@
-# Focal / Shelling points
-

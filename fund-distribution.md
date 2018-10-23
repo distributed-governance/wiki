@@ -1,4 +1,4 @@
-# Fund Distribution
+# DAO Fund Distribution
 
 ## The DAO
 
