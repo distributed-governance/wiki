@@ -1,15 +1,6 @@
 # Table of contents
 
-* [Welcome to the Community Report](README.md)
-* [Distributed Governance](dgov/README.md)
-  * [Benefits of distributing governance](dgov/benefits-of-distributing-governance.md)
-  * [Tasks & Challenges](dgov/tasks-and-challenges.md)
-  * [Index](dgov/index.md)
-* [Public Network \(L1\) Governance Case Studies](dao-case-studies/README.md)
-  * [Centralization concerns](dao-case-studies/centralization-concerns.md)
-  * [Proposing](dao-case-studies/proposing.md)
-  * [Signaling](dao-case-studies/signaling.md)
-  * [Decision making](dao-case-studies/acceptance.md)
+* [DGOV Index](README.md)
 * [Protocol \(L2\) Governance Case Studies](protocol-governance-case-studies/README.md)
   * [Fund Distribution](protocol-governance-case-studies/fund-distribution.md)
   * [Voting](protocol-governance-case-studies/voting.md)

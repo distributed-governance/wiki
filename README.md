@@ -1,55 +1,60 @@
 ---
-description: 'The work is in progress from Aug''18, planned to be finished by Dec''18.'
+description: The collection of links and useful info on dgov topics
 ---
 
-# Welcome to the Community Report
-
-## Purpose:
-
-* Collect the body of knowledge in the topic
-* Capture the current state development of the distributed governance
-* Identify the needs and missing points
-* Inform and inspire the next development in the field
+# DGOV Index
 
 ## Process:
 
 * Open for contribution
 * Moderation by [Max Semenchuk](mailto:max.semenchuk@gmail.com)
 * [Pull request tutorial](https://www.youtube.com/watch?v=IBYHohWm_5w)
-* Discussion can happen on [Telegram Chat](https://t.me/joinchat/E9cyAw9Ix0g4CS8PNTvR3g), [Twitter](https://twitter.com/hashtag/dgov) \(\#dgov\) or [Research forums](http://hub.daoresearchfoundation.org/)
-
-## Authors:
-
-* Max Semenchuk, 4IRE labs
-* Anton Akentiev, Thetta.io
-* Andrew Kuznetsov
-* Luke Riley
-* Theodor Beutel
-
-{% hint style="info" %}
-We're looking for more authors and editors! Talk to us
-{% endhint %}
-
-## Progress
-
-| Chapter | Progress |
-| :--- | :--- |
-| Distributed Governance | 90% |
-| Public Network \(L1\) Governance | 20% |
-| Public Network \(L2\) Governance | 5% |
-| DAO/DAC Governance | 5% |
-| Markets & Coordination | 5% |
-| **Total** | **25%** |
-
-## License
-
-Current book is licensed under a [Creative Commons Atttibution 4.0 International License](http://creativecommons.org/licenses/by/4.0).
-
-![](.gitbook/assets/88x31.png)
+* Discussion can happen on [Telegram Chat](https://t.me/joinchat/E9cyAw9Ix0g4CS8PNTvR3g), [Twitter](https://twitter.com/hashtag/dgov) \(\#dgov\) or [Research forums](http://hub.daoresearchfoundation.org/)=
 
 ## Check also:
+
+**DGOV:**
 
 * [DGov Foundation](https://dgov.foundation/)
 * [Reddit on distributed governance](https://new.reddit.com/r/dgov/)
 * [DGov Conference \(Athens Dec 7-9, 2018\)](https://dgov.earth/)
+
+**Research forums:**
+
+* ​[Ethereum Research Forum / Economics](https://ethresear.ch/c/economics)​
+* ​[Aragon Research Forum](https://research.aragon.org/)​
+* ​[DAO Stack Forum](https://forum.daostack.io/)​
+
+**Newsletters:**
+
+* ​[Aragon monthly](https://monthly.aragon.org/)​
+* ​[Token Economy](http://weekly.tokeneconomy.co/)​
+* ​[Tony Sheng](https://www.tonysheng.com/)​
+* DAO Stack newsletter
+* Colony newsletter
+* DGOV newsletter
+
+**Reddit:**
+
+* ​[Dgov](https://new.reddit.com/r/dgov/)​
+* ​[Aragon](https://www.reddit.com/r/aragonproject/)​
+* ​[Colony](https://www.reddit.com/r/joincolony)​
+* ​[DAO Stack](https://www.reddit.com/r/daostack/)​
+* ​[District0x](https://www.reddit.com/r/district0x)​
+
+**Events:**
+
+* ​[Ethfinex Governance Summit](https://summit.ethfinex.com/) Oct'18
+* ​[Aracon One](https://aracon.one/) Jan '19
+* ​[Dgov](https://dgov.earth/) Jun '19
+
+**Chats:**
+
+* ​[Curation Markets](https://gitter.im/Curation-Markets/Lobby)​
+* ​[Ethereum Governance](https://gitter.im/ethereum/governance)​
+* ​[DAO Incubator](https://t.me/DAOincubator)​
+
+**Misc:**
+
+* ​[https://github.com/ParticipatoryOrgs](https://github.com/ParticipatoryOrgs)​
 
