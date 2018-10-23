@@ -18,6 +18,8 @@ The governance itself consists of signaling, proposing, review and acceptance.
 
 ![](../.gitbook/assets/image%20%285%29.png)
 
+> Governance Is Far Broader Than Voting, It Also Includes Communication, Education, and the Proposal Process
+
 ### Examples of things to be governed:
 
 * Community Values
