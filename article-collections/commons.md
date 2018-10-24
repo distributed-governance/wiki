@@ -1,9 +1,5 @@
 # Commons
 
-## What is Commons?
-
-## Tragedy of the Commons
-
 ## References:
 
 * [https://marginalrevolution.com/marginalrevolution/2018/06/blockchains-opportunity-commons.html](https://marginalrevolution.com/marginalrevolution/2018/06/blockchains-opportunity-commons.html)
