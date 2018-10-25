@@ -4,7 +4,7 @@ description: The collection of links and useful info on dgov topics
 
 # DGOV Map
 
-## Process:
+### Process
 
 * Open for contribution \(via GitHub, [Pull request tutorial](https://www.youtube.com/watch?v=IBYHohWm_5w)\)
 * Moderation by [Max Semenchuk](mailto:max.semenchuk@gmail.com)
