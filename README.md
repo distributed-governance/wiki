@@ -2,29 +2,31 @@
 description: The collection of links and useful info on dgov topics
 ---
 
-# DGOV Index
+# DGOV Map
 
 ## Process:
 
 * Open for contribution \(via GitHub, [Pull request tutorial](https://www.youtube.com/watch?v=IBYHohWm_5w)\)
 * Moderation by [Max Semenchuk](mailto:max.semenchuk@gmail.com)
-* Discussion can happen on [Telegram Chat](https://t.me/joinchat/E9cyAw9Ix0g4CS8PNTvR3g), [Twitter](https://twitter.com/hashtag/dgov) \(\#dgov\) or research forums
+* Discussion can happen on [Telegram Chat](https://t.me/joinchat/E9cyAw9Ix0g4CS8PNTvR3g), [Twitter](https://twitter.com/hashtag/dgov) \(\#dgov\), [Reddit](https://new.reddit.com/r/dgov/) or research forums
 
-## Check also:
+Maintained by [DGov Foundation](https://dgov.foundation/)
 
-## **DGOV**
+## Map of DGOV 
 
-* [DGov Foundation](https://dgov.foundation/)
-* [Reddit on distributed governance](https://new.reddit.com/r/dgov/)
-* [DGov Conference \(Athens Dec 7-9, 2018\)](https://dgov.earth/)
+### **Events**
 
-## **Research forums**
+* ​[Ethfinex Governance Summit](https://summit.ethfinex.com/) Oct'18
+* ​[Aracon One](https://aracon.one/) Jan '19
+* ​[Dgov](https://dgov.earth/) Jun '19
+
+### **Research forums**
 
 * ​[Ethereum Research Forum / Economics](https://ethresear.ch/c/economics)​
 * ​[Aragon Research Forum](https://research.aragon.org/)​
 * ​[DAO Stack Forum](https://forum.daostack.io/)​
 
-## **Newsletters**
+### **Newsletters**
 
 * ​[Aragon monthly](https://monthly.aragon.org/)​
 * ​[Token Economy](http://weekly.tokeneconomy.co/)​
@@ -33,7 +35,7 @@ description: The collection of links and useful info on dgov topics
 * Colony newsletter
 * DGOV newsletter
 
-## **Reddit**
+### **SubReddits**
 
 * ​[Dgov](https://new.reddit.com/r/dgov/)​
 * ​[Aragon](https://www.reddit.com/r/aragonproject/)​
@@ -41,19 +43,13 @@ description: The collection of links and useful info on dgov topics
 * ​[DAO Stack](https://www.reddit.com/r/daostack/)​
 * ​[District0x](https://www.reddit.com/r/district0x)​
 
-## **Events**
-
-* ​[Ethfinex Governance Summit](https://summit.ethfinex.com/) Oct'18
-* ​[Aracon One](https://aracon.one/) Jan '19
-* ​[Dgov](https://dgov.earth/) Jun '19
-
-## **Chats**
+### **Chats**
 
 * ​[Curation Markets](https://gitter.im/Curation-Markets/Lobby)​
 * ​[Ethereum Governance](https://gitter.im/ethereum/governance)​
 * ​[DAO Incubator](https://t.me/DAOincubator)​
 
-## **Misc**
+### **Misc**
 
 * ​[https://github.com/ParticipatoryOrgs](https://github.com/ParticipatoryOrgs)​
 

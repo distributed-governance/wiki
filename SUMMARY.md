@@ -1,6 +1,6 @@
 # Table of contents
 
-* [DGOV Index](README.md)
+* [DGOV Map](README.md)
 * [DAO Infrastructure Projects](dao-infrastructure-projects.md)
 * [DAO Case Studies](protocol-governance-case-studies.md)
 * [Article Collections](article-collections/README.md)
