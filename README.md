@@ -14,15 +14,15 @@ Maintained by [DGov Foundation](https://dgov.foundation/)
 
 ## Map of DGOV 
 
-### **DAO Infrastructure Platforms**
+### **DGOV Infrastructure Platforms**
 
-* Aragon 
-* Colony 
-* District0x
-* DAO stack 
-* Thetta.io
-* [Govurn](https://www.govurn.com/) 
-* Otonomos 
+* [Aragon](https://aragon.org/) – project that aims to disintermediate the creation and maintenance of organizational structures by using blockchain technology 
+* [Colony](https://colony.io/) – platform for open organizations
+* [District0x](https://district0x.io/) – network of decentralized markets and communities
+* [DAO stack](https://daostack.io/) – operating system for collective intelligence \(decentralized companies, funds and markets\)
+* [Thetta.io](https://web.thetta.io/) – open-source DAO framework
+* [Govurn](https://www.govurn.com/) – 
+* Otonomos – next-gen company services bureau for the crypto and blockchain economy. Order companies online. Add ancillary services. Pay in crypto or fiat.
 * [Harbour Project](https://www.harbourproject.io/) 
 * [GovBlocks](https://govblocks.io/)
 
