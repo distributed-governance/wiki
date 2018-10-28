@@ -21,10 +21,9 @@ Maintained by [DGov Foundation](https://dgov.foundation/)
 * [District0x](https://district0x.io/) – network of decentralized markets and communities
 * [DAO stack](https://daostack.io/) – operating system for collective intelligence \(decentralized companies, funds and markets\)
 * [Thetta.io](https://web.thetta.io/) – open-source DAO framework
-* [Govurn](https://www.govurn.com/) – 
 * Otonomos – next-gen company services bureau for the crypto and blockchain economy. Order companies online. Add ancillary services. Pay in crypto or fiat.
-* [Harbour Project](https://www.harbourproject.io/) 
-* [GovBlocks](https://govblocks.io/)
+* [Harbour Project](https://www.harbourproject.io/) – tool set used to design the best governance system possible for any organization, a comprehensive set of rules that connect organizations with the necessary components required for efficient decision-making
+* [GovBlocks](https://govblocks.io/) – open, permissionless decision protocol that empowers dApps to define and operate any governance model at scale
 
 ### **Events**
 
