@@ -57,6 +57,8 @@ Maintained by [DGov Foundation](https://dgov.foundation/)
 ### **Chats**
 
 * ​[Curation Markets](https://gitter.im/Curation-Markets/Lobby)​
+* [DAO Stack Polinators](https://t.me/joinchat/HfsmOEXV0YP6P5rGmRBaCQ)
+* [Aragon Chat](https://aragon.chat/)
 * ​[Ethereum Governance](https://gitter.im/ethereum/governance)​
 * ​[DAO Incubator](https://t.me/DAOincubator)​
 
