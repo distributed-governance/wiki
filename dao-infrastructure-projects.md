@@ -1,4 +1,4 @@
-# DAO Infrastructure Projects
+# DAO Infrastructure Comparison
 
 ## Tech Platform Comparison
 

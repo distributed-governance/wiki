@@ -14,6 +14,18 @@ Maintained by [DGov Foundation](https://dgov.foundation/)
 
 ## Map of DGOV 
 
+### **DAO Infrastructure Platforms**
+
+* Aragon 
+* Colony 
+* District0x
+* DAO stack 
+* Thetta.io
+* [Govurn](https://www.govurn.com/) 
+* Otonomos 
+* [Harbour Project](https://www.harbourproject.io/) 
+* [GovBlocks](https://govblocks.io/)
+
 ### **Events**
 
 * ​[Ethfinex Governance Summit](https://summit.ethfinex.com/) Oct'18
