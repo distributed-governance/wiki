@@ -28,7 +28,7 @@ Maintained by [DGov Foundation](https://dgov.foundation/)
 ### **Events**
 
 * ​[Ethfinex Governance Summit](https://summit.ethfinex.com/) Oct'18
-* ​[Aracon One](https://aracon.one/) Jan '19
+* ​[Aracon One](https://aracon.one/) 29-30 January 2019
 * ​[Dgov](https://dgov.earth/) Jun '19
 
 ### **Research forums**
