@@ -1,6 +1,6 @@
 # Table of contents
 
-* [DGOV Map](README.md)
+* [DGOV Resources](README.md)
 * [DAO Infrastructure Comparison](dao-infrastructure-projects.md)
 * [DAO Case Studies](protocol-governance-case-studies.md)
 * [DAO Attacks and Protection](dao-attacks-and-protection.md)

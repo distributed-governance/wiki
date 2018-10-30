@@ -1,8 +1,8 @@
 ---
-description: The collection of links and useful info on dgov topics
+description: Meta collection of links and useful info on dgov topics
 ---
 
-# DGOV Map
+# DGOV Resources
 
 ### Process
 
@@ -12,9 +12,7 @@ description: The collection of links and useful info on dgov topics
 
 Maintained by [DGov Foundation](https://dgov.foundation/)
 
-## Map of DGOV 
-
-### **DGOV Infrastructure Platforms**
+## **DGOV Infrastructure Platforms**
 
 * [Aragon](https://aragon.org/) – project that aims to disintermediate the creation and maintenance of organizational structures by using blockchain technology 
 * [Colony](https://colony.io/) – platform for open organizations
@@ -25,19 +23,19 @@ Maintained by [DGov Foundation](https://dgov.foundation/)
 * [Harbour Project](https://www.harbourproject.io/) – tool set used to design the best governance system possible for any organization, a comprehensive set of rules that connect organizations with the necessary components required for efficient decision-making
 * [GovBlocks](https://govblocks.io/) – open, permissionless decision protocol that empowers dApps to define and operate any governance model at scale
 
-### **Events**
+## **Events**
 
 * ​[Ethfinex Governance Summit](https://summit.ethfinex.com/) Oct'18
 * ​[Aracon One](https://aracon.one/) 29-30 January 2019
 * ​[Dgov](https://dgov.earth/) Jun '19
 
-### **Research forums**
+## **Research forums**
 
 * ​[Ethereum Research Forum / Economics](https://ethresear.ch/c/economics)​
 * ​[Aragon Research Forum](https://research.aragon.org/)​
 * ​[DAO Stack Forum](https://forum.daostack.io/)​
 
-### **Newsletters**
+## **Newsletters**
 
 * ​[Aragon monthly](https://monthly.aragon.org/)​
 * ​[Token Economy](http://weekly.tokeneconomy.co/)​
@@ -46,7 +44,7 @@ Maintained by [DGov Foundation](https://dgov.foundation/)
 * Colony newsletter
 * DGOV newsletter
 
-### **SubReddits**
+## **SubReddits**
 
 * ​[Dgov](https://new.reddit.com/r/dgov/)​
 * ​[Aragon](https://www.reddit.com/r/aragonproject/)​
@@ -54,7 +52,7 @@ Maintained by [DGov Foundation](https://dgov.foundation/)
 * ​[DAO Stack](https://www.reddit.com/r/daostack/)​
 * ​[District0x](https://www.reddit.com/r/district0x)​
 
-### **Chats**
+## **Chats**
 
 * ​[Curation Markets](https://gitter.im/Curation-Markets/Lobby)​
 * [DAO Stack Polinators](https://t.me/joinchat/HfsmOEXV0YP6P5rGmRBaCQ)
@@ -62,7 +60,7 @@ Maintained by [DGov Foundation](https://dgov.foundation/)
 * ​[Ethereum Governance](https://gitter.im/ethereum/governance)​
 * ​[DAO Incubator](https://t.me/DAOincubator)​
 
-### **Misc**
+## **Misc**
 
 * ​[https://github.com/ParticipatoryOrgs](https://github.com/ParticipatoryOrgs)​
 
