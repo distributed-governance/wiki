@@ -6,6 +6,8 @@
 
 ## Maker DAO
 
+[MakerDAO](https://makerdao.com/) — Dai is a stable coin pegged to the US Dollar. It is created by the Dai Stablecoin System, a decentralized platform that runs on the Ethereum blockchain.
+
 [https://medium.com/makerdao/makerdao-governance-risk-framework-38625f514101](https://medium.com/makerdao/makerdao-governance-risk-framework-38625f514101)
 
 ## Gnosis
@@ -22,5 +24,11 @@
 
 ## Alice
 
-[https://alice.si/](https://alice.si/)
+[Alice](https://alice.si/) — A social funding and impact management platform built on the Ethereum blockchain. The performance of each project is publicly available, making it easier for funders to identify and help scale social projects.
+
+## iO2 Foundation
+
+[iO2 Foundation ](https://www.io2.foundation/)— A decentralized autonomous NGO creating the governance, infrastructure, utilities, and community to measure and collect impact data.
+
+
 
