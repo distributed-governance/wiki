@@ -1,5 +1,9 @@
 # DAO Case Studies
 
+## Genesis Alpha / Alchemy
+
+[https://medium.com/daostack/daostack-update-mainnet-launch-genesis-alpha-dao-plantoid-media-roundup-dappcon-f724fc7133aa](https://medium.com/daostack/daostack-update-mainnet-launch-genesis-alpha-dao-plantoid-media-roundup-dappcon-f724fc7133aa)
+
 ## Maker DAO
 
 [https://medium.com/makerdao/makerdao-governance-risk-framework-38625f514101](https://medium.com/makerdao/makerdao-governance-risk-framework-38625f514101)
@@ -12,15 +16,11 @@
 
 ## BitShares
 
-## 0x
 
-* [Governance in 0x Protocol: Will Warren](https://blog.0xproject.com/governance-in-0x-protocol-86779ae5809e)
 
-## Aragon
+## DASH
 
-Foundation and dev team divide
+## Alice
 
-2nd dev team
-
-Aragon nest
+[https://alice.si/](https://alice.si/)
 
