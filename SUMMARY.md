@@ -2,7 +2,7 @@
 
 * [DGOV Resources](README.md)
 * [DAO Infrastructure Comparison](dao-infrastructure-projects.md)
-* [DAO Case Studies](protocol-governance-case-studies.md)
+* [On-Chain Governance Case Studies](protocol-governance-case-studies.md)
 * [DAO Attacks and Protection](dao-attacks-and-protection.md)
 * [Article Collections](article-collections/README.md)
   * [Curation Markets & Continuous Token Model](article-collections/curation-markets-and-bonding-curve.md)

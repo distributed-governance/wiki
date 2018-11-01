@@ -1,4 +1,4 @@
-# DAO Case Studies
+# On-Chain Governance Case Studies
 
 ## Genesis Alpha / Alchemy
 
@@ -30,5 +30,9 @@
 
 [iO2 Foundation ](https://www.io2.foundation/)— A decentralized autonomous NGO creating the governance, infrastructure, utilities, and community to measure and collect impact data.
 
+## Melonport
 
+## Zcash
+
+## Steemit
 
