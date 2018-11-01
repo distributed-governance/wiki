@@ -2,6 +2,15 @@
 
 ## Business case platform comparison
 
+* [Aragon](https://aragon.org/)
+* [Colony](https://colony.io/)
+* [District0x](https://district0x.io/) 
+* [DAO stack](https://daostack.io/) 
+* [Thetta.io](https://web.thetta.io/) 
+* Otonomos 
+* [Harbour Project](https://www.harbourproject.io/) 
+* [GovBlocks](https://govblocks.io/) 
+
 ## Tech Platform Comparison
 
 | Platform | Standalone | SAAS | Front-end | Backend | Instance | Custom token | Voting | Finance | 3rd party apps | License | Comment |
