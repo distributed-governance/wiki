@@ -1,5 +1,7 @@
 # DAO Infrastructure Comparison
 
+## Business case platform comparison
+
 ## Tech Platform Comparison
 
 | Platform | Standalone | SAAS | Front-end | Backend | Instance | Custom token | Voting | Finance | 3rd party apps | License | Comment |
