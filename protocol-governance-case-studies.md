@@ -12,13 +12,11 @@
 
 ## Gnosis
 
-* [https://blog.gnosis.pm/the-road-towards-a-fully-decentralized-exchange-56a32adbe7d7](https://blog.gnosis.pm/the-road-towards-a-fully-decentralized-exchange-56a32adbe7d7)
+[https://blog.gnosis.pm/the-road-towards-a-fully-decentralized-exchange-56a32adbe7d7](https://blog.gnosis.pm/the-road-towards-a-fully-decentralized-exchange-56a32adbe7d7)
 
 ## Digix
 
 ## BitShares
-
-
 
 ## DASH
 
@@ -35,4 +33,8 @@
 ## Zcash
 
 ## Steemit
+
+## Nexus Mutual
+
+They plan to go on the main net by Q1 2019. Here is a brief about [their governance model](https://medium.com/nexus-mutual/dao-governance-a-pragmatic-approach-27d529ad0819) from founder Hugh Karp
 
