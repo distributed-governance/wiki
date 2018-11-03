@@ -34,11 +34,12 @@ Maintained by [DGov Foundation](https://dgov.foundation/)
 * ​[Aracon One](https://aracon.one/) 29-30 January 2019
 * ​[Dgov](https://dgov.earth/) Jun '19
 
-## **Research forums**
+## **Forums**
 
 * ​[Ethereum Research Forum / Economics](https://ethresear.ch/c/economics)​
 * ​[Aragon Research Forum](https://research.aragon.org/)​
 * ​[DAO Stack Forum](https://forum.daostack.io/)​
+* [Colony Forum](https://build.colony.io/)
 
 ## **Newsletters**
 
