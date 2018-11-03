@@ -6,7 +6,7 @@ description: Meta collection of links and useful info on dgov topics
 
 ### Process
 
-* Open for contribution \(via GitHub, [Pull request tutorial](https://www.youtube.com/watch?v=IBYHohWm_5w)\)
+* Repo: [https://github.com/MaxSemenchuk/dgovstate](https://github.com/MaxSemenchuk/dgovstate) – open for contribution \([Pull request tutorial](https://www.youtube.com/watch?v=IBYHohWm_5w)\)
 * Moderation by [Max Semenchuk](mailto:max.semenchuk@gmail.com)
 * Discussion can happen on [Telegram Chat](https://t.me/joinchat/E9cyAw9Ix0g4CS8PNTvR3g), [Twitter](https://twitter.com/hashtag/dgov) \(\#dgov\), [Reddit](https://new.reddit.com/r/dgov/) or research forums
 
