@@ -1,2 +1,2 @@
-# DAO Attacks and Protection
+# DAO Attack Vectors / Security
 

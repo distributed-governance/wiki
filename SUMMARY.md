@@ -4,7 +4,7 @@
 * [Work in progress](work-in-progress/README.md)
   * [DAO Infrastructure Comparison](work-in-progress/dao-infrastructure-projects.md)
   * [On-Chain Governance Case Studies](work-in-progress/protocol-governance-case-studies.md)
-  * [DAO Attacks and Protection](work-in-progress/dao-attacks-and-protection.md)
+  * [DAO Attack Vectors / Security](work-in-progress/dao-attacks-and-protection.md)
 * [Newsletter](newsletter/README.md)
   * [Newsletter \#3 \(november\)](newsletter/newsletter-3-november.md)
 * [Article Collections](article-collections/README.md)
