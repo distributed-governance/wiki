@@ -35,6 +35,7 @@ Maintained by [DGov Foundation](https://dgov.foundation/)
 ## **Events**
 
 * ​[Ethfinex Governance Summit](https://summit.ethfinex.com/) \(Oct, Zug\)
+* [Human Network Festival](https://humannetworksfestival.ouishare.net/) \(Oct 3–5, Barcelona\)
 * [Devcon4](https://devcon4.ethereum.org) \(Oct 30 – Nov 2, Prague\)
 * [Revision conference](https://revision.io/) \(Nov 19-20, Berlin\) explores the transition to a more human-centric future
 * ​[Aracon One](https://aracon.one/) \(Jan 29-30  '19, Berlin\)
