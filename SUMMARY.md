@@ -1,9 +1,12 @@
 # Table of contents
 
 * [DGOV Resources](README.md)
-* [DAO Infrastructure Comparison](dao-infrastructure-projects.md)
-* [On-Chain Governance Case Studies](protocol-governance-case-studies.md)
-* [DAO Attacks and Protection](dao-attacks-and-protection.md)
+* [Work in progress](work-in-progress/README.md)
+  * [DAO Infrastructure Comparison](work-in-progress/dao-infrastructure-projects.md)
+  * [On-Chain Governance Case Studies](work-in-progress/protocol-governance-case-studies.md)
+  * [DAO Attacks and Protection](work-in-progress/dao-attacks-and-protection.md)
+* [Newsletter](newsletter/README.md)
+  * [Newsletter \#3 \(november\)](newsletter/newsletter-3-november.md)
 * [Article Collections](article-collections/README.md)
   * [Curation Markets & Continuous Token Model](article-collections/curation-markets-and-bonding-curve.md)
   * [Radical Markets & Harberger Tax](article-collections/radical-markets-1.md)
@@ -13,4 +16,5 @@
   * [Identity & Reputation](article-collections/identity.md)
   * [DAO Legal Status](article-collections/dao-legal-status.md)
   * [Crypto Commons](article-collections/commons.md)
+* [More on the official website](https://dgov.foundation)
 
