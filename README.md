@@ -27,16 +27,18 @@ Maintained by [DGov Foundation](https://dgov.foundation/)
 * [Harbour Project](https://www.harbourproject.io/) – tool set used to design the best governance system possible for any organization, a comprehensive set of rules that connect organizations with the necessary components required for efficient decision-making
 * [GovBlocks](https://govblocks.io/) – open, permissionless decision protocol that empowers dApps to define and operate any governance model at scale \([blog](https://medium.com/govblocks/progress-updates/home), [chat](https://t.me/govblocks)\)
 
-**Concept:**
+**Concepts:**
 
 * [https://sobol.io/](https://sobol.io/)
 * [http://www.cone.network/](http://www.cone.network/)
 
 ## **Events**
 
-* ​[Ethfinex Governance Summit](https://summit.ethfinex.com/) Oct'18
-* ​[Aracon One](https://aracon.one/) 29-30 January 2019
-* ​[Dgov](https://dgov.earth/) Jun '19
+* ​[Ethfinex Governance Summit](https://summit.ethfinex.com/) \(Oct, Zug\)
+* [Devcon4](https://devcon4.ethereum.org) \(Oct 30 – Nov 2, Prague\)
+* [Revision conference](https://revision.io/) \(Nov 19-20, Berlin\) explores the transition to a more human-centric future
+* ​[Aracon One](https://aracon.one/) \(Jan 29-30  '19, Berlin\)
+* ​[Dgov](https://dgov.earth/) \(Jun '19, Athens\)
 
 ## **Forums**
 
