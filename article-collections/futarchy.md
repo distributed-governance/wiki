@@ -4,5 +4,6 @@ In [futarchy](https://en.wikipedia.org/wiki/Futarchy), society defines its value
 
 ## References:
 
+* [https://www.youtube.com/watch?v=i1OSZw7hVHk](https://www.youtube.com/watch?v=i1OSZw7hVHk)
 * [https://twitter.com/rflxvty/status/1030100128785461249](https://twitter.com/rflxvty/status/1030100128785461249)
 
