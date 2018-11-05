@@ -65,6 +65,7 @@ A [bonding curve token 8](https://medium.com/@justingoro/token-bonding-curves-ex
 * [https://medium.com/incentivai/bonding-curve-simulation-using-incentivai-2b2bfe0c6400](https://medium.com/incentivai/bonding-curve-simulation-using-incentivai-2b2bfe0c6400)
 * [https://ethresear.ch/t/futarchy-with-bonding-curve-tokens/3449](https://ethresear.ch/t/futarchy-with-bonding-curve-tokens/3449)
 * [https://medium.com/thoughtchains/on-single-bonding-curves-for-continuous-token-models-a167f5ffef89](https://medium.com/thoughtchains/on-single-bonding-curves-for-continuous-token-models-a167f5ffef89)
+* [https://medium.com/@thibauld/introducing-continuous-organizations-22ad9d1f63b7](https://medium.com/@thibauld/introducing-continuous-organizations-22ad9d1f63b7)
 * [https://medium.com/@Paul.Haas/token-bonding-curves-in-practice-3eb904720cb8](https://medium.com/@Paul.Haas/token-bonding-curves-in-practice-3eb904720cb8)
 
 
