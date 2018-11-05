@@ -9,6 +9,7 @@
 
 ### Articles, Papers & Videos <a id="DgovCompilation#3October2018-Articles,Papers&amp;Videos"></a>
 
+* [https://slideslive.com/ethereum/devcon4-streams](https://slideslive.com/ethereum/devcon4-streams)
 * [https://medium.com/konkrete/a-fully-compliant-global-dao-cffd80ab3fad](https://medium.com/konkrete/a-fully-compliant-global-dao-cffd80ab3fad)
 
 ### Events <a id="DgovCompilation#3October2018-Events"></a>
