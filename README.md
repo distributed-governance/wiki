@@ -34,6 +34,7 @@ Maintained by [DGov Foundation](https://dgov.foundation/)
 
 ## **Events**
 
+* [Open 2018 Platform Cooperatives](https://2018.open.coop/) \(Jul 26-27, London\)
 * ​[Ethfinex Governance Summit](https://summit.ethfinex.com/) \(Oct, Zug\)
 * [Human Network Festival](https://humannetworksfestival.ouishare.net/) \(Oct 3–5, Barcelona\)
 * [Devcon4](https://devcon4.ethereum.org) \(Oct 30 – Nov 2, Prague\)
@@ -76,4 +77,5 @@ Maintained by [DGov Foundation](https://dgov.foundation/)
 ## **Misc**
 
 * ​[https://github.com/ParticipatoryOrgs](https://github.com/ParticipatoryOrgs)​
+* [https://p2pmodels.eu](https://p2pmodels.eu)
 
