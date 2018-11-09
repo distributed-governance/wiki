@@ -19,14 +19,6 @@
 * [Aracon](https://aracon.one/) \(Berlin, Jan 29-30\) by Aragon
 * radicalXchange \(March\)
 
-### Grant Programs
-
-* [Aragon Nest](https://github.com/aragon/nest) \(up to $100k\)
-* [Samsung Next Stack Zero Grant](https://samsungnext.com/whats-next/introducing-the-samsung-next-stack-zero-grant/) \($25-70k\)
-* [Ethereum Community Fund](https://ecf.network/)
-* [Ethereum Foundation Grants](https://blog.ethereum.org/2015/04/07/devgrants-help/)
-* DAO Stack Pollinators \($5k weekly\)
-
 Want to get smth published – write me a line at [max@dgov.foundation](mailto:max@dgov.foundation)  
 Got email from a friend – subscribe here [https://dgov.foundation/newsletter](https://dgov.foundation/newsletter)  
 Want more? Check out our [Website](http://dgov.foundation/), [Calendar](https://calendar.google.com/calendar/embed?src=av3fo8o2ocl3ft25s6as54c26s%40group.calendar.google.com&ctz=Europe%2FPrague), [Twitter](https://twitter.com/dgovearth), [Telegram](https://t.me/dgovfoundation), [Medium](https://medium.com/dgov)

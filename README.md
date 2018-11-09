@@ -79,4 +79,5 @@ Maintained by [DGov Foundation](https://dgov.foundation/)
 
 * ​[https://github.com/ParticipatoryOrgs](https://github.com/ParticipatoryOrgs)​
 * [https://p2pmodels.eu](https://p2pmodels.eu)
+* [A guide for funding opportunities in the crypto ecosystem](https://github.com/fredexed/crypto-funding-ops)
 
