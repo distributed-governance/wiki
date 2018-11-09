@@ -25,6 +25,7 @@
 * [Samsung Next Stack Zero Grant](https://samsungnext.com/whats-next/introducing-the-samsung-next-stack-zero-grant/) \($25-70k\)
 * [Ethereum Community Fund](https://ecf.network/)
 * [Ethereum Foundation Grants](https://blog.ethereum.org/2015/04/07/devgrants-help/)
+* DAO Stack Pollinators \($5k weekly\)
 
 Want to get smth published – write me a line at [max@dgov.foundation](mailto:max@dgov.foundation)  
 Got email from a friend – subscribe here [https://dgov.foundation/newsletter](https://dgov.foundation/newsletter)  
