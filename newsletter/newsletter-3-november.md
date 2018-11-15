@@ -5,7 +5,7 @@
 * Aragon:
 * DAO Stack: 
 * Colony: 
-* DGOV: 
+* DGOV: Stats
 * [https://blog.enigma.co/secret-voting-an-update-code-walkthrough-605e8635e725](https://blog.enigma.co/secret-voting-an-update-code-walkthrough-605e8635e725)
 
 ### Articles, Papers & Videos <a id="DgovCompilation#3October2018-Articles,Papers&amp;Videos"></a>
