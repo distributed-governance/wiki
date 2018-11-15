@@ -13,6 +13,7 @@
 * [https://slideslive.com/ethereum/devcon4-streams](https://slideslive.com/ethereum/devcon4-streams)
 * [https://medium.com/@felipeduarte/how-to-dao-2-7c6d5014ac30](https://medium.com/@felipeduarte/how-to-dao-2-7c6d5014ac30)
 * [https://medium.com/daostack/holographic-consensus-part-1-116a73ba1e1c](https://medium.com/daostack/holographic-consensus-part-1-116a73ba1e1c)
+* [https://medium.com/@simondlr/bancors-smart-tokens-vs-token-bonding-curves-a4f0cdfd3388?\_referrer=twitter](https://medium.com/@simondlr/bancors-smart-tokens-vs-token-bonding-curves-a4f0cdfd3388?_referrer=twitter)
 * [https://medium.com/konkrete/a-fully-compliant-global-dao-cffd80ab3fad](https://medium.com/konkrete/a-fully-compliant-global-dao-cffd80ab3fad)
 
 ### Events <a id="DgovCompilation#3October2018-Events"></a>
