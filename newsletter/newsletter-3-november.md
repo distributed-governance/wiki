@@ -15,6 +15,7 @@
 * [https://medium.com/daostack/holographic-consensus-part-1-116a73ba1e1c](https://medium.com/daostack/holographic-consensus-part-1-116a73ba1e1c)
 * [https://medium.com/@simondlr/bancors-smart-tokens-vs-token-bonding-curves-a4f0cdfd3388?\_referrer=twitter](https://medium.com/@simondlr/bancors-smart-tokens-vs-token-bonding-curves-a4f0cdfd3388?_referrer=twitter)
 * [https://blog.aragon.one/trust-minimized-governance-tokens/](https://blog.aragon.one/trust-minimized-governance-tokens/)
+* [https://medium.com/melonport-blog/introduction-to-the-melon-governance-system-f6ff73c70eb0](https://medium.com/melonport-blog/introduction-to-the-melon-governance-system-f6ff73c70eb0)
 * [https://medium.com/konkrete/a-fully-compliant-global-dao-cffd80ab3fad](https://medium.com/konkrete/a-fully-compliant-global-dao-cffd80ab3fad)
 
 ### Events <a id="DgovCompilation#3October2018-Events"></a>
