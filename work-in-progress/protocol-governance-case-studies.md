@@ -14,12 +14,6 @@
 
 [https://blog.gnosis.pm/the-road-towards-a-fully-decentralized-exchange-56a32adbe7d7](https://blog.gnosis.pm/the-road-towards-a-fully-decentralized-exchange-56a32adbe7d7)
 
-## Digix
-
-## BitShares
-
-## DASH
-
 ## Alice
 
 [Alice](https://alice.si/) — A social funding and impact management platform built on the Ethereum blockchain. The performance of each project is publicly available, making it easier for funders to identify and help scale social projects.
@@ -28,13 +22,17 @@
 
 [iO2 Foundation ](https://www.io2.foundation/)— A decentralized autonomous NGO creating the governance, infrastructure, utilities, and community to measure and collect impact data.
 
-## Melonport
-
-## Zcash
-
-## Steemit
-
 ## Nexus Mutual
 
 They plan to go on the main net by Q1 2019. Here is a brief about [their governance model](https://medium.com/nexus-mutual/dao-governance-a-pragmatic-approach-27d529ad0819) from founder Hugh Karp
+
+## Unsorted
+
+* LeapDAO
+* SteemIt
+* Zcash
+* Melomport
+* DASH
+* BitShares
+* Digix
 
