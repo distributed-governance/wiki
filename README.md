@@ -50,13 +50,13 @@ Maintained by [DGov Foundation](https://dgov.foundation/)
 * ​[DAO Stack Forum](https://forum.daostack.io/)​
 * [Colony Forum](https://build.colony.io/)
 
-## **Newsletters**
+## **Newsletters & Blogs**
 
 * ​[Aragon monthly](https://monthly.aragon.org/)​
 * ​[Token Economy](http://weekly.tokeneconomy.co/)​
 * ​[Tony Sheng](https://www.tonysheng.com/)​
 * DAO Stack newsletter
-* Colony newsletter
+* [Colony blog](http://blog.colony.io)
 * DGOV newsletter
 
 ## **SubReddits**

@@ -2,7 +2,7 @@
 
 ### Community Updates <a id="DgovCompilation#3October2018-CommunityUpdates"></a>
 
-* Aragon:
+* Aragon: [https://forum.aragon.org/t/evaluating-the-agp-1-voting-results-makes-me-think-we-need-an-aragon-community-token-act/290](https://forum.aragon.org/t/evaluating-the-agp-1-voting-results-makes-me-think-we-need-an-aragon-community-token-act/290)
 * DAO Stack: 
 * Colony: 
 * DGOV: Stats
