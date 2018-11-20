@@ -55,9 +55,9 @@ Maintained by [DGov Foundation](https://dgov.foundation/)
 * ​[Aragon monthly](https://monthly.aragon.org/)​
 * ​[Token Economy](http://weekly.tokeneconomy.co/)​
 * ​[Tony Sheng](https://www.tonysheng.com/)​
-* DAO Stack newsletter
 * [Colony blog](http://blog.colony.io)
-* DGOV newsletter
+* [DGOV newsletter](https://dgov.foundation/newsletter)
+* DAO Stack newsletter
 
 ## **SubReddits**
 
