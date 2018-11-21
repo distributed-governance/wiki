@@ -7,7 +7,7 @@
   * [DAO Infrastructure Comparison](work-in-progress/dao-infrastructure-projects.md)
   * [On-Chain Governance Case Studies](work-in-progress/protocol-governance-case-studies.md)
   * [DAO Attack Vectors / Security](work-in-progress/dao-attacks-and-protection.md)
-* [Article Collections by Topic](article-collections/README.md)
+* [Researches by Topic](article-collections/README.md)
   * [Curation Markets & Continuous Token Model](article-collections/curation-markets-and-bonding-curve.md)
   * [Radical Markets & Harberger Tax](article-collections/radical-markets-1.md)
   * [Futarchy / Prediction markets](article-collections/futarchy.md)

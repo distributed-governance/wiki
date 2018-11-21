@@ -1,2 +1,8 @@
-# Article Collections by Topic
+# Researches by Topic
+
+Additional topics:
+
+* Transparency
+* Signalling
+* Funding
 
