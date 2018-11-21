@@ -26,6 +26,7 @@ Maintained by [DGov Foundation](https://dgov.foundation/)
 * Otonomos – next-gen company services bureau for the crypto and blockchain economy. Order companies online. Add ancillary services. Pay in crypto or fiat.
 * [Harbour Project](https://www.harbourproject.io/) – tool set used to design the best governance system possible for any organization, a comprehensive set of rules that connect organizations with the necessary components required for efficient decision-making
 * [GovBlocks](https://govblocks.io/) – open, permissionless decision protocol that empowers dApps to define and operate any governance model at scale \([blog](https://medium.com/govblocks/progress-updates/home), [chat](https://t.me/govblocks)\)
+* [Tribute](https://tribute.coop) – Tribute helps organizations build and strengthen their network of contributors. We enable them to design and manage a customized reward system based on economic incentives and transparency
 
 **Concepts:**
 
