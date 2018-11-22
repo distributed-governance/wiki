@@ -18,6 +18,7 @@
 * [https://medium.com/melonport-blog/introduction-to-the-melon-governance-system-f6ff73c70eb0](https://medium.com/melonport-blog/introduction-to-the-melon-governance-system-f6ff73c70eb0)
 * [https://blog.goodaudience.com/blockchain-ownership-e46a5cc7d921](https://blog.goodaudience.com/blockchain-ownership-e46a5cc7d921)
 * [https://www.ethnews.com/leapdaos-friendly-frankenstein-dao-meets-holacracy-edition](https://www.ethnews.com/leapdaos-friendly-frankenstein-dao-meets-holacracy-edition)
+* [https://medium.com/@tim.bansemer/going-horizontal-new-governance-practices-towards-distributed-governance-9a2dcf29edcc](https://medium.com/@tim.bansemer/going-horizontal-new-governance-practices-towards-distributed-governance-9a2dcf29edcc)
 * [https://medium.com/konkrete/a-fully-compliant-global-dao-cffd80ab3fad](https://medium.com/konkrete/a-fully-compliant-global-dao-cffd80ab3fad)
 
 ### Events <a id="DgovCompilation#3October2018-Events"></a>
