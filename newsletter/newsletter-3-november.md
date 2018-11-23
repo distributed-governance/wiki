@@ -22,12 +22,12 @@
 * [https://www.zeroknowledge.fm/52](https://www.zeroknowledge.fm/52)
 * [https://medium.com/amentum/blockchain-communities-and-their-emergent-governance-cfe5627dcf52](https://medium.com/amentum/blockchain-communities-and-their-emergent-governance-cfe5627dcf52)
 * [https://medium.com/convergentcx/the-convergent-billboard-6594b933648e](https://medium.com/convergentcx/the-convergent-billboard-6594b933648e)
-* [https://medium.com/konkrete/a-fully-compliant-global-dao-cffd80ab3fad](https://medium.com/konkrete/a-fully-compliant-global-dao-cffd80ab3fad)
+* check [https://medium.com/@cleanapp/blockchain-governance-bibliography-360efc52d3f9](https://medium.com/@cleanapp/blockchain-governance-bibliography-360efc52d3f9)
 
 ### Events <a id="DgovCompilation#3October2018-Events"></a>
 
 * [Aracon](https://aracon.one/) \(Berlin, Jan 29-30\) by Aragon
-* radicalXchange \(March\)
+* [radicalXchange](https://radicalxchange.org/) \(Detroit, March 22-24\)
 
 Want to get smth published – write me a line at [max@dgov.foundation](mailto:max@dgov.foundation)  
 Got email from a friend – subscribe here [https://dgov.foundation/newsletter](https://dgov.foundation/newsletter)  
