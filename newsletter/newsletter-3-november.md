@@ -25,7 +25,6 @@
 
 ### Events <a id="DgovCompilation#3October2018-Events"></a>
 
-* [Revision conference](https://revision.io/) \(Nov 19-20\) explores the transition to a more human-centric future
 * [Aracon](https://aracon.one/) \(Berlin, Jan 29-30\) by Aragon
 * radicalXchange \(March\)
 
