@@ -26,6 +26,8 @@
 
 ### Events <a id="DgovCompilation#3October2018-Events"></a>
 
+* COALA workshop \(Berlin, 25-26\)
+* Dgov Council  \(Berlin, 27-28\)
 * [Aracon](https://aracon.one/) \(Berlin, Jan 29-30\) by Aragon
 * [radicalXchange](https://radicalxchange.org/) \(Detroit, March 22-24\)
 
