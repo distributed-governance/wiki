@@ -23,6 +23,7 @@
 * [https://medium.com/amentum/blockchain-communities-and-their-emergent-governance-cfe5627dcf52](https://medium.com/amentum/blockchain-communities-and-their-emergent-governance-cfe5627dcf52)
 * [https://medium.com/convergentcx/the-convergent-billboard-6594b933648e](https://medium.com/convergentcx/the-convergent-billboard-6594b933648e)
 * check [https://medium.com/@cleanapp/blockchain-governance-bibliography-360efc52d3f9](https://medium.com/@cleanapp/blockchain-governance-bibliography-360efc52d3f9)
+* [https://medium.com/the-ethereum-name-service/why-not-harberger-tax-537fc660e073](https://medium.com/the-ethereum-name-service/why-not-harberger-tax-537fc660e073)
 
 ### Events <a id="DgovCompilation#3October2018-Events"></a>
 
