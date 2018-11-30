@@ -7,6 +7,7 @@
 * Colony: is preparing to go live this year, check out the interview with [Jack Du Rose](https://soundcloud.com/arthurfalls/the-third-web-10-jack-du-rose-colony-coase)
 * Enigma: [Secret Voting: An Update & Code Walkthrough](https://blog.enigma.co/secret-voting-an-update-code-walkthrough-605e8635e725)
 * The [Convergent Billboard](https://billboard.convergent.cx/) \(bonding curve linked to an advertisement\) is now live on the mainnet. [Details here](https://medium.com/convergentcx/the-convergent-billboard-6594b933648e)
+* Introducing [Tribute: Equity for the Community](https://medium.com/our-tribute/https-medium-com-our-tribute-introducing-tribute-equity-for-the-community-9add9cf5cb70)
 * DGOV: preparing the community council in Berlin \(Jan 27-28, registration to be open soon\), [first meetup in Kyiv](https://www.eventbrite.com/e/dgov-kyiv-meetup-tickets-52937076220) \(Dec 11\)
 
 ### Articles, Papers & Videos <a id="DgovCompilation#3October2018-Articles,Papers&amp;Videos"></a>
@@ -25,6 +26,8 @@
 * [Blockchain Governance Bibliography](https://medium.com/cryptolawreview/blockchain-governance-bibliography-360efc52d3f9) \(101-109 at the time of writing\) by CleanApp
 * [Governance, Decision-Making and Co-creation in participative organizations](https://medium.com/@pepoospina/governance-decision-making-and-co-creation-in-participative-organizations-cfecce66d420) by Pepo Ospina
 * [Why not Harberger tax? Our reasons behind why we think the Harberger tax model is not ideal for the rent of domains on ENS](https://medium.com/the-ethereum-name-service/why-not-harberger-tax-537fc660e073) by Dean Eigenmann
+* [Cryptonetworks are not Companies](https://medium.com/@cburniske/cryptonetworks-are-not-companies-a307ad6a61ae) by Chris Burniske
+* [On Cryptocurrency Communities ](https://thecontrol.co/on-cryptocurrency-communities-f592b5ce6b0b)by Nick Tomaino
 
 ### Events <a id="DgovCompilation#3October2018-Events"></a>
 
