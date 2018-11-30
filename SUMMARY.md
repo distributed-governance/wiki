@@ -3,6 +3,7 @@
 * [DGOV Resources](README.md)
 * [Newsletter](newsletter/README.md)
   * [Newsletter \#3 \(november\)](newsletter/newsletter-3-november.md)
+* [DGOV Community Council](dgov-community-council.md)
 * [DAO Infrastructure Comparison](dao-infrastructure-projects.md)
 * [On-Chain Governance Case Studies](protocol-governance-case-studies.md)
 * [Researches by Topic](article-collections/README.md)
