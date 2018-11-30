@@ -1,6 +1,8 @@
 # DGOV Community Council
 
-![](.gitbook/assets/councilrots.jpg)
+
+
+![](.gitbook/assets/frame-6.2.jpg)
 
 We are delighted to invite you personally to the first Distributed Governance Council taking place the first time on the **27th and 28th of January in Berlin**. We're gathering the maximum of fifty participants to participate with your unique expertise to join the seed of a community forming to reinvent governance.
 
