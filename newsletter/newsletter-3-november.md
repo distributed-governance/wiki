@@ -31,8 +31,9 @@
 
 ## Events  <a id="DgovCompilation#3October2018-Events"></a>
 
-* COALA workshop \(Berlin, 25-26\)
-* [Dgov Council](https://wiki.dgov.foundation/dgov-community-council)  \(Berlin, 27-28\)
+* [Hot to DAO \#3](https://www.eventbrite.com/e/how-to-dao-3-tickets-53186003769) \(Berlin, Dec 8\)
+* COALA workshop \(Berlin, Jan 25-26\)
+* [Dgov Council](https://wiki.dgov.foundation/dgov-community-council)  \(Berlin, Jan 27-28\)
 * [Aracon](https://aracon.one/) \(Berlin, Jan 29-30\) by Aragon
 * [radicalXchange](https://radicalxchange.org/) \(Detroit, March 22-24\)
 
