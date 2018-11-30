@@ -1,5 +1,7 @@
 # DGOV Community Council
 
+![](.gitbook/assets/councilrots.jpg)
+
 We are delighted to invite you personally to the first Distributed Governance Council taking place the first time on the **27th and 28th of January in Berlin**. We're gathering the maximum of fifty participants to participate with your unique expertise to join the seed of a community forming to reinvent governance.
 
 Our goal is to build bridges between communities to explore new governance models which are human-centric and direct participatory in their nature to allow them to scale. We are intentional with the work we do. We believe in a future where we favour collaboration over rival risk behaviour, where we favour commons \(publicly owned and community governed\) over private ownership. A future where our governance systems unlock the wisdom of the many to represent the needs of those who can’t speak for themselves or which might be underrepresented. Those are the children of the future generations but also nature and animals which form the ecosystems which allowed us to evolve in the first place.

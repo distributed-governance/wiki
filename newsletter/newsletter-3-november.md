@@ -8,7 +8,7 @@
 * Enigma: [Secret Voting: An Update & Code Walkthrough](https://blog.enigma.co/secret-voting-an-update-code-walkthrough-605e8635e725)
 * The [Convergent Billboard](https://billboard.convergent.cx/) \(bonding curve linked to an advertisement\) is now live on the mainnet. [Details here](https://medium.com/convergentcx/the-convergent-billboard-6594b933648e)
 * Introducing [Tribute: Equity for the Community](https://medium.com/our-tribute/https-medium-com-our-tribute-introducing-tribute-equity-for-the-community-9add9cf5cb70)
-* DGOV: preparing the community council in Berlin \(Jan 27-28, registration to be open soon\), [first meetup in Kyiv](https://www.eventbrite.com/e/dgov-kyiv-meetup-tickets-52937076220) \(Dec 11\)
+* DGOV: preparing the [community council in Berlin](https://wiki.dgov.foundation/dgov-community-council) \(Jan 27-28\), [first meetup in Kyiv](https://www.eventbrite.com/e/dgov-kyiv-meetup-tickets-52937076220) \(Dec 11\)
 
 ## Articles, Papers & Videos  <a id="DgovCompilation#3October2018-Articles,Papers&amp;Videos"></a>
 
@@ -32,7 +32,7 @@
 ## Events  <a id="DgovCompilation#3October2018-Events"></a>
 
 * COALA workshop \(Berlin, 25-26\)
-* Dgov Council  \(Berlin, 27-28\)
+* [Dgov Council](https://wiki.dgov.foundation/dgov-community-council)  \(Berlin, 27-28\)
 * [Aracon](https://aracon.one/) \(Berlin, Jan 29-30\) by Aragon
 * [radicalXchange](https://radicalxchange.org/) \(Detroit, March 22-24\)
 
