@@ -1,7 +1,3 @@
----
-description: Meta collection of links and useful info on dgov topics
----
-
 # DGOV Resources
 
 ## Process
