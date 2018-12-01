@@ -1,6 +1,6 @@
 # Newsletter \#3 \(november\)
 
-Our community has grown through Devcon and revision. I'm happy that this issues includes the some pieces submitted by the community itself. Here're the updates from November.
+Our community has grown and matured through the Devcon and revision. I'm happy that this issues includes the some pieces submitted by the community itself. Here're the updates from November.
 
 ## Community Updates  <a id="DgovCompilation#3October2018-CommunityUpdates"></a>
 
