@@ -25,6 +25,7 @@ Maintained by [DGov Foundation](https://dgov.foundation/)
 * [Tribute](https://tribute.coop) – Tribute helps organizations build and strengthen their network of contributors. We enable them to design and manage a customized reward system based on economic incentives and transparency
 * [Collective One](https://www.collectiveone.org/) – method \(and a platform\) to develop open, decentralized and collaborative initiatives: initiatives to which anyone can, potentially, contribute, and which are collectively owned and self-governed by their contributors.
 * [Common Interest](https://commoninterest.io/) – build incentivized societies
+* [xDAC](https://xdac.co/) is A Place To Start and Manage Decentralized Companies
 
 **Concepts:**
 
