@@ -3,6 +3,7 @@
 * [DGOV Resources](README.md)
 * [Newsletter](newsletter/README.md)
   * [Newsletter \#3 \(november\)](newsletter/newsletter-3-november.md)
+  * [Newsletter \#4 \(november\)](newsletter/newsletter-4-november.md)
 * [DGOV Community Council](dgov-community-council/README.md)
   * [Topics \(draft\)](dgov-community-council/topics-draft.md)
 * [Researches by Topic](article-collections/README.md)
