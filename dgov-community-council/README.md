@@ -6,11 +6,9 @@ Our goal is to build bridges between communities to explore new governance model
 
 The Distributed Governance Council Berlin aims to connect you with many other exceptional bridge minds and humble and caring beings which believe in our chance to reinvent governance.
 
-* Would like to join us –[ **Register here**](https://goo.gl/forms/uxUrvK9RcRf591712)\*\*\*\*
+* Would like to join us –[ ](https://goo.gl/forms/uxUrvK9RcRf591712)please fill the[ **application form**](https://goo.gl/forms/uxUrvK9RcRf591712)\*\*\*\*
 * Need help with covering costs – please fill the [**scholarship application form**](https://goo.gl/forms/LGQ6SneZ0xWjCUom2)\*\*\*\*
-* Would like to sponsor – email [**max.semenchuk@gmail.com**](mailto:max.semenchuk@gmail.com)\*\*\*\*
-
-\*\*\*\*
+* Would like to sponsor – email [**max@dgov.foundation**](mailto:max@dgov.foundation)\*\*\*\*
 
 ## Invitations
 
@@ -38,9 +36,11 @@ On the afternoon of the second day, we will openly share our learnings and insig
 
 Berlin - the city which was once divided by the Berlin wall. A symbol where west and east meet. A city where nothing is too strange to be accepted and a city where everything seems possible. Not without reason is Berlin a city where many great projects and communities gather in this uncertain times.
 
-* Would like to join us –[ **Register here**](https://goo.gl/forms/uxUrvK9RcRf591712)\*\*\*\*
-* Need help with covering costs – please fill the [**scholarship application form**](https://goo.gl/forms/LGQ6SneZ0xWjCUom2)\*\*\*\*
-* Would like to sponsor – email [**max.semenchuk@gmail.com**](mailto:max.semenchuk@gmail.com)\*\*\*\*
+* Would like to join us –[ ](https://goo.gl/forms/uxUrvK9RcRf591712)please fill the[ **application form**](https://goo.gl/forms/uxUrvK9RcRf591712)
+* Need help with covering costs – please fill the [**scholarship application form**](https://goo.gl/forms/LGQ6SneZ0xWjCUom2)
+* Would like to sponsor – email [**max@dgov.foundation**](mailto:max@dgov.foundation)\*\*\*\*
+
+  \*\*\*\*
 
 ## The Distributed Governance Conference in Athens
 
