@@ -1,10 +1,10 @@
-# Newsletter \#4 \(november\)
+# Newsletter \#4 \(december\)
 
 ## Community Updates  <a id="DgovCompilation#3October2018-CommunityUpdates"></a>
 
 * Aragon: 
 * DAO Stack 
-* Colony: 
+* Colony: [https://blog.colony.io/daodigest-1/](https://blog.colony.io/daodigest-1/)
 * DGOV: 
 
 ## Articles, Papers & Videos  <a id="DgovCompilation#3October2018-Articles,Papers&amp;Videos"></a>
