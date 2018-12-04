@@ -1,14 +1,16 @@
 # DGOV Community Council
 
-![](../.gitbook/assets/frame-6.2.jpg)
-
 We are delighted to invite you personally to the first Distributed Governance Council taking place the first time on the **27th and 28th of January in Berlin**. We're gathering the maximum of fifty participants to participate with your unique expertise to join the seed of a community forming to reinvent governance.
 
 Our goal is to build bridges between communities to explore new governance models which are human-centric and direct participatory in their nature to allow them to scale. We are intentional with the work we do. We believe in a future where we favour collaboration over rival risk behaviour, where we favour commons \(publicly owned and community governed\) over private ownership. A future where our governance systems unlock the wisdom of the many to represent the needs of those who can’t speak for themselves or which might be underrepresented. Those are the children of the future generations but also nature and animals which form the ecosystems which allowed us to evolve in the first place.
 
 The Distributed Governance Council Berlin aims to connect you with many other exceptional bridge minds and humble and caring beings which believe in our chance to reinvent governance.
 
-[**&gt; Register here**](https://goo.gl/forms/uxUrvK9RcRf591712)\*\*\*\*
+* Would like to join us –[ **Register here**](https://goo.gl/forms/uxUrvK9RcRf591712)\*\*\*\*
+* Need help with covering costs – please fill the [**scholarship application form**](https://goo.gl/forms/LGQ6SneZ0xWjCUom2)\*\*\*\*
+* Would like to sponsor – email [**max.semenchuk@gmail.com**](mailto:max.semenchuk@gmail.com)\*\*\*\*
+
+\*\*\*\*
 
 ## Invitations
 
@@ -36,7 +38,9 @@ On the afternoon of the second day, we will openly share our learnings and insig
 
 Berlin - the city which was once divided by the Berlin wall. A symbol where west and east meet. A city where nothing is too strange to be accepted and a city where everything seems possible. Not without reason is Berlin a city where many great projects and communities gather in this uncertain times.
 
-[**&gt; Register here**](https://goo.gl/forms/uxUrvK9RcRf591712)\*\*\*\*
+* Would like to join us –[ **Register here**](https://goo.gl/forms/uxUrvK9RcRf591712)\*\*\*\*
+* Need help with covering costs – please fill the [**scholarship application form**](https://goo.gl/forms/LGQ6SneZ0xWjCUom2)\*\*\*\*
+* Would like to sponsor – email [**max.semenchuk@gmail.com**](mailto:max.semenchuk@gmail.com)\*\*\*\*
 
 ## The Distributed Governance Conference in Athens
 
