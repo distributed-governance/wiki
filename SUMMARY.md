@@ -6,6 +6,8 @@
   * [Newsletter \#4 \(december\)](newsletter/newsletter-4-november.md)
 * [DGOV Community Council](dgov-community-council/README.md)
   * [Topics \(draft\)](dgov-community-council/topics-draft.md)
+* [Meetups](meetups/README.md)
+  * [Amsterdam 14.02.2019](meetups/amsterdam-14.02.2019.md)
 * [Researches by Topic](article-collections/README.md)
   * [On-Chain Governance Case Studies](article-collections/protocol-governance-case-studies.md)
   * [DAO Infrastructure Comparison](article-collections/dao-infrastructure-projects.md)
