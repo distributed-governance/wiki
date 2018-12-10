@@ -9,7 +9,8 @@
 
 ## Articles, Papers & Videos  <a id="DgovCompilation#3October2018-Articles,Papers&amp;Videos"></a>
 
-* 
+* [Rethinking Blockchain: How to design the future of the commons](https://www.betterplace-lab.org/en/rethinking-blockchain-how-to-design-the-future-of-the-commons-2/)
+
 ## Events  <a id="DgovCompilation#3October2018-Events"></a>
 
 * COALA workshop \(Berlin, Jan 25-26\)

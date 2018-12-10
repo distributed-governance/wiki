@@ -76,6 +76,11 @@ Maintained by [DGov Foundation](https://dgov.foundation/)
 * ​[Ethereum Governance](https://gitter.im/ethereum/governance)​
 * ​[DAO Incubator](https://t.me/DAOincubator)​
 
+## Books
+
+* [Patterns for Decentralised Organising](https://leanpub.com/patterns-for-decentralised-organising)
+* [SO, YOU'VE GOT A DAO ...: MANAGEMENT FOR THE 21ST CENTURY](https://www.amazon.com/dp/B07BMH8WFY/ref=cm_sw_r_cp_ep_dp_0v4mBbJ4F5V2D)
+
 ## **Misc**
 
 * ​[https://github.com/ParticipatoryOrgs](https://github.com/ParticipatoryOrgs)​
