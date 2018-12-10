@@ -80,7 +80,7 @@ Maintained by [DGov Foundation](https://dgov.foundation/)
 
 * [Patterns for Decentralised Organising](https://leanpub.com/patterns-for-decentralised-organising)
 * [SO, YOU'VE GOT A DAO ...: MANAGEMENT FOR THE 21ST CENTURY](https://www.amazon.com/dp/B07BMH8WFY/ref=cm_sw_r_cp_ep_dp_0v4mBbJ4F5V2D)
-* [Protocol. How Control Exists after Decentralization](https://mitpress.mit.edu/books/protocol)
+* [Protocol: How Control Exists after Decentralization](https://mitpress.mit.edu/books/protocol)
 
 ## **Misc**
 
