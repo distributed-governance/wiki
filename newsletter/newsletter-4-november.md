@@ -3,7 +3,7 @@
 ## Community Updates  <a id="DgovCompilation#3October2018-CommunityUpdates"></a>
 
 * Aragon: 
-* DAO Stack 
+* DAO Stack: story on ATF
 * Colony: [https://blog.colony.io/daodigest-1/](https://blog.colony.io/daodigest-1/)
 * DGOV: 
 * EthTrader Donuts [https://www.reddit.com/r/ethtrader/comments/a3r1bn/you\_can\_now\_change\_the\_top\_banner\_on\_the\_redesign/?utm\_content=title&utm\_medium=front&utm\_source=reddit&utm\_name=ethtrader](https://www.reddit.com/r/ethtrader/comments/a3r1bn/you_can_now_change_the_top_banner_on_the_redesign/?utm_content=title&utm_medium=front&utm_source=reddit&utm_name=ethtrader)
