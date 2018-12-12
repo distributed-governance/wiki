@@ -4,7 +4,7 @@
 
 * Aragon: 
 * DAO Stack: story on ATF
-* Colony: [https://blog.colony.io/daodigest-1/](https://blog.colony.io/daodigest-1/)
+* Colony: Launched [DAO Digest](https://blog.colony.io/daodigest-1/), BudgetBox
 * DGOV: 
 * EthTrader Donuts [https://www.reddit.com/r/ethtrader/comments/a3r1bn/you\_can\_now\_change\_the\_top\_banner\_on\_the\_redesign/?utm\_content=title&utm\_medium=front&utm\_source=reddit&utm\_name=ethtrader](https://www.reddit.com/r/ethtrader/comments/a3r1bn/you_can_now_change_the_top_banner_on_the_redesign/?utm_content=title&utm_medium=front&utm_source=reddit&utm_name=ethtrader)
 
@@ -12,6 +12,7 @@
 
 * [On bonding curves and charitable giving](https://tokeneconomy.co/on-bonding-curves-and-charitable-giving-9bf74b9343d2)
 * [Rethinking Blockchain: How to design the future of the commons](https://www.betterplace-lab.org/en/rethinking-blockchain-how-to-design-the-future-of-the-commons-2/)
+* [MakerDAO Governance Risk Framework \(Part 3\)](https://medium.com/makerdao/makerdao-governance-risk-framework-part-3-7a4c620f4077)
 
 ## Events  <a id="DgovCompilation#3October2018-Events"></a>
 

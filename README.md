@@ -79,8 +79,9 @@ Maintained by [DGov Foundation](https://dgov.foundation/)
 ## Books
 
 * [Patterns for Decentralised Organising](https://leanpub.com/patterns-for-decentralised-organising)
-* [SO, YOU'VE GOT A DAO ...: MANAGEMENT FOR THE 21ST CENTURY](https://www.amazon.com/dp/B07BMH8WFY/ref=cm_sw_r_cp_ep_dp_0v4mBbJ4F5V2D)
+* [So, you've got a DAO...: Management for the 21st century](https://www.amazon.com/dp/B07BMH8WFY/ref=cm_sw_r_cp_ep_dp_0v4mBbJ4F5V2D)
 * [Protocol: How Control Exists after Decentralization](https://mitpress.mit.edu/books/protocol)
+* [Blockchain and the Law](http://www.hup.harvard.edu/catalog.php?isbn=9780674976429)
 
 ## **Misc**
 
