@@ -13,6 +13,7 @@
 * [On bonding curves and charitable giving](https://tokeneconomy.co/on-bonding-curves-and-charitable-giving-9bf74b9343d2)
 * [Rethinking Blockchain: How to design the future of the commons](https://www.betterplace-lab.org/en/rethinking-blockchain-how-to-design-the-future-of-the-commons-2/)
 * [MakerDAO Governance Risk Framework \(Part 3\)](https://medium.com/makerdao/makerdao-governance-risk-framework-part-3-7a4c620f4077)
+* [Converting Between Bancor and Bonding Curve Price Formulas](https://medium.com/@billyrennekamp/converting-between-bancor-and-bonding-curve-price-formulas-9c11309062f5)
 
 ## Events  <a id="DgovCompilation#3October2018-Events"></a>
 
