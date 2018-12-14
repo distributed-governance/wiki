@@ -1,16 +1,25 @@
 # DGOV Community Council
 
+**What:** 2 day community meetup to sync, coordinate and start solving mutual challenges \(more below\)
+
+**When:** Jan 27-28, 2019
+
+**Where:** [Full Node](https://www.fullnode.berlin/), Berlin
+
+**Join us**
+
+* Preregister through the [application form](https://goo.gl/forms/uxUrvK9RcRf591712) \(need scholarship? [apply here](https://docs.google.com/forms/d/e/1FAIpQLSeIn8Zsac7AxPPA94FZ_n_o3oUFWfybDs5poEpSQsz36XPTYA/viewform)\)
+* Have questions about the attendance – contact [Anja Blaj](mailto:anja.blaj@gmail.com)
+* Want to present a lightning talk \(10 mins\), [submit a form here](https://goo.gl/forms/CHrRdoHy1b0DZv2u1)
+* For sponsorship and general issues contact [Tim Bansemer](mailto:tim.bansemer@inblock.io)
+
+## Invitation
+
 We are delighted to invite you personally to the first Distributed Governance Council taking place the first time on the **27th and 28th of January in Berlin**. We're gathering the maximum of fifty participants to participate with your unique expertise to join the seed of a community forming to reinvent governance.
 
 Our goal is to build bridges between communities to explore new governance models which are human-centric and direct participatory in their nature to allow them to scale. We are intentional with the work we do. We believe in a future where we favour collaboration over rival risk behaviour, where we favour commons \(publicly owned and community governed\) over private ownership. A future where our governance systems unlock the wisdom of the many to represent the needs of those who can’t speak for themselves or which might be underrepresented. Those are the children of the future generations but also nature and animals which form the ecosystems which allowed us to evolve in the first place.
 
 The Distributed Governance Council Berlin aims to connect you with many other exceptional bridge minds and humble and caring beings which believe in our chance to reinvent governance.
-
-* Would like to join us –[ ](https://goo.gl/forms/uxUrvK9RcRf591712)please fill the[ **application form**](https://goo.gl/forms/uxUrvK9RcRf591712)\*\*\*\*
-* Need help with covering costs – please fill the [**scholarship application form**](https://goo.gl/forms/LGQ6SneZ0xWjCUom2)\*\*\*\*
-* Would like to sponsor – email [**max@dgov.foundation**](mailto:max@dgov.foundation)\*\*\*\*
-
-## Invitations
 
 New governance models are urgently needed to allow us to coordinate and manage shared-resources on a global scale. This includes permissionless blockchains to provide a trusted compute infrastructure for humankind where we need to avoid capture by all means!
 
