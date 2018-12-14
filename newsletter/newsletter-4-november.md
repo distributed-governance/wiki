@@ -4,7 +4,7 @@
 
 * Aragon: 
 * DAO Stack: story on ATF
-* Colony: Launched [DAO Digest 1](https://blog.colony.io/daodigest-1/) and [2](https://blog.colony.io/daodigest-2/), BudgetBox
+* Colony: Launched [DAO Digest 1](https://blog.colony.io/daodigest-1/) and [2](https://blog.colony.io/daodigest-2/), [BudgetBox](https://blog.colony.io/introducing-budgetbox/?mc_cid=2887bf737e&mc_eid=798aad20d4)
 * DGOV: 
 * EthTrader Donuts [https://www.reddit.com/r/ethtrader/comments/a3r1bn/you\_can\_now\_change\_the\_top\_banner\_on\_the\_redesign/?utm\_content=title&utm\_medium=front&utm\_source=reddit&utm\_name=ethtrader](https://www.reddit.com/r/ethtrader/comments/a3r1bn/you_can_now_change_the_top_banner_on_the_redesign/?utm_content=title&utm_medium=front&utm_source=reddit&utm_name=ethtrader)
 * [https://caribbeanblockchain.net/dao-research-curacao/](https://caribbeanblockchain.net/dao-research-curacao/)
