@@ -13,6 +13,8 @@
 * Want to present a lightning talk \(10 mins\), [submit a form here](https://goo.gl/forms/CHrRdoHy1b0DZv2u1)
 * For sponsorship and general issues contact [Tim Bansemer](mailto:tim.bansemer@inblock.io)
 
+![](../.gitbook/assets/frame-6.3-2.jpg)
+
 ## Invitation
 
 We are delighted to invite you personally to the first Distributed Governance Council taking place the first time on the **27th and 28th of January in Berlin**. We're gathering the maximum of fifty participants to participate with your unique expertise to join the seed of a community forming to reinvent governance.
