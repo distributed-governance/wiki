@@ -53,13 +53,6 @@ Berlin - the city which was once divided by the Berlin wall. A symbol where west
 
   \*\*\*\*
 
-## The Distributed Governance Conference in Athens
-
-This is a smaller previous event before the distributed governance conference in Athens will take place in June 2018. While the DGOV Council Berlin will be with maximum 50 people the event in June will host a maximum of 150 people and will focus on the same goals. It’s about people, it’s about caring and being intentional that we believe that we can create those new forms of collaboration. It’s about you.  
-
-
-We look forward to welcoming you in Berlin. Please register 42 € your slot and book your ticket. If you need support to finance your travel place, submit your travel support form &gt;&gt;HERE&lt;&lt;. If you can help others which can’t afford the travel costs to come, please help us and reach out &gt;&gt;HERE&lt;&lt;.
-
 Your DGOV Team,   
 Tim Bansemer, Anja Blaj, Max Semenchuk  
 
