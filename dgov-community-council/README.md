@@ -4,12 +4,12 @@
 
 **When:** Jan 27-28, 2019
 
-**Where:** [Full Node](https://www.fullnode.berlin/), Berlin
+**Where:** [Full Node](https://www.fullnode.berlin/), Berlin. The city which was once divided by the Berlin wall. A symbol where west and east meet. A city where nothing is too strange to be accepted and a city where everything seems possible. Not without reason is Berlin a city where many great projects and communities gather in this uncertain times.
 
 **Join us**
 
 * Preregister through the [application form](https://goo.gl/forms/uxUrvK9RcRf591712) \(need scholarship? [apply here](https://docs.google.com/forms/d/e/1FAIpQLSeIn8Zsac7AxPPA94FZ_n_o3oUFWfybDs5poEpSQsz36XPTYA/viewform)\)
-* Have questions about the attendance – contact [Anja Blaj](mailto:anja.blaj@gmail.com)
+* Have questions about the attendance – contact [Anja Blaj](mailto:anja.blaj@gmail.com)
 * Want to present a lightning talk \(10 mins\), [submit a form here](https://goo.gl/forms/CHrRdoHy1b0DZv2u1)
 * For sponsorship and general issues contact [Tim Bansemer](mailto:tim.bansemer@inblock.io)
 
@@ -43,17 +43,13 @@ We foster the build-up of an intentional community of people which care and come
 
 On the afternoon of the second day, we will openly share our learnings and insights.
 
-## Where
+## **Join us**
 
-Berlin - the city which was once divided by the Berlin wall. A symbol where west and east meet. A city where nothing is too strange to be accepted and a city where everything seems possible. Not without reason is Berlin a city where many great projects and communities gather in this uncertain times.
+* Preregister through the [application form](https://goo.gl/forms/uxUrvK9RcRf591712) \(need scholarship? [apply here](https://docs.google.com/forms/d/e/1FAIpQLSeIn8Zsac7AxPPA94FZ_n_o3oUFWfybDs5poEpSQsz36XPTYA/viewform)\)
+* Have questions about the attendance – contact [Anja Blaj](mailto:anja.blaj@gmail.com)
+* Want to present a lightning talk \(10 mins\), [submit a form here](https://goo.gl/forms/CHrRdoHy1b0DZv2u1)
+* For sponsorship and general issues contact [Tim Bansemer](mailto:tim.bansemer@inblock.io)
 
-* Would like to join us –[ ](https://goo.gl/forms/uxUrvK9RcRf591712)please fill the[ **application form**](https://goo.gl/forms/uxUrvK9RcRf591712)
-* Need help with covering costs – please fill the [**scholarship application form**](https://goo.gl/forms/LGQ6SneZ0xWjCUom2)
-* Would like to sponsor – email [**max@dgov.foundation**](mailto:max@dgov.foundation)\*\*\*\*
-
-  \*\*\*\*
-
-Your DGOV Team,   
-Tim Bansemer, Anja Blaj, Max Semenchuk  
-
+Your DGOV Team,  
+Tim Bansemer, Anja Blaj, Max Semenchuk
 
