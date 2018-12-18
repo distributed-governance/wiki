@@ -26,7 +26,7 @@ The event will stretch over two full days in a co-creative, open space environme
 
 You will be among a maximum of forty participants to gather with the intention to create governance models which take a human centric, horizontal approach to the management of shared-resources. We foster a community of participants which have an inherent interest in collaboration to exchange research and learnings to support their own projects while accelerating the innovation on distributed governance models.
 
-### Supporters
+## Supporters
 
 This event is supported by the Tezos Foundation with the lead researcher Jacob Arluck. Primavera de Filippi and Constance Choi along with other Coalas will join us as well.
 
