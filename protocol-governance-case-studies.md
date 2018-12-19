@@ -26,12 +26,19 @@
 
 They plan to go on the main net by Q1 2019. Here is a brief about [their governance model](https://medium.com/nexus-mutual/dao-governance-a-pragmatic-approach-27d529ad0819) from founder Hugh Karp
 
+## Melonport
+
+* [https://medium.com/melonport-blog/management-and-performance-fees-in-a-melon-fund-f1df2a26abd9](https://medium.com/melonport-blog/management-and-performance-fees-in-a-melon-fund-f1df2a26abd9)
+
+## Tezos
+
+* [https://medium.com/tezos/amending-tezos-b77949d97e1e](https://medium.com/tezos/amending-tezos-b77949d97e1e)
+
 ## Unsorted
 
 * LeapDAO
 * SteemIt
 * Zcash
-* Melomport
 * DASH
 * BitShares
 * Digix
