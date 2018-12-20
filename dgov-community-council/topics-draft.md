@@ -7,7 +7,7 @@ Lightning talks:
 
 Circles:
 
-* industry collaboration strategy \(Max?\)
+* industry collaboration strategy / how Aragon &lt;&gt; Colony &lt;&gt; DAOstack could be more interoperable \(Max?\)
 * Continuous Token Model \(?\)
 * DAO defense protocol \(Danny?\)
 * DAOs / On-chain governance \(Jacob Arluck\)
