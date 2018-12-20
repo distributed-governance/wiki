@@ -15,6 +15,7 @@
 * [Rethinking Blockchain: How to design the future of the commons](https://www.betterplace-lab.org/en/rethinking-blockchain-how-to-design-the-future-of-the-commons-2/)
 * [MakerDAO Governance Risk Framework \(Part 3\)](https://medium.com/makerdao/makerdao-governance-risk-framework-part-3-7a4c620f4077)
 * [Converting Between Bancor and Bonding Curve Price Formulas](https://medium.com/@billyrennekamp/converting-between-bancor-and-bonding-curve-price-formulas-9c11309062f5)
+* [https://www.stlouisfed.org/open-vault/2018/december/how-blockchain-can-keep-people-honest?utm\_source=twitter&utm\_medium=SM&utm\_content=stlouisfed&utm\_campaign=f74d477c-ae3c-4006-9a12-051982a90547](https://www.stlouisfed.org/open-vault/2018/december/how-blockchain-can-keep-people-honest?utm_source=twitter&utm_medium=SM&utm_content=stlouisfed&utm_campaign=f74d477c-ae3c-4006-9a12-051982a90547)
 * [https://blog.relevant.community/bonding-curves-in-depth-intuition-parametrization-d3905a681e0a](https://blog.relevant.community/bonding-curves-in-depth-intuition-parametrization-d3905a681e0a)
 
 ## Events  <a id="DgovCompilation#3October2018-Events"></a>
