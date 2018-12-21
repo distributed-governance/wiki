@@ -20,6 +20,8 @@
 
 ## Work <a id="DgovCompilation#3October2018-Events"></a>
 
+New section where we list open positions, bounties and gigs that support dgov, daos etc! PM to add your positions or provide feedback. 
+
 * [https://wiki.aragon.org/jobs/](https://wiki.aragon.org/jobs/)
 * [Genesis Alpha Bounties](https://docs.google.com/spreadsheets/d/1FV8iz4ebZb4E3nXckzPsWy7IfhtsX3filkbX_gbPLNs/edit#gid=204783618)
 * [https://docs.colony.io/colonynetwork/bug-bounty-program-overview/](https://docs.colony.io/colonynetwork/bug-bounty-program-overview/)
@@ -30,6 +32,10 @@
 * [Dgov Council](https://wiki.dgov.foundation/dgov-community-council)  \(Berlin, Jan 27-28\)
 * [Aracon](https://aracon.one/) \(Berlin, Jan 29-30\) by Aragon
 * [radicalXchange](https://radicalxchange.org/) \(Detroit, March 22-24\)
+
+Subscribe to [google calendar](https://calendar.google.com/calendar/embed?src=av3fo8o2ocl3ft25s6as54c26s%40group.calendar.google.com)
+
+## 
 
 Want to get smth published – write me a line at [max@dgov.foundation](mailto:max@dgov.foundation)  
 Got email from a friend – subscribe here [https://dgov.foundation/newsletter](https://dgov.foundation/newsletter)  
