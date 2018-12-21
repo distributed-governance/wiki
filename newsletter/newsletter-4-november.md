@@ -22,9 +22,9 @@
 
 New section where we list open positions, bounties and gigs that support dgov, daos etc! PM to add your positions or provide feedback. 
 
-* [https://wiki.aragon.org/jobs/](https://wiki.aragon.org/jobs/)
+* [Open positions for Aragon One and Aragon DAC](https://wiki.aragon.org/jobs/)
 * [Genesis Alpha Bounties](https://docs.google.com/spreadsheets/d/1FV8iz4ebZb4E3nXckzPsWy7IfhtsX3filkbX_gbPLNs/edit#gid=204783618)
-* [https://docs.colony.io/colonynetwork/bug-bounty-program-overview/](https://docs.colony.io/colonynetwork/bug-bounty-program-overview/)
+* [Colony Bug Bounty](https://docs.colony.io/colonynetwork/bug-bounty-program-overview/)
 
 ## Events  <a id="DgovCompilation#3October2018-Events"></a>
 
