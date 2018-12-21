@@ -1,6 +1,6 @@
 # DGOV Community Council
 
-![](../.gitbook/assets/frame-6.3-2.jpg)
+![](../../.gitbook/assets/frame-6.3-2.jpg)
 
 We are bringing together the pioneers and explorers for new principles of human-centric scalable governance. We move forward to develop a shared language and culture and deepen relationships to launch cross-project collaboration on distributed governance.
 

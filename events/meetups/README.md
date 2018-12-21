@@ -1,13 +1,4 @@
-# Local Meetups
-
-## **Schedule:**
-
-* EthBerlin \(Berlin, Sep 7-9\)
-* Web3 Summit \(Berlin, 22-24 Oct\)
-* Devcon 4 \(Prague, Oct 30- Nov 2\)
-* [Revision.io](http://revision.io/) \(Berlin, Nov 18-20\)
-* Dgov council \(Berlin, Jan 27-28\)
-* Amsterdam, Feb 14
+# Host Local Meetups
 
 ## **Guide**
 

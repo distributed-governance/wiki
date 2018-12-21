@@ -1,4 +1,4 @@
-# Research: Continuous Token Model
+# Continuous Token Model
 
 Curation Markets is a set of protocol designs that aims to reduce information asymmetry through the use of tokenized signals. Tokens are minted as needed through a continuous token model.
 
