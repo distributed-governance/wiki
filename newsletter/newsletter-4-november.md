@@ -20,9 +20,9 @@
 
 ## Work <a id="DgovCompilation#3October2018-Events"></a>
 
-[https://wiki.aragon.org/jobs/](https://wiki.aragon.org/jobs/)
-
-[https://docs.colony.io/colonynetwork/bug-bounty-program-overview/](https://docs.colony.io/colonynetwork/bug-bounty-program-overview/)
+* [https://wiki.aragon.org/jobs/](https://wiki.aragon.org/jobs/)
+* [Genesis Alpha Bounties](https://docs.google.com/spreadsheets/d/1FV8iz4ebZb4E3nXckzPsWy7IfhtsX3filkbX_gbPLNs/edit#gid=204783618)
+* [https://docs.colony.io/colonynetwork/bug-bounty-program-overview/](https://docs.colony.io/colonynetwork/bug-bounty-program-overview/)
 
 ## Events  <a id="DgovCompilation#3October2018-Events"></a>
 
