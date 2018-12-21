@@ -1,6 +1,7 @@
 # Table of contents
 
 * [DGOV Resources](README.md)
+* [How to Contribute](how-to-contribute.md)
 * [Newsletter](newsletter/README.md)
   * [Newsletter \#3 \(november\)](newsletter/newsletter-3-november.md)
   * [Newsletter \#4 \(december\)](newsletter/newsletter-4-november.md)
