@@ -18,6 +18,12 @@
 * [https://www.stlouisfed.org/open-vault/2018/december/how-blockchain-can-keep-people-honest?utm\_source=twitter&utm\_medium=SM&utm\_content=stlouisfed&utm\_campaign=f74d477c-ae3c-4006-9a12-051982a90547](https://www.stlouisfed.org/open-vault/2018/december/how-blockchain-can-keep-people-honest?utm_source=twitter&utm_medium=SM&utm_content=stlouisfed&utm_campaign=f74d477c-ae3c-4006-9a12-051982a90547)
 * [https://blog.relevant.community/bonding-curves-in-depth-intuition-parametrization-d3905a681e0a](https://blog.relevant.community/bonding-curves-in-depth-intuition-parametrization-d3905a681e0a)
 
+## Work <a id="DgovCompilation#3October2018-Events"></a>
+
+[https://wiki.aragon.org/jobs/](https://wiki.aragon.org/jobs/)
+
+[https://docs.colony.io/colonynetwork/bug-bounty-program-overview/](https://docs.colony.io/colonynetwork/bug-bounty-program-overview/)
+
 ## Events  <a id="DgovCompilation#3October2018-Events"></a>
 
 * COALA workshop \(Berlin, Jan 25-26\)
