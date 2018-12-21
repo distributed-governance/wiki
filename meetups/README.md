@@ -11,6 +11,10 @@
 
 ## **Guide**
 
+Meetup can be in a form of an informal dinner for 3-12 people. Or can be an educational / network meetup with a dedicated place.
+
+### **Process:**
+
 1. Select date
 2. Find and book the venue
 3. Create event \(e.g. Eventbrite\)
