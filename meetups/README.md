@@ -11,7 +11,7 @@
 
 ## **Guide**
 
-Meetup can be in a form of an informal dinner for 3-12 people. Or can be an educational / network meetup with a dedicated place.
+Anyone can start a meetup in his \(her\) region. Meetup can be in a form of an informal dinner for 3-12 people. Or can be an educational / network meetup with a dedicated place.
 
 ### **Process:**
 
