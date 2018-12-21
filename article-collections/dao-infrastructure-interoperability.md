@@ -1,4 +1,4 @@
-# DAO Infrastructure Comparison
+# DAO Infrastructure Interoperability
 
 ## Business case platform comparison
 
