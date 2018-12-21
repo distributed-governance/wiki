@@ -74,10 +74,9 @@ Maintained by [DGov Foundation](https://dgov.foundation/)
 
 ## **Misc**
 
-* [Event List](https://wiki.dgov.foundation/events)
+* [DGov Event List](https://wiki.dgov.foundation/events)
 * ​[https://github.com/ParticipatoryOrgs](https://github.com/ParticipatoryOrgs)​
 * [P2P Models](https://p2pmodels.eu)
 * [A guide for funding opportunities in the crypto ecosystem](https://github.com/fredexed/crypto-funding-ops)
-* [https://docs.google.com/spreadsheets/d/1656-YlJ8wyVKMODx80pM-CuMUfcfdKFs63Uw7yyeiQk/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1656-YlJ8wyVKMODx80pM-CuMUfcfdKFs63Uw7yyeiQk/edit?usp=sharing)
 * [http://1hive.org/](http://1hive.org/)
 
