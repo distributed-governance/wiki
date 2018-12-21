@@ -13,6 +13,7 @@
 * Devcon 4 \(Prague, Oct 30- Nov 2\)
 * [Revision.io](http://revision.io/) \(Berlin, Nov 18-20\)
 * [Dgov council](https://wiki.dgov.foundation/dgov-community-council) \(Berlin, Jan 27-28\)
+* [https://www.facebook.com/events/352606141958607/](https://www.facebook.com/events/352606141958607/)
 * Amsterdam, Feb 14
 * [DGov Conference](https://dgov.foundation/conference) \(Athens\)
 
