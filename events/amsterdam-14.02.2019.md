@@ -4,14 +4,16 @@ Place: [Meet Berlage](https://meetberlage.com/)
 
 Partner: [https://blockchaintalks.io/](https://blockchaintalks.io/)
 
-Parts:
+### Parts:
 
 * Informational \(openning, 3 local speakers tell what they do, panel\)
-* Dinner
+  * Speaker 1
+  * Speaker 2
+  * Speaker 3
+* Networking Dinner
 
-Costs:
+### Costs:
 
-* Flights
-* Accomodation
+* Flights + Accommodation
 * Space
 
