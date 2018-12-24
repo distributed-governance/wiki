@@ -32,5 +32,5 @@
 ## ORG
 
 * [Foundation Thesis](org/foundation-thesis.md)
-* [Holacracy](org/holacracy.md)
+* [Onboarding / Holacracy](org/holacracy.md)
 
