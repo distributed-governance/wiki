@@ -23,7 +23,7 @@
 * [DAO Attack Vectors / Security](research/dao-attacks-and-protection.md)
 * [Radical Markets & Harberger Tax](research/radical-markets-1.md)
 * [Futarchy / Prediction markets](research/futarchy.md)
-* [Monetary Policy](research/monetary-policy.md)
+* [Tokenomics / Monetary Policy](research/monetary-policy.md)
 * [eDemocracy](research/edemocracy.md)
 * [Identity & Reputation](research/identity.md)
 * [DAO Legal Status](research/dao-legal-status.md)
