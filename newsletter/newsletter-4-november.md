@@ -3,7 +3,7 @@
 ## Community Updates  <a id="DgovCompilation#3October2018-CommunityUpdates"></a>
 
 * Aragon: 
-* DAO Stack: story on ATF
+* DAO Stack: story on ATF [https://blog.gnosis.pm/introducing-the-dxdao-27ec4301eced](https://blog.gnosis.pm/introducing-the-dxdao-27ec4301eced)
 * Colony: Launched [DAO Digest 1](https://blog.colony.io/daodigest-1/) and [2](https://blog.colony.io/daodigest-2/), [BudgetBox](https://blog.colony.io/introducing-budgetbox/?mc_cid=2887bf737e&mc_eid=798aad20d4)
 * EthTrader Donuts [https://www.reddit.com/r/ethtrader/comments/a3r1bn/you\_can\_now\_change\_the\_top\_banner\_on\_the\_redesign/?utm\_content=title&utm\_medium=front&utm\_source=reddit&utm\_name=ethtrader](https://www.reddit.com/r/ethtrader/comments/a3r1bn/you_can_now_change_the_top_banner_on_the_redesign/?utm_content=title&utm_medium=front&utm_source=reddit&utm_name=ethtrader)
 * [https://caribbeanblockchain.net/dao-research-curacao/](https://caribbeanblockchain.net/dao-research-curacao/)
@@ -16,7 +16,11 @@
 * [MakerDAO Governance Risk Framework \(Part 3\)](https://medium.com/makerdao/makerdao-governance-risk-framework-part-3-7a4c620f4077)
 * [Converting Between Bancor and Bonding Curve Price Formulas](https://medium.com/@billyrennekamp/converting-between-bancor-and-bonding-curve-price-formulas-9c11309062f5)
 * [https://www.stlouisfed.org/open-vault/2018/december/how-blockchain-can-keep-people-honest?utm\_source=twitter&utm\_medium=SM&utm\_content=stlouisfed&utm\_campaign=f74d477c-ae3c-4006-9a12-051982a90547](https://www.stlouisfed.org/open-vault/2018/december/how-blockchain-can-keep-people-honest?utm_source=twitter&utm_medium=SM&utm_content=stlouisfed&utm_campaign=f74d477c-ae3c-4006-9a12-051982a90547)
-* [https://blog.relevant.community/bonding-curves-in-depth-intuition-parametrization-d3905a681e0a](https://blog.relevant.community/bonding-curves-in-depth-intuition-parametrization-d3905a681e0a)
+* [https://www.theblockcrypto.com/2018/12/20/rchain-cooperative-functionally-bankrupt-after-questionable-deals-with-investors-and-developers-losing-faith/](https://www.theblockcrypto.com/2018/12/20/rchain-cooperative-functionally-bankrupt-after-questionable-deals-with-investors-and-developers-losing-faith/)
+* [https://medium.com/protea/exploring-bonding-curve-collateral-c37d4f922bbd](https://medium.com/protea/exploring-bonding-curve-collateral-c37d4f922bbd)
+* [https://blog.relevant.community/bonding-curves-in-depth-intuition-parametrization-d3905a681e0](https://blog.relevant.community/bonding-curves-in-depth-intuition-parametrization-d3905a681e0a)
+* [https://mailchi.mp/701822d74ce4/collaborative-finance-monthly-take-490753](https://mailchi.mp/701822d74ce4/collaborative-finance-monthly-take-490753)
+* [https://medium.com/protea/exploring-bonding-curve-collateral-c37d4f922bbd](https://medium.com/protea/exploring-bonding-curve-collateral-c37d4f922bbd)
 
 ## Work <a id="DgovCompilation#3October2018-Events"></a>
 
