@@ -29,3 +29,8 @@
 * [DAO Legal Status](research/dao-legal-status.md)
 * [Crypto Commons](research/commons.md)
 
+## ORG
+
+* [Foundation Thesis](org/foundation-thesis.md)
+* [Holacracy](org/holacracy.md)
+
