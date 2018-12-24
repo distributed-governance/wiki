@@ -28,6 +28,7 @@
 * [Identity & Reputation](research/identity.md)
 * [DAO Legal Status](research/dao-legal-status.md)
 * [Crypto Commons](research/commons.md)
+* [Dispute Resolution](research/dispute-resolution.md)
 
 ## ORG
 
