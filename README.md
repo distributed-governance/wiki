@@ -2,9 +2,7 @@
 
 ## Process
 
-{% hint style="info" %}
 Feel free to contribute to any part of this wiki – it's very welcome
-{% endhint %}
 
 * Repo: [https://github.com/MaxSemenchuk/dgovstate](https://github.com/MaxSemenchuk/dgovstate) – open for contribution \([Pull request tutorial](https://www.youtube.com/watch?v=IBYHohWm_5w)\)
 * Moderation by [Max Semenchuk](mailto:max.semenchuk@gmail.com)
