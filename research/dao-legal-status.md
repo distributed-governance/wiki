@@ -17,6 +17,7 @@
 * Ethereum: Fixing the legal problem of the DAO by Piers
 * How to Incorporate a DAO by Stephen Palley
 * How to Sue A DAO by Stephen Palley
+* [Blockchain Governance Bibliography 101-109](https://medium.com/cryptolawreview/blockchain-governance-bibliography-360efc52d3f9) by CleanApp
 
 ​[https://daowiki.atlassian.net/wiki/spaces/DAO/pages/5996567/Publications+on+the+subject+of+the+legal+status+of+The+DAO](https://daowiki.atlassian.net/wiki/spaces/DAO/pages/5996567/Publications+on+the+subject+of+the+legal+status+of+The+DAO)​
 
