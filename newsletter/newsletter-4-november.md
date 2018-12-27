@@ -5,7 +5,7 @@
 ## Community Updates  <a id="DgovCompilation#3October2018-CommunityUpdates"></a>
 
 * Aragon: [Aragon Cooperative Proposal](https://forum.aragon.org/t/community-initiative-aragon-cooperative/356)
-* DAO Stack: story on ATF, [Introducing DxDAO](https://blog.gnosis.pm/introducing-the-dxdao-27ec4301eced)
+* DAO Stack: [Introducing DxDAO](https://blog.gnosis.pm/introducing-the-dxdao-27ec4301eced)
 * Colony: Launched [DAO Digest 1](https://blog.colony.io/daodigest-1/) and [2](https://blog.colony.io/daodigest-2/), [BudgetBox](https://blog.colony.io/introducing-budgetbox/?mc_cid=2887bf737e&mc_eid=798aad20d4)
 * [EthTrader Donuts ](https://www.reddit.com/r/ethtrader/comments/a3r1bn/you_can_now_change_the_top_banner_on_the_redesign/)
 * [Dao Research-Curacao](https://caribbeanblockchain.net/dao-research-curacao/)
