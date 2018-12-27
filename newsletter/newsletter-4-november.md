@@ -1,5 +1,7 @@
 # Newsletter \#4 \(december\)
 
+// Foreword by Tim Bansemer
+
 ## Community Updates  <a id="DgovCompilation#3October2018-CommunityUpdates"></a>
 
 * Aragon: [https://forum.aragon.org/t/community-initiative-aragon-cooperative/356](https://forum.aragon.org/t/community-initiative-aragon-cooperative/356)
@@ -11,20 +13,23 @@
 
 ## Articles, Papers & Videos  <a id="DgovCompilation#3October2018-Articles,Papers&amp;Videos"></a>
 
-* [On bonding curves and charitable giving](https://tokeneconomy.co/on-bonding-curves-and-charitable-giving-9bf74b9343d2)
 * [Rethinking Blockchain: How to design the future of the commons](https://www.betterplace-lab.org/en/rethinking-blockchain-how-to-design-the-future-of-the-commons-2/)
 * [MakerDAO Governance Risk Framework \(Part 3\)](https://medium.com/makerdao/makerdao-governance-risk-framework-part-3-7a4c620f4077)
-* [Converting Between Bancor and Bonding Curve Price Formulas](https://medium.com/@billyrennekamp/converting-between-bancor-and-bonding-curve-price-formulas-9c11309062f5)
-* [https://www.stlouisfed.org/open-vault/2018/december/how-blockchain-can-keep-people-honest?utm\_source=twitter&utm\_medium=SM&utm\_content=stlouisfed&utm\_campaign=f74d477c-ae3c-4006-9a12-051982a90547](https://www.stlouisfed.org/open-vault/2018/december/how-blockchain-can-keep-people-honest?utm_source=twitter&utm_medium=SM&utm_content=stlouisfed&utm_campaign=f74d477c-ae3c-4006-9a12-051982a90547)
+* [https://www.stlouisfed.org/open-vault/2018/december/how-blockchain-can-keep-people-honest](https://www.stlouisfed.org/open-vault/2018/december/how-blockchain-can-keep-people-honest?utm_source=twitter&utm_medium=SM&utm_content=stlouisfed&utm_campaign=f74d477c-ae3c-4006-9a12-051982a90547)
 * [https://www.theblockcrypto.com/2018/12/20/rchain-cooperative-functionally-bankrupt-after-questionable-deals-with-investors-and-developers-losing-faith/](https://www.theblockcrypto.com/2018/12/20/rchain-cooperative-functionally-bankrupt-after-questionable-deals-with-investors-and-developers-losing-faith/)
-* [https://medium.com/protea/exploring-bonding-curve-collateral-c37d4f922bbd](https://medium.com/protea/exploring-bonding-curve-collateral-c37d4f922bbd)
-* [https://blog.relevant.community/bonding-curves-in-depth-intuition-parametrization-d3905a681e0](https://blog.relevant.community/bonding-curves-in-depth-intuition-parametrization-d3905a681e0a)
 * [https://mailchi.mp/701822d74ce4/collaborative-finance-monthly-take-490753](https://mailchi.mp/701822d74ce4/collaborative-finance-monthly-take-490753)
+
+#### Continuous Funding / Bonding Curves
+
 * [https://medium.com/protea/exploring-bonding-curve-collateral-c37d4f922bbd](https://medium.com/protea/exploring-bonding-curve-collateral-c37d4f922bbd)
+* [On bonding curves and charitable giving](https://tokeneconomy.co/on-bonding-curves-and-charitable-giving-9bf74b9343d2)
+* [https://blog.relevant.community/bonding-curves-in-depth-intuition-parametrization-d3905a681e0](https://blog.relevant.community/bonding-curves-in-depth-intuition-parametrization-d3905a681e0a)
+* [Converting Between Bancor and Bonding Curve Price Formulas](https://medium.com/@billyrennekamp/converting-between-bancor-and-bonding-curve-price-formulas-9c11309062f5)
+* [https://medium.com/@LinumLabs/13b818b7c73e](https://medium.com/@LinumLabs/13b818b7c73e)
 
 ## Work <a id="DgovCompilation#3October2018-Events"></a>
 
-New section where we list open positions, bounties and gigs that support dgov, daos etc! PM to add your positions or provide feedback. 
+New section where we list open positions, bounties and gigs that support dgov, DAOs etc! PM to add your positions or provide feedback. 
 
 * [Open positions for Aragon One and Aragon DAC](https://wiki.aragon.org/jobs/)
 * [Genesis Alpha Bounties](https://docs.google.com/spreadsheets/d/1FV8iz4ebZb4E3nXckzPsWy7IfhtsX3filkbX_gbPLNs/edit#gid=204783618)
