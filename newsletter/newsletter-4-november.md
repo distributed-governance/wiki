@@ -10,17 +10,18 @@
 * F.Trouw & R.Russel took an [initiative to investigate the viability of a DAO as an alternative organizational model](https://caribbeanblockchain.net/dao-research-curacao/) for large-scale decision making in Curaçao.
 * [You can now change the top banner on r/EthTrader using Harberger Tax mechanics](https://www.reddit.com/r/ethtrader/comments/a3r1bn/you_can_now_change_the_top_banner_on_the_redesign/)
 * Edgeware network [will be launched with a _lockdrop_ of _EDG_ tokens](https://medium.com/commonwealth-labs/whats-in-a-lockdrop-194218a180ca) to Ether holders
-* DGOV: council preparation , new [books](https://zoom.us/j/8724757219) and events section in wiki
+* DGOV: [council preparation](https://wiki.dgov.foundation/events/dgov-community-council) are going full throttle, new [books](https://zoom.us/j/8724757219) and [events](https://wiki.dgov.foundation/events) section in wiki
 
 ## Articles, Papers & Videos  <a id="DgovCompilation#3October2018-Articles,Papers&amp;Videos"></a>
 
 * [Rethinking Blockchain: How to design the future of the commons](https://www.betterplace-lab.org/en/rethinking-blockchain-how-to-design-the-future-of-the-commons-2/) by Yannick Lebert
+* [The Wood-Zamfir Governance Debates debrief](https://medium.com/cryptolawreview/the-wood-zamfir-governance-debates-80e92436a457) by CleanApp
 * [MakerDAO Governance Risk Framework \(Part 3\)](https://medium.com/makerdao/makerdao-governance-risk-framework-part-3-7a4c620f4077)
 * [How a Blockchain Can Keep People Honest \(and Log Uncooperative Behavior\)](https://www.stlouisfed.org/open-vault/2018/december/how-blockchain-can-keep-people-honest) by Andrew Spewak
 * [RChain cooperative ‘functionally bankrupt’ after questionable deals, with investors and developers losing faith](https://www.theblockcrypto.com/2018/12/20/rchain-cooperative-functionally-bankrupt-after-questionable-deals-with-investors-and-developers-losing-faith/) by Isabel Woodford
 * [Self-management meets Decentralization](https://mailchi.mp/701822d74ce4/collaborative-finance-monthly-take-490753) newsletter issue
 * [“We want to Uberize the police”: Liberland as a DAO](http://coinedtimes.com/we-want-to-uberize-the-police-liberland-as-a-dao/) by Maria Matic
-* 
+
 #### Continuous Funding / Bonding Curves
 
 * [Bonding Curves In Depth: Intuition & Parametrization](https://blog.relevant.community/bonding-curves-in-depth-intuition-parametrization-d3905a681e0a) by Slava Balasanov
