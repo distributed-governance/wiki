@@ -66,7 +66,9 @@ We strive to provide:
 
 * Newsletter
 * Local Meetups 
-* Athens Conference
+* Telegram Group
+* Councils
+* Conferences
 
 ### Rules <a id="DGOVFoundationThesis-Rules"></a>
 
