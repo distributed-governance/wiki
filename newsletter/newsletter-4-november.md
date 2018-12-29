@@ -1,6 +1,31 @@
 # Newsletter \#4 \(december\)
 
-// Foreword by Tim Bansemer
+Dear DGOV Community,  
+****It's the ****last newsletter this year, and Tim has prepared a foreword about vision, challenges, thanks and wishes. Check it out and all the link are below.
+
+--
+
+An eventful year is coming to an end. A year where the governance debate in the blockchain space has substantially gained awareness and recognition. The year where the ETHCC in Paris and intense debates on the stairways of the event location took place, the year where Lane initiated the EIP0 initiative, where the Ethereum Magicians came together in Berlin, Prague, Leipzig and elsewhere.
+
+For us, it was also the year where we emphasized the DGOV event in Athens, but like many others, in the blockchain space, we recognized that good things take time and now we are happy to come together for the mini version of the DGOV event in January 2019.
+
+2019 is just around the corner.  And we expect 2019 to be a year of transformation, where we see more real-world implementations of new governance structure and the formation of new alliances to tackle the governance challenges together. Therefore we expect nothing short than substantial developments in the upcoming year.
+
+While we progress we need also to ask if progress is really everything we look for? DGOV has the intention to not only be a research and implementation network to exchange knowledge around distributed governance but also to be intentional about the responsibility we hold as those which are privileged in having those debates and designing those new governance systems.
+
+We wish to strongly include a humanistic approach where those systems help us to empower each other, to enable each other to have more opportunities and better access to services, political participation and knowledge. We believe that it is about the people and that technology should serve us and our intentions.
+
+That said we look forward for more debates and conversations where we take a stronger humanistic approach to governance in 2019. One where we align self-empowerment, freedom, caring for each other and strong collaboration in win-win constellations with each together.
+
+We are thankful to be part of a community of exceptional thinkers, many articles and books have been written this year which substantially enrich the governance debate. We are thankful to meet and exchange thoughts with those exceptional individuals which are often driven by a strong passion to find alternatives models for existing centralized governance models which come to their limited to successfully react to issues which require faster response times and which present more complex challenges than ever before. We are looking for new governance models which are offering alternatives to strongly capital or/and power-driven decision making.
+
+We are thankful to be part of a community which thrives for understanding and knowledge. A community which does not stop the debate while we hit the boundary of a scientific ‘field’ we don’t field comfortably with, instead we experienced anti-disciplinary debates where a deep understanding for existing governance and financial structures is formed while having the courage to envision new ones and working activity on bringing them into the world. And where learning about other fields of expertise is encouraged and part of the living culture.
+
+We are a privileged group of individuals with a unique chance in time to combine technical and social knowledge to step up to lay out new foundations for governances structures for potentially millions of people.
+
+We look forward to seeing many of you at the DGOV Council on the 27th and 28th of January 2019 to continue our work to strengthen an international, anti-disciplinary community to accelerate the development and implementation of distributed governance models. We wish you and your family and friends a happy new years eve!
+
+Tim Bansemer, DGOV Foundation
 
 ## Community Updates   <a id="DgovCompilation#3October2018-CommunityUpdates"></a>
 
