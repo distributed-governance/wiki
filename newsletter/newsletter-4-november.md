@@ -35,7 +35,7 @@ Tim Bansemer, DGOV Foundation
 * F.Trouw & R.Russel took an [initiative to investigate the viability of a DAO as an alternative organizational model](https://caribbeanblockchain.net/dao-research-curacao/) for large-scale decision making in Curaçao.
 * [You can now change the top banner on r/EthTrader using Harberger Tax mechanics](https://www.reddit.com/r/ethtrader/comments/a3r1bn/you_can_now_change_the_top_banner_on_the_redesign/)
 * Edgeware network [will be launched with a _lockdrop_ of _EDG_ tokens](https://medium.com/commonwealth-labs/whats-in-a-lockdrop-194218a180ca) to Ether holders
-* DGOV: [council preparation](https://wiki.dgov.foundation/events/dgov-community-council) are going full throttle, new [books](https://zoom.us/j/8724757219) and [events](https://wiki.dgov.foundation/events) section in wiki
+* DGOV: [council preparation](https://wiki.dgov.foundation/events/dgov-community-council) are going full throttle, new [books](https://wiki.dgov.foundation/#books) and [events](https://wiki.dgov.foundation/events) section in wiki
 
 ## Articles, Papers & Videos  <a id="DgovCompilation#3October2018-Articles,Papers&amp;Videos"></a>
 
