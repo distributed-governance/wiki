@@ -77,5 +77,8 @@ Maintained by [DGov Foundation](https://dgov.foundation/)
 * ​[https://github.com/ParticipatoryOrgs](https://github.com/ParticipatoryOrgs)​
 * [P2P Models](https://p2pmodels.eu)
 * [A guide for funding opportunities in the crypto ecosystem](https://github.com/fredexed/crypto-funding-ops)
+* [https://blog.p2pfoundation.net/category/politics/p2p-governance](https://blog.p2pfoundation.net/category/politics/p2p-governance)
+* [http://wiki.p2pfoundation.net/Introduction\_to\_Governance\_from\_a\_P2P\_Perspective](http://wiki.p2pfoundation.net/Introduction_to_Governance_from_a_P2P_Perspective)
+* [Resources for decentralised organising](https://hackmd.io/s/Skh_dXNbE) by ****Richard D. Bartlett
 * [http://1hive.org/](http://1hive.org/)
 
