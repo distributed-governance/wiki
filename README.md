@@ -24,7 +24,8 @@ Maintained by [DGov Foundation](https://dgov.foundation/)
 * [Collective One](https://www.collectiveone.org/) – method \(and a platform\) to develop open, decentralized and collaborative initiatives: initiatives to which anyone can, potentially, contribute, and which are collectively owned and self-governed by their contributors.
 * [Common Interest](https://commoninterest.io/) – build incentivized societies
 * [xDAC](https://xdac.co/) is A Place To Start and Manage Decentralized Companies
-* [Edgeware](https://edgewa.re/) – an experimental blockchain for demonstrating the effectiveness of on-chain governance. 
+* [Edgeware](https://edgewa.re/) – an experimental blockchain for demonstrating the effectiveness of on-chain governance
+* [Kelsen](https://klsn.io/) – a dapp and a smart contract framework for building secure and transparent governance systems on Ethereum
 
 **Concepts:**
 
