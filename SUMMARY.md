@@ -34,4 +34,5 @@
 
 * [Foundation Thesis](org/foundation-thesis.md)
 * [Onboarding / Holacracy](org/holacracy.md)
+* [Identity](org/identity.md)
 
