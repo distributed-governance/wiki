@@ -10,7 +10,7 @@ We exist to support the progress of distributed governance research and implemen
   * Pilots
   * Access to the research
   * Access to the community \(e.g. sentiment\)
-* DAO infra providers \(aragon, daostack\)
+* DAO infra providers \(Aragon, DAOStack\)
   * Pilots
   * Access to the research
   * Access to the community \(e.g. sentiment\)
