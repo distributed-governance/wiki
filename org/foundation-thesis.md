@@ -14,7 +14,7 @@ We exist to support the progress of distributed governance research and implemen
   * Pilots
   * Access to the research
   * Access to the community \(e.g. sentiment\)
-* Practitioners / Faci \(Polkalab, enspiral, wework\)
+* Practitioners / Facilitators \(Percolab, Enspiral, Wework\)
   * Adoption / access to customers
   * Testing ground
 * DO / DAO \(Aragon DAC\)
