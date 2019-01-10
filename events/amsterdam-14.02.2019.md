@@ -7,13 +7,23 @@ Partner: [https://blockchaintalks.io/](https://blockchaintalks.io/)
 ### Parts:
 
 * Informational \(openning, 3 local speakers tell what they do, panel\)
-  * Speaker 1
-  * Speaker 2
-  * Speaker 3
-* Networking Dinner
+  * DutchX
+  * Max DGOV
+  * Rinke
+  * Aragon? Pollinators? – Max will check
+* Networking in Pub 
+
+20m+10m speeches
+
+Always above 50. Maybe 60-70 attendees
 
 ### Costs:
 
-* Flights + Accommodation
-* Space
+* Ticket EUR 9-16
+* Sponsors of event
+
+## Tasks:
+
+* Max check on Speakers
+* Continue after sunday, Luuk gets back with the info from the team
 
