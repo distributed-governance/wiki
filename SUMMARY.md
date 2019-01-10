@@ -16,6 +16,7 @@
 ## Research
 
 * [On-Chain Governance Case Studies](research/protocol-governance-case-studies.md)
+* [\#dgov collaboration strategy](research/dgov-collaboration-strategy.md)
 * [Continuous Token Model](research/curation-markets-and-bonding-curve/README.md)
   * [Work group](research/curation-markets-and-bonding-curve/work-group.md)
   * [Use Case: Software Project](research/curation-markets-and-bonding-curve/use-case-software-project.md)
