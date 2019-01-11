@@ -1,7 +1,8 @@
 # Table of contents
 
 * [DGOV Resources](README.md)
-* [How to Contribute](how-to-contribute.md)
+* [How to Contribute](how-to-contribute/README.md)
+  * [Host Local Meetups](how-to-contribute/meetups.md)
 * [Newsletter](newsletter/README.md)
   * [Newsletter \#3 \(november\)](newsletter/newsletter-3-november.md)
   * [Newsletter \#4 \(december\)](newsletter/newsletter-4-november.md)
@@ -9,7 +10,6 @@
 * [Events](events/README.md)
   * [DGOV Community Council](events/dgov-community-council/README.md)
     * [Topics \(draft\)](events/dgov-community-council/topics-draft.md)
-  * [Host Local Meetups](events/meetups.md)
   * [Amsterdam 14.02.2019](events/amsterdam-14.02.2019.md)
 * [More on the official website](https://dgov.foundation)
 
