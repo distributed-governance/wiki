@@ -10,6 +10,7 @@
 ## Articles, Papers & Videos  <a id="DgovCompilation#3October2018-Articles,Papers&amp;Videos"></a>
 
 * [https://medium.com/pando-network/dao-the-future-of-content-fd9349d94b24](https://medium.com/pando-network/dao-the-future-of-content-fd9349d94b24)
+* [https://blog.gnosis.pm/a-brief-discussion-of-the-protocol-governing-the-dxdao-7331407a2555](https://blog.gnosis.pm/a-brief-discussion-of-the-protocol-governing-the-dxdao-7331407a2555)
 * [https://medium.com/@mateo.2121/commonists-and-libertarians-cc85d0dc1e92](https://medium.com/@mateo.2121/commonists-and-libertarians-cc85d0dc1e92)
 
 ## Work <a id="DgovCompilation#3October2018-Events"></a>
