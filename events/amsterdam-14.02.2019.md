@@ -1,26 +1,22 @@
 # Amsterdam 14.02.2019
 
-Place: [Meet Berlage](https://meetberlage.com/)
+Place: [Meet Berlage](https://meetberlage.com/)  
+Partner: [https://blockchaintalks.io/](https://blockchaintalks.io/)  
+Attendees: 50-70 
 
-Partner: [https://blockchaintalks.io/](https://blockchaintalks.io/)
+### Format:
 
-### Parts:
-
-* Informational \(openning, 3 local speakers tell what they do, panel\)
-  * DutchX
-  * Max DGOV
-  * Rinke
-  * Aragon? Pollinators? – Max will check
+* Informational \(20m speeches + 10m question\)
+  * Max Semenchuk, DGOV Foundation
+  * Rinke Hendriksen
+  * Ruben Russel, Caribbean Blockchain Network
+  * ...
 * Networking in Pub 
-
-20m+10m speeches
-
-Always above 50. Maybe 60-70 attendees
 
 ### Costs:
 
 * Ticket EUR 9-16
-* Sponsors of event
+* + Extra Sponsors
 
 ## Tasks:
 
