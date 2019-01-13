@@ -1,6 +1,7 @@
 # Table of contents
 
 * [DGOV Resources](README.md)
+* [Foundation Thesis](foundation-thesis.md)
 * [How to Contribute](how-to-contribute/README.md)
   * [Host Local Meetups](how-to-contribute/meetups.md)
 * [Newsletter](newsletter/README.md)
@@ -34,7 +35,6 @@
 
 ## ORG
 
-* [Foundation Thesis](org/foundation-thesis.md)
 * [Onboarding / Holacracy](org/holacracy.md)
 * [Identity](org/identity.md)
 
