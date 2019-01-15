@@ -3,7 +3,7 @@
 ## Community Updates  
 
 * Aragon: 
-* DAO Stack: 
+* DAO Stack: [https://medium.com/daostack/daostack-in-2019-76d7634e27c6](https://medium.com/daostack/daostack-in-2019-76d7634e27c6)
 * Colony: 
 * DGOV: 
 
