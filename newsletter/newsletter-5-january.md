@@ -12,15 +12,17 @@
 * [https://medium.com/pando-network/dao-the-future-of-content-fd9349d94b24](https://medium.com/pando-network/dao-the-future-of-content-fd9349d94b24)
 * [https://blog.gnosis.pm/a-brief-discussion-of-the-protocol-governing-the-dxdao-7331407a2555](https://blog.gnosis.pm/a-brief-discussion-of-the-protocol-governing-the-dxdao-7331407a2555)
 * [https://medium.com/daostack/five-great-proposals-from-genesis-the-first-community-dao-7f79b7a15539](https://medium.com/daostack/five-great-proposals-from-genesis-the-first-community-dao-7f79b7a15539)
+* [https://medium.com/@mintbit/governance-of-blockchain-ecosystems-1-2-54f1f55208fa](https://medium.com/@mintbit/governance-of-blockchain-ecosystems-1-2-54f1f55208fa)
 * [https://medium.com/@mateo.2121/commonists-and-libertarians-cc85d0dc1e92](https://medium.com/@mateo.2121/commonists-and-libertarians-cc85d0dc1e92)
 
-## Work <a id="DgovCompilation#3October2018-Events"></a>
+## Support DAOs <a id="DgovCompilation#3October2018-Events"></a>
 
 A new section, where we list open positions, bounties and gigs that support dgov, DAOs etc! Please PM me to add additional positions or provide feedback. 
 
 * [Open positions for Aragon One and Aragon DAC](https://wiki.aragon.org/jobs/)
 * [Genesis Alpha Bounties](https://docs.google.com/spreadsheets/d/1FV8iz4ebZb4E3nXckzPsWy7IfhtsX3filkbX_gbPLNs/edit#gid=204783618)
 * [Colony Bug Bounty](https://docs.colony.io/colonynetwork/bug-bounty-program-overview/)
+* [Contribute to \#dgov](https://wiki.dgov.foundation/how-to-contribute)
 
 ## Events  <a id="DgovCompilation#3October2018-Events"></a>
 
