@@ -13,6 +13,7 @@
 * [https://blog.gnosis.pm/a-brief-discussion-of-the-protocol-governing-the-dxdao-7331407a2555](https://blog.gnosis.pm/a-brief-discussion-of-the-protocol-governing-the-dxdao-7331407a2555)
 * [https://medium.com/daostack/five-great-proposals-from-genesis-the-first-community-dao-7f79b7a15539](https://medium.com/daostack/five-great-proposals-from-genesis-the-first-community-dao-7f79b7a15539)
 * [https://medium.com/@mintbit/governance-of-blockchain-ecosystems-1-2-54f1f55208fa](https://medium.com/@mintbit/governance-of-blockchain-ecosystems-1-2-54f1f55208fa)
+* [https://medium.com/gitcoin/experiments-with-liberal-radicalism-ad68e02efd4](https://medium.com/gitcoin/experiments-with-liberal-radicalism-ad68e02efd4)
 * [https://medium.com/@mateo.2121/commonists-and-libertarians-cc85d0dc1e92](https://medium.com/@mateo.2121/commonists-and-libertarians-cc85d0dc1e92)
 
 ## Support DAOs <a id="DgovCompilation#3October2018-Events"></a>
