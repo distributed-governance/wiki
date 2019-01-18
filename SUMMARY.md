@@ -37,4 +37,6 @@
 
 * [Onboarding / Holacracy](org/holacracy.md)
 * [Identity](org/identity.md)
+* [Roles](org/roles/README.md)
+  * [PR Manager](org/roles/pr-manager.md)
 
