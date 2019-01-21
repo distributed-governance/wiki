@@ -4,7 +4,7 @@ Subscribe to newsletter: [https://dgov.foundation\#join](https://dgov.foundation
 
 Archive:
 
-* * November 2018
-* December 2018
-* January 2019
+* [November 2018](https://wiki.dgov.foundation/newsletter/newsletter-3-november)
+* [December 2018](https://wiki.dgov.foundation/newsletter/newsletter-4-december)
+* [January 2019](https://wiki.dgov.foundation/newsletter/newsletter-5-january)
 
