@@ -6,7 +6,7 @@
   * [Host Local Meetups](how-to-contribute/meetups.md)
 * [Newsletter](newsletter/README.md)
   * [Newsletter \#3 \(november\)](newsletter/newsletter-3-november.md)
-  * [Newsletter \#4 \(december\)](newsletter/newsletter-4-november.md)
+  * [Newsletter \#4 \(december\)](newsletter/newsletter-4-december.md)
   * [Newsletter \#5 \(january\)](newsletter/newsletter-5-january.md)
 * [Events](events/README.md)
   * [DGOV Community Council](events/dgov-community-council/README.md)
