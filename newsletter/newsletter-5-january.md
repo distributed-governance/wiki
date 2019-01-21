@@ -15,6 +15,8 @@
 * [https://medium.com/@mintbit/governance-of-blockchain-ecosystems-1-2-54f1f55208fa](https://medium.com/@mintbit/governance-of-blockchain-ecosystems-1-2-54f1f55208fa)
 * [https://medium.com/gitcoin/experiments-with-liberal-radicalism-ad68e02efd4](https://medium.com/gitcoin/experiments-with-liberal-radicalism-ad68e02efd4)
 * [https://medium.com/@thibauld/continuous-organizations-v1-0-45d42b3082bb?sk=d7910589c614614c8086ef96de836a53](https://medium.com/@thibauld/continuous-organizations-v1-0-45d42b3082bb?sk=d7910589c614614c8086ef96de836a53)
+* [https://tokeneconomy.co/why-2019-will-be-the-year-of-the-dao-20f18117e4c1](https://tokeneconomy.co/why-2019-will-be-the-year-of-the-dao-20f18117e4c1)
+* [https://medium.com/@simondlr/the-moloch-dao-collapsing-the-firm-2a800b3aa2e7](https://medium.com/@simondlr/the-moloch-dao-collapsing-the-firm-2a800b3aa2e7)
 * [https://medium.com/@mateo.2121/commonists-and-libertarians-cc85d0dc1e92](https://medium.com/@mateo.2121/commonists-and-libertarians-cc85d0dc1e92)
 
 ## Support DAOs <a id="DgovCompilation#3October2018-Events"></a>
