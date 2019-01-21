@@ -32,29 +32,27 @@ Maintained by [DGov Foundation](https://dgov.foundation/)
 * [https://sobol.io/](https://sobol.io/)
 * [http://www.cone.network/](http://www.cone.network/)
 
-## **Forums**
-
-* ​[Ethereum Research Forum / Economics](https://ethresear.ch/c/economics)​
-* ​[Aragon Research Forum](https://research.aragon.org/)​
-* ​[DAO Stack Forum](https://forum.daostack.io/)​
-* [Colony Forum](https://build.colony.io/)
-
-## **Newsletters & Blogs**
+## **Newsletters, Blogs, Podcasts**
 
 * ​[Aragon monthly](https://monthly.aragon.org/)​
 * ​[Token Economy](http://weekly.tokeneconomy.co/)​
 * ​[Tony Sheng](https://www.tonysheng.com/)​
 * [Colony blog](http://blog.colony.io)
 * [DGOV newsletter](https://dgov.foundation/newsletter)
+* [DAO Cast](https://daocast.io/)
 * DAO Stack newsletter
 
-## **Subreddits**
+## **Forums & Subreddits**
 
-* ​[Dgov](https://new.reddit.com/r/dgov/)​
-* ​[Aragon](https://www.reddit.com/r/aragonproject/)​
-* ​[Colony](https://www.reddit.com/r/joincolony)​
-* ​[DAO Stack](https://www.reddit.com/r/daostack/)​
-* ​[District0x](https://www.reddit.com/r/district0x)​
+* ​[Ethereum Research Forum / Economics](https://ethresear.ch/c/economics)​
+* ​[Aragon Research Forum](https://research.aragon.org/)​
+* ​[DAO Stack Forum](https://forum.daostack.io/)​
+* [Colony Forum](https://build.colony.io/)
+* ​r/[Dgov](https://new.reddit.com/r/dgov/)​
+* ​r/[Aragon](https://www.reddit.com/r/aragonproject/)​
+* r/​[Colony](https://www.reddit.com/r/joincolony)​
+* r/​[DAO Stack](https://www.reddit.com/r/daostack/)​
+* ​r/[District0x](https://www.reddit.com/r/district0x)​
 
 ## **Chats**
 
