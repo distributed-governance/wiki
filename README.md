@@ -79,4 +79,5 @@ Maintained by [DGov Foundation](https://dgov.foundation/)
 * [http://wiki.p2pfoundation.net/Introduction\_to\_Governance\_from\_a\_P2P\_Perspective](http://wiki.p2pfoundation.net/Introduction_to_Governance_from_a_P2P_Perspective)
 * [Resources for decentralised organising](https://hackmd.io/s/Skh_dXNbE) by ****Richard D. Bartlett
 * [http://1hive.org/](http://1hive.org/)
+* [https://labs.globalchallenges.org/](https://labs.globalchallenges.org/)
 
