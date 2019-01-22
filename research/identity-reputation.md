@@ -6,6 +6,8 @@
 * Walkaway by Cory Doctorow
 * [DAO to DAO Reputation Sharing](https://docs.google.com/document/d/18GF3f130miEsaASw-TRCHR-qRtbL8y-UsfusV7pXuZg/edit#heading=h.te2mhsw5zg3z). Rawson, Weller \(2018\)
 * [How should we distribute reputation?](https://ethereum-magicians.org/t/how-should-we-distribute-reputation/2252) EthMagicians Forum
+* [DAO Stack whitepaper](https://daostack.io/wp/DAOstack-White-Paper-en.pdf)
+* [Colony Reputation System](https://blog.colony.io/the-colony-reputation-system-5616293c3949/)
 
 
 
