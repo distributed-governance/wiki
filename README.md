@@ -74,6 +74,7 @@ Maintained by [DGov Foundation](https://dgov.foundation/)
 ## **Misc**
 
 * [DGov Event List](https://wiki.dgov.foundation/events)
+* [District0x Educational portal: on-chain vs off-chain governance](https://education.district0x.io/general-topics/what-is-governance/)
 * ​[https://github.com/ParticipatoryOrgs](https://github.com/ParticipatoryOrgs)​
 * [P2P Models](https://p2pmodels.eu)
 * [A guide for funding opportunities in the crypto ecosystem](https://github.com/fredexed/crypto-funding-ops)
