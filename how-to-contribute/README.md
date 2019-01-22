@@ -7,7 +7,6 @@
 * Host [local meetups](https://wiki.dgov.foundation/meetups) and events
 * Donate
   * ETH \(Aragon Multisig\) 0x0D5239fc485fd9f065B6AD581d4250abD68CCd0C
-  * BTC 0x0D5239fc485fd9f065B6AD581d4250abD68CCd0C
   * Fiat \(by invoice contact tim.bansemer@inblock.io\)
 
 
