@@ -28,7 +28,7 @@
 * [Futarchy / Prediction markets](research/futarchy.md)
 * [Tokenomics / Monetary Policy](research/monetary-policy.md)
 * [eDemocracy](research/edemocracy.md)
-* [Identity & Reputation](research/identity-reputation.md)
+* [Identity & Reputation](research/identity.md)
 * [DAO Legal Status](research/dao-legal-status.md)
 * [Crypto Commons](research/commons.md)
 * [Dispute Resolution](research/dispute-resolution.md)
