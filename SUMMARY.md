@@ -9,8 +9,7 @@
   * [Newsletter \#4 \(december\)](newsletter/newsletter-4-december.md)
   * [Newsletter \#5 \(january\)](newsletter/newsletter-5-january.md)
 * [Events](events/README.md)
-  * [DGOV Community Council](events/dgov-community-council/README.md)
-    * [Topics \(draft\)](events/dgov-community-council/topics-draft.md)
+  * [DGOV Community Council](events/dgov-community-council.md)
   * [Amsterdam 14.02.2019](events/amsterdam-14.02.2019.md)
 * [More on the official website](https://dgov.foundation)
 
