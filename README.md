@@ -61,6 +61,7 @@ Maintained by [DGov Foundation](https://dgov.foundation/)
 * [Aragon Chat](https://aragon.chat/)
 * ​[Ethereum Governance](https://gitter.im/ethereum/governance)​
 * ​[DAO Incubator](https://t.me/DAOincubator)​
+* [Mechanism Design](https://t.me/mechanismdesigners)
 
 ## Books
 
