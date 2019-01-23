@@ -9,6 +9,7 @@
 * [DAO Stack whitepaper](https://daostack.io/wp/DAOstack-White-Paper-en.pdf)
 * [Colony Reputation System](https://blog.colony.io/the-colony-reputation-system-5616293c3949/)
 * [Introducing Monetha’s Decentralized Reputation Framework](https://blog.monetha.io/framework-intro/)
+* [https://github.com/relevant-community/docs/blob/master/README.md](https://github.com/relevant-community/docs/blob/master/README.md)
 
 
 
