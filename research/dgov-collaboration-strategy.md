@@ -2,10 +2,9 @@
 
 ### Directions:
 
-* Community building for internal communication channels & relations
-* Knowledge sharing: ****conference, grants, books etc
-* Research grants
+* Global community building for better communication channels & relations
+* Knowledge sharing: ****conference, grants, books, market mapping etc
 * Regulation framework and government relations
 * DAO Incubation & experiments with existing needs
-* Culture & Arts?
+* Inspiration with Culture & Arts \(e.g. movies\)
 
