@@ -6,6 +6,7 @@
 * Better internal communication channels & relations
 * Market mapping, research and experiments
 * Working with regulators
+* DAO Incubation?
 
 
 
