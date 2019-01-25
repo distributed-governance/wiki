@@ -2,15 +2,11 @@
 
 ## Purpose <a id="DGOVFoundationThesis-Purpose"></a>
 
-We exist to support the progress of distributed governance research and implementation. Our vision is to build the metacommunity: platform-agnostic and cross-domain \(for tech, academics and policy makers\).
+We exist to support the progress of distributed governance research and implementation. Our vision is to build the meta-community: platform-agnostic and cross-domain \(for tech, academics and policy makers\).
 
 ## Audience & Needs hypothesis <a id="DGOVFoundationThesis-Audience&amp;Needshypothesis"></a>
 
-* Infrastructure projects \(Tezos, Ethereum\)
-  * Pilots
-  * Access to the research
-  * Access to the community \(e.g. sentiment\)
-* DAO infra providers \(Aragon, DAOStack\)
+* Infrastructure projects \(Ethereum, Tezos, Aragon, DAOStack...\)
   * Pilots
   * Access to the research
   * Access to the community \(e.g. sentiment\)
@@ -22,9 +18,6 @@ We exist to support the progress of distributed governance research and implemen
   * Access to the research
   * Access to the community \(engagement, hires, finances\)
   * Regulation Framework
-* DGov Team
-  * Compensation
-  * Recognition
 * Academics \(Jacob Eberhardt ZKProofs, Carla Legal Research\)
   * Resource for research
   * Access to the community
@@ -33,6 +26,9 @@ We exist to support the progress of distributed governance research and implemen
   * Understanding / Exploration / Access to sandboxes and expertise
 * Outer Circles \(e.g. WEF\)
   * Understanding
+* DGov Team
+  * Recognition
+  * Fair Compensation
 
 ## Values <a id="DGOVFoundationThesis-Values"></a>
 
