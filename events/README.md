@@ -6,18 +6,12 @@
 * [Devcon4](https://devcon4.ethereum.org) \(Oct 30 – Nov 2, Prague\)
 * [Liberthon](https://www.liberthon.org/) \(Nov 8-9, Tel-Aviv\)
 * [Revision conference](https://revision.io/) \(Nov 19-20, Berlin\) explores the transition to a more human-centric future
-* ​[Aracon One](https://aracon.one/) \(Jan 29-30  '19, Berlin\)
-* ​[Dgov](https://dgov.earth/) \(Jun '19, Athens\)
-* EthBerlin \(Berlin, Sep 7-9\)
-* Web3 Summit \(Berlin, 22-24 Oct\)
-* Devcon 4 \(Prague, Oct 30- Nov 2\)
-* [Revision.io](http://revision.io/) \(Berlin, Nov 18-20\)
 * [Distributed Governance in Practice with Alanna Irving](https://www.eventbrite.co.uk/e/dgov-webinar-with-alanna-irving-phoebe-tickell-on-distributed-governance-open-source-tech-radical-tickets-54795438632) \(Webinar, Jan 16\) 
 * [Dgov council](https://wiki.dgov.foundation/events/dgov-community-council) \(Berlin, Jan 27-28\)
+* ​[Aracon One](https://aracon.one/) \(Jan 29-30  '19, Berlin\)
 * [LUCID Dawning :: Connecting Transformative Culture-Makers](https://www.facebook.com/events/352606141958607/) \(Berlin, Feb 1\)
-* [DGov Conference](https://dgov.foundation/conference) \(Athens\)
+* [DGov Conference \(Athens\)](https://www.eventbrite.com/e/rebooting-the-web-of-trust-viii-spring-2019-barcelona-tickets-54843077120)
+* [Rebooting the Web of Trust VIII](https://www.eventbrite.com/e/rebooting-the-web-of-trust-viii-spring-2019-barcelona-tickets-54843077120) \(Barcelona, Mar 1\)
 
-Google calendar link: [https://calendar.google.com/calendar/embed?src=av3fo8o2ocl3ft25s6as54c26s%40group.calendar.google.com](https://calendar.google.com/calendar/embed?src=av3fo8o2ocl3ft25s6as54c26s%40group.calendar.google.com)
-
-[How to host a local meetup](https://wiki.dgov.foundation/meetups)
+Want to host a local meetup?[ here're some tips](https://wiki.dgov.foundation/meetups)
 
