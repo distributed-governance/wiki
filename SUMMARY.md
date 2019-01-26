@@ -10,7 +10,7 @@
   * [Newsletter \#5 \(january\)](newsletter/newsletter-5-january.md)
 * [Events](events/README.md)
   * [DGOV Community Council](events/dgov-community-council.md)
-  * [Amsterdam 14.02.2019](events/amsterdam-14.02.2019.md)
+  * [Amsterdam 14.03.2019 \(draft\)](events/amsterdam-14.02.2019.md)
 * [More on the official website](https://dgov.foundation)
 
 ## Research
