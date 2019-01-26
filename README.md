@@ -84,9 +84,7 @@ Maintained by [DGov Foundation](https://dgov.foundation/)
 * [http://1hive.org/](http://1hive.org/)
 * [https://labs.globalchallenges.org/](https://labs.globalchallenges.org/)
 
-## Contributors
+## Thanks to the Contributors!
 
-#### [@PhilH](https://github.com/PhilH), [@parrachia](https://github.com/parrachia),  [@FantasticoFox](https://github.com/FantasticoFox)
-
-#### If you have more to add, please edit this page or email max.semenchuk@gmail.com![:heart\_eyes:](https://hackmd.io/build/emojify.js/dist/images/basic/heart_eyes.png)
+[@PhilH](https://github.com/PhilH), [@parrachia](https://github.com/parrachia), [@FantasticoFox](https://github.com/FantasticoFox)
 
