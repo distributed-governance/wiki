@@ -40,7 +40,6 @@ Maintained by [DGov Foundation](https://dgov.foundation/)
 * [Colony blog](http://blog.colony.io)
 * [DGOV newsletter](https://dgov.foundation/newsletter)
 * [DAO Cast](https://daocast.io/)
-* DAO Stack newsletter
 
 ## **Forums & Subreddits**
 
