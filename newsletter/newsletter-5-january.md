@@ -33,10 +33,7 @@ A new section, where we list open positions, bounties and gigs that support dgov
 
 ## Events  <a id="DgovCompilation#3October2018-Events"></a>
 
-* COALA workshop \(Berlin, Jan 25-26\)
-* [\#dgov community council](https://wiki.dgov.foundation/dgov-community-council)  \(Berlin, Jan 27-28\)
-* [Aracon](https://aracon.one/) \(Berlin, Jan 29-30\) by Aragon
-* [radicalXchange](https://radicalxchange.org/) \(Detroit, March 22-24\)
+* ...
 
 Subscribe to [google calendar](https://calendar.google.com/calendar/embed?src=av3fo8o2ocl3ft25s6as54c26s%40group.calendar.google.com) with all events
 
