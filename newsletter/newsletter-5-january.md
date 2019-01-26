@@ -20,6 +20,7 @@
 * [https://medium.com/@simondlr/the-moloch-dao-collapsing-the-firm-2a800b3aa2e7](https://medium.com/@simondlr/the-moloch-dao-collapsing-the-firm-2a800b3aa2e7)
 * [https://medium.com/@mateo.2121/commonists-and-libertarians-cc85d0dc1e92](https://medium.com/@mateo.2121/commonists-and-libertarians-cc85d0dc1e92)
 * [https://medium.com/@Vlad\_Zamfir/against-szabos-law-for-a-new-crypto-legal-system-d00d0f3d3827](https://medium.com/@Vlad_Zamfir/against-szabos-law-for-a-new-crypto-legal-system-d00d0f3d3827)
+* [https://techblogwriter.co.uk/dao/](https://techblogwriter.co.uk/dao/)
 
 ## Support DAOs <a id="DgovCompilation#3October2018-Events"></a>
 
