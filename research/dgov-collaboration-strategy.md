@@ -1,10 +1,10 @@
 # \#dgov collaboration strategy
 
-Raise and create value equivalent ~$1M in the next directions:
+Raise and create value equivalent ~$1M in the next directions \(by priorities\):
 
-* Global community building for better communication channels & relations
-* Knowledge sharing: ****conference, grants, books, market mapping etc
-* Regulation framework and government relations
-* DAO Incubation & experiments with existing needs
-* Inspiration with Culture & Arts \(e.g. movies\)
+1. Global community building for better communication channels & relations
+2. Knowledge sharing: ****conference, grants, books, market mapping etc
+3. Regulation framework and government relations
+4. DAO Incubation & experiments with existing needs
+5. Inspiration with Culture & Arts \(e.g. movies\)
 
