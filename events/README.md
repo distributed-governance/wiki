@@ -10,6 +10,7 @@
 * [Dgov council](https://wiki.dgov.foundation/events/dgov-community-council) \(Berlin, Jan 27-28\)
 * ​[Aracon One](https://aracon.one/) \(Jan 29-30  '19, Berlin\)
 * [LUCID Dawning :: Connecting Transformative Culture-Makers](https://www.facebook.com/events/352606141958607/) \(Berlin, Feb 1\)
+* [Melonport M-1](https://m-1.melonport.com/) \(Zug, Feb 7-8\)
 * [Rebooting the Web of Trust VIII](https://www.eventbrite.com/e/rebooting-the-web-of-trust-viii-spring-2019-barcelona-tickets-54843077120) \(Barcelona, Mar 1\)
 * [radicalXchange](https://radicalxchange.org/) \(Detroit, March 22-24\)
 
