@@ -13,10 +13,9 @@
 
 * [\#dgov strategy 2019](org/dgov-collaboration-strategy/README.md)
   * [Community Building](org/dgov-collaboration-strategy/community-building.md)
-  * [Advocacy & Education](org/dgov-collaboration-strategy/sharing-and-representing-the-dgov-practices-to-wider-community.md)
-  * [Knowledge Sharing](org/dgov-collaboration-strategy/knowledge-sharing.md)
+  * [Advocacy & Education](org/dgov-collaboration-strategy/advocacy-and-education.md)
   * [Practitioner Support/Success](org/dgov-collaboration-strategy/practitioner-support-success.md)
-  * [Arts & Inspiration](org/dgov-collaboration-strategy/arts-and-inspiration.md)
+  * [Culture & Arts](org/dgov-collaboration-strategy/arts-and-inspiration.md)
 * [Foundation Thesis](org/foundation-thesis.md)
 * [How to Contribute](org/how-to-contribute/README.md)
   * [Host Local Meetups](org/how-to-contribute/meetups.md)
