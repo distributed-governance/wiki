@@ -28,6 +28,10 @@ Liraz can help pitch and do token
 
 ### Dogfooding + transparency
 
+{% hint style="info" %}
+What should be transparent?
+{% endhint %}
+
 Liraz + Tim, Phoebe, Grace, Max
 
 
