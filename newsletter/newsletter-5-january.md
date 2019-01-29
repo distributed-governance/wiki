@@ -21,6 +21,7 @@
 * [https://medium.com/@mateo.2121/commonists-and-libertarians-cc85d0dc1e92](https://medium.com/@mateo.2121/commonists-and-libertarians-cc85d0dc1e92)
 * [https://medium.com/@Vlad\_Zamfir/against-szabos-law-for-a-new-crypto-legal-system-d00d0f3d3827](https://medium.com/@Vlad_Zamfir/against-szabos-law-for-a-new-crypto-legal-system-d00d0f3d3827)
 * [https://techblogwriter.co.uk/dao/](https://techblogwriter.co.uk/dao/)
+* [https://blog.goodaudience.com/governance-of-blockchain-ecosystems-1-2-54f1f55208fa](https://blog.goodaudience.com/governance-of-blockchain-ecosystems-1-2-54f1f55208fa)
 
 ## Support DAOs <a id="DgovCompilation#3October2018-Events"></a>
 
