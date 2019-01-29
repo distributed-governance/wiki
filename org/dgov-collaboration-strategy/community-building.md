@@ -10,16 +10,16 @@ Boundaries: being part of the chat / telegram group
 
 ## Local Meetups / Hubs
 
-* Berlin \(Ela, Supermarkt - unconfirmed\)
+* London \(Jack + Phoebe, Ruth + Furtherfield\)
 * Paris \(Philippe Honigman + Lucas, Max, Tim, Fran\)
-* Amsterdam \(Luuk - unconfirmed\)
+* Barcelona \(Martin + Lucas\)
 * Seattle \(Adam Stallard - unconfirmed\)
 * San Francisco \(Beth Mccarthy - unconfirmed\)
 * Prague \(Josef Jelacic - unconfirmed\)
-* London \(Jack + Phoebe, Ruth + Furtherfield\)
 * Lubljana \(Anja - unconfirmed\)
 * Zurich \(Ozan Polat - unconfirmed\)
-* Barcelona \(Martin + Lucas\)
+* Amsterdam \(Luuk - unconfirmed\)
+* Berlin \(Ela, Supermarkt - unconfirmed\)
 * Bangkok, CL \(?\)
 
 ## Councils
