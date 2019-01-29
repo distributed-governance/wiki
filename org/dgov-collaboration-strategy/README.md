@@ -7,7 +7,20 @@
 3. [Practitioner Support / Success](practitioner-support-success.md) \(Grace/Cem?\)
 4. [Culture & Arts ](arts-and-inspiration.md)\(Beth, Luan?\)
 
-## Structure
+## Governance
+
+### Structure
+
+Dgov foundation uses Holacracy as a governance model
+
+Roles:
+
+* Lead link
+* Facilitator
+* Secretary
+* ...
+
+### Funding
 
 Raise and create value equivalent ~$1M
 
@@ -16,4 +29,8 @@ Liraz can help pitch and do token
 ### Dogfooding + transparency
 
 Liraz + Tim, Phoebe, Grace, Max
+
+
+
+### 
 

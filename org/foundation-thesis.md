@@ -30,34 +30,9 @@ We exist to support the progress of distributed governance research and implemen
   * Recognition
   * Fair Compensation
 
-## Community <a id="DGOVFoundationThesis-Community"></a>
 
-### Experience <a id="DGOVFoundationThesis-Experience"></a>
 
-* Newsletter
-* Local Meetups 
-* Telegram Group
-* Councils
-* Conferences
-
-### Rules <a id="DGOVFoundationThesis-Rules"></a>
-
-1. Stay on topic: please post and discuss topics relevant to governance, DAO, token economy etc
-2. Give More Than You Take: What makes a community amazing is when members are more focused on helping each other, than on helping themselves. Be as helpful as possible and everyone benefits!
-3. No Hate Speech or Bullying: You should respectfully challenge ideas, but never attack the person. Help us make sure everyone feels safe in the community. Bullying of any kind isn't allowed, and degrading comments about things like race, religion, culture, sexual orientation, gender or identity will not be tolerated.
-
-## Governance <a id="DGOVFoundationThesis-Governance"></a>
-
-Dgov foundation uses Holacracy as a governance model
-
-Roles:
-
-* Lead link \(community manager\)
-* Facilitator
-* Secretary
-* Meetup Coordinator
-* Designer
-* Telegram Moderator
+##  <a id="DGOVFoundationThesis-Governance"></a>
 
 ## Communication <a id="DGOVFoundationThesis-Communication"></a>
 
