@@ -6,7 +6,7 @@ Boundaries: being part of the chat / telegram group
 
 ## Culture
 
-* Safe space place to safely discuss & collaborate on dgov topics \(e.g. get feedback, intracommunity projects and hiring\)
+Safe space place to safely discuss & collaborate on dgov topics \(e.g. get feedback, intracommunity projects and hiring\).
 
 ## Local Meetups / Hubs
 
