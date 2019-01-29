@@ -1,4 +1,4 @@
-# \#dgov collaboration strategy
+# \#dgov strategy 2019
 
 Raise and create value equivalent ~$1M in the next directions \(by priorities\):
 

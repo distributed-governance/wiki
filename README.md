@@ -72,6 +72,24 @@ Maintained by [DGov Foundation](https://dgov.foundation/)
 * [Blockchain and the Law](http://www.hup.harvard.edu/catalog.php?isbn=9780674976429)
 * [Going Horizontal: Creating a Non-Hierarchical Organization, One Practice at a Time](https://www.amazon.com/Going-Horizontal-Creating-Non-Hierarchical-Organization-ebook/dp/B07DKKGQB9/ref=sr_1_1?ie=UTF8&qid=1548501833&sr=8-1&keywords=going+horizontal) by Samantha Slade
 
+## **Events**
+
+* [Open 2018 Platform Cooperatives](https://2018.open.coop/) \(Jul 26-27, London\)
+* ​[Ethfinex Governance Summit](https://summit.ethfinex.com/) \(Oct, Zug\)
+* [Human Network Festival](https://humannetworksfestival.ouishare.net/) \(Oct 3–5, Barcelona\)
+* [Devcon4](https://devcon4.ethereum.org) \(Oct 30 – Nov 2, Prague\)
+* [Liberthon](https://www.liberthon.org/) \(Nov 8-9, Tel-Aviv\)
+* [Revision conference](https://revision.io/) \(Nov 19-20, Berlin\) explores the transition to a more human-centric future
+* [Distributed Governance in Practice with Alanna Irving](https://www.eventbrite.co.uk/e/dgov-webinar-with-alanna-irving-phoebe-tickell-on-distributed-governance-open-source-tech-radical-tickets-54795438632) \(Webinar, Jan 16\) 
+* [Dgov council](https://wiki.dgov.foundation/events/dgov-community-council) \(Berlin, Jan 27-28\)
+* ​[Aracon One](https://aracon.one/) \(Jan 29-30  '19, Berlin\)
+* [LUCID Dawning :: Connecting Transformative Culture-Makers](https://www.facebook.com/events/352606141958607/) \(Berlin, Feb 1\)
+* [Melonport M-1](https://m-1.melonport.com/) \(Zug, Feb 7-8\)
+* [Rebooting the Web of Trust VIII](https://www.eventbrite.com/e/rebooting-the-web-of-trust-viii-spring-2019-barcelona-tickets-54843077120) \(Barcelona, Mar 1\)
+* [radicalXchange](https://radicalxchange.org/) \(Detroit, March 22-24\)
+
+Want to host a local meetup?[ here're some tips](https://wiki.dgov.foundation/meetups)
+
 ## **Misc**
 
 * [DGov Event List](https://wiki.dgov.foundation/events)

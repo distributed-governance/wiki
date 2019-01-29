@@ -1,22 +1,28 @@
 # Table of contents
 
 * [DGOV Resources](README.md)
-* [Foundation Thesis](foundation-thesis.md)
-* [How to Contribute](how-to-contribute/README.md)
-  * [Host Local Meetups](how-to-contribute/meetups.md)
 * [Newsletter](newsletter/README.md)
   * [Newsletter \#3 \(november\)](newsletter/newsletter-3-november.md)
   * [Newsletter \#4 \(december\)](newsletter/newsletter-4-december.md)
   * [Newsletter \#5 \(january\)](newsletter/newsletter-5-january.md)
-* [Events](events/README.md)
-  * [DGOV Community Council](events/dgov-community-council.md)
-  * [Amsterdam 14.03.2019 \(draft\)](events/amsterdam-14.02.2019.md)
+* [DGOV Community Council](dgov-community-council.md)
 * [More on the official website](https://dgov.foundation)
+
+## ORG
+
+* [Foundation Thesis](org/foundation-thesis.md)
+* [\#dgov strategy 2019](org/dgov-collaboration-strategy/README.md)
+  * [Amsterdam 14.03.2019 \(draft\)](org/dgov-collaboration-strategy/amsterdam-14.02.2019.md)
+* [How to Contribute](org/how-to-contribute/README.md)
+  * [Host Local Meetups](org/how-to-contribute/meetups.md)
+* [Onboarding / Holacracy](org/holacracy.md)
+* [Logo / Identity](org/identity.md)
+* [Roles](org/roles/README.md)
+  * [PR Manager](org/roles/pr-manager.md)
 
 ## Research
 
 * [On-Chain Governance Case Studies](research/protocol-governance-case-studies.md)
-* [\#dgov collaboration strategy](research/dgov-collaboration-strategy.md)
 * [Continuous Token Model](research/curation-markets-and-bonding-curve/README.md)
   * [Work group](research/curation-markets-and-bonding-curve/work-group.md)
   * [Use Case: Software Project](research/curation-markets-and-bonding-curve/use-case-software-project.md)
@@ -31,11 +37,4 @@
 * [DAO Legal Status](research/dao-legal-status.md)
 * [Crypto Commons](research/commons.md)
 * [Dispute Resolution](research/dispute-resolution.md)
-
-## ORG
-
-* [Onboarding / Holacracy](org/holacracy.md)
-* [Identity](org/identity.md)
-* [Roles](org/roles/README.md)
-  * [PR Manager](org/roles/pr-manager.md)
 
