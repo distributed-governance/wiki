@@ -30,32 +30,6 @@ We exist to support the progress of distributed governance research and implemen
   * Recognition
   * Fair Compensation
 
-## Values <a id="DGOVFoundationThesis-Values"></a>
-
-* Sense of purpose
-* Integrity
-* Freedom
-* Collective Intelligence
-* Wholeness
-* Authenticity
-* Trust
-* Transparency
-* Inclusion
-* Sustainability
-* Co-Creation / Collab
-* Compassion
-
-## Tasks <a id="DGOVFoundationThesis-Tasks"></a>
-
-We strive to provide:
-
-* **Practitioner Support/Success:** Connect people and support collaboration in dgov implementation \(e.g. dgov conf, DAO0, EIP0\)
-* **Product Ideation, Innovation & Feedback:** Finding the product gaps and finding the unmet needs on dgov development
-* **Acquisition and Advocacy:** Sharing and representing the dgov practices to wider community
-* **Content:** Accumulate, structure and share info on dgov implementation \(newsletter, reports, forum\)
-* **External Engagement**: Create a space to safely discuss & collaborate on dgov topics \(e.g. get feedback\)
-* **Internal Engagement:** Further inspire and praise the teams that work in dgov space
-
 ## Community <a id="DGOVFoundationThesis-Community"></a>
 
 ### Experience <a id="DGOVFoundationThesis-Experience"></a>

@@ -5,14 +5,18 @@
   * [Newsletter \#3 \(november\)](newsletter/newsletter-3-november.md)
   * [Newsletter \#4 \(december\)](newsletter/newsletter-4-december.md)
   * [Newsletter \#5 \(january\)](newsletter/newsletter-5-january.md)
-* [DGOV Community Council](dgov-community-council.md)
+* [DGOV Community Council](dgov-community-council/README.md)
+  * [Amsterdam 14.03.2019 \(draft\)](dgov-community-council/amsterdam-14.02.2019.md)
 * [More on the official website](https://dgov.foundation)
 
 ## ORG
 
-* [Foundation Thesis](org/foundation-thesis.md)
 * [\#dgov strategy 2019](org/dgov-collaboration-strategy/README.md)
-  * [Amsterdam 14.03.2019 \(draft\)](org/dgov-collaboration-strategy/amsterdam-14.02.2019.md)
+  * [Community Building](org/dgov-collaboration-strategy/community-building.md)
+  * [Sharing and representing the dgov practices to wider community](org/dgov-collaboration-strategy/sharing-and-representing-the-dgov-practices-to-wider-community.md)
+  * [Knowledge Sharing](org/dgov-collaboration-strategy/knowledge-sharing.md)
+  * [Practitioner Support/Success](org/dgov-collaboration-strategy/practitioner-support-success.md)
+* [Foundation Thesis](org/foundation-thesis.md)
 * [How to Contribute](org/how-to-contribute/README.md)
   * [Host Local Meetups](org/how-to-contribute/meetups.md)
 * [Onboarding / Holacracy](org/holacracy.md)
