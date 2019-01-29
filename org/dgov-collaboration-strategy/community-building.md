@@ -46,11 +46,11 @@ What are major blockchain cities?
 
 3 times a year in the centers of community \(Berlin, ...\)?
 
-Help from Felix, Ela, Phoebe, Lucas, Max
+Tim + help from Felix, Ela, Phoebe, Lucas, Max
 
 ## Newsletter
 
-Accumulate, structure and share info on dgov implementation
+Max + Accumulate, structure and share info on dgov implementation
 
 ## Dgov Global Map
 
