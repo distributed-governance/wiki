@@ -22,6 +22,8 @@ Boundaries: being part of the chat / telegram group
 * Berlin \(Ela, Supermarkt - unconfirmed\)
 * Bangkok, CL \(?\)
 
+What are major blockchain cities?
+
 ## Councils
 
 3 times a year in the centers of community \(Berlin, ...\)?
