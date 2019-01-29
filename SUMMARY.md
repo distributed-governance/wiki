@@ -16,6 +16,7 @@
   * [Sharing and representing the dgov practices to wider community](org/dgov-collaboration-strategy/sharing-and-representing-the-dgov-practices-to-wider-community.md)
   * [Knowledge Sharing](org/dgov-collaboration-strategy/knowledge-sharing.md)
   * [Practitioner Support/Success](org/dgov-collaboration-strategy/practitioner-support-success.md)
+  * [Arts & Inspiration](org/dgov-collaboration-strategy/arts-and-inspiration.md)
 * [Foundation Thesis](org/foundation-thesis.md)
 * [How to Contribute](org/how-to-contribute/README.md)
   * [Host Local Meetups](org/how-to-contribute/meetups.md)
