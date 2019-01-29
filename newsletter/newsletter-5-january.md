@@ -22,11 +22,13 @@
 * [https://medium.com/@Vlad\_Zamfir/against-szabos-law-for-a-new-crypto-legal-system-d00d0f3d3827](https://medium.com/@Vlad_Zamfir/against-szabos-law-for-a-new-crypto-legal-system-d00d0f3d3827)
 * [https://techblogwriter.co.uk/dao/](https://techblogwriter.co.uk/dao/)
 * [https://blog.goodaudience.com/governance-of-blockchain-ecosystems-1-2-54f1f55208fa](https://blog.goodaudience.com/governance-of-blockchain-ecosystems-1-2-54f1f55208fa)
+* [https://medium.com/@lrettig/how-open-is-too-open-bfc412cf0d24](https://medium.com/@lrettig/how-open-is-too-open-bfc412cf0d24)
 
 ## Support DAOs <a id="DgovCompilation#3October2018-Events"></a>
 
 A new section, where we list open positions, bounties and gigs that support dgov, DAOs etc! Please PM me to add additional positions or provide feedback. 
 
+* [\#dgov strategy 2019](../org/dgov-collaboration-strategy/)
 * [Open positions for Aragon One and Aragon DAC](https://wiki.aragon.org/jobs/)
 * [Genesis Alpha Bounties](https://docs.google.com/spreadsheets/d/1FV8iz4ebZb4E3nXckzPsWy7IfhtsX3filkbX_gbPLNs/edit#gid=204783618)
 * [Colony Bug Bounty](https://docs.colony.io/colonynetwork/bug-bounty-program-overview/)
