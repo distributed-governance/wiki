@@ -8,9 +8,11 @@ Cem?
 
 ## Map of the industry landscape
 
-Grace, Pat, Ela
+Grace + Pat, Ela
 
 ## Product Ideation and Feedback
+
+Liraz + 19 people on the telegram group
 
 Aragon DAO
 
