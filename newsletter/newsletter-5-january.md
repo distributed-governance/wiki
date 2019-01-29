@@ -2,7 +2,7 @@
 
 ## Community Updates  
 
-* Aragon: 
+* Aragon: [https://blog.aragon.org/final-results-from-aragon-network-vote-1/](https://blog.aragon.org/final-results-from-aragon-network-vote-1/)
 * DAO Stack: [https://medium.com/daostack/daostack-in-2019-76d7634e27c6](https://medium.com/daostack/daostack-in-2019-76d7634e27c6)
 * Colony: 
 * DGOV: 
