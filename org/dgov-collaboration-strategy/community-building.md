@@ -14,7 +14,7 @@ Safe space place to safely discuss & collaborate on dgov topics \(e.g. get feedb
 * Paris \(Philippe Honigman + Lucas, Max, Tim, Fran\)
 * Barcelona \(Martin + Lucas\)
 * Seattle \(Adam Stallard - unconfirmed\)
-* San Francisco \(Beth Mccarthy - unconfirmed\)
+* San Francisco \(Beth Mccarthy, Starfish Network - unconfirmed\)
 * Prague \(Josef Jelacic - unconfirmed\)
 * Lubljana \(Anja - unconfirmed\)
 * Zurich \(Ozan Polat - unconfirmed\)

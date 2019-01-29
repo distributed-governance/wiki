@@ -7,6 +7,7 @@
   * [Newsletter \#5 \(january\)](newsletter/newsletter-5-january.md)
 * [DGOV Community Council](dgov-community-council/README.md)
   * [Amsterdam 14.03.2019 \(draft\)](dgov-community-council/amsterdam-14.02.2019.md)
+* [Memmes](memmes.md)
 * [More on the official website](https://dgov.foundation)
 
 ## ORG
