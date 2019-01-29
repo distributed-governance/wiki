@@ -13,7 +13,7 @@
 
 * [\#dgov strategy 2019](org/dgov-collaboration-strategy/README.md)
   * [Community Building](org/dgov-collaboration-strategy/community-building.md)
-  * [Sharing and representing the dgov practices to wider community](org/dgov-collaboration-strategy/sharing-and-representing-the-dgov-practices-to-wider-community.md)
+  * [Advocacy & Education](org/dgov-collaboration-strategy/sharing-and-representing-the-dgov-practices-to-wider-community.md)
   * [Knowledge Sharing](org/dgov-collaboration-strategy/knowledge-sharing.md)
   * [Practitioner Support/Success](org/dgov-collaboration-strategy/practitioner-support-success.md)
   * [Arts & Inspiration](org/dgov-collaboration-strategy/arts-and-inspiration.md)
