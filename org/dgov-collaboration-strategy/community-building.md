@@ -8,6 +8,10 @@ Boundaries: being part of the chat / telegram group
 
 Safe space place to safely discuss & collaborate on dgov topics \(e.g. get feedback, intracommunity projects and hiring\).
 
+### dgov community onboarding
+
+...
+
 ## Local Meetups / Hubs
 
 * London \(Jack + Phoebe, Ruth + Furtherfield\)
