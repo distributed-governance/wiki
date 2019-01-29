@@ -26,6 +26,7 @@ Maintained by [DGov Foundation](https://dgov.foundation/)
 * [xDAC](https://xdac.co/) is A Place To Start and Manage Decentralized Companies
 * [Edgeware](https://edgewa.re/) – an experimental blockchain for demonstrating the effectiveness of on-chain governance
 * [Kelsen](https://klsn.io/) – a dapp and a smart contract framework for building secure and transparent governance systems on Ethereum
+* [Decidim](https://decidim.org/) – free open-source participatory democracy for cities and organizations
 
 **Concepts:**
 
