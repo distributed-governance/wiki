@@ -5,5 +5,7 @@
 
 ## Ministry of Memmes
 
-Max, Tim, Martin, Jack, Ruth
+Ori – Max, Tim, Martin, Jack, Ruth
+
+Chat: [https://t.me/MinistryofMemes](https://t.me/MinistryofMemes)
 
