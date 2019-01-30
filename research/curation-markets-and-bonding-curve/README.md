@@ -68,6 +68,7 @@ A [bonding curve token 8](https://medium.com/@justingoro/token-bonding-curves-ex
 * [https://medium.com/@thibauld/introducing-continuous-organizations-22ad9d1f63b7](https://medium.com/@thibauld/introducing-continuous-organizations-22ad9d1f63b7)
 * [https://www.youtube.com/watch?v=ueoAroa8ePA](https://www.youtube.com/watch?v=ueoAroa8ePA)
 * [https://medium.com/@Paul.Haas/token-bonding-curves-in-practice-3eb904720cb8](https://medium.com/@Paul.Haas/token-bonding-curves-in-practice-3eb904720cb8)
+* [https://founders.fairmint.co/](https://founders.fairmint.co/)
 
 
 
