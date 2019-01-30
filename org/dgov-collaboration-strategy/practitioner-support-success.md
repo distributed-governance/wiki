@@ -14,6 +14,10 @@ Some MVP ~ Mar 7
 
 Telegram group: ...
 
+#### Task:
+
+* Select experts: mechanics designer, design, legal, soft governance, developers
+
 ## Map of the industry landscape
 
 Grace + Pat, Ela
