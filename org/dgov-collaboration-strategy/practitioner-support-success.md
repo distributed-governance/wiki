@@ -6,6 +6,14 @@ Connect people and support collaboration in dgov implementation \(e.g. dgov conf
 
 Cem?
 
+Aragon ~ describing / formalizing use cases
+
+Tables with 3 mechanics designer
+
+Some MVP ~ Mar 7
+
+Telegram group: ...
+
 ## Map of the industry landscape
 
 Grace + Pat, Ela
