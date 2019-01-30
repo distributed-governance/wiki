@@ -105,7 +105,7 @@ Want to host a local meetup?[ here're some tips](https://wiki.dgov.foundation/me
 * [A guide for funding opportunities in the crypto ecosystem](https://github.com/fredexed/crypto-funding-ops)
 * [https://blog.p2pfoundation.net/category/politics/p2p-governance](https://blog.p2pfoundation.net/category/politics/p2p-governance)
 * [http://wiki.p2pfoundation.net/Introduction\_to\_Governance\_from\_a\_P2P\_Perspective](http://wiki.p2pfoundation.net/Introduction_to_Governance_from_a_P2P_Perspective)
-* [Resources for decentralised organising](https://hackmd.io/s/Skh_dXNbE) by _\*\*_Richard D. Bartlett
+* [Resources for decentralised organising](https://hackmd.io/s/Skh_dXNbE) by Richard D. Bartlett
 * [http://1hive.org/](http://1hive.org/)
 * [https://labs.globalchallenges.org/](https://labs.globalchallenges.org/)
 
