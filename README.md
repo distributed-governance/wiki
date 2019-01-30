@@ -32,6 +32,7 @@ Maintained by [DGov Foundation](https://dgov.foundation/)
 
 * [https://sobol.io/](https://sobol.io/)
 * [http://www.cone.network/](http://www.cone.network/)
+* [https://www.metaorg.one/](https://www.metaorg.one/)
 
 ## **Newsletters, Blogs, Podcasts**
 
