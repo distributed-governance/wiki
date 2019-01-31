@@ -1,7 +1,9 @@
 # Culture & Arts
 
 * Anti-rivalry
-* Inspiration
+* Co-creation
+* Credit to the team, rather than individual
+* Wholeness
 
 ## Ministry of Memmes
 
