@@ -11,5 +11,11 @@ Ori – Max, Tim, Martin, Jack, Ruth
 
 Chat: [https://t.me/MinistryofMemes](https://t.me/MinistryofMemes)
 
-Some drafts:
+[Some drafts here](../../memmes.md)
+
+## Broader work
+
+* Ruth?
+* Luan?
+* Guy from Pando?
 
