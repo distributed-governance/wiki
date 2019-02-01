@@ -2,12 +2,17 @@
 
 ## Community Updates  
 
-* Aragon: [https://blog.aragon.org/final-results-from-aragon-network-vote-1/](https://blog.aragon.org/final-results-from-aragon-network-vote-1/)
-* DAO Stack: [https://medium.com/daostack/daostack-in-2019-76d7634e27c6](https://medium.com/daostack/daostack-in-2019-76d7634e27c6), [https://daotalk.org/t/genesis-alpha-proposals-reports/321/5](https://daotalk.org/t/genesis-alpha-proposals-reports/321/5) [https://thetaoofthedao.greaterthan.works/](https://thetaoofthedao.greaterthan.works/)
-* Colony: 
-* DGOV: 
-* [https://decryptmedia.com/4630/donut-reddit-crypto-experiment-fails-ethereum-ends](https://decryptmedia.com/4630/donut-reddit-crypto-experiment-fails-ethereum-ends)
+**Aragon**: still recovering from the [\#Aracon2019](https://twitter.com/search?q=%23AraCon2019&src=tyah) :\) Briefly – lot's of new cool features coming in 2019: identity, mobile app, the network \(with Kleros dispute resolution\) and more.[ ](https://blog.aragon.org/final-results-from-aragon-network-vote-1/)Check out [all the talks from the conf here](https://www.youtube.com/playlist?list=PLdbM67oXoBobQQbavMiWq79Sr-hh5UzhB). 
 
+[Results on first AGP votings are ready](https://blog.aragon.org/final-results-from-aragon-network-vote-1/) \(8 accepted, 6 rejected\). Also a new governance test space if formed around the Aragon in the form of [Aragon cooperative](https://forum.aragon.org/t/community-initiative-aragon-cooperative/356).
+
+**DAO Stack**: [Proposal Report Jan 2019](https://daotalk.org/t/genesis-alpha-proposals-reports/321/5) \(11 proposals passed, 108 ETH funded\), [Plans for 2019](https://medium.com/daostack/daostack-in-2019-76d7634e27c6) \(beta & beyond\) and a beautiful [manual for DAOs "The Tao of DAO"](https://thetaoofthedao.greaterthan.works/). 
+
+Another highlight is [the interview with Matan Field and Martin Koppelmann on DutchX and dxDAO](https://epicenter.tv/episode/271/).
+
+DGOV: 
+
+* 
 ## Articles, Papers & Videos  <a id="DgovCompilation#3October2018-Articles,Papers&amp;Videos"></a>
 
 * [https://medium.com/pando-network/dao-the-future-of-content-fd9349d94b24](https://medium.com/pando-network/dao-the-future-of-content-fd9349d94b24)
@@ -23,7 +28,8 @@
 * [https://techblogwriter.co.uk/dao/](https://techblogwriter.co.uk/dao/)
 * [https://blog.goodaudience.com/governance-of-blockchain-ecosystems-1-2-54f1f55208fa](https://blog.goodaudience.com/governance-of-blockchain-ecosystems-1-2-54f1f55208fa)
 * [https://medium.com/@lrettig/how-open-is-too-open-bfc412cf0d24](https://medium.com/@lrettig/how-open-is-too-open-bfc412cf0d24)
-* [https://medium.com/cryptolawreview/cryptos-founding-fallacy-aaa151b795ff](https://medium.com/cryptolawreview/cryptos-founding-fallacy-aaa151b795ff)
+* [https://medium.com/cryptolawreview/cryptos-founding-fallacy-aaa151b795ff](https://medium.com/cryptolawreview/cryptos-founding-fallacy-aaa151b795ff) 
+* [https://decryptmedia.com/4630/donut-reddit-crypto-experiment-fails-ethereum-ends](https://decryptmedia.com/4630/donut-reddit-crypto-experiment-fails-ethereum-ends)
 
 ## Support DAOs <a id="DgovCompilation#3October2018-Events"></a>
 

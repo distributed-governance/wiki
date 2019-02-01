@@ -24,6 +24,8 @@ do-acracy
 
 Malthusian trap is a thing, but I’ll bring you a sandwich anyways
 
+dlov for dgov
+
 ![](.gitbook/assets/giphy-3.gif)
 
 ![](.gitbook/assets/image%20%282%29.png)

@@ -36,7 +36,7 @@ Lucas + Ela, Phoebe, Marina, Grace
 
 Grace + Max, Fran
 
-## Dgov wiki in french
+### + translation in french
 
 Philippe + Fran
 
