@@ -10,7 +10,7 @@
 
 Another highlight are [the interview with Matan Field and Martin Köppelmann on DutchX and dxDAO](https://epicenter.tv/episode/271/) and [Five Great Proposals From Genesis](https://medium.com/daostack/five-great-proposals-from-genesis-the-first-community-dao-7f79b7a15).
 
-**DGOV**: we had a [community council ](../dgov-community-council/)just before Aracon with over 50 attendees \(including people from Aragon, DAO stack, Colony, Ethereum foundation, Kleros and many more\). We're still processing material and will share more info soon. Overall this was a bright and bonding experience which led to many new initiatives forming [dgov 2019 strategy](../org/dgov-collaboration-strategy/).
+**DGOV**: we had a [community council](https://wiki.dgov.foundation/dgov-community-council) just before Aracon with over 50 attendees \(including people from Aragon, DAO stack, Colony, Ethereum foundation, Kleros and many more\). We're still processing material and will share more info soon. Overall this was a bright and bonding experience which led to many new initiatives forming [dgov 2019 strategy](https://wiki.dgov.foundation/org/dgov-collaboration-strategy).
 
 ## Articles, Papers & Videos  <a id="DgovCompilation#3October2018-Articles,Papers&amp;Videos"></a>
 
@@ -32,7 +32,7 @@ Another highlight are [the interview with Matan Field and Martin Köppelmann on 
 
 A new section, where we list open positions, bounties and gigs that support dgov, DAOs etc! Please PM me to add additional positions or provide feedback. 
 
-* [\#dgov strategy 2019](../org/dgov-collaboration-strategy/)
+* [\#dgov strategy 2019](https://wiki.dgov.foundation/org/dgov-collaboration-strategy)
 * [Open positions for Aragon One and Aragon DAC](https://wiki.aragon.org/jobs/)
 * [Genesis Alpha Bounties](https://docs.google.com/spreadsheets/d/1FV8iz4ebZb4E3nXckzPsWy7IfhtsX3filkbX_gbPLNs/edit#gid=204783618)
 * [Colony Bug Bounty](https://docs.colony.io/colonynetwork/bug-bounty-program-overview/)
