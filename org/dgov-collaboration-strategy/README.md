@@ -6,11 +6,11 @@
 
    ...
 
-2. [Knowledge sharing: ****conference, grants, books, market mapping etc](advocacy-and-education.md)
+2. [Advocacy & Education](advocacy-and-education.md)
 
    ...
 
-3. [Practitioner Support / Success](practitioner-support-success.md) 
+3. [Practitioner Support / Success ](practitioner-support-success.md)
 
    ...
 
