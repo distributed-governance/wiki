@@ -14,6 +14,7 @@ Another highlight is [the interview with Matan Field and Martin Koppelmann on Du
 
 ## Articles, Papers & Videos  <a id="DgovCompilation#3October2018-Articles,Papers&amp;Videos"></a>
 
+* [DAO & The future of content](https://medium.com/pando-network/dao-the-future-of-content-fd9349d94b24) by Alexandre Rouxel
 * [https://medium.com/pando-network/dao-the-future-of-content-fd9349d94b24](https://medium.com/pando-network/dao-the-future-of-content-fd9349d94b24)
 * [https://blog.gnosis.pm/a-brief-discussion-of-the-protocol-governing-the-dxdao-7331407a2555](https://blog.gnosis.pm/a-brief-discussion-of-the-protocol-governing-the-dxdao-7331407a2555)
 * [https://medium.com/daostack/five-great-proposals-from-genesis-the-first-community-dao-7f79b7a15539](https://medium.com/daostack/five-great-proposals-from-genesis-the-first-community-dao-7f79b7a15539)
@@ -46,7 +47,7 @@ A new section, where we list open positions, bounties and gigs that support dgov
 * [Rebooting the Web of Trust VIII](https://www.eventbrite.com/e/rebooting-the-web-of-trust-viii-spring-2019-barcelona-tickets-54843077120) \(Mar 1, Barcelona\)
 * [radicalXchange](https://radicalxchange.org/) \(March 22-24, Detroit\)
 
-Want to get smth published – write me a line at [max@dgov.foundation](mailto:max@dgov.foundation)  
-Got email from a friend – subscribe here [https://dgov.foundation/newsletter](https://dgov.foundation/newsletter)  
-Want more? Check out our [Website](http://dgov.foundation/), [Calendar](https://calendar.google.com/calendar/embed?src=av3fo8o2ocl3ft25s6as54c26s%40group.calendar.google.com&ctz=Europe%2FPrague), [Twitter](https://twitter.com/dgovearth), [Telegram](https://t.me/dgovfoundation), [Medium](https://medium.com/dgov)
+Want to get smth published – write me a line at [dgov.foundation@gmail.com](mailto:dgov.foundation@gmail.com)  
+Got email from a friend – subscribe here [https://dgov.foundation/\#join](https://dgov.foundation/#join)  
+Want more? Check out our [Website](http://dgov.foundation/), [Twitter](https://twitter.com/dgovearth), [Telegram](https://t.me/dgovfoundation), [Medium](https://medium.com/dgov)
 
