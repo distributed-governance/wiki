@@ -3,7 +3,7 @@
 ## Community Updates  
 
 * Aragon: [https://blog.aragon.org/final-results-from-aragon-network-vote-1/](https://blog.aragon.org/final-results-from-aragon-network-vote-1/)
-* DAO Stack: [https://medium.com/daostack/daostack-in-2019-76d7634e27c6](https://medium.com/daostack/daostack-in-2019-76d7634e27c6), [https://daotalk.org/t/genesis-alpha-proposals-reports/321/5](https://daotalk.org/t/genesis-alpha-proposals-reports/321/5)
+* DAO Stack: [https://medium.com/daostack/daostack-in-2019-76d7634e27c6](https://medium.com/daostack/daostack-in-2019-76d7634e27c6), [https://daotalk.org/t/genesis-alpha-proposals-reports/321/5](https://daotalk.org/t/genesis-alpha-proposals-reports/321/5) [https://thetaoofthedao.greaterthan.works/](https://thetaoofthedao.greaterthan.works/)
 * Colony: 
 * DGOV: 
 * [https://decryptmedia.com/4630/donut-reddit-crypto-experiment-fails-ethereum-ends](https://decryptmedia.com/4630/donut-reddit-crypto-experiment-fails-ethereum-ends)
@@ -23,6 +23,7 @@
 * [https://techblogwriter.co.uk/dao/](https://techblogwriter.co.uk/dao/)
 * [https://blog.goodaudience.com/governance-of-blockchain-ecosystems-1-2-54f1f55208fa](https://blog.goodaudience.com/governance-of-blockchain-ecosystems-1-2-54f1f55208fa)
 * [https://medium.com/@lrettig/how-open-is-too-open-bfc412cf0d24](https://medium.com/@lrettig/how-open-is-too-open-bfc412cf0d24)
+* [https://medium.com/cryptolawreview/cryptos-founding-fallacy-aaa151b795ff](https://medium.com/cryptolawreview/cryptos-founding-fallacy-aaa151b795ff)
 
 ## Support DAOs <a id="DgovCompilation#3October2018-Events"></a>
 
@@ -34,11 +35,12 @@ A new section, where we list open positions, bounties and gigs that support dgov
 * [Colony Bug Bounty](https://docs.colony.io/colonynetwork/bug-bounty-program-overview/)
 * [Contribute to \#dgov](https://wiki.dgov.foundation/how-to-contribute)
 
-## Events  <a id="DgovCompilation#3October2018-Events"></a>
+## Upcoming Events  <a id="DgovCompilation#3October2018-Events"></a>
 
-* ...
-
-Subscribe to [google calendar](https://calendar.google.com/calendar/embed?src=av3fo8o2ocl3ft25s6as54c26s%40group.calendar.google.com) with all events
+* [LUCID Dawning :: Connecting Transformative Culture-Makers](https://www.facebook.com/events/352606141958607/) \(Feb 1, Berlin\)
+* [Melonport M-1](https://m-1.melonport.com/) \(Feb 7-8, Zug\)
+* [Rebooting the Web of Trust VIII](https://www.eventbrite.com/e/rebooting-the-web-of-trust-viii-spring-2019-barcelona-tickets-54843077120) \(Mar 1, Barcelona\)
+* [radicalXchange](https://radicalxchange.org/) \(March 22-24, Detroit\)
 
 Want to get smth published – write me a line at [max@dgov.foundation](mailto:max@dgov.foundation)  
 Got email from a friend – subscribe here [https://dgov.foundation/newsletter](https://dgov.foundation/newsletter)  
