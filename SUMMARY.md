@@ -7,7 +7,9 @@
   * [Newsletter \#5 \(january\)](newsletter/newsletter-5-january.md)
 * [DGOV Community Council](dgov-community-council/README.md)
   * [Amsterdam 14.03.2019 \(draft\)](dgov-community-council/amsterdam-14.02.2019.md)
-* [\#dgov memmes](memmes.md)
+* [Community Onboarding](how-to-contribute/README.md)
+  * [Host Local Meetups](how-to-contribute/meetups.md)
+  * [\#dgov memmes](how-to-contribute/memmes.md)
 * [More on the official website](https://dgov.foundation)
 
 ## ORG
@@ -18,8 +20,6 @@
   * [Practitioner Support/Success](org/dgov-collaboration-strategy/practitioner-support-success.md)
   * [Culture & Arts](org/dgov-collaboration-strategy/arts-and-inspiration.md)
 * [Foundation Thesis](org/foundation-thesis.md)
-* [How to Contribute](org/how-to-contribute/README.md)
-  * [Host Local Meetups](org/how-to-contribute/meetups.md)
 * [Onboarding / Holacracy](org/holacracy.md)
 * [Logo / Identity](org/identity.md)
 * [Roles](org/roles/README.md)

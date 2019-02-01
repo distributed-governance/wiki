@@ -1,4 +1,14 @@
-# How to Contribute
+# Community Onboarding
+
+## What's going on
+
+* Newsletter
+* Local Meetups 
+* Telegram Group
+* Councils
+* Festival
+
+## How to Contribute
 
 * Add to / Edit [the wiki](https://wiki.dgov.foundation/)
 * Add to / Edit [the newsletter](https://wiki.dgov.foundation/newsletter)
