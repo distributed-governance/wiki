@@ -2,7 +2,7 @@
 
 ## Goals
 
-1. [Global community building](https://wiki.dgov.foundation/org/dgov-collaboration-strategy/community-building)
+1. [Global community building](community-building.md)
 
    ...
 
