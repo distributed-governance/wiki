@@ -2,7 +2,7 @@
 
 ## Community Updates  
 
-**Aragon**: still recovering from the [\#Aracon2019](https://twitter.com/search?q=%23AraCon2019&src=tyah) :\) Briefly – lot's of new cool features coming in 2019: identity, mobile app, network \(with Kleros dispute resolution\) and more.[ ](https://blog.aragon.org/final-results-from-aragon-network-vote-1/)Check out [all the talks from the conf here](https://www.youtube.com/playlist?list=PLdbM67oXoBobQQbavMiWq79Sr-hh5UzhB). 
+**Aragon**: still recovering from the [\#Aracon2019](https://twitter.com/search?q=%23AraCon2019&src=tyah) :\) Briefly – lot's of new cool features coming in 2019: identity, mobile app, network \(with Kleros dispute resolution\) and more. Check out [all the talks from the conf here](https://www.youtube.com/playlist?list=PLdbM67oXoBobQQbavMiWq79Sr-hh5UzhB). 
 
 [Results on first AGP votings are ready](https://blog.aragon.org/final-results-from-aragon-network-vote-1/) \(8 accepted, 6 rejected\). Also a new governance test space is formed through the [Aragon cooperative](https://forum.aragon.org/t/community-initiative-aragon-cooperative/356).
 
