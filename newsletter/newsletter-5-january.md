@@ -27,6 +27,7 @@ Another highlights are [the interview with Matan Field and Martin Köppelmann on
 * [How open is too open? On transparency, governance, and the challenge of keeping Ethereum alive](https://medium.com/@lrettig/how-open-is-too-open-bfc412cf0d24) by Lane Rettig
 * [Crypto’s Founding Fallacy: How mistakes in the “smart contract” genesis block weaken the whole chain](https://medium.com/cryptolawreview/cryptos-founding-fallacy-aaa151b795ff) by CleanApp
 * [Reddit’s donut crypto experiment turns sour](https://decryptmedia.com/4630/donut-reddit-crypto-experiment-fails-ethereum-ends) by Ben Munster
+* [Deconstructing 'Decentralization': Exploring the Core Claim of Crypto Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3326244) by Angela Walch
 
 ## Support DAOs <a id="DgovCompilation#3October2018-Events"></a>
 
