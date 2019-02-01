@@ -56,7 +56,7 @@ Newsletter and/or newspaper
 
 Collaborate with Aragon, DAOstack and more.
 
-## Dgov Global Map
+## \#dgov Global Map
 
 Peter + Ela, Lucas
 
