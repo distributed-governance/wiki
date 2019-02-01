@@ -2,17 +2,16 @@
 
 ## Community Updates  
 
-**Aragon**: still recovering from the [\#Aracon2019](https://twitter.com/search?q=%23AraCon2019&src=tyah) :\) Briefly – lot's of new cool features coming in 2019: identity, mobile app, the network \(with Kleros dispute resolution\) and more.[ ](https://blog.aragon.org/final-results-from-aragon-network-vote-1/)Check out [all the talks from the conf here](https://www.youtube.com/playlist?list=PLdbM67oXoBobQQbavMiWq79Sr-hh5UzhB). 
+**Aragon**: still recovering from the [\#Aracon2019](https://twitter.com/search?q=%23AraCon2019&src=tyah) :\) Briefly – lot's of new cool features coming in 2019: identity, mobile app, network \(with Kleros dispute resolution\) and more.[ ](https://blog.aragon.org/final-results-from-aragon-network-vote-1/)Check out [all the talks from the conf here](https://www.youtube.com/playlist?list=PLdbM67oXoBobQQbavMiWq79Sr-hh5UzhB). 
 
-[Results on first AGP votings are ready](https://blog.aragon.org/final-results-from-aragon-network-vote-1/) \(8 accepted, 6 rejected\). Also a new governance test space if formed around the Aragon in the form of [Aragon cooperative](https://forum.aragon.org/t/community-initiative-aragon-cooperative/356).
+[Results on first AGP votings are ready](https://blog.aragon.org/final-results-from-aragon-network-vote-1/) \(8 accepted, 6 rejected\). Also a new governance test space is formed through the [Aragon cooperative](https://forum.aragon.org/t/community-initiative-aragon-cooperative/356).
 
 **DAO Stack**: [Proposal Report Jan 2019](https://daotalk.org/t/genesis-alpha-proposals-reports/321/5) \(11 proposals passed, 108 ETH funded\), [Plans for 2019](https://medium.com/daostack/daostack-in-2019-76d7634e27c6) \(beta & beyond\) and a beautiful [manual for DAOs "The Tao of DAO"](https://thetaoofthedao.greaterthan.works/). 
 
 Another highlight is [the interview with Matan Field and Martin Koppelmann on DutchX and dxDAO](https://epicenter.tv/episode/271/).
 
-DGOV: 
+**DGOV**: we had a [community council ](../dgov-community-council/)just before Aracon with over 50 attendees \(including people from Aragon, DAO stack, Colony, Ethereum foundation, Kleros and many more\). We're still processing material and will share more info soon. Overall this was a bright and bonding experience which led to many new initiatives forming [dgov 2019 strategy](../org/dgov-collaboration-strategy/).
 
-* 
 ## Articles, Papers & Videos  <a id="DgovCompilation#3October2018-Articles,Papers&amp;Videos"></a>
 
 * [https://medium.com/pando-network/dao-the-future-of-content-fd9349d94b24](https://medium.com/pando-network/dao-the-future-of-content-fd9349d94b24)
@@ -39,7 +38,6 @@ A new section, where we list open positions, bounties and gigs that support dgov
 * [Open positions for Aragon One and Aragon DAC](https://wiki.aragon.org/jobs/)
 * [Genesis Alpha Bounties](https://docs.google.com/spreadsheets/d/1FV8iz4ebZb4E3nXckzPsWy7IfhtsX3filkbX_gbPLNs/edit#gid=204783618)
 * [Colony Bug Bounty](https://docs.colony.io/colonynetwork/bug-bounty-program-overview/)
-* [Contribute to \#dgov](https://wiki.dgov.foundation/how-to-contribute)
 
 ## Upcoming Events  <a id="DgovCompilation#3October2018-Events"></a>
 

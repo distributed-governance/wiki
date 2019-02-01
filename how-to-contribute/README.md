@@ -10,6 +10,7 @@
 
 ## How to Contribute
 
+* Support the projects from the [\#dgov strategy 2019](../org/dgov-collaboration-strategy/)
 * Add to / Edit [the wiki](https://wiki.dgov.foundation/)
 * Add to / Edit [the newsletter](https://wiki.dgov.foundation/newsletter)
 * Participate on [the group chat](https://t.me/dgovfoundation)
