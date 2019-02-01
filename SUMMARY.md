@@ -11,7 +11,7 @@
 * [DGOV Community Council](dgov-community-council/README.md)
   * [Amsterdam 14.03.2019 \(draft\)](dgov-community-council/amsterdam-14.02.2019.md)
 * [Logo / Identity](identity.md)
-* [More on the official website](https://dgov.foundation)
+* [Official Website](https://dgov.foundation)
 
 ## ORG
 
