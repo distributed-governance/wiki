@@ -22,8 +22,8 @@
   * [Practitioner Support/Success](org/dgov-collaboration-strategy/practitioner-support-success.md)
   * [Culture & Arts](org/dgov-collaboration-strategy/arts-and-inspiration.md)
 * [\#dgov Governance](org/roles/README.md)
-  * [Event Manager \(Tim\)](org/roles/event-manager-tim.md)
   * [PR Manager \(Anja\)](org/roles/pr-manager.md)
+  * [Event Manager \(Tim\)](org/roles/event-manager-tim.md)
   * [Facilitator \(Max\)](org/roles/facilitator-max.md)
   * [Holacracy onboarding](org/roles/holacracy.md)
 
