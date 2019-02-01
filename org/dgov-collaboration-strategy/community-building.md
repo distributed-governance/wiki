@@ -50,9 +50,11 @@ Tim + help from Felix, Ela, Phoebe, Lucas, Max
 
 ...
 
-## Newsletter
+## \#dgov media
 
-Max + Accumulate, structure and share info on dgov implementation
+Newsletter and/or newspaper
+
+Collaborate with Aragon, DAOstack and more.
 
 ## Dgov Global Map
 
