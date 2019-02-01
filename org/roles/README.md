@@ -1,4 +1,4 @@
-# Roles
+# Structure of Work
 
 * Faci – Max
 * Secretary – Max

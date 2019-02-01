@@ -1,4 +1,4 @@
-# Foundation Thesis
+# \#dgov Manifesto
 
 ## Purpose <a id="DGOVFoundationThesis-Purpose"></a>
 
@@ -29,20 +29,4 @@ We exist to support the progress of distributed governance research and implemen
 * DGov Team
   * Recognition
   * Fair Compensation
-
-
-
-##  <a id="DGOVFoundationThesis-Governance"></a>
-
-## Communication <a id="DGOVFoundationThesis-Communication"></a>
-
-* Newsletter
-* Reddit
-* Twitter
-* Telegram
-* Medium
-
-Our work: [https://dgov.foundation/](https://dgov.foundation/)
-
-Team: [https://dgov.foundation/about](https://dgov.foundation/about)
 

@@ -1,4 +1,4 @@
-# PR Manager
+# PR Manager \(Anja\)
 
 **Goals:**
 

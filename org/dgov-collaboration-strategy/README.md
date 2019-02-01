@@ -1,4 +1,4 @@
-# \#dgov strategy 2019
+# \#dgov Strategy 2019
 
 ## Goals
 

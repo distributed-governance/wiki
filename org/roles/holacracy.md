@@ -1,4 +1,4 @@
-# Onboarding / Holacracy
+# Holacracy onboarding
 
 {% embed url="https://www.youtube.com/watch?v=MUHfVoQUj54" %}
 
