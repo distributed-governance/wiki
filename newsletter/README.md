@@ -2,7 +2,7 @@
 
 Subscribe to the newsletter: [https://dgov.foundation\#join](https://dgov.foundation#join)
 
-Archive:
+### Archive:
 
 * [November 2018](https://wiki.dgov.foundation/newsletter/newsletter-3-november)
 * [December 2018](https://wiki.dgov.foundation/newsletter/newsletter-4-december)
