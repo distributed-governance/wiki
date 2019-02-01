@@ -106,18 +106,15 @@ Open positions, bounties and gigs that support dgov, DAOs etc.
 * [Colony Bug Bounty](https://docs.colony.io/colonynetwork/bug-bounty-program-overview/)
 * Center for Innovative Governance Research is looking for [Research Fellow](https://innovativegovernance.org/2019/01/22/job-posting-research-fellow/)
 
-## **Misc**
+## **Additional Info**
 
-* [DGov Event List](https://wiki.dgov.foundation/events)
 * [District0x Educational portal: on-chain vs off-chain governance](https://education.district0x.io/general-topics/what-is-governance/)
-* ​[https://github.com/ParticipatoryOrgs](https://github.com/ParticipatoryOrgs)​
+* ​​[Participatory Orgs](https://github.com/ParticipatoryOrgs)
 * [P2P Models](https://p2pmodels.eu)
 * [A guide for funding opportunities in the crypto ecosystem](https://github.com/fredexed/crypto-funding-ops)
-* [https://blog.p2pfoundation.net/category/politics/p2p-governance](https://blog.p2pfoundation.net/category/politics/p2p-governance)
-* [http://wiki.p2pfoundation.net/Introduction\_to\_Governance\_from\_a\_P2P\_Perspective](http://wiki.p2pfoundation.net/Introduction_to_Governance_from_a_P2P_Perspective)
+* [P2P Foundation](https://p2pfoundation.net/) \([wiki](http://wiki.p2pfoundation.net/Main_Page), [blog](https://blog.p2pfoundation.net/)\)
 * [Resources for decentralised organising](https://hackmd.io/s/Skh_dXNbE) by Richard D. Bartlett
-* [http://1hive.org/](http://1hive.org/)
-* [https://labs.globalchallenges.org/](https://labs.globalchallenges.org/)
+* [Global Challenges Governance Labs](https://labs.globalchallenges.org/%20)
 
 ## Thanks to the Contributors!
 
