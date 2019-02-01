@@ -1,6 +1,6 @@
 # PR Manager \(Anja\)
 
-**Goals:**
+**Purpose:**
 
 * Increasing Awareness;
 * Increasing Commitment of parties of interest to come to the event;
