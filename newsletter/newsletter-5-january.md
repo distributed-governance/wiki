@@ -8,28 +8,25 @@
 
 **DAO Stack**: [Proposal Report Jan 2019](https://daotalk.org/t/genesis-alpha-proposals-reports/321/5) \(11 proposals passed, 108 ETH funded\), [Plans for 2019](https://medium.com/daostack/daostack-in-2019-76d7634e27c6) \(beta & beyond\) and a beautiful [manual for DAOs "The Tao of DAO"](https://thetaoofthedao.greaterthan.works/). 
 
-Another highlight is [the interview with Matan Field and Martin Koppelmann on DutchX and dxDAO](https://epicenter.tv/episode/271/).
+Another highlight are [the interview with Matan Field and Martin Köppelmann on DutchX and dxDAO](https://epicenter.tv/episode/271/) and [Five Great Proposals From Genesis](https://medium.com/daostack/five-great-proposals-from-genesis-the-first-community-dao-7f79b7a15).
 
 **DGOV**: we had a [community council ](../dgov-community-council/)just before Aracon with over 50 attendees \(including people from Aragon, DAO stack, Colony, Ethereum foundation, Kleros and many more\). We're still processing material and will share more info soon. Overall this was a bright and bonding experience which led to many new initiatives forming [dgov 2019 strategy](../org/dgov-collaboration-strategy/).
 
 ## Articles, Papers & Videos  <a id="DgovCompilation#3October2018-Articles,Papers&amp;Videos"></a>
 
 * [DAO & The future of content](https://medium.com/pando-network/dao-the-future-of-content-fd9349d94b24) by Alexandre Rouxel
-* [https://medium.com/pando-network/dao-the-future-of-content-fd9349d94b24](https://medium.com/pando-network/dao-the-future-of-content-fd9349d94b24)
-* [https://blog.gnosis.pm/a-brief-discussion-of-the-protocol-governing-the-dxdao-7331407a2555](https://blog.gnosis.pm/a-brief-discussion-of-the-protocol-governing-the-dxdao-7331407a2555)
-* [https://medium.com/daostack/five-great-proposals-from-genesis-the-first-community-dao-7f79b7a15539](https://medium.com/daostack/five-great-proposals-from-genesis-the-first-community-dao-7f79b7a15539)
-* [https://medium.com/@mintbit/governance-of-blockchain-ecosystems-1-2-54f1f55208fa](https://medium.com/@mintbit/governance-of-blockchain-ecosystems-1-2-54f1f55208fa)
-* [https://medium.com/gitcoin/experiments-with-liberal-radicalism-ad68e02efd4](https://medium.com/gitcoin/experiments-with-liberal-radicalism-ad68e02efd4)
-* [https://medium.com/@thibauld/continuous-organizations-v1-0-45d42b3082bb?sk=d7910589c614614c8086ef96de836a53](https://medium.com/@thibauld/continuous-organizations-v1-0-45d42b3082bb?sk=d7910589c614614c8086ef96de836a53)
-* [https://tokeneconomy.co/why-2019-will-be-the-year-of-the-dao-20f18117e4c1](https://tokeneconomy.co/why-2019-will-be-the-year-of-the-dao-20f18117e4c1)
-* [https://medium.com/@simondlr/the-moloch-dao-collapsing-the-firm-2a800b3aa2e7](https://medium.com/@simondlr/the-moloch-dao-collapsing-the-firm-2a800b3aa2e7)
-* [https://medium.com/@mateo.2121/commonists-and-libertarians-cc85d0dc1e92](https://medium.com/@mateo.2121/commonists-and-libertarians-cc85d0dc1e92)
-* [https://medium.com/@Vlad\_Zamfir/against-szabos-law-for-a-new-crypto-legal-system-d00d0f3d3827](https://medium.com/@Vlad_Zamfir/against-szabos-law-for-a-new-crypto-legal-system-d00d0f3d3827)
-* [https://techblogwriter.co.uk/dao/](https://techblogwriter.co.uk/dao/)
-* [https://blog.goodaudience.com/governance-of-blockchain-ecosystems-1-2-54f1f55208fa](https://blog.goodaudience.com/governance-of-blockchain-ecosystems-1-2-54f1f55208fa)
-* [https://medium.com/@lrettig/how-open-is-too-open-bfc412cf0d24](https://medium.com/@lrettig/how-open-is-too-open-bfc412cf0d24)
-* [https://medium.com/cryptolawreview/cryptos-founding-fallacy-aaa151b795ff](https://medium.com/cryptolawreview/cryptos-founding-fallacy-aaa151b795ff) 
-* [https://decryptmedia.com/4630/donut-reddit-crypto-experiment-fails-ethereum-ends](https://decryptmedia.com/4630/donut-reddit-crypto-experiment-fails-ethereum-ends)
+* [A brief discussion of the protocol governing the dxDAO](https://blog.gnosis.pm/a-brief-discussion-of-the-protocol-governing-the-dxdao-7331407a2555) by Martin Köppelmann
+* [Governance of Blockchain Ecosystems \(1/2\)](https://blog.goodaudience.com/governance-of-blockchain-ecosystems-1-2-54f1f55208fa) by MintBit
+* [Experiments With Liberal Radicalism](https://medium.com/gitcoin/experiments-with-liberal-radicalism-ad68e02efd4) ****by Vivek Singh
+* [Continuous Organizations — v1.0](https://medium.com/@thibauld/continuous-organizations-v1-0-45d42b3082bb) by Thibauld Favre
+* [Why 2019 Will Be The Year Of The DAO](https://tokeneconomy.co/why-2019-will-be-the-year-of-the-dao-20f18117e4c1) by Stefano Bernardi
+* [The Moloch DAO: Collapsing The Firm](https://medium.com/@simondlr/the-moloch-dao-collapsing-the-firm-2a800b3aa2e7) by Simon de la Rouviere
+* [Crypto-Commonists and Crypto-Libertarians](https://medium.com/@mateo.2121/commonists-and-libertarians-cc85d0dc1e92) by Mateo PGS
+* [Against Szabo’s Law, For A New Crypto Legal System](https://medium.com/cryptolawreview/against-szabos-law-for-a-new-crypto-legal-system-d00d0f3d382) by Vlad Zamfir
+* Interview with Marco Houwen and Grace Rachmany ["So, You’ve Got A DAO, Management For The 21st Century"](https://techblogwriter.co.uk/dao/)
+* [How open is too open? On transparency, governance, and the challenge of keeping Ethereum alive](https://medium.com/@lrettig/how-open-is-too-open-bfc412cf0d24) by Lane Rettig
+* [Crypto’s Founding Fallacy: How mistakes in the “smart contract” genesis block weaken the whole chain](https://medium.com/cryptolawreview/cryptos-founding-fallacy-aaa151b795ff) by CleanApp
+* [Reddit’s donut crypto experiment turns sour](https://decryptmedia.com/4630/donut-reddit-crypto-experiment-fails-ethereum-ends) by Ben Munster
 
 ## Support DAOs <a id="DgovCompilation#3October2018-Events"></a>
 
