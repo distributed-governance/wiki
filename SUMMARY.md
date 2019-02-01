@@ -21,7 +21,7 @@
   * [Advocacy & Education](org/dgov-collaboration-strategy/advocacy-and-education.md)
   * [Practitioner Support/Success](org/dgov-collaboration-strategy/practitioner-support-success.md)
   * [Culture & Arts](org/dgov-collaboration-strategy/arts-and-inspiration.md)
-* [Structure of Work](org/roles/README.md)
+* [\#dgov Governance](org/roles/README.md)
   * [Event Manager \(Tim\)](org/roles/event-manager-tim.md)
   * [PR Manager \(Anja\)](org/roles/pr-manager.md)
   * [Facilitator \(Max\)](org/roles/facilitator-max.md)

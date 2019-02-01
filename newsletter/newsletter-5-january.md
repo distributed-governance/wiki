@@ -8,7 +8,7 @@
 
 **DAO Stack**: [Proposal Report Jan 2019](https://daotalk.org/t/genesis-alpha-proposals-reports/321/5) \(11 proposals passed, 108 ETH funded\), [Plans for 2019](https://medium.com/daostack/daostack-in-2019-76d7634e27c6) \(beta & beyond\) and a beautiful [manual for DAOs "The Tao of DAO"](https://thetaoofthedao.greaterthan.works/). 
 
-Another highlight are [the interview with Matan Field and Martin Köppelmann on DutchX and dxDAO](https://epicenter.tv/episode/271/) and [Five Great Proposals From Genesis](https://medium.com/daostack/five-great-proposals-from-genesis-the-first-community-dao-7f79b7a15).
+Another highlights are [the interview with Matan Field and Martin Köppelmann on DutchX and dxDAO](https://epicenter.tv/episode/271/) and [Five Great Proposals From Genesis](https://medium.com/daostack/five-great-proposals-from-genesis-the-first-community-dao-7f79b7a15).
 
 **DGOV**: we had a [community council](https://wiki.dgov.foundation/dgov-community-council) just before Aracon with over 50 attendees \(including people from Aragon, DAO stack, Colony, Ethereum foundation, Kleros and many more\). We're still processing material and will share more info soon. Overall this was a bright and bonding experience which led to many new initiatives forming [dgov 2019 strategy](https://wiki.dgov.foundation/org/dgov-collaboration-strategy).
 
@@ -44,7 +44,8 @@ A new section, where we list open positions, bounties and gigs that support dgov
 * [Rebooting the Web of Trust VIII](https://www.eventbrite.com/e/rebooting-the-web-of-trust-viii-spring-2019-barcelona-tickets-54843077120) \(Mar 1, Barcelona\)
 * [radicalXchange](https://radicalxchange.org/) \(March 22-24, Detroit\)
 
-Want to get smth published – write me a line at [dgov.foundation@gmail.com](mailto:dgov.foundation@gmail.com)  
-Got email from a friend – subscribe here [https://dgov.foundation/\#join](https://dgov.foundation/#join)  
-Want more? Check out our [Website](http://dgov.foundation/), [Twitter](https://twitter.com/dgovearth), [Telegram](https://t.me/dgovfoundation), [Medium](https://medium.com/dgov)
+Want to get your info published – drop us a line at [dgov.foundation@gmail.com](mailto:dgov.foundation@gmail.com)  
+Want more? Check out our [Website](http://dgov.foundation/), [Twitter](https://twitter.com/dgovearth), [Medium](https://medium.com/dgov)
+
+Join our community \(newsletter, chat, events\): [https://dgov.foundation/\#join](https://dgov.foundation/#join)
 
