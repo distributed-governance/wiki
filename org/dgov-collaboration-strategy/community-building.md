@@ -14,6 +14,7 @@ Safe space place to safely discuss & collaborate on dgov topics \(e.g. get feedb
 * Paris \(Philippe Honigman + Lucas, Max, Tim, Fran\)
 * Barcelona \(Martin + Lucas\)
 * Lubljana \(Anja\)
+* Madrid \(Maria T Vida \(Tete\) forLegalBlock +David Llop for P2P Models\)
 * Seattle \(Adam Stallard - unconfirmed\)
 * San Francisco \(Beth Mccarthy, Starfish Network - unconfirmed\)
 * Prague \(Josef Jelacic - unconfirmed\)
