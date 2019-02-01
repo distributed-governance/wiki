@@ -6,7 +6,6 @@
 * Local Meetups 
 * Telegram Group
 * Councils
-* Festival
 
 ## How to Contribute
 
