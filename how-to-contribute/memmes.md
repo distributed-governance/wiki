@@ -26,7 +26,12 @@ Malthusian trap is a thing, but I’ll bring you a sandwich anyways
 
 dlov for dgov
 
-[https://medium.com/@luanvanpletsen/the-new-republic-d6cfd961c1d5](https://medium.com/@luanvanpletsen/the-new-republic-d6cfd961c1d5)
+horizontal chicken
+
+* [https://medium.com/@luanvanpletsen/the-new-republic-d6cfd961c1d5](https://medium.com/@luanvanpletsen/the-new-republic-d6cfd961c1d5)
+* [https://www.figma.com/file/VOljSsjBw43q9x6xi5ZYwNf0/%23dgov-graphics?node-id=106%3A6](https://www.figma.com/file/VOljSsjBw43q9x6xi5ZYwNf0/%23dgov-graphics?node-id=106%3A6)
+
+
 
 ![](../.gitbook/assets/giphy-3.gif)
 

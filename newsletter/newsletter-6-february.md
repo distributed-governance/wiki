@@ -12,7 +12,9 @@
 
 ## Articles, Papers & Videos  <a id="DgovCompilation#3October2018-Articles,Papers&amp;Videos"></a>
 
-* ...
+* [https://medium.com/gitcoin/gitcoin-grants-clr-matching-ecbc87b10038](https://medium.com/gitcoin/gitcoin-grants-clr-matching-ecbc87b10038)
+* [https://cyber.stanford.edu/sbc19](https://cyber.stanford.edu/sbc19)
+* [https://blog.goodaudience.com/e-commerce-with-legal-and-blockchain-security-6f2ba6c244a3](https://blog.goodaudience.com/e-commerce-with-legal-and-blockchain-security-6f2ba6c244a3)
 
 ## Support DAOs <a id="DgovCompilation#3October2018-Events"></a>
 
