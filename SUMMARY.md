@@ -5,6 +5,8 @@
   * [Host Local Meetups](how-to-contribute/meetups.md)
   * [\#dgov memmes](how-to-contribute/memmes.md)
 * [Newsletter](newsletter/README.md)
+  * [Newsletter \#1 \(september\)](newsletter/newsletter-1-september.md)
+  * [Newsletter \#2 \(october\)](newsletter/newsletter-2-october.md)
   * [Newsletter \#3 \(november\)](newsletter/newsletter-3-november.md)
   * [Newsletter \#4 \(december\)](newsletter/newsletter-4-december.md)
   * [Newsletter \#5 \(january\)](newsletter/newsletter-5-january.md)
