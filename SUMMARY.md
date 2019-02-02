@@ -8,6 +8,7 @@
   * [Newsletter \#3 \(november\)](newsletter/newsletter-3-november.md)
   * [Newsletter \#4 \(december\)](newsletter/newsletter-4-december.md)
   * [Newsletter \#5 \(january\)](newsletter/newsletter-5-january.md)
+  * [Newsletter \#6 \(february\)](newsletter/newsletter-6-february.md)
 * [DGOV Community Council](dgov-community-council/README.md)
   * [Amsterdam 14.03.2019 \(draft\)](dgov-community-council/amsterdam-14.02.2019.md)
 * [Logo / Identity](identity.md)
