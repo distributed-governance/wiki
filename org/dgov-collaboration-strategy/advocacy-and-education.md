@@ -10,3 +10,7 @@ Phoebe + Lucas, Liraz, Ruth, Maria
 
 Ruth + Grace, Tim, Phoebe
 
+## Forming Partner Network
+
+For cross publishing, speaking etc
+
