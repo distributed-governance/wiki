@@ -118,5 +118,5 @@ Open positions, bounties and gigs that support dgov, DAOs etc.
 
 ## Thanks to the Contributors!
 
-[@PhilH](https://github.com/PhilH), [@parrachia](https://github.com/parrachia), [@FantasticoFox](https://github.com/FantasticoFox)
+[@PhilH](https://github.com/PhilH), [@parrachia](https://github.com/parrachia), [@FantasticoFox](https://github.com/FantasticoFox), [@phoebetickell](https://github.com/phoebetickell)
 
