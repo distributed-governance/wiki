@@ -46,7 +46,7 @@ Open positions, bounties and gigs that support dgov, DAOs etc.
 * [radicalXchange](https://radicalxchange.org/) \(March 22-24, Detroit\)
 
 Want to get your info published – drop us a line at [dgov.foundation@gmail.com](mailto:dgov.foundation@gmail.com)  
-Want more? Check out our [Website](http://dgov.foundation/), [Twitter](https://twitter.com/dgovearth), [Medium](https://medium.com/dgov)
+Want more? Check out our [Website](http://dgov.foundation/), [Wiki](http://wiki.dgov.foundation), [Twitter](https://twitter.com/dgovearth), [Medium](https://medium.com/dgov)
 
 Join our community \(newsletter, chat, events\): [https://dgov.foundation/\#join](https://dgov.foundation/#join)
 
