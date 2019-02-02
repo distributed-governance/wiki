@@ -14,6 +14,8 @@ Some MVP ~ Mar 7
 
 Telegram group: ...
 
+investors to the whole gov space? placeholder?
+
 #### Task:
 
 * Select experts: mechanics designer, design, legal, soft governance, developers
@@ -38,11 +40,10 @@ Grace + Max, Fran
 
 ### + translation in french
 
-Philippe + Fran
+Philippe + Fran  
 
 
+## Legal Framework
 
---
-
-investors to the whole gov space? placeholder?
+practitioner success \(Chris Wray, coalas\)
 

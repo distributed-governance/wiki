@@ -10,6 +10,8 @@ spaceship earth
 
 DAO space monkey
 
+Dancing space monkeys
+
 lets go to the rabbit hole
 
 don’t bring the lambo to the devcon
