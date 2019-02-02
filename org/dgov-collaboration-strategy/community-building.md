@@ -21,6 +21,7 @@ Safe space place to safely discuss & collaborate on dgov topics \(e.g. get feedb
 * Zurich \(Ozan Polat - unconfirmed\)
 * Amsterdam \(Luuk - unconfirmed\)
 * Berlin \(Ela, Supermarkt - unconfirmed\)
+* New York \(Ori Shimony, bushwick - unconfirmed\)
 * Bangkok, CL \(?\)
 
 {% hint style="info" %}
