@@ -28,6 +28,9 @@
   * [PR Manager \(Anja\)](org/roles/pr-manager.md)
   * [Facilitator \(Max\)](org/roles/facilitator-max.md)
   * [Event Manager \(Tim\)](org/roles/event-manager-tim.md)
+  * [Chat moderator \(Max\)](org/roles/chat-moderator-max.md)
+  * [Wiki moderator \(Max\)](org/roles/wiki-moderator-max.md)
+  * [Designer \(Max\)](org/roles/designer-max.md)
   * [Holacracy onboarding](org/roles/holacracy.md)
 
 ## Research
