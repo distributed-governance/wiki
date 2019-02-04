@@ -36,6 +36,8 @@ Tim + help from Felix, Ela, Phoebe, Lucas, Max
 
 ## Festival in Athens
 
+Leader: Tim
+
 ...
 
 ## \#dgov media
