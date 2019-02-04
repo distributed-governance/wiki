@@ -4,11 +4,10 @@
 
 Feel free to contribute to any part of this wiki – it's very welcome
 
-* Repo: [https://github.com/MaxSemenchuk/dgovstate](https://github.com/MaxSemenchuk/dgovstate) – open for contribution \([Pull request tutorial](https://www.youtube.com/watch?v=IBYHohWm_5w)\)
-* Moderation by [Max Semenchuk](mailto:max.semenchuk@gmail.com)
-* Discussion can happen on [Telegram Chat](https://t.me/joinchat/E9cyAw9Ix0g4CS8PNTvR3g), [Twitter](https://twitter.com/hashtag/dgov) \(\#dgov\), [Reddit](https://new.reddit.com/r/dgov/) or research forums
+* Repo: [https://github.com/distributed-governance/wiki](https://github.com/distributed-governance/wiki) – open for contribution \([Pull request tutorial](https://www.youtube.com/watch?v=IBYHohWm_5w)\)
+* Discussion can happen on [Telegram Chat](https://dgov.foundation/#join), [Twitter](https://twitter.com/hashtag/dgov) \(\#dgov\), [Reddit](https://new.reddit.com/r/dgov/) or research forums
 
-Maintained by [DGov Foundation](https://dgov.foundation/)
+Maintained by the [DGov Foundation](https://dgov.foundation/)
 
 ## **DGOV Infrastructure Platforms**
 
