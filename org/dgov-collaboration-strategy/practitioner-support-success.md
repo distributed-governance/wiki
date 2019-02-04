@@ -42,8 +42,7 @@ Grace + Max, Fran
 
 ### + translation in french
 
-Philippe + Fran  
-
+Philippe + Fran
 
 ## Legal Framework
 

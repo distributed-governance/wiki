@@ -18,9 +18,9 @@ For cross publishing, speaking etc
 * [https://www.worldgovernmentsummit.org/](https://www.worldgovernmentsummit.org/)
 * ...
 
-## Terminology
+## Glossary / Terminology
 
-Phil?
+Phil, Grace
 
 What is DAO
 
