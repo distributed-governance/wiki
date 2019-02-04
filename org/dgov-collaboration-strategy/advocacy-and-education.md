@@ -18,3 +18,9 @@ For cross publishing, speaking etc
 * [https://www.worldgovernmentsummit.org/](https://www.worldgovernmentsummit.org/)
 * ...
 
+## Terminology
+
+Phil?
+
+What is DAO
+
