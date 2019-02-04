@@ -4,7 +4,7 @@ Connect people and support collaboration in dgov implementation \(e.g. dgov conf
 
 ## DAO Incubator
 
-Cem?
+Leader: Cem
 
 Aragon ~ describing / formalizing use cases
 
@@ -12,7 +12,7 @@ Tables with 3 mechanics designer
 
 Some MVP ~ Mar 7
 
-Telegram group: ...
+Telegram group: [https://t.me/DAOincubator](https://t.me/DAOincubator)
 
 investors to the whole gov space? placeholder?
 
