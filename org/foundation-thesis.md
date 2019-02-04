@@ -4,6 +4,10 @@
 
 We exist to support the progress of distributed governance research and implementation. Our vision is to build the meta-community: platform-agnostic and cross-domain \(for tech, academics and policy makers\).
 
+{% hint style="info" %}
+What is the connection with the technology and blockchain? How is it compared with other networks like [https://www.responsive.org/](https://www.responsive.org/) ?
+{% endhint %}
+
 ## Audience & Needs hypothesis <a id="DGOVFoundationThesis-Audience&amp;Needshypothesis"></a>
 
 * Infrastructure projects \(Ethereum, Tezos, Aragon, DAOStack...\)
