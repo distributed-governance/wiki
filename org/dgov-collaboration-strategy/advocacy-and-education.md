@@ -10,14 +10,6 @@ Phoebe + Lucas, Liraz, Ruth, Maria
 
 Ruth + Grace, Tim, Phoebe
 
-## Forming Partner Network
-
-For cross publishing, speaking etc
-
-* Pollinators
-* [https://www.worldgovernmentsummit.org/](https://www.worldgovernmentsummit.org/)
-* ...
-
 ## Glossary / Terminology
 
 Phil, Grace

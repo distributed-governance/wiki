@@ -2,6 +2,8 @@
 
 Purpose: Connect experts and support collaboration in dgov implementation
 
+## List of \(potential\) DAOs
+
 ## DAO Incubator
 
 Leader: Cem
@@ -43,6 +45,14 @@ Grace + Max, Fran
 ### + translation in french
 
 Philippe + Fran
+
+## Forming Partner Network
+
+For cross publishing, speaking etc
+
+* Pollinators
+* [https://www.worldgovernmentsummit.org/](https://www.worldgovernmentsummit.org/)
+* Giveth gov-lab
 
 ## Legal Framework
 
