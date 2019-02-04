@@ -14,6 +14,8 @@ Some MVP ~ Mar 7
 
 Telegram group: [https://t.me/DAOincubator](https://t.me/DAOincubator)
 
+Realtime board: [https://realtimeboard.com/app/board/o9J\_kysdxCw=/](https://realtimeboard.com/app/board/o9J_kysdxCw=/)
+
 investors to the whole gov space? placeholder?
 
 #### Task:
