@@ -26,3 +26,7 @@ What should be transparent?
 
 Liraz + Tim, Phoebe, Grace, Max
 
+## Decision Making
+
+Changes to policies and roles are done through the Holacracy IDM process. Telegram and Loomio voting can be used for consulting with the community.
+
