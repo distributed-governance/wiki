@@ -30,3 +30,7 @@ Liraz + Tim, Phoebe, Grace, Max
 
 Changes to policies and roles are done through the Holacracy IDM process. Telegram and Loomio voting can be used for consulting with the community.
 
+## Reputation
+
+Use Dish and Leaderboard mechanics as in Giveth?
+
