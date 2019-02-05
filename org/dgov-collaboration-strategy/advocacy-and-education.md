@@ -16,3 +16,9 @@ Phil, Grace
 
 What is DAO
 
+## Public Relations
+
+* Ethereum
+* WEF
+* ...
+

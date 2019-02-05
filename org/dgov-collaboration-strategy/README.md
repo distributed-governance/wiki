@@ -1,11 +1,13 @@
 # \#dgov Strategy 2019
 
+**Purpose**: We exist to support the progress of distributed governance research and implementation.
+
 ## Goals
 
 1. [Global community building](community-building.md)
-
-   ...
-
+   * 10+ hubs on all continents
+   * 500 specialists in the network
+   * Survey results 8+/10
 2. [Advocacy & Education](advocacy-and-education.md)
 
    ...
