@@ -35,12 +35,6 @@ Safe space place to safely discuss & collaborate on dgov topics \(e.g. get feedb
 * Loomio
 * ...
 
-## \#dgov Global Map
-
-Peter + Ela, Lucas
-
-google maps? guidelines / support
-
 ### Local Meetups / Hubs
 
 * London \(Jack + Phoebe, Ruth + Furtherfield\)
@@ -80,6 +74,14 @@ Leader: Max
 Newsletter and/or newspaper
 
 Collaborate with Aragon, DAOstack and more.
+
+## Map of the industry landscape + \#dgov Global Map
+
+Grace + Pat, Ela
+
+Peter + Ela, Lucas
+
+google maps? guidelines / support
 
 ## 
 
