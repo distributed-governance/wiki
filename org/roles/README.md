@@ -20,9 +20,7 @@ Phoebe + ...
 
 ## Dogfooding + transparency
 
-{% hint style="info" %}
-What should be transparent?
-{% endhint %}
+Everything should be transparent unless specified so
 
 Liraz + Tim, Phoebe, Grace, Max
 
