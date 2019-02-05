@@ -9,9 +9,8 @@
    * 500 members in the network
    * Survey results 8+/10
 2. [Advocacy & Education](advocacy-and-education.md)
-
-   ...
-
+   * Outreach
+   * Education materials
 3. [Practitioner Support / Success ](practitioner-support-success.md)
 
    ...
