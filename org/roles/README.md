@@ -28,3 +28,9 @@ Changes to policies and roles are done through the Holacracy IDM process. Telegr
 
 Use Dish and Leaderboard mechanics as in Giveth?
 
+## Human Resources
+
+Facilitators: @Franpick @phoebetickell @lucastauil Ela
+
+Mediator / Conflict resolution: Chris Wray, @loie\_giveth
+
