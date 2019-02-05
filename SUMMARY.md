@@ -11,8 +11,7 @@
   * [Newsletter \#4 \(december\)](newsletter/newsletter-4-december.md)
   * [Newsletter \#5 \(january\)](newsletter/newsletter-5-january.md)
   * [Newsletter \#6 \(february\)](newsletter/newsletter-6-february.md)
-* [DGOV Community Council](dgov-community-council/README.md)
-  * [Amsterdam 14.03.2019 \(draft\)](dgov-community-council/amsterdam-14.02.2019.md)
+* [DGOV Community Council](dgov-community-council.md)
 * [Logo / Identity](identity.md)
 * [Official Website](https://dgov.foundation)
 
@@ -32,7 +31,8 @@
   * [Wiki moderator \(Max\)](org/roles/wiki-moderator-max.md)
   * [Designer \(Max\)](org/roles/designer-max.md)
   * [Holacracy onboarding](org/roles/holacracy.md)
-* [Projects](org/projects/README.md)
+* [\#dgov Projects](org/projects/README.md)
+  * [Amsterdam 14.03.2019 \(draft\)](org/projects/amsterdam-14.02.2019.md)
   * [Workshop in Ljubljana, Apr 28](org/projects/workshop-in-ljubljana-apr-28.md)
 
 ## Research
