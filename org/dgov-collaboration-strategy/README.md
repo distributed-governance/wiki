@@ -8,10 +8,10 @@
    * 10+ hubs on all continents
    * 500 members in the network
    * Survey results 8+/10
-2. [Advocacy & Education](advocacy-and-education.md)
-   * 10k impressions on education materials
-3. [Practitioner Support / Success ](practitioner-support-success.md)
+2. [Practitioner Support / Success ](practitioner-support-success.md)
    * Incubator launched
+3. [Outreach & Advocacy](advocacy-and-education.md)
+   * 10k impressions on education materials
 4. [Culture & Arts](arts-and-inspiration.md)
    * Set of memes
    * Movie

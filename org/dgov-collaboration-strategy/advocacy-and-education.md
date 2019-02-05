@@ -1,4 +1,4 @@
-# Advocacy & Education
+# Outreach & Advocacy
 
 Sharing and representing the dgov practices to wider community
 
