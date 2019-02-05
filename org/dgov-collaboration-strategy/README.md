@@ -9,15 +9,12 @@
    * 500 members in the network
    * Survey results 8+/10
 2. [Advocacy & Education](advocacy-and-education.md)
-   * Outreach
-   * Education materials
+   * 10k impressions on education materials
 3. [Practitioner Support / Success ](practitioner-support-success.md)
-
-   ...
-
+   * Incubator launched
 4. [Culture & Arts](arts-and-inspiration.md)
-
-   ...
+   * Set of memes
+   * Movie
 
 [Key Performance Indicators & Reports](https://docs.google.com/spreadsheets/d/1B0XGN2uMeStBHcOcr0VySbSzYz_V67zmKCjJ-NBwvNU/edit?usp=sharing)
 
