@@ -20,7 +20,13 @@
 
    ...
 
+[Key Performance Indicators & Reports](https://docs.google.com/spreadsheets/d/1B0XGN2uMeStBHcOcr0VySbSzYz_V67zmKCjJ-NBwvNU/edit?usp=sharing)
+
 Tasks: [https://trello.com/b/CIKoPoBt/q1-2019](https://trello.com/b/CIKoPoBt/q1-2019)
 
-KPI: [https://docs.google.com/spreadsheets/d/1B0XGN2uMeStBHcOcr0VySbSzYz\_V67zmKCjJ-NBwvNU/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1B0XGN2uMeStBHcOcr0VySbSzYz_V67zmKCjJ-NBwvNU/edit?usp=sharing)
+## Funding
+
+Raise and create value equivalent ~$1M
+
+Liraz can help pitch and do token
 

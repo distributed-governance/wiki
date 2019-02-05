@@ -4,11 +4,7 @@
 
 Dgov foundation uses a Holacracy-like model as a governance model
 
-## Funding
 
-Raise and create value equivalent ~$1M
-
-Liraz can help pitch and do token
 
 ## Horizontal Organising Patterns
 
