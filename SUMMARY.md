@@ -1,7 +1,7 @@
 # Table of contents
 
 * [DGOV Resources](README.md)
-* [Community Onboarding](how-to-contribute/README.md)
+* [\#dgov Community Onboarding](how-to-contribute/README.md)
   * [Host Local Meetups](how-to-contribute/meetups.md)
   * [\#dgov memmes](how-to-contribute/memmes.md)
 * [Newsletter](newsletter/README.md)

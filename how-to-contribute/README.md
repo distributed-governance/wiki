@@ -1,20 +1,13 @@
-# Community Onboarding
+# \#dgov Community Onboarding
 
-\#dgov is a community of people who want to bring more distributed/decentralized design to the organizations.
-
-## What's going on
-
-* [Newsletter](../newsletter/)
-* [Local Events & Meetups ](https://wiki.dgov.foundation/#events)
-* [Telegram Group](https://dgov.foundation#join) \(by invite\)
-* [Councils](../dgov-community-council/)
+\#dgov is a community of people who want to bring more distributed/decentralized design to the organizations. You can 
 
 ## How to Contribute
 
 * Support the projects from the [\#dgov strategy 2019](../org/dgov-collaboration-strategy/)
 * Add to / Edit [the wiki](https://wiki.dgov.foundation/)
 * Add to / Edit [the newsletter](https://wiki.dgov.foundation/newsletter)
-* Participate on [the group chat](https://t.me/dgovfoundation)
+* Participate on the group chat
 * Attend [local meetups and events](https://wiki.dgov.foundation/#events)
 * Host [local meetups and events](https://wiki.dgov.foundation/how-to-contribute/meetups)
 
