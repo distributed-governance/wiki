@@ -4,8 +4,6 @@
 
 Dgov foundation uses a Holacracy-like model as a governance model
 
-
-
 ## Horizontal Organising Patterns
 
 Horizontal leadership, decentralised organising patterns, group facilitation
