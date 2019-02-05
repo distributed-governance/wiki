@@ -30,5 +30,5 @@ Use Dish and Leaderboard mechanics as in Giveth?
 
 Facilitators: Franpick, phoebetickell, lucastauil, Ela
 
-Mediator / Conflict resolution: Chris Wray, loie\_giveth, Felix Macht, 
+Mediators \(Conflict resolution\): Chris Wray, loie\_giveth, Felix Macht, Phoebe
 
