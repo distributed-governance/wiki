@@ -1,6 +1,6 @@
 # \#dgov Community Onboarding
 
-\#dgov is a community of people who want to bring more distributed/decentralized design to the organizations. You can 
+\#dgov is a community of people who want to bring more distributed/decentralized design to the organizations. Read more in our [Manifesto](../org/foundation-thesis.md).
 
 ## How to Contribute
 
