@@ -28,7 +28,7 @@ Use Dish and Leaderboard mechanics as in Giveth?
 
 ## Human Resources
 
-Facilitators: @Franpick @phoebetickell @lucastauil Ela
+Facilitators: Franpick, phoebetickell, lucastauil, Ela
 
-Mediator / Conflict resolution: Chris Wray, @loie\_giveth
+Mediator / Conflict resolution: Chris Wray, loie\_giveth, Felix Macht, 
 
