@@ -6,7 +6,7 @@
 
 1. [Global community building](community-building.md)
    * 10+ hubs on all continents
-   * 500 specialists in the network
+   * 500 members in the network
    * Survey results 8+/10
 2. [Advocacy & Education](advocacy-and-education.md)
 
