@@ -27,49 +27,59 @@ Boundaries: being part of the chat / telegram group
 
 Safe space place to safely discuss & collaborate on dgov topics \(e.g. get feedback, intracommunity projects and hiring\).
 
-## Local Meetups / Hubs
+## Communications
 
-* London \(Jack + Phoebe, Ruth + Furtherfield\)
-* Paris \(Philippe Honigman + Lucas, Max, Tim, Fran\)
-* Barcelona \(Martin + Lucas\)
-* Lubljana \(Anja\)
-* Madrid \(Maria T Vida \(Tete\) forLegalBlock +David Llop for P2P Models\)
-* Seattle \(Adam Stallard - unconfirmed\)
-* San Francisco \(Beth Mccarthy, Starfish Network - unconfirmed\)
-* Prague \(Josef Jelacic - unconfirmed\)
-* Zurich \(Ozan Polat - unconfirmed\)
-* Amsterdam \(Luuk - unconfirmed\)
-* Berlin \(Ela, Supermarkt - unconfirmed\)
-* New York \(Ori Shimony, bushwick - unconfirmed\)
-* Bangkok, CL \(?\)
-
-{% hint style="info" %}
-What are other major blockchain cities?
-{% endhint %}
-
-## Councils
-
-3 times a year in the centers of community \(Berlin, ...\)?
-
-Tim + help from Felix, Ela, Phoebe, Lucas, Max
-
-## Festival in Athens
-
-Leader: Tim
-
-...
-
-## \#dgov media
-
-Newsletter and/or newspaper
-
-Collaborate with Aragon, DAOstack and more.
+* Twitter \(council account + \#dgov\)
+* Telegram group
+* Medium + Newsletter
+* Loomio
+* ...
 
 ## \#dgov Global Map
 
 Peter + Ela, Lucas
 
-google maps?
+google maps? guidelines / support
+
+### Local Meetups / Hubs
+
+* London \(Jack + Phoebe, Ruth + Furtherfield\)
+* Berlin \(Ela, Supermarkt - unconfirmed\)
+* Paris \(Philippe Honigman + Lucas, Max, Tim, Fran\)
+* Barcelona \(Martin + Lucas\)
+* San Francisco \(Beth Mccarthy, Starfish Network - unconfirmed\)
+* Hong Kong \(?\)
+* Dubai \(?\)
+* Toronto \(?\)
+* Tallinn \(?\)
+* Singapore \(?\)
+* New York \(Ori Shimony, bushwick - unconfirmed\)
+* Seattle \(Adam Stallard - unconfirmed\)
+* Lubljana \(Anja\)
+* Madrid \(Maria T Vida \(Tete\) forLegalBlock +David Llop for P2P Models\)
+* Prague \(Josef Jelacic - unconfirmed\)
+* Zurich /Zug? \(Ozan Polat - unconfirmed\)
+* Amsterdam \(Luuk - unconfirmed\)
+
+## Councils
+
+Leader: Tim  + help from Felix, Ela, Phoebe, Lucas, Max
+
+3 times a year in the centers of community \(Berlin, ...\)?
+
+## Festival in Athens 2019/2020?
+
+Leader: Tim
+
+...
+
+## \#dgov media / newsletter
+
+Leader: Max
+
+Newsletter and/or newspaper
+
+Collaborate with Aragon, DAOstack and more.
 
 ## 
 
