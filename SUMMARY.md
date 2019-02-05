@@ -4,6 +4,7 @@
 * [\#dgov Community Onboarding](how-to-contribute/README.md)
   * [Host Local Meetups](how-to-contribute/meetups.md)
   * [\#dgov memmes](how-to-contribute/memmes.md)
+  * [Brief history](how-to-contribute/dgov-history.md)
 * [Newsletter](newsletter/README.md)
   * [Newsletter \#1 \(september\)](newsletter/newsletter-1-september.md)
   * [Newsletter \#2 \(october\)](newsletter/newsletter-2-october.md)
