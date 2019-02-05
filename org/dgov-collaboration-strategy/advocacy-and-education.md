@@ -16,8 +16,13 @@ Phil, Grace
 
 What is DAO
 
-## Public Relations
+## Forming Partner Network
 
+For cross publishing, speaking etc
+
+* Pollinators
+* [https://www.worldgovernmentsummit.org/](https://www.worldgovernmentsummit.org/)
+* Giveth gov-lab
 * Ethereum
 * WEF
 * ...

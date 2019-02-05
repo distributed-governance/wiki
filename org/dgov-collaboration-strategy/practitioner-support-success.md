@@ -49,14 +49,6 @@ Grace + Max, Fran
 
 Philippe + Fran
 
-## Forming Partner Network
-
-For cross publishing, speaking etc
-
-* Pollinators
-* [https://www.worldgovernmentsummit.org/](https://www.worldgovernmentsummit.org/)
-* Giveth gov-lab
-
 ## Legal Framework
 
 practitioner success \(Chris Wray, coalas\)
