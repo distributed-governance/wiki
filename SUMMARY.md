@@ -32,6 +32,8 @@
   * [Wiki moderator \(Max\)](org/roles/wiki-moderator-max.md)
   * [Designer \(Max\)](org/roles/designer-max.md)
   * [Holacracy onboarding](org/roles/holacracy.md)
+* [Projects](org/projects/README.md)
+  * [Workshop in Ljubljana, Apr 28](org/projects/workshop-in-ljubljana-apr-28.md)
 
 ## Research
 

@@ -1,11 +1,13 @@
 # Community Onboarding
 
+\#dgov is a community of people who want to bring more distributed/decentralized design to the organizations.
+
 ## What's going on
 
-* Newsletter
-* Local Meetups 
-* Telegram Group
-* Councils
+* [Newsletter](../newsletter/)
+* [Local Events & Meetups ](https://wiki.dgov.foundation/#events)
+* [Telegram Group](https://dgov.foundation#join) \(by invite\)
+* [Councils](../dgov-community-council/)
 
 ## How to Contribute
 
@@ -13,13 +15,10 @@
 * Add to / Edit [the wiki](https://wiki.dgov.foundation/)
 * Add to / Edit [the newsletter](https://wiki.dgov.foundation/newsletter)
 * Participate on [the group chat](https://t.me/dgovfoundation)
-* Attend [local meetups](https://wiki.dgov.foundation/meetups) and events
-* Host [local meetups](https://wiki.dgov.foundation/meetups) and events
-* Donate
-  * ETH \(Aragon Multisig\) 0x0D5239fc485fd9f065B6AD581d4250abD68CCd0C
-  * Fiat \(by invoice contact tim.bansemer@inblock.io\)
+* Attend [local meetups and events](https://wiki.dgov.foundation/#events)
+* Host [local meetups and events](https://wiki.dgov.foundation/how-to-contribute/meetups)
 
-### Rules <a id="DGOVFoundationThesis-Rules"></a>
+## Rules
 
 1. Stay on topic: please post and discuss topics relevant to governance, DAO, token economy etc
 2. Give More Than You Take: What makes a community amazing is when members are more focused on helping each other, than on helping themselves. Be as helpful as possible and everyone benefits!
