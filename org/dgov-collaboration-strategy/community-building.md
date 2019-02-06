@@ -1,5 +1,7 @@
 # Community Building
 
+## Impact mapping
+
 Audience: people who want to bring more distributed/decentralized design to the organizations
 
 * Infrastructure projects \(Ethereum, Tezos, Aragon, DAOStack...\)
@@ -23,7 +25,19 @@ Audience: people who want to bring more distributed/decentralized design to the 
 
 Boundaries: being part of the chat / telegram group
 
-## Culture
+## Horizontal Organising Patterns / Dogfooding
+
+Horizontal leadership, decentralised organising patterns, group facilitation
+
+Soft governance meets hard governance
+
+Phoebe + Liraz + Tim, Phoebe, Grace, Max
+
+### Reputation
+
+Use Dish and Leaderboard mechanics as in Giveth?
+
+### Culture
 
 Safe space place to safely discuss & collaborate on dgov topics \(e.g. get feedback, intracommunity projects and hiring\).
 
