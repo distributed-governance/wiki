@@ -26,6 +26,7 @@ Maintained by the [DGov Foundation](https://dgov.foundation/)
 * [Edgeware](https://edgewa.re/) – an experimental blockchain for demonstrating the effectiveness of on-chain governance
 * [Kelsen](https://klsn.io/) – a dapp and a smart contract framework for building secure and transparent governance systems on Ethereum
 * [Decidim](https://decidim.org/) – free open-source participatory democracy for cities and organizations
+* [dOrg](https://github.com/dOrgTech) – dApp for creating and interacting with DAOs
 
 **Concepts:**
 
