@@ -10,3 +10,7 @@ Oct 2018 – Conference postponed, focus on community building
 
 Jan 2019 – First community council
 
+### Publications:
+
+[https://irishtechnews.ie/how-to-improve-the-economy-with-better-organisations-and-technology-max-semenchuk-dgov/](https://irishtechnews.ie/how-to-improve-the-economy-with-better-organisations-and-technology-max-semenchuk-dgov/)
+
