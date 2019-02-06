@@ -1,4 +1,4 @@
-# PR Manager \(Anja\)
+# PR Manager
 
 **Purpose:**
 

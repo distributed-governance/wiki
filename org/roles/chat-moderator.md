@@ -1,4 +1,4 @@
-# Chat moderator \(Max\)
+# Chat moderator
 
 Purpose:
 

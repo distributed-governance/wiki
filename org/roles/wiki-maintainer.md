@@ -1,4 +1,4 @@
-# Wiki moderator \(Max\)
+# Wiki Maintainer
 
 Purpose:
 
