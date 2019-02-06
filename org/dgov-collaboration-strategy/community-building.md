@@ -61,12 +61,6 @@ Leader: Tim  + help from Felix, Ela, Phoebe, Lucas, Max
 
 3 times a year in the centers of community \(Berlin, ...\)?
 
-## Festival in Athens 2019/2020?
-
-Leader: Tim
-
-...
-
 ## \#dgov media / newsletter
 
 Leader: Max
@@ -83,5 +77,9 @@ Peter + Ela, Lucas
 
 google maps? guidelines / support
 
-## 
+## Festival in Athens 2020
+
+Leader: Tim
+
+Preparations...
 
