@@ -8,13 +8,13 @@ Changes to policies and roles are done through the Holacracy IDM process. Telegr
 
 ### Roles:
 
-* PR Manager – Anja Blaj
-* Facilitators – Max, Franpick, Phoebe Tickell, Lucas, Ela
+* PR Manager – Anja
+* Facilitators – Max, Fran, Phoebe, Lucas, Ela
 * Event Manager
 * Chat Moderator
 * Wiki Maintainer
 * Designer – Max
-* Mediators \(preliminary\) – Chris Wray, loie\_giveth, Felix Macht, Phoebe, Anuj
+* Mediators \(preliminary\) – Chris, Loie, Felix, Phoebe, Anuj
 
 ## Horizontal Organising Patterns / Dogfooding
 
