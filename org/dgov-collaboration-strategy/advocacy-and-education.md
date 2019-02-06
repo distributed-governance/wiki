@@ -6,6 +6,8 @@ Sharing and representing the dgov practices to wider community
 
 Ruth + Grace, Tim, Phoebe
 
+for artists on London\*
+
 ## Glossary / Terminology
 
 Phil, Grace
