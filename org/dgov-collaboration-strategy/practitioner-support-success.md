@@ -57,3 +57,9 @@ practitioner success \(Chris Wray, coalas\)
 
 [https://ethsignals.gitbook.io/wiki/](https://ethsignals.gitbook.io/wiki/)
 
+## Tokenizing Nature 2.0
+
+Phoebe + Lucas, Liraz, Ruth, Maria
+
+[https://www.odyssey.org/track-nature2-0-build-the-unimaginable-but-buildable/ ](https://www.odyssey.org/track-nature2-0-build-the-unimaginable-but-buildable/%20)
+
