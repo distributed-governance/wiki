@@ -33,7 +33,7 @@ Maintained by the [DGov Foundation](https://dgov.foundation/)
 * [http://www.cone.network/](http://www.cone.network/)
 * [https://www.metaorg.one/](https://www.metaorg.one/)
 
-## **Newsletters, Blogs, Podcasts**
+## **Newsletters, Blogs, Podcasts, Webinars**
 
 * ​[Aragon monthly](https://monthly.aragon.org/)​
 * ​[Token Economy](http://weekly.tokeneconomy.co/)​
@@ -41,6 +41,7 @@ Maintained by the [DGov Foundation](https://dgov.foundation/)
 * [Colony blog](http://blog.colony.io)
 * [DGOV newsletter](https://dgov.foundation/newsletter)
 * [DAO Cast](https://daocast.io/)
+* [\#dgov Youtube](https://www.youtube.com/channel/UCGZX1WbJNjuxma-7SXRdRDg)
 
 ## **Forums & Subreddits**
 
