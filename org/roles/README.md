@@ -30,7 +30,11 @@ Use Dish and Leaderboard mechanics as in Giveth?
 
 ## Transparency Policy
 
-Everything should be transparent unless specified so
+Everything should be transparent, except of 
+
+* private data \(names, addresses, contacts\)
+* security \(passwords\)
+* budget details, like salaries \(low resolution reports are ok\)
 
 ### 
 
