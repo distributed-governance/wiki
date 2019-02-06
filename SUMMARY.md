@@ -1,10 +1,6 @@
 # Table of contents
 
 * [DGOV Resources](README.md)
-* [\#dgov Community Onboarding](how-to-contribute/README.md)
-  * [Host Local Meetups](how-to-contribute/meetups.md)
-  * [\#dgov memmes](how-to-contribute/memmes.md)
-  * [Brief history](how-to-contribute/dgov-history.md)
 * [Newsletter](newsletter/README.md)
   * [Newsletter \#1 \(september\)](newsletter/newsletter-1-september.md)
   * [Newsletter \#2 \(october\)](newsletter/newsletter-2-october.md)
@@ -12,7 +8,11 @@
   * [Newsletter \#4 \(december\)](newsletter/newsletter-4-december.md)
   * [Newsletter \#5 \(january\)](newsletter/newsletter-5-january.md)
   * [Newsletter \#6 \(february\)](newsletter/newsletter-6-february.md)
-* [DGOV Community Council](dgov-community-council.md)
+* [\#dgov Community Onboarding](how-to-contribute/README.md)
+  * [Host Local Meetups](how-to-contribute/meetups.md)
+  * [\#dgov memmes](how-to-contribute/memmes.md)
+  * [Brief history](how-to-contribute/dgov-history.md)
+* [\#dgov Community Council](dgov-community-council.md)
 * [Logo / Identity](identity.md)
 * [Official Website](https://dgov.foundation)
 
