@@ -43,6 +43,11 @@ Maintained by the [DGov Foundation](https://dgov.foundation/)
 * BrightID
 * ...
 
+### Dispute resolution
+
+* Kleros
+* ...
+
 ## **Newsletters, Blogs, Podcasts, Webinars**
 
 * ​[Aragon monthly](https://monthly.aragon.org/)​
