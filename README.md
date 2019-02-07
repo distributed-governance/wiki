@@ -36,7 +36,7 @@ Maintained by the [DGov Foundation](https://dgov.foundation/)
 * [http://www.cone.network/](http://www.cone.network/)
 * [https://www.metaorg.one/](https://www.metaorg.one/)
 
-### Identity
+### Identity Providers
 
 * Iden3
 * uport
