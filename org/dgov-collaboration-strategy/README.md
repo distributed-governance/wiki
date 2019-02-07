@@ -1,8 +1,8 @@
-# \#dgov Strategy 2019
+# \#dgov Strategy
 
 **Purpose**: We exist to support the progress of distributed governance research and implementation.
 
-## Goals
+## Goals 2019
 
 1. [Global community building](community-building.md)
    * Survey results 8+/10
@@ -18,6 +18,10 @@
 [Key Performance Indicators & Reports](https://docs.google.com/spreadsheets/d/1B0XGN2uMeStBHcOcr0VySbSzYz_V67zmKCjJ-NBwvNU/edit?usp=sharing)
 
 Tasks: [https://trello.com/b/CIKoPoBt/q1-2019](https://trello.com/b/CIKoPoBt/q1-2019)
+
+### Longterm plans
+
+* Festival in Athens 2020
 
 ## Funding
 

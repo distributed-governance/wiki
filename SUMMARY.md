@@ -20,7 +20,7 @@
 ## Foundation
 
 * [\#dgov Manifesto](org/foundation-thesis.md)
-* [\#dgov Strategy 2019](org/dgov-collaboration-strategy/README.md)
+* [\#dgov Strategy](org/dgov-collaboration-strategy/README.md)
   * [Community Building](org/dgov-collaboration-strategy/community-building.md)
   * [Practitioner Support/Success](org/dgov-collaboration-strategy/practitioner-support-success.md)
   * [Outreach & Advocacy](org/dgov-collaboration-strategy/advocacy-and-education.md)

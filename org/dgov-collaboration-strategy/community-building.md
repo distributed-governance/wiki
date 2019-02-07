@@ -2,7 +2,9 @@
 
 **Purpose:** increase the number of collaborations in the movement
 
-## Impact mapping
+## Community management
+
+### Impact mapping
 
 Audience: people who want to bring more distributed/decentralized design to the organizations
 
@@ -25,7 +27,7 @@ Audience: people who want to bring more distributed/decentralized design to the 
 * Legal / Policy makers \(e.g. Coalas\)
   * Understanding / Exploration / Access to sandboxes and expertise
 
-## Horizontal Organising Patterns / Dogfooding
+### Horizontal Organising Patterns / Dogfooding
 
 Horizontal leadership, decentralised organising patterns, group facilitation
 
@@ -41,27 +43,9 @@ Use Dish and Leaderboard mechanics as in Giveth?
 
 Safe space place to safely discuss & collaborate on dgov topics \(e.g. get feedback, intracommunity projects and hiring\).
 
-### Local Connections / Hubs
+## Resources
 
-* London \(Jack + Phoebe, Ruth + Furtherfield\)
-* Berlin \(Ela, Supermarkt - unconfirmed\)
-* Paris \(Philippe Honigman + Lucas, Max, Tim, Fran\)
-* Barcelona \(Martin + Lucas\)
-* San Francisco \(Beth Mccarthy, Starfish Network - unconfirmed\)
-* Hong Kong \(?\)
-* Dubai \(?\)
-* Toronto \(?\)
-* Tallinn \(?\)
-* Singapore \(?\)
-* New York \(Ori Shimony, bushwick - unconfirmed\)
-* Seattle \(Adam Stallard - unconfirmed\)
-* Lubljana \(Anja\)
-* Madrid \(Maria T Vida \(Tete\) forLegalBlock +David Llop for P2P Models\)
-* Prague \(Josef Jelacic - unconfirmed\)
-* Zurich /Zug? \(Ozan Polat - unconfirmed\)
-* Amsterdam \(Luuk - unconfirmed\)
-
-## Communications
+### Communications
 
 * Twitter \(council account + \#dgov\)
 * Telegram group
@@ -69,19 +53,7 @@ Safe space place to safely discuss & collaborate on dgov topics \(e.g. get feedb
 * Loomio
 * ...
 
-## Council \#2
-
-Leader: Tim  + help from Felix, Ela, Phoebe, Lucas, Max
-
-~Sep-Oct 2019
-
-## Retreat \#1 \(Ljubljana\)
-
-Leader: Tim
-
-April 2019
-
-## \#dgov media / newsletter
+### \#dgov media / newsletter
 
 Leader: Max
 
@@ -89,17 +61,35 @@ Newsletter and/or newspaper
 
 Collaborate with Aragon, DAOstack and more.
 
-## Map of the industry landscape
+### Map of the industry landscape
 
 Grace + Pat, Ela
 
-Peter + Ela, Lucas
+### \#dgov global Map
 
 google maps? guidelines / support
 
-## Festival in Athens 2020
+Peter + Ela, Lucas
+
+## Events
+
+### Council \#2
+
+Leader: Tim  + help from Felix, Ela, Phoebe, Lucas, Max
+
+~Sep-Oct 2019
+
+### Retreat \#1 \(Ljubljana\)
 
 Leader: Tim
 
-Preparations...
+April 2019
+
+### Meetups
+
+* London \(Jack + Phoebe, Ruth + Furtherfield\)
+* Berlin \(Ela, Supermarkt - unconfirmed\)
+* Paris \(Philippe Honigman + Lucas, Max, Tim, Fran\)
+* Madrid \(Maria T Vida \(Tete\) forLegalBlock +David Llop for P2P Models\)
+* Amsterdam \(Luuk - unconfirmed\)
 
