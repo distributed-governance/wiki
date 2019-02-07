@@ -8,9 +8,9 @@ Changes to policies and roles are done through the Holacracy IDM process. Telegr
 
 * PR Manager – Anja
 * Facilitators – Max, Fran, Phoebe, Lucas, Ela
-* Event Manager
-* Chat Moderator
-* Wiki Maintainer
+* Event Manager – Tim
+* Chat Moderator – Max, Tim, Anja
+* Wiki Maintainer – Max, Phoebe, Grace
 * Designer – Max
 * Mediators \(preliminary\) – Chris, Loie, Felix, Phoebe, Anuj
 
@@ -22,7 +22,22 @@ Changes to policies and roles are done through the Holacracy IDM process. Telegr
 * Logo / Brand
 * Budget \(0 for now\)
 
-## Transparency Policy
+## Policies
+
+Work in progress
+
+### Accepting new members
+
+* Every new member should be proposed by an existent core member
+* This core member take full responsibility for that member
+* Trial period ends when every other member are sure to accept this person
+* Difference of trial status is only in recognition
+
+### Exclusion rules
+
+The absolute majority votes for exclusion, the member is excluded as well as the person who brought him
+
+### Transparency Policy
 
 Everything should be transparent, except of 
 
