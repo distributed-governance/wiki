@@ -2,7 +2,7 @@
 
 May 2018 – EthCC discussions about the conference
 
-June 2018 – working group
+June 2018 – Working group established
 
 Sep 2018 – First \#dgov meetup in Berlin
 
