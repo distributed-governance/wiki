@@ -5,7 +5,6 @@
 ## Goals
 
 1. [Global community building](community-building.md)
-   * 10+ hubs on all continents
    * 500 members in the network
    * Survey results 8+/10
 2. [Practitioner Support / Success ](practitioner-support-success.md)
