@@ -33,17 +33,13 @@ During the EthCC  \(Mar 5-7\) create a workshop space / session where DAO founde
 * Telegram group: [https://t.me/DAOincubator](https://t.me/DAOincubator)
 * Realtime board: [https://realtimeboard.com/app/board/o9J\_kysdxCw=/](https://realtimeboard.com/app/board/o9J_kysdxCw=/)
 
-## Dgov DAO
-
-Purpose: Product Ideation and Feedback / Aragon DAO
-
-Liraz + 19 people on the telegram group
-
-Purpose: getting hands on experience coordinating as a group the use of scarce shared resources like funding. We can do that without any technology. The point of a DAO contract is to cheapen the coordination and align incentives. in other words, the DGOV DAO is the mechanism by which the DGOV community aligns around coordinated action by distributing funds between its members in a self-organising way.
-
-Learning by dogfooding what we aim to promote. DGOV is group that is trying to promote cheap and secure coordination through blockchains DAOs. 1\) We don't know how to do that yet. 2\) without experience we don't have any credibility so our suggestions to the others won't be taken seriously
-
 ## Research
+
+### Glossary / Terminology
+
+Phil, Grace
+
+What is DAO
 
 ### Body of Knowledge wiki/book
 
@@ -61,13 +57,27 @@ Lucas + Ela, Phoebe, Marina, Grace
 
 practitioner success \(Chris Wray, coalas\)
 
-### Signaling App
+## Pilots
 
-[https://ethsignals.gitbook.io/wiki/](https://ethsignals.gitbook.io/wiki/)
+### Dgov DAO
 
-## Tokenizing Nature 2.0
+Purpose: Product Ideation and Feedback / Aragon DAO
+
+Liraz + 19 people on the telegram group
+
+Purpose: getting hands on experience coordinating as a group the use of scarce shared resources like funding. We can do that without any technology. The point of a DAO contract is to cheapen the coordination and align incentives. in other words, the DGOV DAO is the mechanism by which the DGOV community aligns around coordinated action by distributing funds between its members in a self-organising way.
+
+Learning by dogfooding what we aim to promote. DGOV is group that is trying to promote cheap and secure coordination through blockchains DAOs. 1\) We don't know how to do that yet. 2\) without experience we don't have any credibility so our suggestions to the others won't be taken seriously
+
+### Tokenizing Nature 2.0
 
 Phoebe + Lucas, Liraz, Ruth, Maria
 
-[https://www.odyssey.org/track-nature2-0-build-the-unimaginable-but-buildable/ ](https://www.odyssey.org/track-nature2-0-build-the-unimaginable-but-buildable/%20)
+* [https://www.odyssey.org/track-nature2-0-build-the-unimaginable-but-buildable/ ](https://www.odyssey.org/track-nature2-0-build-the-unimaginable-but-buildable/%20)
+
+### FF/DECAC to adopt
+
+Ruth + Grace, Tim, Phoebe
+
+for artists on London\*
 
