@@ -31,11 +31,15 @@ During the EthCC  \(Mar 5-7\) create a workshop space / session where DAO founde
 * Telegram group: [https://t.me/DAOincubator](https://t.me/DAOincubator)
 * Realtime board: [https://realtimeboard.com/app/board/o9J\_kysdxCw=/](https://realtimeboard.com/app/board/o9J_kysdxCw=/)
 
-## Product Ideation and Feedback
+## Dgov DAO + Product Ideation and Feedback
 
 Liraz + 19 people on the telegram group
 
 Aragon DAO
+
+Purpose: getting hands on experience coordinating as a group the use of scarce shared resources like funding. We can do that without any technology. The point of a DAO contract is to cheapen the coordination and align incentives. in other words, the DGOV DAO is the mechanism by which the DGOV community aligns around coordinated action by distributing funds between its members in a self-organising way.
+
+Learning by dogfooding what we aim to promote. DGOV is group that is trying to promote cheap and secure coordination through blockchains DAOs. 1\) We don't know how to do that yet. 2\) without experience we don't have any credibility so our suggestions to the others won't be taken seriously
 
 ## Facilitation Self Funding Support Group
 

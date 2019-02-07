@@ -26,9 +26,3 @@ Raise and create value equivalent ~$1M
 
 Liraz can help pitch and do token
 
-
-
-## Dgov DAO
-
-Purpose: getting hands on experience coordinating as a group the use of scarce shared resources like funding. We can do that without any technology. The point of a DAO contract is to cheapen the coordination and align incentives. in other words, the DGOV DAO is the mechanism by which the DGOV community aligns around coordinated action by distributing funds between its members in a self-organising way.
-
