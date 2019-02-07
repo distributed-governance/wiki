@@ -11,6 +11,8 @@
 * Attend [local meetups and events](https://wiki.dgov.foundation/#events)
 * Host [local meetups and events](https://wiki.dgov.foundation/how-to-contribute/meetups)
 
+We practice [do-acracy](https://communitywiki.org/wiki/DoOcracy)
+
 ## Rules
 
 1. Stay on topic: please post and discuss topics relevant to governance, DAO, token economy etc
