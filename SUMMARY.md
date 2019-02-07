@@ -1,7 +1,7 @@
 # Table of contents
 
 * [DGOV Resources](README.md)
-* [Map of the industry landscape](map-of-the-industry-landscape.md)
+* [\#dgov Global Map](map-of-the-industry-landscape.md)
 * [Newsletter](newsletter/README.md)
   * [Newsletter \#1 \(september\)](newsletter/newsletter-1-september.md)
   * [Newsletter \#2 \(october\)](newsletter/newsletter-2-october.md)

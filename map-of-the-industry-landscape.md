@@ -1,4 +1,4 @@
-# Map of the industry landscape
+# \#dgov Global Map
 
 Local hubs aligned with \#dgov
 

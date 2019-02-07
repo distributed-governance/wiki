@@ -89,7 +89,7 @@ Newsletter and/or newspaper
 
 Collaborate with Aragon, DAOstack and more.
 
-## Map of the industry landscape + \#dgov Global Map
+## Map of the industry landscape
 
 Grace + Pat, Ela
 

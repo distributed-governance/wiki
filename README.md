@@ -9,7 +9,9 @@ Feel free to contribute to any part of this wiki – it's very welcome
 
 Maintained by the [DGov Foundation](https://dgov.foundation/)
 
-## **DGOV Infrastructure Platforms**
+## **\#dgov industry landscape**
+
+### DAO platforms
 
 * [Aragon](https://aragon.org/) – project that aims to disintermediate the creation and maintenance of organizational structures by using blockchain technology 
 * [Colony](https://colony.io/) – platform for open organizations
@@ -33,6 +35,13 @@ Maintained by the [DGov Foundation](https://dgov.foundation/)
 * [https://sobol.io/](https://sobol.io/)
 * [http://www.cone.network/](http://www.cone.network/)
 * [https://www.metaorg.one/](https://www.metaorg.one/)
+
+### Identity
+
+* Iden3
+* uport
+* BrightID
+* ...
 
 ## **Newsletters, Blogs, Podcasts, Webinars**
 
