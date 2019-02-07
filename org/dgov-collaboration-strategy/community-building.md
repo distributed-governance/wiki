@@ -39,6 +39,14 @@ Phoebe + Liraz + Tim, Phoebe, Grace, Max
 
 Use Dish and Leaderboard mechanics as in Giveth?
 
+## Communications
+
+* Twitter \(council account + \#dgov\)
+* Telegram group
+* Medium + Newsletter
+* Loomio
+* ...
+
 ### Culture
 
 Safe space place to safely discuss & collaborate on dgov topics \(e.g. get feedback, intracommunity projects and hiring\).
@@ -49,13 +57,13 @@ Research needs / satisfaction etc.
 
 ## Events
 
-### Retreat \#1 in Ljubljana
+### Retreat \#1 in Ljubljana by inblock.io
 
 Leader: Tim
 
 ~April 2019
 
-### Council \#2
+### Council \#2 by inblock.io
 
 Leader: Tim  + help from Felix, Ela, Phoebe, Lucas, Max
 
@@ -68,32 +76,4 @@ Leader: Tim  + help from Felix, Ela, Phoebe, Lucas, Max
 * Paris \(Philippe Honigman + Lucas, Max, Tim, Fran\)
 * Madrid \(Maria T Vida \(Tete\) forLegalBlock +David Llop for P2P Models\)
 * Amsterdam \(Luuk - unconfirmed\)
-
-## Resources
-
-### Communications
-
-* Twitter \(council account + \#dgov\)
-* Telegram group
-* Medium + Newsletter
-* Loomio
-* ...
-
-### \#dgov media / newsletter
-
-Leader: Max
-
-Newsletter and/or newspaper
-
-Collaborate with Aragon, DAOstack and more.
-
-### Map of the industry landscape
-
-Grace + Pat, Ela
-
-### \#dgov global Map
-
-google maps? guidelines / support
-
-Peter + Ela, Lucas
 

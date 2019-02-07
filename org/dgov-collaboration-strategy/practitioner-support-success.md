@@ -4,33 +4,27 @@ Purpose: more successful DAO pilots
 
 Connect experts and support collaboration in dgov implementation
 
-## DAO Incubator / Advisory board
+## Resources
 
-Leader: Cem.  
-Team: Max?...
+wiki
 
-### **Purpose**
+### \#dgov newsletter / media
 
-* DAO founders – support with mechanics design and tool selection
-* Infra projects \(Aragon, DAO Stack etc\) – describe / formalize use cases, PR, product ideation
-* Experts – describe / formalize use cases, PR
+Leader: Max
 
-### Concept
+Newsletter and/or newspaper
 
-During the EthCC  \(Mar 5-7\) create a workshop space / session where DAO founders can fo through several experts/infra project representatives and get their feedback. Potentially can offer a prize for the best concept \(provided by sponsors – infra projects\).
+Collaborate with Aragon, DAOstack and more.
 
-### Tasks
+### Map of the industry landscape
 
-* Identify advisors: mechanics designer, design, legal, soft governance, developers
-* Identify DAO founders
-* Develop DAO Evaluation framework
+Grace + Pat, Ela
 
-### More Info
+### \#dgov global Map
 
-* Telegram group: [https://t.me/DAOincubator](https://t.me/DAOincubator)
-* Realtime board: [https://realtimeboard.com/app/board/o9J\_kysdxCw=/](https://realtimeboard.com/app/board/o9J_kysdxCw=/)
+google maps? guidelines / support
 
-## Research
+Peter + Ela, Lucas
 
 ### Glossary / Terminology
 
@@ -50,15 +44,37 @@ Philippe + Fran
 
 [on-chain governance case studies](../../research/protocol-governance-case-studies.md)
 
-### Facilitation Self Funding Support Group
+## Pilots
 
-Lucas + Ela, Phoebe, Marina, Grace
+### DAO Incubator / Advisory board
+
+Leader: Cem.  
+Team: Max?...
+
+#### **Purpose**
+
+* DAO founders – support with mechanics design and tool selection
+* Infra projects \(Aragon, DAO Stack etc\) – describe / formalize use cases, PR, product ideation
+* Experts – describe / formalize use cases, PR
+
+#### Concept
+
+During the EthCC  \(Mar 5-7\) create a workshop space / session where DAO founders can fo through several experts/infra project representatives and get their feedback. Potentially can offer a prize for the best concept \(provided by sponsors – infra projects\).
+
+#### Tasks
+
+* Identify advisors: mechanics designer, design, legal, soft governance, developers
+* Identify DAO founders
+* Develop DAO Evaluation framework
+
+#### More Info
+
+* Telegram group: [https://t.me/DAOincubator](https://t.me/DAOincubator)
+* Realtime board: [https://realtimeboard.com/app/board/o9J\_kysdxCw=/](https://realtimeboard.com/app/board/o9J_kysdxCw=/)
 
 ### Legal Framework
 
 practitioner success \(Chris Wray, coalas\)
-
-## Pilots
 
 ### Dgov DAO
 
@@ -81,4 +97,8 @@ Phoebe + Lucas, Liraz, Ruth, Maria
 Ruth + Grace, Tim, Phoebe
 
 for artists on London\*
+
+### Facilitation Self Funding Support Group
+
+Lucas + Ela, Phoebe, Marina, Grace
 

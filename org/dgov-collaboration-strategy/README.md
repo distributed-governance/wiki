@@ -8,8 +8,10 @@
 
 1. [Global community building](community-building.md)
    * Survey results 8+/10
+   * x events launched
 2. [Practitioner Support / Success ](practitioner-support-success.md)
-   * Incubator launched
+   * materials developed
+   * x pilots launched launched
 3. [Outreach & Advocacy](advocacy-and-education.md)
    * 10k impressions on education materials
    * 500 members in the network
