@@ -1,5 +1,7 @@
 # Community Building
 
+**Purpose:** increase the number of collaborations in the movement
+
 ## Impact mapping
 
 Audience: people who want to bring more distributed/decentralized design to the organizations
@@ -22,8 +24,6 @@ Audience: people who want to bring more distributed/decentralized design to the 
   * Recognition
 * Legal / Policy makers \(e.g. Coalas\)
   * Understanding / Exploration / Access to sandboxes and expertise
-
-Boundaries: being part of the chat / telegram group
 
 ## Horizontal Organising Patterns / Dogfooding
 
