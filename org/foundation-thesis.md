@@ -67,6 +67,6 @@ As a summary, distributed governance is an evolution proposal and experiment. Fo
 Only research and experiment in this sphere and only after some time can move the global perspective to adopt distributed governance. Clearly, this will produce mistakes and criticism, but it’s a natural way to learn.
 
 {% hint style="info" %}
-What is the connection with the technology, blockchain and scaling? How is it compared with other networks like [https://www.responsive.org/](https://www.responsive.org/) ?
+What is the connection with the technology, blockchain and scaling? How is it compared with other networks like [https://www.responsive.org/](https://www.responsive.org/) ? Is it specific for networks?
 {% endhint %}
 
