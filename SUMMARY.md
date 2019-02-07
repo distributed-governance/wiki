@@ -16,7 +16,7 @@
 * [Logo / Identity](identity.md)
 * [Official Website](https://dgov.foundation)
 
-## ORG
+## Foundation
 
 * [\#dgov Manifesto](org/foundation-thesis.md)
 * [\#dgov Strategy 2019](org/dgov-collaboration-strategy/README.md)
