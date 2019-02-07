@@ -1,6 +1,8 @@
 # Practitioner Support/Success
 
-Purpose: Connect experts and support collaboration in dgov implementation
+Purpose: more successful DAO pilots
+
+Connect experts and support collaboration in dgov implementation
 
 ## List of \(potential\) DAOs
 
@@ -14,7 +16,7 @@ Team: Max?...
 ### **Purpose:**
 
 * DAO founders – support with mechanics design and tool selection
-* Infra projects \(Aragon, DAO Stack etc\) – describe / formalize use cases, PR
+* Infra projects \(Aragon, DAO Stack etc\) – describe / formalize use cases, PR, product ideation
 * Experts – describe / formalize use cases, PR
 
 ### Concept:
@@ -41,19 +43,21 @@ Purpose: getting hands on experience coordinating as a group the use of scarce s
 
 Learning by dogfooding what we aim to promote. DGOV is group that is trying to promote cheap and secure coordination through blockchains DAOs. 1\) We don't know how to do that yet. 2\) without experience we don't have any credibility so our suggestions to the others won't be taken seriously
 
-## Facilitation Self Funding Support Group
+## Research
 
-Lucas + Ela, Phoebe, Marina, Grace
-
-## Body of Knowledge wiki/book
+### Body of Knowledge wiki/book
 
 Grace + Max, Fran
 
-### + translation in french
+#### + translation in french
 
 Philippe + Fran
 
-## Legal Framework
+### Facilitation Self Funding Support Group
+
+Lucas + Ela, Phoebe, Marina, Grace
+
+### Legal Framework
 
 practitioner success \(Chris Wray, coalas\)
 

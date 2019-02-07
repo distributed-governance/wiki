@@ -4,7 +4,7 @@
 
 Audience: people who want to bring more distributed/decentralized design to the organizations
 
-* Infrastructure projects \(Ethereum, Tezos, Aragon, DAOStack...\)
+* Infrastructure projects \(E.g. Ethereum, Tezos, Aragon, DAOStack...\)
   * Pilots
   * Access to the research
   * Access to the community \(e.g. sentiment\)
