@@ -41,15 +41,7 @@ Use Dish and Leaderboard mechanics as in Giveth?
 
 Safe space place to safely discuss & collaborate on dgov topics \(e.g. get feedback, intracommunity projects and hiring\).
 
-## Communications
-
-* Twitter \(council account + \#dgov\)
-* Telegram group
-* Medium + Newsletter
-* Loomio
-* ...
-
-### Local Meetups / Hubs
+### Local Connections / Hubs
 
 * London \(Jack + Phoebe, Ruth + Furtherfield\)
 * Berlin \(Ela, Supermarkt - unconfirmed\)
@@ -69,11 +61,23 @@ Safe space place to safely discuss & collaborate on dgov topics \(e.g. get feedb
 * Zurich /Zug? \(Ozan Polat - unconfirmed\)
 * Amsterdam \(Luuk - unconfirmed\)
 
-## Councils
+## Communications
+
+* Twitter \(council account + \#dgov\)
+* Telegram group
+* Medium + Newsletter
+* Loomio
+* ...
+
+### 
+
+## Council \#2
 
 Leader: Tim  + help from Felix, Ela, Phoebe, Lucas, Max
 
-3 times a year in the centers of community \(Berlin, ...\)?
+## Retreat \#1 \(Ljubljana\)
+
+Leader: Tim
 
 ## \#dgov media / newsletter
 
