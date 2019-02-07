@@ -69,15 +69,17 @@ Safe space place to safely discuss & collaborate on dgov topics \(e.g. get feedb
 * Loomio
 * ...
 
-### 
-
 ## Council \#2
 
 Leader: Tim  + help from Felix, Ela, Phoebe, Lucas, Max
 
+~Sep-Oct 2019
+
 ## Retreat \#1 \(Ljubljana\)
 
 Leader: Tim
+
+April 2019
 
 ## \#dgov media / newsletter
 
