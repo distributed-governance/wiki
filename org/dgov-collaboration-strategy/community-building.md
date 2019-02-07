@@ -2,11 +2,11 @@
 
 **Purpose:** increase the number of collaborations in the movement
 
+Audience: people who want to bring more distributed/decentralized design to the organizations
+
 ## Community management
 
-### Impact mapping
-
-Audience: people who want to bring more distributed/decentralized design to the organizations
+### Network Impact Mapping
 
 * Infrastructure projects \(E.g. Ethereum, Tezos, Aragon, DAOStack...\)
   * Pilots
@@ -43,9 +43,31 @@ Use Dish and Leaderboard mechanics as in Giveth?
 
 Safe space place to safely discuss & collaborate on dgov topics \(e.g. get feedback, intracommunity projects and hiring\).
 
-### Surveying
+### Quarterly Surveying
 
 Research needs / satisfaction etc.
+
+## Events
+
+### Retreat \#1 in Ljubljana
+
+Leader: Tim
+
+~April 2019
+
+### Council \#2
+
+Leader: Tim  + help from Felix, Ela, Phoebe, Lucas, Max
+
+~Sep-Oct 2019
+
+### Indi Meetups / Workshop
+
+* London \(Jack + Phoebe, Ruth + Furtherfield\)
+* Berlin \(Ela, Supermarkt - unconfirmed\)
+* Paris \(Philippe Honigman + Lucas, Max, Tim, Fran\)
+* Madrid \(Maria T Vida \(Tete\) forLegalBlock +David Llop for P2P Models\)
+* Amsterdam \(Luuk - unconfirmed\)
 
 ## Resources
 
@@ -74,26 +96,4 @@ Grace + Pat, Ela
 google maps? guidelines / support
 
 Peter + Ela, Lucas
-
-## Events
-
-### Council \#2
-
-Leader: Tim  + help from Felix, Ela, Phoebe, Lucas, Max
-
-~Sep-Oct 2019
-
-### Retreat \#1 \(Ljubljana\)
-
-Leader: Tim
-
-April 2019
-
-### Meetups
-
-* London \(Jack + Phoebe, Ruth + Furtherfield\)
-* Berlin \(Ela, Supermarkt - unconfirmed\)
-* Paris \(Philippe Honigman + Lucas, Max, Tim, Fran\)
-* Madrid \(Maria T Vida \(Tete\) forLegalBlock +David Llop for P2P Models\)
-* Amsterdam \(Luuk - unconfirmed\)
 

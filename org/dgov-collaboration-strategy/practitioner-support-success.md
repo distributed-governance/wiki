@@ -4,31 +4,28 @@ Purpose: more successful DAO pilots
 
 Connect experts and support collaboration in dgov implementation
 
-## List of \(potential\) DAOs
-
-[https://wiki.dgov.foundation/research/protocol-governance-case-studies](https://wiki.dgov.foundation/research/protocol-governance-case-studies)
-
-## DAO Incubator
+## DAO Incubator / Advisory board
 
 Leader: Cem.  
 Team: Max?...
 
-### **Purpose:**
+### **Purpose**
 
 * DAO founders – support with mechanics design and tool selection
 * Infra projects \(Aragon, DAO Stack etc\) – describe / formalize use cases, PR, product ideation
 * Experts – describe / formalize use cases, PR
 
-### Concept:
+### Concept
 
 During the EthCC  \(Mar 5-7\) create a workshop space / session where DAO founders can fo through several experts/infra project representatives and get their feedback. Potentially can offer a prize for the best concept \(provided by sponsors – infra projects\).
 
-### Tasks:
+### Tasks
 
-* Identify experts: mechanics designer, design, legal, soft governance, developers
-* Identify DAO fodund
+* Identify advisors: mechanics designer, design, legal, soft governance, developers
+* Identify DAO founders
+* Develop DAO Evaluation framework
 
-### More Info:
+### More Info
 
 * Telegram group: [https://t.me/DAOincubator](https://t.me/DAOincubator)
 * Realtime board: [https://realtimeboard.com/app/board/o9J\_kysdxCw=/](https://realtimeboard.com/app/board/o9J_kysdxCw=/)
@@ -48,6 +45,10 @@ Grace + Max, Fran
 #### + translation in french
 
 Philippe + Fran
+
+### DAO List / Case Studies
+
+[on-chain governance case studies](../../research/protocol-governance-case-studies.md)
 
 ### Facilitation Self Funding Support Group
 
