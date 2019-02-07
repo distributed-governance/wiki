@@ -35,7 +35,7 @@ Work in progress
 
 ### Exclusion rules
 
-The absolute majority votes for exclusion, the member is excluded as well as the person who brought him
+If absolute majority of members vote for exclusion, the member is excluded as well as the person who brought him.
 
 ### Transparency Policy
 
