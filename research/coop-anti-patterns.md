@@ -5,7 +5,7 @@
 * keep all in secret
 * build moats
 * ego first
-* seize the means of coordinatio
+* seize the means of coordination
 * seek rent
 * find truth in absolute
 * defeat competitors
