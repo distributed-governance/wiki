@@ -13,7 +13,11 @@ Chat: [https://t.me/MinistryofMemes](https://t.me/MinistryofMemes)
 
 [Some drafts here](../../how-to-contribute/memmes.md)
 
-## Broader work
+## Brand
+
+logo, cool merch etc...
+
+## Broader work / E.g. movie
 
 * Ruth?
 * Luan?
