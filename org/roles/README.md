@@ -19,6 +19,7 @@ Changes to policies and roles are done through the Holacracy IDM process. Telegr
 * Website / Domain
 * Wiki
 * Communication channels \(SoMe accounts, Telegram Chat, Loomio etc\)
+* Email list
 * Logo / Brand
 * Budget \(0 for now\)
 
