@@ -13,7 +13,7 @@ For cross publishing, speaking etc
 * WEF
 * ...
 
-## Culture
+## Culture / Manifesto
 
 * Anti-rivalry
 * Co-creation
