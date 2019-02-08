@@ -39,7 +39,11 @@ Phoebe + Liraz + Tim, Phoebe, Grace, Max
 
 Use Dish and Leaderboard mechanics as in Giveth?
 
-## Communications
+### Onboarding
+
+
+
+### Communications
 
 * Twitter \(council account + \#dgov\)
 * Telegram group
@@ -51,9 +55,9 @@ Use Dish and Leaderboard mechanics as in Giveth?
 
 Safe space place to safely discuss & collaborate on dgov topics \(e.g. get feedback, intracommunity projects and hiring\).
 
-### Quarterly Surveying
+### Evaluation / Surveying
 
-Research needs / satisfaction etc.
+Quarterly? research needs / satisfaction etc.
 
 ## Events
 
