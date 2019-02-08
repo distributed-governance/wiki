@@ -1,8 +1,6 @@
 # Logo / Identity
 
-\#dgov – all equal, no domination
-
-\(better the DGov, DGOV or Dgov\)
+\#dgov – all equal, no domination \(better the DGov, DGOV or Dgov\)
 
 Sign = Galaxy + Complex Yin Yang
 
