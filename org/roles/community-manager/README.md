@@ -6,5 +6,5 @@ Responsibilities:
 
 * Managing members database
 * Orchestrating communication channels & community events
-* Tracking and reporting on the results
+* Tracking and reporting the results \(incl. feedback\)
 
