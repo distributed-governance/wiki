@@ -43,7 +43,7 @@ Use Dish and Leaderboard mechanics as in Giveth?
 
 Strategy...
 
-### Culture
+### Culture / Rituals
 
 Safe space place to safely discuss & collaborate on dgov topics \(e.g. get feedback, intracommunity projects and hiring\).
 
