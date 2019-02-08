@@ -15,7 +15,6 @@
 3. [Outreach & Advocacy](advocacy-and-education.md)
    * x impressions on education materials
    * x members in the network
-4. [Culture & Arts](arts-and-inspiration.md)
    * x pieces of art
 
 ### Longterm plans
