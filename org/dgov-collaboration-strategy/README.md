@@ -13,7 +13,7 @@
    * x materials developed
    * x pilots launched launched
 3. [Outreach & Advocacy](advocacy-and-education.md)
-   * x impressions on education materials
+   * x coverage on \#dgov materials
    * x members in the network
    * x pieces of art
 
