@@ -7,17 +7,16 @@
 ## Goals 2019
 
 1. [Global community building](community-building.md)
-   * Survey results 8+/10
+   * x survey results
    * x events launched
 2. [Practitioner Support / Success ](practitioner-support-success.md)
-   * materials developed
+   * x materials developed
    * x pilots launched launched
 3. [Outreach & Advocacy](advocacy-and-education.md)
-   * 10k impressions on education materials
-   * 500 members in the network
+   * x impressions on education materials
+   * x members in the network
 4. [Culture & Arts](arts-and-inspiration.md)
-   * Set of memes
-   * Movie
+   * x pieces of art
 
 ### Longterm plans
 
