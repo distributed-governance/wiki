@@ -42,6 +42,10 @@ Work in progress
 
 If absolute majority of members vote for exclusion, the member is excluded as well as the person who brought him.
 
+### Coordination
+
+Weekly all-team tactical calls \(wed, 3pm CET\) and dgov dlog telegram group
+
 ### Community events
 
 Inblock.io events is a trusted company to execute the DGOV Councils as well as the DGOV Festival Athens 2020. Furthermore selected events like the proposed DGOV Retreat in Ljubljana.
