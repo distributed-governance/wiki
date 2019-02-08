@@ -6,15 +6,16 @@ Changes to policies and roles are done through the Holacracy IDM process. Telegr
 
 ### Roles
 
-* Community Managements –
-  * Event Manager – Tim, ...
+* Community Management –
   * Chat Moderator – Max, Tim, Anja
-* Practitioner support / success
+  * Council Event Organizer – Tim, ...
+  * Facilitators – Max, Fran, Phoebe, Lucas, Ela
+  * Mediators \(preliminary\) – Chris, Loie, Felix, Phoebe, Anuj
+* Practitioner support / success – 
   * Wiki Maintainer – Max, Phoebe, Grace
+  * ...
 * Outreach & Advocacy / PR Manager – Anja
 * Designer – Max
-* Facilitators – Max, Fran, Phoebe, Lucas, Ela
-* Mediators \(preliminary\) – Chris, Loie, Felix, Phoebe, Anuj
 
 ### Assets
 

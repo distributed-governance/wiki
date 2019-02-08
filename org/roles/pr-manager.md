@@ -1,4 +1,4 @@
-# PR Manager
+# Outreach & Advocacy / PR Manager
 
 **Purpose:**
 
