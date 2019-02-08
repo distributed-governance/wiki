@@ -19,7 +19,8 @@
 
 ## Foundation
 
-* [\#dgov Manifesto](org/foundation-thesis.md)
+* [\#dgov Manifesto](org/foundation-thesis/README.md)
+  * [\#dgov Values](org/foundation-thesis/dgov-values.md)
 * [\#dgov Strategy](org/dgov-collaboration-strategy/README.md)
   * [Community Building](org/dgov-collaboration-strategy/community-building.md)
   * [Practitioner Support/Success](org/dgov-collaboration-strategy/practitioner-support-success.md)

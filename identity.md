@@ -1,10 +1,10 @@
 # Logo / Identity
 
+\#dgov – all equal, no domincation
 
+\(better the DGov, DGOV or Dgov\)
 
-![Logo for light background](.gitbook/assets/frame-13.png)
-
-![Logo for drak background](.gitbook/assets/frame-12.png)
+Sign = Galaxy + Complex Yin Yang
 
 ![White icon](.gitbook/assets/frame-4-2.png)
 
