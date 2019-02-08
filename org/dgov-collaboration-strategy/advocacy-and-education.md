@@ -11,7 +11,12 @@ For cross publishing, speaking etc
 * Giveth gov-lab
 * Ethereum
 * WEF
-* ...
+* Open organizations
+* Holacracy – Tom Tomisson
+* [Revision](https://revision.io/) – Pedro Jardim
+* Aragon – Luke Duncan
+* DAO Stack – ?
+* Colony – ?
 
 ## Culture / Manifesto
 
