@@ -27,6 +27,7 @@
 * [\#dgov Governance](org/roles/README.md)
   * [Community Manager](org/roles/community-manager/README.md)
     * [Chat moderator](org/roles/community-manager/chat-moderator.md)
+    * [Newsletter Editor](org/roles/community-manager/newsletter-editor.md)
   * [Practitioner support / success](org/roles/practitioner-support-success/README.md)
     * [Wiki Maintainer](org/roles/practitioner-support-success/wiki-maintainer.md)
   * [Outreach & Advocacy / PR Manager](org/roles/pr-manager.md)
