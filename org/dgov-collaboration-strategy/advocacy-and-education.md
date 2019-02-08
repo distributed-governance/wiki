@@ -6,7 +6,6 @@ Sharing and representing the dgov practices to wider community
 
 For cross publishing, speaking etc
 
-* Pollinators
 * [https://www.worldgovernmentsummit.org/](https://www.worldgovernmentsummit.org/)
 * Giveth gov-lab
 * Ethereum
@@ -15,8 +14,9 @@ For cross publishing, speaking etc
 * Holacracy – Tom Tomisson
 * [Revision](https://revision.io/) – Pedro Jardim
 * Aragon – Luke Duncan
-* DAO Stack – ?
+* DAO Stack + Pollinators
 * Colony – ?
+* Consensys
 
 ## Culture / Manifesto
 
