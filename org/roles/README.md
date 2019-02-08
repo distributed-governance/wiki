@@ -40,6 +40,12 @@ Work in progress
 
 If absolute majority of members vote for exclusion, the member is excluded as well as the person who brought him.
 
+### Community events
+
+Inblock.io events is a trusted company to execute the DGOV Councils as well as the DGOV Festival Athens 2020. Furthermore selected events like the proposed DGOV Retreat in Ljubljana.
+
+We expect other organisations and members of the community to host DGOV events. This is encouraged and supported by the DGOV Foundation if they are trusted parties by the DGOV Foundation. There please always check that the organisation organising a DGOV event is clearly stated.
+
 ### Transparency Policy
 
 Everything should be transparent, except of 
