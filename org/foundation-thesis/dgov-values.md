@@ -4,33 +4,20 @@ The Why?
 
 Below are all the values we identify:
 
-Truth
-
-Immunity
-
-Sovereignty
-
-Functionality
-
-Highly-adaptable
-
-Anti-fragility
-
-Cohesion
-
-Rapture 
-
-Coherence
-
-Humility 
-
-Collaboration
-
-Inclusion
-
-Competence
-
-Trust
+* Truth
+* Immunity
+* Sovereignty
+* Functionality
+* Highly-adaptable
+* Anti-fragility
+* Cohesion
+* Rapture 
+* Coherence
+* Humility 
+* Collaboration
+* Inclusion
+* Competence
+* Trust
 
 We developed two basic types of values - some were human centric, the others were systematical. 
 
@@ -80,30 +67,6 @@ We developed two basic types of values - some were human centric, the others wer
         <p>It’s not about incentives fetishism.</p>
       </td>
     </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
   </tbody>
 </table>Distribution and decentralisation - you can see these systems in nature as well, hierarchies can be seen everywhere and should not be rejected per se. 
 
@@ -111,7 +74,7 @@ Chris: the end system will look like a hierarchy. We’re talking about distribu
 
 Why distributed governance? Less captured then centred. 
 
-**Value review and recaption**
+### **Value review and recaption**
 
 Eliminating the ones we don’t feel fit so a strong core remains. 
 
@@ -129,7 +92,7 @@ Last 5 minutes: reading the questions and reflecting upon.
 
 We’re being capable of going from complexity while we can still open to some specific issues we need to address is something we need to take into consideration. It’s revealing for those who can contribute more with the knowledge they possess in other fields. 
 
-**DGOV COUNCIL GOVERNANCE**
+### **DGOV COUNCIL GOVERNANCE**
 
 A young idea
 
