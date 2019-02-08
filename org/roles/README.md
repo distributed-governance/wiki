@@ -15,8 +15,8 @@ Changes to policies and roles are done through the Holacracy IDM process. Telegr
 * Practitioner support / success – 
   * [Wiki Maintainer](practitioner-support-success/wiki-maintainer.md) – Max, Phoebe, Grace
   * ...
-* Outreach & Advocacy / PR Manager – Anja
-* Designer – Max
+* [Outreach & Advocacy / PR Manager](pr-manager.md) – Anja
+* [Designer](designer.md) – Max
 
 ### Assets
 
