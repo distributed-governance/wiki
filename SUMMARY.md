@@ -26,6 +26,7 @@
   * [Outreach & Advocacy](org/dgov-collaboration-strategy/advocacy-and-education.md)
   * [Culture & Arts](org/dgov-collaboration-strategy/arts-and-inspiration.md)
 * [\#dgov Governance](org/roles/README.md)
+  * [Community Manager](org/roles/community-manager.md)
   * [PR Manager](org/roles/pr-manager.md)
   * [Facilitator](org/roles/facilitator.md)
   * [Chat moderator](org/roles/chat-moderator.md)
