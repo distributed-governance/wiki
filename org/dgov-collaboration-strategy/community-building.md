@@ -41,15 +41,7 @@ Use Dish and Leaderboard mechanics as in Giveth?
 
 ### Onboarding
 
-
-
-### Communications
-
-* Twitter \(council account + \#dgov\)
-* Telegram group
-* Medium + Newsletter
-* Loomio
-* ...
+Strategy...
 
 ### Culture
 
@@ -58,6 +50,26 @@ Safe space place to safely discuss & collaborate on dgov topics \(e.g. get feedb
 ### Evaluation / Surveying
 
 Quarterly? research needs / satisfaction etc.
+
+## Communication Channels
+
+### Chats / telegram groups
+
+...
+
+### Newsletter
+
+Leader: Max  
+Newsletter and/or newspaper  
+Collaborate with Aragon, DAOstack and more.
+
+### Forum / DAO talk
+
+...
+
+### Loomio
+
+...
 
 ## Events
 

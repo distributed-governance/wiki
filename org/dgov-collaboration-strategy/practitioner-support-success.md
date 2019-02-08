@@ -8,14 +8,6 @@ Connect experts and support collaboration in dgov implementation
 
 wiki
 
-### \#dgov newsletter / media
-
-Leader: Max
-
-Newsletter and/or newspaper
-
-Collaborate with Aragon, DAOstack and more.
-
 ### Map of the industry landscape
 
 Grace + Pat, Ela
