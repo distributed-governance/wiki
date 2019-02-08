@@ -1,8 +1,10 @@
-# Logo / Identity
+# Identity
+
+### Logo
 
 \#dgov – all equal, no domination \(better the DGov, DGOV or Dgov\)
 
-Sign = Galaxy + Complex Yin Yang
+Icon = Galaxy + Complex Yin Yang
 
 ![](.gitbook/assets/frame-7.1%20%281%29.png)
 

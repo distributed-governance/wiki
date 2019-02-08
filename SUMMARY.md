@@ -14,7 +14,7 @@
   * [Host Local Meetups](how-to-contribute/meetups.md)
   * [\#dgov memmes](how-to-contribute/memmes.md)
   * [Brief history](how-to-contribute/dgov-history.md)
-* [Logo / Identity](identity.md)
+* [Identity](identity.md)
 * [Official Website](https://dgov.foundation)
 
 ## Foundation
