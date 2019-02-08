@@ -1,6 +1,14 @@
 # \#dgov Manifesto
 
-## What is Distributed Governance
+## From Anja
+
+Dgov is short for distributed governance. It’s a movement created by a group of people concerned with the on-chain and off-chain governance of distributed ledger technologies \(DLT\) which can execute orders via smart contracts and help our broad society to improve with references to transactions, communication and social interactions. The systems build with DLT protocols can be captured by actors such as powerful individuals, influential groups, governments and states. In order to avoid capturing and empowering monopolies, DGov explores ways of distribution, governance systems, value prepositions and needs of contemporary society to build anti-fragile, human-centric and purpose driven designs.
+
+We aim to do so with building a distributed autonomous organization \(DAO\) which will be agnostic to some extend and allow bridges with other DAOs and between various DLTs to build layers of applications \(DApps\) we can use in our daily lives without even acknowledging their existence, yet live much better as the utilization of digitally transmitted data allows us to become fulfilled and content bulbs of particles in this space and time.
+
+## From Max
+
+### What is Distributed Governance
 
 Distributed governance is the specification of principles and methods which enable scalable coordination for forming consensus and to legitimate decisions. In such systems, all participants are treated equally without the presence of a central actor of hierarchy. They are scalable, so efficiency is not reduced but steady or increased by an increasing number of participants.
 
