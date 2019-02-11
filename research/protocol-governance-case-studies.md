@@ -1,5 +1,9 @@
 # Decentralized Orgs with on-chain governance
 
+## Methodology
+
+On-chain governance – ability to change the protocol based on the on-chain events. No need in 100% on-chain, combination with off-chain is ok as well. Info to be provided: purpose of DAO, used mechanics \(e.g. funds distribution\), brief history.
+
 ## Genesis Alpha / Alchemy
 
 [https://medium.com/daostack/daostack-update-mainnet-launch-genesis-alpha-dao-plantoid-media-roundup-dappcon-f724fc7133aa](https://medium.com/daostack/daostack-update-mainnet-launch-genesis-alpha-dao-plantoid-media-roundup-dappcon-f724fc7133aa)
