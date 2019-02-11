@@ -14,22 +14,28 @@
 
 [https://blog.gnosis.pm/the-road-towards-a-fully-decentralized-exchange-56a32adbe7d7](https://blog.gnosis.pm/the-road-towards-a-fully-decentralized-exchange-56a32adbe7d7)
 
-## Nexus Mutual
+## \(Water\)Melonport
 
-They plan to go on the main net by Q1 2019. Here is a brief about [their governance model](https://medium.com/nexus-mutual/dao-governance-a-pragmatic-approach-27d529ad0819) from founder Hugh Karp
-
-## Melonport
-
+* [https://medium.com/melonport-blog/introduction-to-the-melon-governance-system-f6ff73c70eb0](https://medium.com/melonport-blog/introduction-to-the-melon-governance-system-f6ff73c70eb0)
 * [https://medium.com/melonport-blog/management-and-performance-fees-in-a-melon-fund-f1df2a26abd9](https://medium.com/melonport-blog/management-and-performance-fees-in-a-melon-fund-f1df2a26abd9)
 
 ## Tezos
 
 * [https://medium.com/tezos/amending-tezos-b77949d97e1e](https://medium.com/tezos/amending-tezos-b77949d97e1e)
 
+## Polkadot
+
+Time-lock Voting + Delayed Enactment
+
+![](../.gitbook/assets/image%20%281%29.png)
+
+* [https://github.com/paritytech/polkadot/wiki/Governance](https://github.com/paritytech/polkadot/wiki/Governance)
+
 ## Unsorted / Unchecked
 
 * [Alice](https://alice.si/)
 * [iO2 Foundation ](https://www.io2.foundation/)
+* [Nexus Mutual](https://medium.com/nexus-mutual/dao-governance-a-pragmatic-approach-27d529ad0819)
 * LeapDAO
 * SteemIt
 * Zcash
