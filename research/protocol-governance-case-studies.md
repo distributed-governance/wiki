@@ -6,9 +6,11 @@ On-chain governance – ability to change the protocol based on the on-chain ev
 
 + [https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/)
 
-### Genesis Alpha / Alchemy
+### Genesis 
 
-[https://medium.com/daostack/daostack-update-mainnet-launch-genesis-alpha-dao-plantoid-media-roundup-dappcon-f724fc7133aa](https://medium.com/daostack/daostack-update-mainnet-launch-genesis-alpha-dao-plantoid-media-roundup-dappcon-f724fc7133aa)
+* [https://medium.com/daostack/daostack-update-mainnet-launch-genesis-alpha-dao-plantoid-media-roundup-dappcon-f724fc7133aa](https://medium.com/daostack/daostack-update-mainnet-launch-genesis-alpha-dao-plantoid-media-roundup-dappcon-f724fc7133aa)
+
+Based on Alchemy
 
 ### Maker DAO
 
@@ -17,7 +19,9 @@ On-chain governance – ability to change the protocol based on the on-chain ev
 
 ### DxDAO
 
-[https://blog.gnosis.pm/the-road-towards-a-fully-decentralized-exchange-56a32adbe7d7](https://blog.gnosis.pm/the-road-towards-a-fully-decentralized-exchange-56a32adbe7d7)
+* [https://blog.gnosis.pm/the-road-towards-a-fully-decentralized-exchange-56a32adbe7d7](https://blog.gnosis.pm/the-road-towards-a-fully-decentralized-exchange-56a32adbe7d7)
+
+Based on Alchemy
 
 ### Tezos
 
