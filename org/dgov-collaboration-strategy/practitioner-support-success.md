@@ -41,7 +41,7 @@ Philippe + Fran
 ### DAO Incubator / Advisory board
 
 Leader: Cem.  
-Team: Max?...
+Team: Daniel, Max
 
 #### **Purpose**
 
