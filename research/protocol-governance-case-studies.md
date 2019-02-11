@@ -6,8 +6,6 @@
 
 ## Maker DAO
 
-[MakerDAO](https://makerdao.com/) — Dai is a stable coin pegged to the US Dollar. It is created by the Dai Stablecoin System, a decentralized platform that runs on the Ethereum blockchain.
-
 [https://medium.com/makerdao/makerdao-governance-risk-framework-38625f514101](https://medium.com/makerdao/makerdao-governance-risk-framework-38625f514101)
 
 ## DxDAO
@@ -42,4 +40,5 @@ Time-lock Voting + Delayed Enactment
 * DASH
 * BitShares
 * Digix
+* EOS
 
