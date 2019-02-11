@@ -12,5 +12,6 @@ Jan 2019 – First community council
 
 ### Publications:
 
-[https://irishtechnews.ie/how-to-improve-the-economy-with-better-organisations-and-technology-max-semenchuk-dgov/](https://irishtechnews.ie/how-to-improve-the-economy-with-better-organisations-and-technology-max-semenchuk-dgov/)
+* [https://irishtechnews.ie/how-to-improve-the-economy-with-better-organisations-and-technology-max-semenchuk-dgov/](https://irishtechnews.ie/how-to-improve-the-economy-with-better-organisations-and-technology-max-semenchuk-dgov/)
+* [https://akasha.org/blog/2019/02/08/distributed-governance](https://akasha.org/blog/2019/02/08/distributed-governance)
 
