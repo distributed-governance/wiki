@@ -36,7 +36,7 @@ Philippe + Fran
 * [Research](../../research/protocol-governance-case-studies.md)
 * [Discussions](https://daotalk.org/t/decentralized-orgs-with-on-chain-governance/395)
 
-## Pilots
+## Expertise & Consulting
 
 ### DAO Incubator / Advisory board
 
@@ -64,9 +64,19 @@ During the EthCC  \(Mar 5-7\) create a workshop space / session where DAO founde
 * Telegram group: [https://t.me/DAOincubator](https://t.me/DAOincubator)
 * Realtime board: [https://realtimeboard.com/app/board/o9J\_kysdxCw=/](https://realtimeboard.com/app/board/o9J_kysdxCw=/)
 
-### Legal Framework
+### Legal Sandbox / Framework
 
 practitioner success \(Chris Wray, coalas\)
+
+### DAO developers sub-community coordination
+
+e.g. ~Aragon DAC plans
+
+### Facilitation Self Funding Support Group
+
+Lucas + Ela, Phoebe, Marina, Grace
+
+## Pilots
 
 ### Dgov DAO
 
@@ -89,8 +99,4 @@ Phoebe + Lucas, Liraz, Ruth, Maria
 Ruth + Grace, Tim, Phoebe
 
 for artists on London\*
-
-### Facilitation Self Funding Support Group
-
-Lucas + Ela, Phoebe, Marina, Grace
 
