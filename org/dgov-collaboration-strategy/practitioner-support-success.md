@@ -93,6 +93,9 @@ Learning by dogfooding what we aim to promote. DGOV is group that is trying to p
 Phoebe + Lucas, Liraz, Ruth, Maria
 
 * [https://www.odyssey.org/track-nature2-0-build-the-unimaginable-but-buildable/ ](https://www.odyssey.org/track-nature2-0-build-the-unimaginable-but-buildable/%20)
+* [https://en.wikipedia.org/wiki/Tree\_That\_Owns\_Itself](https://en.wikipedia.org/wiki/Tree_That_Owns_Itself)
+* [https://www.theguardian.com/world/2017/mar/16/new-zealand-river-granted-same-legal-rights-as-human-being](https://www.theguardian.com/world/2017/mar/16/new-zealand-river-granted-same-legal-rights-as-human-being)
+* Chat: [https://t.me/joinchat/BEgebhQLG-CNuHzaWvbqpA](https://t.me/joinchat/BEgebhQLG-CNuHzaWvbqpA)
 
 ### FF/DECAC to adopt
 
