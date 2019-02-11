@@ -34,7 +34,10 @@ Philippe + Fran
 
 ### DAO List / Case Studies
 
-[on-chain governance case studies](../../research/protocol-governance-case-studies.md)
+Max
+
+List: [on-chain governance case studies](../../research/protocol-governance-case-studies.md)  
+Discussions: [https://daotalk.org/t/decentralized-orgs-with-on-chain-governance/395](https://daotalk.org/t/decentralized-orgs-with-on-chain-governance/395)
 
 ## Pilots
 
