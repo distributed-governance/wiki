@@ -1,4 +1,4 @@
-# On-Chain Governance Case Studies
+# Decentralized Orgs with on-chain governance
 
 ## Genesis Alpha / Alchemy
 
@@ -10,17 +10,9 @@
 
 [https://medium.com/makerdao/makerdao-governance-risk-framework-38625f514101](https://medium.com/makerdao/makerdao-governance-risk-framework-38625f514101)
 
-## Gnosis
+## DxDAO
 
 [https://blog.gnosis.pm/the-road-towards-a-fully-decentralized-exchange-56a32adbe7d7](https://blog.gnosis.pm/the-road-towards-a-fully-decentralized-exchange-56a32adbe7d7)
-
-## Alice
-
-[Alice](https://alice.si/) — A social funding and impact management platform built on the Ethereum blockchain. The performance of each project is publicly available, making it easier for funders to identify and help scale social projects.
-
-## iO2 Foundation
-
-[iO2 Foundation ](https://www.io2.foundation/)— A decentralized autonomous NGO creating the governance, infrastructure, utilities, and community to measure and collect impact data.
 
 ## Nexus Mutual
 
@@ -34,8 +26,10 @@ They plan to go on the main net by Q1 2019. Here is a brief about [their governa
 
 * [https://medium.com/tezos/amending-tezos-b77949d97e1e](https://medium.com/tezos/amending-tezos-b77949d97e1e)
 
-## Unsorted
+## Unsorted / Unchecked
 
+* [Alice](https://alice.si/)
+* [iO2 Foundation ](https://www.io2.foundation/)
 * LeapDAO
 * SteemIt
 * Zcash

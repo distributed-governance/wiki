@@ -41,8 +41,9 @@
 ## Research
 
 * [Glossary](research/glossary.md)
-* [Coop anti-patterns](research/coop-anti-patterns.md)
-* [On-Chain Governance Case Studies](research/protocol-governance-case-studies.md)
+* [Decentralized Orgs with on-chain governance](research/protocol-governance-case-studies.md)
+* [Culture](research/culture/README.md)
+  * [Coop anti-patterns](research/culture/coop-anti-patterns.md)
 * [Continuous Token Model](research/curation-markets-and-bonding-curve/README.md)
   * [Work group](research/curation-markets-and-bonding-curve/work-group.md)
   * [Use Case: Software Project](research/curation-markets-and-bonding-curve/use-case-software-project.md)
