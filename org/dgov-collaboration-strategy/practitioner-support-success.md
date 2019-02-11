@@ -10,13 +10,15 @@ wiki
 
 ### Map of the industry landscape
 
-Grace + Pat, Ela
+Grace + Pat, Ela, Max
+
+Discussions: [https://daotalk.org/t/dgov-industry-landscape/392](https://daotalk.org/t/dgov-industry-landscape/392)
 
 ### \#dgov global Map
 
-google maps? guidelines / support
-
 Peter + Ela, Lucas
+
+google maps? guidelines / support
 
 ### Glossary / Terminology
 
