@@ -110,6 +110,7 @@ Maintained by the [DGov Foundation](https://dgov.foundation/)
 * [Rebooting the Web of Trust VIII](https://www.eventbrite.com/e/rebooting-the-web-of-trust-viii-spring-2019-barcelona-tickets-54843077120) \(Mar 1, Barcelona\)
 * dGov Paris \(Mar 8, Paris\)
 * [radicalXchange](https://radicalxchange.org/) \(Mar 22-24, Detroit\)
+* [DAOCon](https://daocon.io/) \(Par 26, Split, Croatia\)
 
 Want to host a local meetup?[ here're some tips](https://wiki.dgov.foundation/meetups)
 
