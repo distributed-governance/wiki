@@ -61,8 +61,8 @@ During the EthCC  \(Mar 5-7\) create a workshop space / session where DAO founde
 
 #### More Info
 
-* Telegram group: [https://t.me/DAOincubator](https://t.me/DAOincubator)
-* Realtime board: [https://realtimeboard.com/app/board/o9J\_kysdxCw=/](https://realtimeboard.com/app/board/o9J_kysdxCw=/)
+* [Telegram group](https://t.me/DAOincubator)
+* [Realtime board](https://realtimeboard.com/app/board/o9J_kysdxCw=/)
 
 ### Legal Sandbox / Framework
 
