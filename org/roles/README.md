@@ -34,6 +34,7 @@ Work in progress
 ### Accepting new members
 
 * Every new member should be proposed by an existent core member
+* The decision is made unanimously
 * This core member take full responsibility for that member
 * Trial period ends when every other member are sure to accept this person
 * Difference of trial status is only in recognition
