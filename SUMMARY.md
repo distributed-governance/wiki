@@ -1,7 +1,6 @@
 # Table of contents
 
 * [DGOV Resources](README.md)
-* [\#dgov Global Map](map-of-the-industry-landscape.md)
 * [Newsletter](newsletter/README.md)
   * [Newsletter \#1 \(september\)](newsletter/newsletter-1-september.md)
   * [Newsletter \#2 \(october\)](newsletter/newsletter-2-october.md)
@@ -42,6 +41,7 @@
 
 * [Glossary](research/glossary.md)
 * [Decentralized Orgs with on-chain governance](research/protocol-governance-case-studies.md)
+* [\#dgov Global Map](research/map-of-the-industry-landscape.md)
 * [Culture](research/culture/README.md)
   * [Coop anti-patterns](research/culture/coop-anti-patterns.md)
 * [Continuous Token Model](research/curation-markets-and-bonding-curve/README.md)

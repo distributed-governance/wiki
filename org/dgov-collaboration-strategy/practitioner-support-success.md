@@ -6,27 +6,23 @@ Connect experts and support collaboration in dgov implementation
 
 ## Resources
 
-wiki
-
 ### Map of the industry landscape
 
-Grace + Pat, Ela, Max
-
-Discussions: [https://daotalk.org/t/dgov-industry-landscape/392](https://daotalk.org/t/dgov-industry-landscape/392)
+* Team: Grace + Pat, Ela, Max
+* [Research](../../)
+* [Discussions](https://daotalk.org/t/dgov-industry-landscape/392)
 
 ### \#dgov global Map
 
-Peter + Ela, Lucas
-
-google maps? guidelines / support
+* Team: Peter + Ela, Lucas
+* [Research](../../research/map-of-the-industry-landscape.md)
 
 ### Glossary / Terminology
 
-Phil, Grace
+* Team: Phil, Grace
+* [Research](../../research/glossary.md)
 
-What is DAO
-
-### Body of Knowledge wiki/book
+### Body of Knowledge book
 
 Grace + Max, Fran
 
@@ -36,10 +32,9 @@ Philippe + Fran
 
 ### DAO List / Case Studies
 
-Max
-
-List: [on-chain governance case studies](../../research/protocol-governance-case-studies.md)  
-Discussions: [https://daotalk.org/t/decentralized-orgs-with-on-chain-governance/395](https://daotalk.org/t/decentralized-orgs-with-on-chain-governance/395)
+* Team: Max + ...
+* [Research](../../research/protocol-governance-case-studies.md)
+* [Discussions](https://daotalk.org/t/decentralized-orgs-with-on-chain-governance/395)
 
 ## Pilots
 
