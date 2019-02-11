@@ -29,6 +29,10 @@ Time-lock Voting + Delayed Enactment
 
 * [https://github.com/paritytech/polkadot/wiki/Governance](https://github.com/paritytech/polkadot/wiki/Governance)
 
+## The DAO
+
+...
+
 ## Unsorted / Unchecked
 
 * [Alice](https://alice.si/)
