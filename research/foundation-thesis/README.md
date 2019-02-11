@@ -1,4 +1,12 @@
-# \#dgov Manifesto
+# \#dgov movement manifesto
+
+## Defining the movement
+
+* ultimate goal the group intends to achieve. When a movement achieves success—“Mission accomplished!”—everyone goes home. 
+* Global
+* sweeping change \(over incremental improvement\)
+* Movements begin with values
+* Then + strategy, and direct action
 
 ## From Anja
 

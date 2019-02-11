@@ -18,8 +18,6 @@
 
 ## Foundation
 
-* [\#dgov Manifesto](org/foundation-thesis/README.md)
-  * [\#dgov Values](org/foundation-thesis/dgov-values.md)
 * [\#dgov Strategy](org/dgov-collaboration-strategy/README.md)
   * [Community Building](org/dgov-collaboration-strategy/community-building.md)
   * [Practitioner Support/Success](org/dgov-collaboration-strategy/practitioner-support-success.md)
@@ -40,6 +38,8 @@
 ## Research
 
 * [Glossary](research/glossary.md)
+* [\#dgov movement manifesto](research/foundation-thesis/README.md)
+  * [\#dgov Values](research/foundation-thesis/dgov-values.md)
 * [Decentralized Orgs with on-chain governance](research/protocol-governance-case-studies.md)
 * [\#dgov Global Map](research/map-of-the-industry-landscape.md)
 * [Culture](research/culture/README.md)
