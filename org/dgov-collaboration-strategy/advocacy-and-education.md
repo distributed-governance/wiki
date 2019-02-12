@@ -2,6 +2,15 @@
 
 **Purpose:** Sharing and representing the dgov practices to the wider community
 
+## Culture / Manifesto
+
+* Anti-rivalry
+* Co-creation
+* Team first
+* Wholeness
+
+...
+
 ## Forming Partner Network
 
 For cross publishing, speaking etc
@@ -18,12 +27,7 @@ For cross publishing, speaking etc
 * Colony – ?
 * Consensys
 
-## Culture / Manifesto
-
-* Anti-rivalry
-* Co-creation
-* Credit to the team, rather than individual
-* Wholeness
+## 
 
 ## Ministry of Memmes
 

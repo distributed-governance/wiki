@@ -8,6 +8,11 @@
 * Movements begin with values
 * Then + strategy, and direct action
 
+### Examples
+
+* [https://www.responsive.org/manifesto](https://www.responsive.org/manifesto)
+* [https://blog.aragon.org/the-aragon-manifesto-4a21212eac03/](https://blog.aragon.org/the-aragon-manifesto-4a21212eac03/)
+
 ## From Anja
 
 Dgov is short for distributed governance. It’s a movement created by a group of people concerned with the on-chain and off-chain governance of distributed ledger technologies \(DLT\) which can execute orders via smart contracts and help our broad society to improve with references to transactions, communication and social interactions. The systems build with DLT protocols can be captured by actors such as powerful individuals, influential groups, governments and states. In order to avoid capturing and empowering monopolies, DGov explores ways of distribution, governance systems, value prepositions and needs of contemporary society to build anti-fragile, human-centric and purpose driven designs.
