@@ -8,7 +8,13 @@
 
 **Colony:**
 
-**DGOV**: 
+**DGOV**
+
+* Community updates
+* Practitioner Support / Success
+* Outreach & Advocacy
+
++ calls to action
 
 ## Articles, Papers & Videos  <a id="DgovCompilation#3October2018-Articles,Papers&amp;Videos"></a>
 
@@ -18,15 +24,6 @@
 * [https://papers.ssrn.com/sol3/papers.cfm?abstract\_id=3326244](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3326244)
 * [http://news.infoshop.org/lib-tech/are-the-digital-commons-condemned-to-become-capital-commons/](http://news.infoshop.org/lib-tech/are-the-digital-commons-condemned-to-become-capital-commons/)
 * [https://www.reddit.com/r/ethereum/comments/an3ud1/tcr\_party\_a\_twitter\_curated\_registry/](https://www.reddit.com/r/ethereum/comments/an3ud1/tcr_party_a_twitter_curated_registry/)
-
-## Support DAOs <a id="DgovCompilation#3October2018-Events"></a>
-
-Open positions, bounties and gigs that support dgov, DAOs etc.
-
-* [\#dgov strategy 2019](https://wiki.dgov.foundation/org/dgov-collaboration-strategy)
-* [Open positions for Aragon One and Aragon DAC](https://wiki.aragon.org/jobs/)
-* [Genesis Alpha Bounties](https://docs.google.com/spreadsheets/d/1FV8iz4ebZb4E3nXckzPsWy7IfhtsX3filkbX_gbPLNs/edit#gid=204783618)
-* [Colony Bug Bounty](https://docs.colony.io/colonynetwork/bug-bounty-program-overview/)
 
 ## Upcoming Events  <a id="DgovCompilation#3October2018-Events"></a>
 
