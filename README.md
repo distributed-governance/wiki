@@ -133,6 +133,7 @@ Open positions, bounties and gigs that support dgov, DAOs etc.
 * [P2P Foundation](https://p2pfoundation.net/) \([wiki](http://wiki.p2pfoundation.net/Main_Page), [blog](https://blog.p2pfoundation.net/)\)
 * [Resources for decentralised organising](https://hackmd.io/s/Skh_dXNbE) by Richard D. Bartlett
 * [Global Challenges Governance Labs](https://labs.globalchallenges.org/%20)
+* 0x [Legal Wiki](https://0x.org/wiki#Legal-Wiki) and [Legal Library](https://0x.org/wiki#Legal-Library)
 
 ## Thanks to the Contributors!
 
