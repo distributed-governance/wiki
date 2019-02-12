@@ -57,7 +57,7 @@ Also success stories – who started mutual projects because of the community
 
 ### Chats / telegram groups
 
-...
+Multichannel chat \(Discord, Rocket, Slack\)
 
 ### Newsletter
 
@@ -65,13 +65,13 @@ Leader: Max
 Newsletter and/or newspaper  
 Collaborate with Aragon, DAOstack and more.
 
-### Forum / DAO talk
+### DAO Talk Forum
 
-...
+Use for research discussion
 
-### Loomio
+### Loomio / Collective One
 
-...
+Use for ???
 
 ## Events
 

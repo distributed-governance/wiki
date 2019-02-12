@@ -6,7 +6,7 @@
 
 Icon = Galaxy + Complex Yin Yang
 
-![](.gitbook/assets/frame-7.1%20%281%29.png)
+![](.gitbook/assets/frame-7.3.png)
 
 ![Context logos](.gitbook/assets/frame-8.png)
 
