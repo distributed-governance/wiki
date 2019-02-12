@@ -10,8 +10,8 @@
    * KPI: survey results
    * KPI: events launched
 2. [Practitioner Support / Success ](practitioner-support-success.md)
-   * KPI:materials developed
-   * KPI:pilots launched launched
+   * KPI: materials developed
+   * KPI: pilots launched launched
 3. [Outreach & Advocacy](advocacy-and-education.md)
    * KPI: coverage on \#dgov materials
    * KPI: members in the network
