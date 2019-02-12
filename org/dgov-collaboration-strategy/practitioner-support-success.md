@@ -65,6 +65,8 @@ During the EthCC  \(Mar 5-7\) create a workshop space / session where DAO founde
 * [Telegram group](https://t.me/DAOincubator)
 * [Realtime board](https://realtimeboard.com/app/board/o9J_kysdxCw=/)
 
+### Economy / incentive design
+
 ### Legal Sandbox / Framework
 
 practitioner success \(Chris Wray, coalas\)
