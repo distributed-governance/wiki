@@ -45,7 +45,7 @@ Maintained by the [DGov Foundation](https://dgov.foundation/)
 
 ### Dispute resolution
 
-* Kleros
+* Kleros 
 * ...
 
 ## **Newsletters, Blogs, Podcasts, Webinars**
