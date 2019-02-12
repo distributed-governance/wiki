@@ -51,6 +51,8 @@ Safe space place to safely discuss & collaborate on dgov topics \(e.g. get feedb
 
 Quarterly? research needs / satisfaction etc.
 
+Also success stories – who started mutual projects because of the community
+
 ## Communication Channels
 
 ### Chats / telegram groups
