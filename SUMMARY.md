@@ -34,6 +34,7 @@
 * [\#dgov Projects](org/projects/README.md)
   * [Amsterdam 14.03.2019 \(draft\)](org/projects/amsterdam-14.02.2019.md)
   * [Workshop in Ljubljana, Apr 28](org/projects/workshop-in-ljubljana-apr-28.md)
+  * [Tennagraph](org/projects/tennagraph.md)
 
 ## Research
 
