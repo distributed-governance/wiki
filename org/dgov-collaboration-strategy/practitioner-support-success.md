@@ -58,6 +58,7 @@ During the EthCC  \(Mar 5-7\) create a workshop space / session where DAO founde
 * Identify advisors: mechanics designer, design, legal, soft governance, developers
 * Identify DAO founders
 * Develop DAO Evaluation framework
+* Create logo
 
 #### More Info
 

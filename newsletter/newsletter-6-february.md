@@ -16,6 +16,7 @@
 * [https://cyber.stanford.edu/sbc19](https://cyber.stanford.edu/sbc19)
 * [https://blog.goodaudience.com/e-commerce-with-legal-and-blockchain-security-6f2ba6c244a3](https://blog.goodaudience.com/e-commerce-with-legal-and-blockchain-security-6f2ba6c244a3)
 * [https://papers.ssrn.com/sol3/papers.cfm?abstract\_id=3326244](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3326244)
+* [http://news.infoshop.org/lib-tech/are-the-digital-commons-condemned-to-become-capital-commons/](http://news.infoshop.org/lib-tech/are-the-digital-commons-condemned-to-become-capital-commons/)
 * [https://www.reddit.com/r/ethereum/comments/an3ud1/tcr\_party\_a\_twitter\_curated\_registry/](https://www.reddit.com/r/ethereum/comments/an3ud1/tcr_party_a_twitter_curated_registry/)
 
 ## Support DAOs <a id="DgovCompilation#3October2018-Events"></a>
