@@ -7,15 +7,15 @@
 ## Goals 2019
 
 1. [Global community building](community-building.md)
-   * x survey results
-   * x events launched
+   * KPI: survey results
+   * KPI: events launched
 2. [Practitioner Support / Success ](practitioner-support-success.md)
-   * x materials developed
-   * x pilots launched launched
+   * KPI:materials developed
+   * KPI:pilots launched launched
 3. [Outreach & Advocacy](advocacy-and-education.md)
-   * x coverage on \#dgov materials
-   * x members in the network
-   * x pieces of art
+   * KPI: coverage on \#dgov materials
+   * KPI: members in the network
+   * KPI: pieces of art
 
 ### Longterm plans
 
