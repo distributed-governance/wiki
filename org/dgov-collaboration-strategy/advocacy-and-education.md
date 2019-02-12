@@ -31,8 +31,6 @@ For cross publishing, speaking etc
 * Colony – ?
 * Consensys
 
-## 
-
 ## Ministry of Memmes
 
 Ori – Max, Tim, Martin, Jack, Ruth

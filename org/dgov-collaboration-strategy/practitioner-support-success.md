@@ -51,23 +51,15 @@ Team: Daniel, Max
 * Infra projects \(Aragon, DAO Stack etc\) – describe / formalize use cases, PR, product ideation
 * Experts – describe / formalize use cases, PR
 
-#### Concept
-
-During the EthCC  \(Mar 5-7\) create a workshop space / session where DAO founders can fo through several experts/infra project representatives and get their feedback. Potentially can offer a prize for the best concept \(provided by sponsors – infra projects\).
-
-#### Tasks
-
-* Identify advisors: mechanics designer, design, legal, soft governance, developers
-* Identify DAO founders
-* Develop DAO Evaluation framework
-* Create logo
-
 #### More Info
 
+* [http://daoincubator.org](http://daoincubator.org)
 * [Telegram group](https://t.me/DAOincubator)
 * [Realtime board](https://realtimeboard.com/app/board/o9J_kysdxCw=/)
 
 ### Economy / incentive design
+
+...
 
 ### Legal Sandbox / Framework
 
