@@ -6,6 +6,8 @@ Connect experts and support collaboration in dgov implementation
 
 ## Resources
 
+develop wiki through AMA sessions?
+
 ### Map of the industry landscape
 
 * Team: Grace + Pat, Ela, Max
