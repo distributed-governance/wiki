@@ -1,8 +1,15 @@
-# Decentralized Orgs with on-chain governance
+# Networks with on-chain governance
 
 ## Methodology
 
-On-chain governance – ability to change the protocol based on the on-chain events. No need in 100% on-chain, combination with off-chain is ok as well. Info to be provided: purpose of DAO, used mechanics \(e.g. funds distribution\), brief history.
+On-chain governance – ability to change the protocol based on the on-chain events. No need in 100% on-chain, combination with off-chain is ok as well.
+
+Structure of the report:
+
+* Purpose of DAO
+* Objects to be governed \(e.g. repo, funds distribution\)
+* Used mechanics \(on-chain, off-chain\)
+* Brief history
 
 + [https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/)
 
@@ -39,6 +46,10 @@ Time-lock Voting + Delayed Enactment
 
 ### DASH
 
+* [https://www.dash.org/governance/](https://www.dash.org/governance/)
+* [https://www.dash.org/2017/09/07/dashdecentral.html](https://www.dash.org/2017/09/07/dashdecentral.html)
+* [https://docs.dash.org/en/stable/governance/understanding.html](https://docs.dash.org/en/stable/governance/understanding.html)
+
 ### The DAO
 
 ...
@@ -58,15 +69,31 @@ Time-lock Voting + Delayed Enactment
 
 ...
 
-## Unsorted / Unchecked
+## Misc
 
-* [Alice](https://alice.si/)
-* [iO2 Foundation ](https://www.io2.foundation/)
-* [Nexus Mutual](https://medium.com/nexus-mutual/dao-governance-a-pragmatic-approach-27d529ad0819)
-* LeapDAO
-* SteemIt
-* Zcash
-* BitShares
-* Digix
-* EOS
+### Grin
+
+[https://medium.com/blockchain-capital-blog/grin-governance-a-novel-approach-154aca07291b](https://medium.com/blockchain-capital-blog/grin-governance-a-novel-approach-154aca07291b)
+
+### Beam
+
+### Bitcoin
+
+* [https://medium.com/@pierre\_rochard/bitcoin-governance-37e86299470f](https://medium.com/@pierre_rochard/bitcoin-governance-37e86299470f)
+* [https://bitcoinmagazine.com/articles/a-primer-on-bitcoin-governance-or-why-developers-aren-t-in-charge-of-the-protocol-1473270427/](https://bitcoinmagazine.com/articles/a-primer-on-bitcoin-governance-or-why-developers-aren-t-in-charge-of-the-protocol-1473270427/)
+* [https://bitcoinexchangeguide.com/bitcoin-governance-how-btcs-consensus-system-works-why-it-matters/](https://bitcoinexchangeguide.com/bitcoin-governance-how-btcs-consensus-system-works-why-it-matters/)
+
+### Ethereum
+
+* [https://medium.com/shyft-network-media/the-philosophy-of-ethereum-governance-52c530a8830c](https://medium.com/shyft-network-media/the-philosophy-of-ethereum-governance-52c530a8830c)
+* [https://github.com/ethereum/wiki/wiki/Governance-compendium](https://github.com/ethereum/wiki/wiki/Governance-compendium)
+* [https://unblock.net/what-is-ethereum-governance/](https://unblock.net/what-is-ethereum-governance/)
+
+### EOS
+
+### Digix
+
+### Bitshares
+
+### Leap DAO
 

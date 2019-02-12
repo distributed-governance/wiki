@@ -40,7 +40,7 @@
 * [Glossary](research/glossary.md)
 * [\#dgov movement manifesto](research/foundation-thesis/README.md)
   * [\#dgov Values](research/foundation-thesis/dgov-values.md)
-* [Decentralized Orgs with on-chain governance](research/protocol-governance-case-studies.md)
+* [Networks with on-chain governance](research/protocol-governance-case-studies.md)
 * [\#dgov Global Map](research/map-of-the-industry-landscape.md)
 * [Culture](research/culture/README.md)
   * [Coop anti-patterns](research/culture/coop-anti-patterns.md)
