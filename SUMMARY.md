@@ -49,7 +49,7 @@
   * [Work group](research/curation-markets-and-bonding-curve/work-group.md)
   * [Use Case: Software Project](research/curation-markets-and-bonding-curve/use-case-software-project.md)
   * [Use case: Network](research/curation-markets-and-bonding-curve/use-case-network.md)
-  * [DAO Infrastructure Interoperability](research/curation-markets-and-bonding-curve/dao-infrastructure-interoperability.md)
+* [DAO Infrastructure Interoperability](research/dao-infrastructure-interoperability.md)
 * [DAO Attack Vectors / Security](research/dao-attacks-and-protection.md)
 * [Radical Markets & Harberger Tax](research/radical-markets-1.md)
 * [Futarchy / Prediction markets](research/futarchy.md)
