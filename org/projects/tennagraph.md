@@ -1,8 +1,6 @@
-# Tennagraph
+# TennaGraph 2.0
 
-**Problem:**
-
-Creating a participatory network media e.g. [Aragon Monthly](https://monthly.aragon.org), Dgov newsletter.
+Problem: Creating a community curated media e.g. [Aragon Monthly](https://monthly.aragon.org), [Dgov Monthly](../../newsletter/).
 
 * Easy content management
 * Simple Content Submission via Push / Pull Request?
@@ -18,7 +16,9 @@ Stakeholders:
 * Writers
 * Editor
 
-[https://kauri.io/](https://kauri.io/)  
-  
 
+
+Misc:
+
+* [https://kauri.io/](https://kauri.io/)  
 
