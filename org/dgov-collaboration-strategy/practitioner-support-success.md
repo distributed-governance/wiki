@@ -1,6 +1,6 @@
 # Practitioner Support/Success
 
-Purpose: more successful DAO pilots
+**Purpose:** more successful DAO pilots
 
 Connect experts and support collaboration in dgov implementation
 

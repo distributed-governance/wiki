@@ -1,6 +1,6 @@
 # Outreach & Advocacy
 
-Sharing and representing the dgov practices to wider community
+**Purpose:** Sharing and representing the dgov practices to the wider community
 
 ## Forming Partner Network
 
