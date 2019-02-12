@@ -5,7 +5,7 @@ Problem: Creating a community curated media e.g. [Aragon Monthly](https://monthl
 * Easy content management
 * Simple Content Submission via Push / Pull Request?
 * Promotion / Sponsorship
-* Token allocation for successful submission
+* Token allocation for successful submissions
 * Beautiful UI
 * Monthly recap
 * Content upvote
