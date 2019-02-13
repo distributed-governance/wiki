@@ -7,6 +7,7 @@
 * sweeping change \(over incremental improvement\)
 * Movements begin with values
 * Then + strategy, and direct action
+* on values: set priority e.g. cooperation over self interest
 
 ### Examples
 
