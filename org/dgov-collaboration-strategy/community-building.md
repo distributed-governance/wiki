@@ -17,10 +17,10 @@ Audience: people who want to bring more distributed/decentralized design to the 
   * Access to the research
   * Access to the community \(engagement, hires, finances\)
   * Regulation Framework
-* Facilitators & practitioners \(Percolab, Enspiral, Wework\)
+* Experts e.g. Facilitators \(Percolab, Enspiral, Wework\)
   * Adoption / access to customers
   * Testing ground
-* Academics \(Jacob Eberhardt ZKProofs, Carla Legal Research\)
+* Researchers / Academics \(Jacob Eberhardt ZKProofs, Carla Legal Research\)
   * Resource for research
   * Access to the community
   * Recognition
