@@ -65,6 +65,13 @@ Leader: Max
 Newsletter and/or newspaper  
 Collaborate with Aragon, DAOstack and more.
 
+### Webinar / Podcast
+
+Leader: Phoebe?
+
+for community - select interesting members and do interviews.   
+on every call - some note taker
+
 ### DAO Talk Forum
 
 Use for research discussion
