@@ -58,6 +58,5 @@
 * [Identity & Reputation](research/identity-reputation.md)
 * [DAO Legal Status](research/dao-legal-status.md)
 * [Crypto Commons](research/commons.md)
-* [Dispute Resolution](research/dispute-resolution.md)
 * [Syncing on Ideology, Movement, Networks, Communities and Firms](research/syncing-on-ideology-movement-networks-communities-and-firms.md)
 
