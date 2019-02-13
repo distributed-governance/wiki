@@ -8,7 +8,7 @@ Audience: people who want to bring more distributed/decentralized design to the 
 
 ### Network Impact Mapping
 
-* Infrastructure projects \(E.g. Ethereum, Tezos, Aragon, DAOStack...\)
+* Protocols / Infrastructure \(E.g. Ethereum, Tezos, Aragon, DAOStack...\)
   * Pilots
   * Access to the research
   * Access to the community \(e.g. sentiment\)
