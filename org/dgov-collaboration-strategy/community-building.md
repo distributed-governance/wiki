@@ -24,6 +24,7 @@ Audience: people who want to bring more distributed/decentralized design to the 
   * Resource for the research \(community\)
   * Recognition
 * Funds / VC \(Cambrial, Placeholder\)
+* Ecosystem / wider communities
 
 ### Horizontal Organising Patterns / Dogfooding
 
