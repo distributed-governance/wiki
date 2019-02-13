@@ -11,8 +11,6 @@ Maintained by the [DGov Foundation](https://dgov.foundation/)
 
 ## **\#dgov industry landscape**
 
-### DAO platforms
-
 * [Aragon](https://aragon.org/) – project that aims to disintermediate the creation and maintenance of organizational structures by using blockchain technology 
 * [Colony](https://colony.io/) – platform for open organizations
 * [District0x](https://district0x.io/) – network of decentralized markets and communities
@@ -31,23 +29,18 @@ Maintained by the [DGov Foundation](https://dgov.foundation/)
 * [dOrg](https://github.com/dOrgTech) – dApp for creating and interacting with DAOs
 * Ethereum
 * Tezos
+* Giveth
+* [Iden3](https://iden3.io/)​ – identity solution
+* [uPort](https://www.uport.me/)​ – identity solution
+* ​[BrightID](https://www.brightid.org/)​ – identity solution
+* [Jolocom](https://jolocom.io/) – identity solution
+* [Kleros](https://kleros.io/) – Dispute resolution
 
 **Concepts:**
 
 * [https://sobol.io/](https://sobol.io/)
 * [http://www.cone.network/](http://www.cone.network/)
 * [https://www.metaorg.one/](https://www.metaorg.one/)
-
-### Identity Providers
-
-* [Iden3](https://iden3.io/)
-* [uport](https://www.uport.me/)
-* [BrightID](https://www.brightid.org/)
-* [Jolocom](https://jolocom.io/)
-
-### Dispute resolution
-
-* [Kleros](https://kleros.io/)
 
 ## **Newsletters, Blogs, Podcasts, Webinars**
 
