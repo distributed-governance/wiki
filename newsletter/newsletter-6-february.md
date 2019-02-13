@@ -24,6 +24,7 @@
 * [https://papers.ssrn.com/sol3/papers.cfm?abstract\_id=3326244](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3326244)
 * [http://news.infoshop.org/lib-tech/are-the-digital-commons-condemned-to-become-capital-commons/](http://news.infoshop.org/lib-tech/are-the-digital-commons-condemned-to-become-capital-commons/)
 * [https://www.youtube.com/watch?v=RhbEun33xrQ&feature=youtu.be](https://www.youtube.com/watch?v=RhbEun33xrQ&feature=youtu.be)
+* [https://www.youtube.com/watch?v=m2LMwOfBDq8&list=PLO859mpq9fAihWdbxqWXr18t6v6sxREjQ](https://www.youtube.com/watch?v=m2LMwOfBDq8&list=PLO859mpq9fAihWdbxqWXr18t6v6sxREjQ)
 * [https://www.reddit.com/r/ethereum/comments/an3ud1/tcr\_party\_a\_twitter\_curated\_registry/](https://www.reddit.com/r/ethereum/comments/an3ud1/tcr_party_a_twitter_curated_registry/)
 
 ## Upcoming Events  <a id="DgovCompilation#3October2018-Events"></a>
