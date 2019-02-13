@@ -70,6 +70,7 @@ Collaborate with Aragon, DAOstack and more.
 Leader: Phoebe?
 
 for community - select interesting members and do interviews.   
+interesting calls are around conflicting points of view  
 on every call - some note taker
 
 ### DAO Talk Forum

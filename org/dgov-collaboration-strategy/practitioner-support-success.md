@@ -77,13 +77,14 @@ Lucas + Ela, Phoebe, Marina, Grace
 
 ### Dgov DAO
 
-Purpose: Product Ideation and Feedback / Aragon DAO
+Leader: Tim/Liraz? + 19 people on the telegram group
 
-Liraz + 19 people on the telegram group
+The DAO itself is believe to be nothing else than an intermediate step of exploration to support the DGOV Community with blockchain based infrastructure for coordination. This creates space\(s\) for exploration of new governance models.
 
-Purpose: getting hands on experience coordinating as a group the use of scarce shared resources like funding. We can do that without any technology. The point of a DAO contract is to cheapen the coordination and align incentives. in other words, the DGOV DAO is the mechanism by which the DGOV community aligns around coordinated action by distributing funds between its members in a self-organising way.
+The first seed DAO acts as in incubator to spawn many other independent second generation “child DAO’s” which spawn third generation “child DAO’s” ...and so on to allow for concurrent iterations. The number of child-DAO’s or newly created DAO’s based on iterations of the first template should be arbitrary.
 
-Learning by dogfooding what we aim to promote. DGOV is group that is trying to promote cheap and secure coordination through blockchains DAOs. 1\) We don't know how to do that yet. 2\) without experience we don't have any credibility so our suggestions to the others won't be taken seriously
+* [Description](https://docs.google.com/document/d/1pD0yTQStmvi-KISIHT1hKwHsRSfFRY1BlGydOeD3KDg/edit#heading=h.fxbnb3eqovuq)
+* Chat \(by invite\)
 
 ### Tokenizing Nature 2.0
 
