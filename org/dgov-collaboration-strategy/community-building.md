@@ -59,11 +59,7 @@ Also success stories – who started mutual projects because of the community
 
 Multichannel chat \(Discord, Rocket, Slack\)
 
-### Newsletter
-
-Leader: Max  
-Newsletter and/or newspaper  
-Collaborate with Aragon, DAOstack and more.
+### 
 
 ### Webinar / Podcast
 
@@ -80,6 +76,14 @@ Use for research discussion
 ### Loomio / Collective One
 
 Use for ???
+
+### Newsletter / Media DAO
+
+Leader: Max  
+Newsletter and/or newspaper  
+Collaborate with Aragon, DAOstack and more.
+
+* ​[https://ethsignals.gitbook.io/wiki/](https://ethsignals.gitbook.io/wiki/)[https://wiki.dgov.foundation/org/projects/tennagraph​](https://wiki.dgov.foundation/org/projects/tennagraph)
 
 ## Events
 

@@ -22,9 +22,3 @@
 * Festival in Athens 2020
 * Raise and create value equivalent ~$1M
 
-## Unsorted
-
-### Signaling App
-
-[https://ethsignals.gitbook.io/wiki/](https://ethsignals.gitbook.io/wiki/)
-

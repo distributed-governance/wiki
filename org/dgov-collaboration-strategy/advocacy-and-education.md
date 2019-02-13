@@ -20,6 +20,7 @@ Values
 For cross publishing, speaking etc
 
 * [https://www.worldgovernmentsummit.org/](https://www.worldgovernmentsummit.org/)
+* [Mechanism Design Group](https://t.me/mechanismdesigners)
 * Giveth gov-lab
 * Ethereum
 * WEF
