@@ -44,6 +44,8 @@ Time-lock Voting + Delayed Enactment
 
 ### Decred
 
+...
+
 ### DASH
 
 * [https://www.dash.org/governance/](https://www.dash.org/governance/)
