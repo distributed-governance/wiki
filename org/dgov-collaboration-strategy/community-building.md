@@ -23,6 +23,7 @@ Audience: people who want to bring more distributed/decentralized design to the 
 * Researchers / Academics \(Jacob Eberhardt ZKProofs, Carla Legal Research\)
   * Resource for the research \(community\)
   * Recognition
+* Funds / VC \(Cambrial, Placeholder\)
 
 ### Horizontal Organising Patterns / Dogfooding
 
