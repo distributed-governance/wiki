@@ -38,9 +38,7 @@ Philippe + Fran
 * [Research](../../research/protocol-governance-case-studies.md)
 * [Discussions](https://daotalk.org/t/decentralized-orgs-with-on-chain-governance/395)
 
-## Expertise & Consulting
-
-### DAO Incubator / Advisory board
+## DAO Incubator / Expertise center
 
 Leader: Cem.  
 Team: Daniel, Max
@@ -50,28 +48,16 @@ Team: Daniel, Max
 * DAO founders – support with mechanics design and tool selection
 * Infra projects \(Aragon, DAO Stack etc\) – describe / formalize use cases, PR, product ideation
 * Experts – describe / formalize use cases, PR
+  * Economy / incentive design
+  * Legal Sandbox / Framework
+  * DAO developers sub-community coordination
+  * Facilitation Self Funding Support Group \(Lucas + Ela, Phoebe, Marina, Grace\)
 
 #### More Info
 
 * [http://daoincubator.org](http://daoincubator.org)
 * [Telegram group](https://t.me/DAOincubator)
 * [Realtime board](https://realtimeboard.com/app/board/o9J_kysdxCw=/)
-
-### Economy / incentive design
-
-...
-
-### Legal Sandbox / Framework
-
-practitioner success \(Chris Wray, coalas\)
-
-### DAO developers sub-community coordination
-
-e.g. ~Aragon DAC plans
-
-### Facilitation Self Funding Support Group
-
-Lucas + Ela, Phoebe, Marina, Grace
 
 ## Pilots
 

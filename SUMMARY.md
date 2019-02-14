@@ -32,13 +32,12 @@
   * [Outreach & Advocacy / PR Manager](org/roles/pr-manager.md)
   * [Designer](org/roles/designer.md)
   * [Holacracy onboarding](org/roles/holacracy.md)
-* [\#dgov Projects](org/projects/README.md)
-  * [Amsterdam 14.03.2019 \(draft\)](org/projects/amsterdam-14.02.2019.md)
-  * [Workshop in Ljubljana, Apr 28](org/projects/workshop-in-ljubljana-apr-28.md)
-  * [TennaGraph 2.0](org/projects/tennagraph.md)
 
 ## Projects \(WIP\)
 
+* [Amsterdam 14.03.2019 \(draft\)](research/amsterdam-14.02.2019.md)
+* [Workshop in Ljubljana, Apr 28](research/workshop-in-ljubljana-apr-28.md)
+* [TennaGraph 2.0](research/tennagraph.md)
 * [\#dgov movement manifesto](research/foundation-thesis.md)
 * [On-chain Governance Case Studies](research/protocol-governance-case-studies.md)
 * [\#dgov Global Map](research/map-of-the-industry-landscape.md)
