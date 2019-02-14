@@ -12,6 +12,6 @@ Icon = Galaxy + Complex Yin Yang
 
 ### Find more
 
-* [Logo and design materials](https://www.figma.com/file/VOljSsjBw43q9x6xi5ZYwNf0/DAO-Foundation?node-id=0%3A1)
-* [Print materials \(tshirts, banner, poster etc\)](https://drive.google.com/drive/folders/1Mhr9h0SJIE-gcqsUHd_rT9asBPzlMrSM?usp=sharing)
+* [Logo and design materials in Figma](https://www.figma.com/file/VOljSsjBw43q9x6xi5ZYwNf0/DAO-Foundation?node-id=0%3A1)
+* [Print materials \(t-shirts, banner, poster etc\)](https://drive.google.com/drive/folders/1Mhr9h0SJIE-gcqsUHd_rT9asBPzlMrSM?usp=sharing)
 
