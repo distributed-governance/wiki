@@ -36,3 +36,7 @@ Organization is an entity comprising multiple people, such as an institution or 
 
 A firm is a business organization, such as a corporation, limited liability company or partnership, that sells goods or services to make a profit. \[[source](https://www.investopedia.com/terms/f/firm.asp)\]
 
+### Commons
+
+...
+
