@@ -1,4 +1,4 @@
-# Networks with on-chain governance
+# On-chain governance Case Studies
 
 ## Methodology
 

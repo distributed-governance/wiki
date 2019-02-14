@@ -1,6 +1,7 @@
 # Table of contents
 
 * [DGOV Resources](README.md)
+* [Glossary](glossary.md)
 * [Newsletter](newsletter/README.md)
   * [Newsletter \#1 \(september\)](newsletter/newsletter-1-september.md)
   * [Newsletter \#2 \(october\)](newsletter/newsletter-2-october.md)
@@ -38,25 +39,14 @@
 
 ## Research \(WIP\)
 
-* [Glossary](research/glossary.md)
-* [\#dgov movement manifesto](research/foundation-thesis/README.md)
-  * [\#dgov Values](research/foundation-thesis/dgov-values.md)
-* [Networks with on-chain governance](research/protocol-governance-case-studies.md)
+* [\#dgov movement manifesto](research/foundation-thesis.md)
+* [On-chain governance Case Studies](research/protocol-governance-case-studies.md)
 * [\#dgov Global Map](research/map-of-the-industry-landscape.md)
-* [Culture](research/culture/README.md)
-  * [Coop anti-patterns](research/culture/coop-anti-patterns.md)
+* [Coop anti-patterns](research/coop-anti-patterns.md)
 * [Continuous Token Model](research/curation-markets-and-bonding-curve/README.md)
   * [Work group](research/curation-markets-and-bonding-curve/work-group.md)
   * [Use Case: Software Project](research/curation-markets-and-bonding-curve/use-case-software-project.md)
   * [Use case: Network](research/curation-markets-and-bonding-curve/use-case-network.md)
 * [DAO Infrastructure Interoperability](research/dao-infrastructure-interoperability.md)
-* [DAO Attack Vectors / Security](research/dao-attacks-and-protection.md)
-* [Radical Markets & Harberger Tax](research/radical-markets-1.md)
-* [Futarchy / Prediction markets](research/futarchy.md)
-* [Tokenomics / Monetary Policy](research/monetary-policy.md)
-* [eDemocracy](research/edemocracy.md)
-* [Identity & Reputation](research/identity-reputation.md)
-* [DAO Legal Status](research/dao-legal-status.md)
-* [Crypto Commons](research/commons.md)
-* [Syncing on Ideology, Movement, Networks, Communities and Firms](research/syncing-on-ideology-movement-networks-communities-and-firms.md)
+* [BoK - Articles by Topic](research/articles-by-topic.md)
 

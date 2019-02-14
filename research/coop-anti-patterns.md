@@ -9,5 +9,5 @@
 * find truth in absolute
 * defeat competitors
 
-![](../../.gitbook/assets/giphy-3.gif)
+![](../.gitbook/assets/giphy-3.gif)
 

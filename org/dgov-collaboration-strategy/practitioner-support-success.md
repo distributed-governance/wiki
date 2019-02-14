@@ -22,7 +22,7 @@ develop wiki through AMA sessions?
 ### Glossary / Terminology
 
 * Team: Phil, Grace
-* [Research](../../research/glossary.md)
+* [Research](../../glossary.md)
 
 ### Body of Knowledge book
 

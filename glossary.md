@@ -1,10 +1,8 @@
-# Syncing on Ideology, Movement, Networks, Communities and Firms
+# Glossary
 
-**Goal**: research how to create more synergy between Movements, Communities and Firms to increase mutual efficiencies.
+### DAO, DAC, DA, DO
 
-...Summary here...
-
-## Terms, mutual & different
+{% embed url="https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/" %}
 
 ### Ideology
 
@@ -37,22 +35,4 @@ Organization is an entity comprising multiple people, such as an institution or 
 ### Firm, Business, Enterprise
 
 A firm is a business organization, such as a corporation, limited liability company or partnership, that sells goods or services to make a profit. \[[source](https://www.investopedia.com/terms/f/firm.asp)\]
-
-### How do those categories compare?
-
-Some graphic here?
-
-People who share the idea + have a connection to each other + have shared goal\(s\)
-
-Many interconnections \(networks, firms\).
-
-## Synergy opportunities
-
-### Movement / Network + Community
-
-### Community + Firm
-
-### Movement + Firm
-
-
 

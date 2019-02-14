@@ -13,7 +13,7 @@ Values
 * Team first
 * Wholeness
 
-[Manifesto Draft](../../research/foundation-thesis/)
+[Manifesto Draft](../../research/foundation-thesis.md)
 
 ## Forming Partner Network
 
