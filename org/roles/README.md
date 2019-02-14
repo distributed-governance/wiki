@@ -6,7 +6,7 @@ Changes to policies and roles are done through the Holacracy IDM process. Telegr
 
 ### Roles
 
-* [Community Manager](community-manager/) – ?
+* [Community Manager](community-manager/) – Max
   * [Chat Moderator](community-manager/chat-moderator.md) – Max, Tim, Anja
   * Council Event Organizer – Tim, ...
   * [Newsletter Editor](community-manager/newsletter-editor.md) – Max
