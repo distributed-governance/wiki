@@ -32,7 +32,7 @@ For cross publishing, speaking etc
 * Colony – ?
 * Consensys
 
-## Ministry of Memmes
+## Memmes
 
 Ori – Max, Tim, Martin, Jack, Ruth
 
@@ -40,13 +40,11 @@ Chat: [https://t.me/MinistryofMemes](https://t.me/MinistryofMemes)
 
 [Some drafts here](../../how-to-contribute/memmes.md)
 
-## Brand
+## Brand materials, merch etc
 
 logo, cool merch etc...
 
-## Broader work / E.g. movie
+## Movie based on manifesto
 
-* Ruth?
-* Luan?
-* Guy from Pando?
+...
 
