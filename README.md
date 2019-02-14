@@ -27,14 +27,14 @@ Maintained by the [DGov Foundation](https://dgov.foundation/)
 * [Kelsen](https://klsn.io/) – a dapp and a smart contract framework for building secure and transparent governance systems on Ethereum
 * [Decidim](https://decidim.org/) – free open-source participatory democracy for cities and organizations
 * [dOrg](https://github.com/dOrgTech) – dApp for creating and interacting with DAOs
-* Ethereum
-* Tezos
-* Giveth
+* [Ethereum](https://www.ethereum.org/) – blockchain App Platform
+* [Tezos](https://tezos.com/) – a new platform for decentralized applications and smart contracts.
+* [Giveth](https://giveth.io/) – donation platform and community
 * [Iden3](https://iden3.io/)​ – identity solution
 * [uPort](https://www.uport.me/)​ – identity solution
 * ​[BrightID](https://www.brightid.org/)​ – identity solution
 * [Jolocom](https://jolocom.io/) – identity solution
-* [Kleros](https://kleros.io/) – Dispute resolution
+* [Kleros](https://kleros.io/) – dispute resolution
 
 **Concepts:**
 
