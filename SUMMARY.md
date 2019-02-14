@@ -37,16 +37,13 @@
   * [Workshop in Ljubljana, Apr 28](org/projects/workshop-in-ljubljana-apr-28.md)
   * [TennaGraph 2.0](org/projects/tennagraph.md)
 
-## Research \(WIP\)
+## Projects \(WIP\)
 
 * [\#dgov movement manifesto](research/foundation-thesis.md)
-* [On-chain governance Case Studies](research/protocol-governance-case-studies.md)
+* [On-chain Governance Case Studies](research/protocol-governance-case-studies.md)
 * [\#dgov Global Map](research/map-of-the-industry-landscape.md)
 * [Coop anti-patterns](research/coop-anti-patterns.md)
-* [Continuous Token Model](research/curation-markets-and-bonding-curve/README.md)
-  * [Work group](research/curation-markets-and-bonding-curve/work-group.md)
-  * [Use Case: Software Project](research/curation-markets-and-bonding-curve/use-case-software-project.md)
-  * [Use case: Network](research/curation-markets-and-bonding-curve/use-case-network.md)
 * [DAO Infrastructure Interoperability](research/dao-infrastructure-interoperability.md)
-* [BoK - Articles by Topic](research/articles-by-topic.md)
+* [BoK - Articles by Topic](research/articles-by-topic/README.md)
+  * [Continuous Token Model](research/articles-by-topic/curation-markets-and-bonding-curve.md)
 

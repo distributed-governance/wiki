@@ -1,4 +1,4 @@
-# On-chain governance Case Studies
+# On-chain Governance Case Studies
 
 ## Methodology
 
