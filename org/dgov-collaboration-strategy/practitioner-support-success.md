@@ -40,6 +40,10 @@ Philippe + Fran
 * [Research](../../research/protocol-governance-case-studies.md)
 * [Discussions](https://daotalk.org/t/decentralized-orgs-with-on-chain-governance/395)
 
+### Transparency in Networked Orgs
+
+* [Research](../../research/transparency-in-networked-orgs.md)
+
 ## DAO Incubator / Expertise center
 
 Leader: Cem.  
