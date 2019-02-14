@@ -1,8 +1,8 @@
 # Table of contents
 
-* [DGOV Resources](README.md)
-* [Glossary](glossary.md)
-* [Newsletter](newsletter/README.md)
+* [\#dgov Resources](README.md)
+* [\#dgov Glossary](glossary.md)
+* [\#dgov Newsletter](newsletter/README.md)
   * [Newsletter \#1 \(september\)](newsletter/newsletter-1-september.md)
   * [Newsletter \#2 \(october\)](newsletter/newsletter-2-october.md)
   * [Newsletter \#3 \(november\)](newsletter/newsletter-3-november.md)
@@ -14,8 +14,8 @@
   * [Host Local Meetups](how-to-contribute/meetups.md)
   * [\#dgov memmes](how-to-contribute/memmes.md)
   * [Coop anti-patterns](how-to-contribute/coop-anti-patterns.md)
-  * [Brief history](how-to-contribute/dgov-history.md)
-* [Identity](identity.md)
+* [\#dgov History](dgov-history.md)
+* [\#dgov Identity](identity.md)
 * [Official Website](https://dgov.foundation)
 
 ## Foundation

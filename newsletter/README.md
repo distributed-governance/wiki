@@ -1,4 +1,4 @@
-# Newsletter
+# \#dgov Newsletter
 
 Subscribe to the newsletter: [https://dgov.foundation\#join](https://dgov.foundation#join)
 

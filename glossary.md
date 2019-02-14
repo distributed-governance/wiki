@@ -1,4 +1,4 @@
-# Glossary
+# \#dgov Glossary
 
 ### DAO, DAC, DA, DO
 
