@@ -2,7 +2,7 @@
 
 ### Logo
 
-\#dgov – all equal, no domination \(better the DGov, DGOV or Dgov\)
+\#dgov – all equal, no domination \(better than DGov, DGOV or Dgov\)
 
 Icon = Galaxy + Complex Yin Yang
 

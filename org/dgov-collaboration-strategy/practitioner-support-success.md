@@ -26,6 +26,8 @@ develop wiki through AMA sessions?
 
 ### Body of Knowledge book
 
+* [Draft](../../research/articles-by-topic/)
+
 Grace + Max, Fran
 
 #### + translation in french
