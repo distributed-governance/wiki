@@ -16,7 +16,6 @@
   * [Coop anti-patterns](how-to-contribute/coop-anti-patterns.md)
 * [\#dgov History](dgov-history.md)
 * [\#dgov Identity](identity.md)
-* [Official Website](https://dgov.foundation)
 
 ## Foundation
 
@@ -33,6 +32,7 @@
   * [Outreach & Advocacy / PR Manager](org/roles/pr-manager.md)
   * [Designer](org/roles/designer.md)
   * [Holacracy onboarding](org/roles/holacracy.md)
+* [Official Website](https://dgov.foundation)
 
 ## Projects \(WIP\)
 
