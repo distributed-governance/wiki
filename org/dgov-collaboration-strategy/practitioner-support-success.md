@@ -93,3 +93,7 @@ Ruth + Grace, Tim, Phoebe
 
 for artists on London\*
 
+### Media DAO
+
+[Details](../../research/tennagraph.md)
+
