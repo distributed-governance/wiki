@@ -1,4 +1,4 @@
-# TennaGraph 2.0
+# Media DAO / Tenna 2.0
 
 Problem: Creating a community curated media e.g. [Aragon Monthly](https://monthly.aragon.org), [Dgov Monthly](../newsletter/).
 

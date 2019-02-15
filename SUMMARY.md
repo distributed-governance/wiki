@@ -38,7 +38,7 @@
 
 * [Amsterdam 14.03.2019 \(draft\)](research/amsterdam-14.02.2019.md)
 * [Workshop in Ljubljana, Apr 28](research/workshop-in-ljubljana-apr-28.md)
-* [TennaGraph 2.0](research/tennagraph.md)
+* [Media DAO / Tenna 2.0](research/tennagraph.md)
 * [\#dgov movement manifesto](research/foundation-thesis.md)
 * [On-chain Governance Case Studies](research/protocol-governance-case-studies.md)
 * [\#dgov Global Map](research/map-of-the-industry-landscape.md)
