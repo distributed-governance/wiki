@@ -20,7 +20,7 @@
 ## Foundation
 
 * [\#dgov Strategy](org/dgov-collaboration-strategy/README.md)
-  * [Community Building](org/dgov-collaboration-strategy/community-building.md)
+  * [Community Management](org/dgov-collaboration-strategy/community-building.md)
   * [Practitioner Support/Success](org/dgov-collaboration-strategy/practitioner-support-success.md)
   * [Outreach & Advocacy](org/dgov-collaboration-strategy/advocacy-and-education.md)
 * [\#dgov Governance](org/roles/README.md)

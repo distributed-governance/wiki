@@ -1,12 +1,10 @@
-# Community Building
+# Community Management
 
 **Purpose:** increase the number of collaborations in the movement
 
-## Community management
+### Network Impact Mapping
 
 Audience: people who want to bring more distributed/decentralized design to the organizations
-
-### Network Impact Mapping
 
 * Products e.g. protocols / infrastructure \(E.g. Ethereum, Tezos, Aragon, DAOStack...\)
   * Pilots
