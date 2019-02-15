@@ -4,19 +4,18 @@ Problem: Creating a community curated media e.g. [Aragon Monthly](https://monthl
 
 **Features:**
 
-* Easy content management
-* Simple Content Submission via Push / Pull Request?
-* Promotion / Sponsorship \(harberger tax, auction?\)
+* Accessible/Nice content management UI \(Submission via Push / Pull Request?\)
+* Ads / Sponsorship \(harberger tax, auction?\)
 * Token allocation for successful submissions
-* Beautiful UI
-* Monthly recap
-* Content upvote
+* Monthly recap to the email
+* Content upvote / curation
 
 **Stakeholders:**
 
+* Community member
 * Sponsor
-* Writers
-* Editor
+* Contributor
+* Editor\(s\)?
 
 **Misc:**
 
