@@ -8,7 +8,6 @@
 
 1. [Global community building](community-building.md)
    * KPI: events launched
-   * KPI: survey results
 2. [Practitioner Support / Success ](practitioner-support-success.md)
    * KPI: materials developed
 3. [Outreach & Advocacy](advocacy-and-education.md)
