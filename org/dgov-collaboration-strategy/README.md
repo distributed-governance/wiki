@@ -11,7 +11,6 @@
    * KPI: survey results
 2. [Practitioner Support / Success ](practitioner-support-success.md)
    * KPI: materials developed
-   * KPI: pilots launched
 3. [Outreach & Advocacy](advocacy-and-education.md)
    * KPI: coverage on \#dgov materials
    * KPI: members in the network
