@@ -12,9 +12,8 @@
 2. [Practitioner Support / Success ](practitioner-support-success.md)
    * KPI: materials developed
 3. [Outreach & Advocacy](advocacy-and-education.md)
-   * KPI: coverage on \#dgov materials
    * KPI: members in the network
-   * KPI: pieces of art
+   * KPI: coverage on \#dgov materials
 
 ### Longterm plans
 
