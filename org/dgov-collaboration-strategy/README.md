@@ -7,7 +7,7 @@
 ## Goals 2019
 
 1. [Global community building](community-building.md)
-   * KPI: events launched
+   * KPI: no. of active projects \(by report\)
 2. [Practitioner Support / Success ](practitioner-support-success.md)
    * KPI: materials developed
 3. [Outreach & Advocacy](advocacy-and-education.md)

@@ -2,9 +2,9 @@
 
 **Purpose:** increase the number of collaborations in the movement
 
-Audience: people who want to bring more distributed/decentralized design to the organizations
-
 ## Community management
+
+Audience: people who want to bring more distributed/decentralized design to the organizations
 
 ### Network Impact Mapping
 
