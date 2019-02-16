@@ -1,6 +1,6 @@
 # Community Management
 
-**Purpose:** increase the number of collaborations in the movement
+**Purpose:** increase connections and collaborations in the movement
 
 ### Network Impact Mapping & Project Identification
 

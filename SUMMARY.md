@@ -42,7 +42,7 @@
 * [\#dgov movement manifesto](research/foundation-thesis.md)
 * [On-chain Governance Case Studies](research/protocol-governance-case-studies.md)
 * [\#dgov Global Map](research/map-of-the-industry-landscape.md)
-* [DAO Infrastructure Interoperability](research/dao-infrastructure-interoperability.md)
+* [DAO Tech Evaluation Framework](research/dao-infrastructure-interoperability.md)
 * [BoK - Articles by Topic](research/articles-by-topic/README.md)
   * [Continuous Token Model](research/articles-by-topic/curation-markets-and-bonding-curve.md)
 * [Transparency in Networked Orgs](research/transparency-in-networked-orgs.md)

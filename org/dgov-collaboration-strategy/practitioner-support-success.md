@@ -2,53 +2,85 @@
 
 **Purpose:** more successful DAO pilots
 
-Connect experts and support collaboration in dgov implementation
-
 ## Resources
 
-develop wiki through AMA sessions?
-
-### Map of the industry landscape
-
-* Team: Grace + Pat, Ela, Max
-* [Research](../../)
-* [Discussions](https://daotalk.org/t/dgov-industry-landscape/392)
-
-### \#dgov global Map
-
-* Team: Peter + Ela, Lucas
-* [Research](../../research/map-of-the-industry-landscape.md)
-
-### Glossary / Terminology
-
-* Team: Phil, Grace
-* [Research](../../glossary.md)
-
-### Body of Knowledge book
-
-* [Draft](../../research/articles-by-topic/)
-
-Grace + Max, Fran
-
-#### + translation in french
-
-Philippe + Fran
-
-### DAO List / Case Studies
-
-* Team: Max + ...
-* [Research](../../research/protocol-governance-case-studies.md)
-* [Discussions](https://daotalk.org/t/decentralized-orgs-with-on-chain-governance/395)
-
-### Transparency in Networked Orgs
-
-* [Research](../../research/transparency-in-networked-orgs.md)
-
-### DAO Tech Evaluation Framework
-
-Purpose: understand potential tech offering, compare and develop a framework for tech selection.
-
-* [Research](../../research/dao-infrastructure-interoperability.md)
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Material</th>
+      <th style="text-align:left">Team</th>
+      <th style="text-align:left">Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <p>Map of the industry landscape</p>
+        <p><a href="../../">Research</a> · <a href="https://daotalk.org/t/dgov-industry-landscape/392">Discussions</a>
+        </p>
+      </td>
+      <td style="text-align:left">Grace + Pat, Ela, Max</td>
+      <td style="text-align:left">In progress</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>#dgov global map</p>
+        <p><a href="../../research/map-of-the-industry-landscape.md">Research</a>
+        </p>
+      </td>
+      <td style="text-align:left">Peter + Ela, Lucas</td>
+      <td style="text-align:left">In progress</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>Glossary / Terminology</p>
+        <p><a href="../../glossary.md">Research</a>
+        </p>
+      </td>
+      <td style="text-align:left">Phil, Grace</td>
+      <td style="text-align:left">In progress</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>Body of Knowledge book
+          <br />(+ translation in French)</p>
+        <p><a href="https://wiki.dgov.foundation/~/edit/drafts/-LYqLIPfWDGlXSZXK798/research/articles-by-topic">Draft</a>
+        </p>
+      </td>
+      <td style="text-align:left">Grace + Max, Fran, Phil</td>
+      <td style="text-align:left">In progress</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>DAO List / Case Studies</p>
+        <p><a href="../../research/protocol-governance-case-studies.md">Research</a> ·
+          <a
+          href="https://daotalk.org/t/decentralized-orgs-with-on-chain-governance/395">Discussions</a>
+        </p>
+      </td>
+      <td style="text-align:left">Max + ...</td>
+      <td style="text-align:left">In progress</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>Transparency in Networked Orgs</p>
+        <p><a href="../../research/transparency-in-networked-orgs.md">Research</a>
+        </p>
+      </td>
+      <td style="text-align:left">Max + ...</td>
+      <td style="text-align:left">In progress</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>DAO Tech Evaluation Framework</p>
+        <p><a href="https://wiki.dgov.foundation/~/edit/drafts/-LYqLIPfWDGlXSZXK798/research/dao-infrastructure-interoperability">Research</a>
+        </p>
+      </td>
+      <td style="text-align:left">Max + ...</td>
+      <td style="text-align:left">In progress</td>
+    </tr>
+  </tbody>
+</table>Develop wiki through AMA sessions?
 
 ## DAO Incubator / Expertise center
 

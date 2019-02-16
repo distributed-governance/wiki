@@ -1,4 +1,6 @@
-# DAO Infrastructure Interoperability
+# DAO Tech Evaluation Framework
+
+Purpose: understand potential tech offering, compare and develop a framework for tech selection.
 
 ## Business case platform comparison
 
