@@ -2,29 +2,11 @@
 
 **Purpose:** increase connections and collaborations in the movement
 
+## Right Connectivity through the Communication Channels
+
 ### Network Impact Mapping & Project Identification
 
-Audience: people who want to bring more distributed/decentralized design to the organizations
-
-* Products e.g. protocols / infrastructure \(E.g. Ethereum, Tezos, Aragon, DAOStack...\)
-  * Pilots
-  * Access to the research
-  * Access to the community \(e.g. sentiment\)
-* DO / DAO \(Genesis Alpha, Aragon DAC\)
-  * Trustworthy core infrastructure
-  * Access to the research
-  * Access to the community \(engagement, hires, finances\)
-  * Regulation Framework
-* Experts e.g. Facilitators, Engineers, Legal \(Percolab, Enspiral\)
-  * Exploration / Sandboxes
-  * Access to customers
-* Researchers / Academics \(Jacob Eberhardt ZKProofs, Carla Legal Research\)
-  * Resource for the research \(community\)
-  * Recognition
-* Funds / VC \(Cambrial, Placeholder\)
-* Ecosystem / wider communities
-
-## Communication Channels
+Audience: people who want to bring more distributed/decentralized design to the organizations.
 
 ### Chats / telegram groups
 
@@ -34,19 +16,17 @@ Safe space place to safely discuss & collaborate on dgov topics \(e.g. get feedb
 
 ### Webinar / Podcast
 
+Purpose: ?
+
 Leader: Phoebe?
 
 for community - select interesting members and do interviews.   
 interesting calls are around conflicting points of view  
 on every call - some note taker
 
-### DAO Talk Forum
+### DAO Talk Forum / Twist
 
 Use for research discussion
-
-### Loomio / Collective One
-
-Use for community consulting
 
 ### Media 
 
@@ -54,7 +34,11 @@ Leader: Max
 [Newsletter](../../newsletter/) and/or newspaper  
 Collaborate with Aragon, DAOstack and more.
 
-## Events
+## Synchronization and Collaborative Decision Making Events
+
+### Loomio / Collective One
+
+Use for community consulting
 
 ### Council \#1 by inblock.io
 
