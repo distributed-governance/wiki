@@ -44,6 +44,12 @@ Philippe + Fran
 
 * [Research](../../research/transparency-in-networked-orgs.md)
 
+### DAO Tech Evaluation Framework
+
+Purpose: understand potential tech offering, compare and develop a framework for tech selection.
+
+* [Research](../../research/dao-infrastructure-interoperability.md)
+
 ## DAO Incubator / Expertise center
 
 Leader: Cem.  
