@@ -2,9 +2,25 @@
 
 **Purpose:** increase connections and collaborations in the movement
 
+## Transparent and Participative structure of work
+
+### Newsletter / Wiki 
+
+Leader: Max  
+[Newsletter](../../newsletter/) and/or newspaper  
+Collaborate with Aragon, DAOstack and more.
+
+### Horizontal Organising Patterns / Dogfooding
+
+Horizontal leadership, decentralised organising patterns, group facilitation
+
+Soft governance meets hard governance
+
+Phoebe + Liraz + Tim, Phoebe, Grace, Max
+
 ## Right Connectivity through the Communication Channels
 
-### Network Impact Mapping & Project Identification
+### Network Mapping
 
 Audience: people who want to bring more distributed/decentralized design to the organizations.
 
@@ -14,25 +30,13 @@ Multichannel chat \(Discord, Rocket, Slack\)
 
 Safe space place to safely discuss & collaborate on dgov topics \(e.g. get feedback, intracommunity projects and hiring\).
 
-### Webinar / Podcast
-
-Purpose: ?
-
-Leader: Phoebe?
-
-for community - select interesting members and do interviews.   
-interesting calls are around conflicting points of view  
-on every call - some note taker
-
 ### DAO Talk Forum / Twist
 
 Use for research discussion
 
-### Media 
+### Members catalog?
 
-Leader: Max  
-[Newsletter](../../newsletter/) and/or newspaper  
-Collaborate with Aragon, DAOstack and more.
+...
 
 ## Synchronization and Collaborative Decision Making Events
 
