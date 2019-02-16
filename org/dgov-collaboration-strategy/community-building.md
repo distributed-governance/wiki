@@ -2,7 +2,7 @@
 
 **Purpose:** increase the number of collaborations in the movement
 
-### Network Impact Mapping
+### Network Impact Mapping & Project Identification
 
 Audience: people who want to bring more distributed/decentralized design to the organizations
 
@@ -24,37 +24,13 @@ Audience: people who want to bring more distributed/decentralized design to the 
 * Funds / VC \(Cambrial, Placeholder\)
 * Ecosystem / wider communities
 
-### Horizontal Organising Patterns / Dogfooding
-
-Horizontal leadership, decentralised organising patterns, group facilitation
-
-Soft governance meets hard governance
-
-Phoebe + Liraz + Tim, Phoebe, Grace, Max
-
-### Reputation
-
-Use Dish and Leaderboard mechanics as in Giveth?
-
-### Onboarding
-
-Strategy...
-
-### Culture / Rituals
-
-Safe space place to safely discuss & collaborate on dgov topics \(e.g. get feedback, intracommunity projects and hiring\).
-
-### Evaluation / Surveying
-
-Quarterly? research needs / satisfaction etc.
-
-Also success stories – who started mutual projects because of the community
-
 ## Communication Channels
 
 ### Chats / telegram groups
 
 Multichannel chat \(Discord, Rocket, Slack\)
+
+Safe space place to safely discuss & collaborate on dgov topics \(e.g. get feedback, intracommunity projects and hiring\).
 
 ### Webinar / Podcast
 

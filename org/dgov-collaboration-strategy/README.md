@@ -19,3 +19,11 @@
 * Festival in Athens 2020
 * Raise and create value equivalent ~$1M
 
+### Horizontal Organising Patterns / Dogfooding
+
+Horizontal leadership, decentralised organising patterns, group facilitation
+
+Soft governance meets hard governance
+
+Phoebe + Liraz + Tim, Phoebe, Grace, Max
+
