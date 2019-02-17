@@ -38,7 +38,11 @@ Use for research discussion
 
 ...
 
-## Synchronization and Collaborative Decision Making Events
+### Aligned operations / open up players strategies 
+
+...
+
+## Synchronization and Collaborative Decision Making
 
 ### Loomio / Collective One
 
@@ -53,6 +57,8 @@ Use for community consulting
 Leader: Tim
 
 ~April 2019
+
++ strategic sessions
 
 ### Council \#2 by inblock.io
 
