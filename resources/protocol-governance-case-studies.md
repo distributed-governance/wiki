@@ -12,9 +12,9 @@ Structure of the report:
 * Purpose of DAO
 * Objects to be governed \(e.g. repo, funds distribution\)
 * Used mechanics \(on-chain, off-chain\)
-* Brief history
+* History
 
-+ [https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/)
+Use [Grins way](https://medium.com/blockchain-capital-blog/grin-governance-a-novel-approach-154aca07291b) to describe governance?
 
 ## L1 Network-based
 
