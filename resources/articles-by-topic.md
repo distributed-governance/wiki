@@ -37,13 +37,6 @@
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">Body of Knowledge book
-        <br />
-      </td>
-      <td style="text-align:left">Grace + Max, Fran, Phil</td>
-      <td style="text-align:left">In progress</td>
-    </tr>
-    <tr>
       <td style="text-align:left">
         <p>DAO List / Case Studies</p>
         <p><a href="protocol-governance-case-studies.md">Research</a> · <a href="https://daotalk.org/t/decentralized-orgs-with-on-chain-governance/395">Discussions</a>
@@ -76,19 +69,4 @@
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>
-
-
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">
-        <p>(+ translation in French)</p>
-        <p><a href="https://wiki.dgov.foundation/~/edit/drafts/-LYqLIPfWDGlXSZXK798/research/articles-by-topic">Draft</a>
-        </p>
-      </th>
-    </tr>
-  </thead>
-  <tbody></tbody>
 </table>

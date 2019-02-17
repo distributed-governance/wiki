@@ -2,17 +2,13 @@
 
 **Purpose:** more successful DAO pilots
 
-## Resources
+## Body of Knowledge
 
 Team: Grace + Max, Fran, Phil
 
 Develop wiki through AMA sessions?
 
 + translation in French \(Phil\)
-
-|  |
-| :--- |
-
 
 ## DAO Incubator / Expertise center
 
