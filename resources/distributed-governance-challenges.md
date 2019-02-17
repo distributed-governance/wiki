@@ -1,13 +1,8 @@
 # Distributed Governance Challenges
 
-“Distributed Governance Challenges”
+“Distributed Governance Challenges” Open Space Discussion at DGov Council
 
-Open Space Discussion
-
-DGov Council
-
-27th January 2019, 17.30PM  
-
+27th January 2019, 17.30PM
 
 \(This Interview is pseudonymized\)
 
