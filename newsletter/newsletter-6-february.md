@@ -26,6 +26,7 @@
 * [https://www.youtube.com/watch?v=RhbEun33xrQ&feature=youtu.be](https://www.youtube.com/watch?v=RhbEun33xrQ&feature=youtu.be)
 * [https://www.youtube.com/watch?v=m2LMwOfBDq8&list=PLO859mpq9fAihWdbxqWXr18t6v6sxREjQ](https://www.youtube.com/watch?v=m2LMwOfBDq8&list=PLO859mpq9fAihWdbxqWXr18t6v6sxREjQ)
 * [https://medium.com/the-caring-network-company/how-we-lead-bea339e597f3](https://medium.com/the-caring-network-company/how-we-lead-bea339e597f3)
+* [https://medium.com/@LuigiGrx/a-living-organism-exploring-dao-components-and-their-relationships-cb2ed890def0](https://medium.com/@LuigiGrx/a-living-organism-exploring-dao-components-and-their-relationships-cb2ed890def0)
 * [https://www.reddit.com/r/ethereum/comments/an3ud1/tcr\_party\_a\_twitter\_curated\_registry/](https://www.reddit.com/r/ethereum/comments/an3ud1/tcr_party_a_twitter_curated_registry/)
 
 ## Upcoming Events  <a id="DgovCompilation#3October2018-Events"></a>
