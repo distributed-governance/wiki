@@ -1,7 +1,6 @@
 # Table of contents
 
 * [\#dgov Resources](README.md)
-* [\#dgov Glossary](glossary.md)
 * [\#dgov Newsletter](newsletter/README.md)
   * [Newsletter \#1 \(september\)](newsletter/newsletter-1-september.md)
   * [Newsletter \#2 \(october\)](newsletter/newsletter-2-october.md)
@@ -15,7 +14,14 @@
   * [\#dgov memmes](how-to-contribute/memmes.md)
   * [Coop anti-patterns](how-to-contribute/coop-anti-patterns.md)
 * [\#dgov History](dgov-history.md)
-* [\#dgov Identity](identity.md)
+* [\#dgov Logo /  Identity](identity.md)
+
+## Resources
+
+* [Body of Knowledge](resources/articles-by-topic.md)
+* [Glossary](resources/glossary.md)
+* [Continuous Token Model](resources/curation-markets-and-bonding-curve.md)
+* [Distributed Governance Challenges](resources/distributed-governance-challenges.md)
 
 ## Foundation
 
@@ -43,7 +49,5 @@
 * [On-chain Governance Case Studies](research/protocol-governance-case-studies.md)
 * [\#dgov Global Map](research/map-of-the-industry-landscape.md)
 * [DAO Tech Evaluation Framework](research/dao-infrastructure-interoperability.md)
-* [BoK - Articles by Topic](research/articles-by-topic/README.md)
-  * [Continuous Token Model](research/articles-by-topic/curation-markets-and-bonding-curve.md)
 * [Transparency in Networked Orgs](research/transparency-in-networked-orgs.md)
 
