@@ -1,6 +1,6 @@
 # On-chain Governance Case Studies
 
-Team: Max, Theo, Jack  
+Team: Max, Theo, Jack, Louisgrx?  
 [Discussion](https://daotalk.org/t/case-studies-decentralized-orgs-with-on-chain-governance/395)
 
 ## Methodology
