@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to \#dgov knowledge base](README.md)
+* [Welcome to the \#dgov knowledge base](README.md)
 * [\#dgov Newsletter](newsletter/README.md)
   * [Newsletter \#1 \(september\)](newsletter/newsletter-1-september.md)
   * [Newsletter \#2 \(october\)](newsletter/newsletter-2-october.md)
@@ -13,8 +13,6 @@
   * [Host Local Meetups](how-to-contribute/meetups.md)
   * [\#dgov memmes](how-to-contribute/memmes.md)
   * [Coop anti-patterns](how-to-contribute/coop-anti-patterns.md)
-* [\#dgov History](dgov-history.md)
-* [\#dgov Logo /  Identity](identity.md)
 
 ## Resources
 
@@ -49,5 +47,7 @@
   * [Amsterdam 14.03.2019 \(draft\)](org/projects/amsterdam-14.02.2019.md)
   * [Workshop in Ljubljana, Apr 28](org/projects/workshop-in-ljubljana-apr-28.md)
   * [Media DAO / Tenna 2.0](org/projects/tennagraph.md)
+* [\#dgov History](org/dgov-history.md)
+* [\#dgov Logo /  Identity](org/identity.md)
 * [Official Website](https://dgov.foundation)
 

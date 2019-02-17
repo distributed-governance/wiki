@@ -1,5 +1,8 @@
 # On-chain Governance Case Studies
 
+Team: Max, Theo, Jack  
+[Discussion](https://daotalk.org/t/case-studies-decentralized-orgs-with-on-chain-governance/395)
+
 ## Methodology
 
 On-chain governance – ability to change the protocol based on the on-chain events. No need in 100% on-chain, combination with off-chain is ok as well.
