@@ -32,5 +32,5 @@ Local hubs aligned with \#dgov
 * Israel: DAO Stack
 * Dubai \(?\)
 
-
+Team: Peter + Ela, Lucas
 

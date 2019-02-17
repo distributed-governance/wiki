@@ -1,6 +1,6 @@
 # Table of contents
 
-* [\#dgov Resources](README.md)
+* [Welcome to \#dgov knowledge base](README.md)
 * [\#dgov Newsletter](newsletter/README.md)
   * [Newsletter \#1 \(september\)](newsletter/newsletter-1-september.md)
   * [Newsletter \#2 \(october\)](newsletter/newsletter-2-october.md)
@@ -44,12 +44,10 @@
   * [Outreach & Advocacy / PR Manager](org/roles/pr-manager.md)
   * [Designer](org/roles/designer.md)
   * [Holacracy onboarding](org/roles/holacracy.md)
+* [Projects](org/projects/README.md)
+  * [\#dgov movement manifesto](org/projects/foundation-thesis.md)
+  * [Amsterdam 14.03.2019 \(draft\)](org/projects/amsterdam-14.02.2019.md)
+  * [Workshop in Ljubljana, Apr 28](org/projects/workshop-in-ljubljana-apr-28.md)
+  * [Media DAO / Tenna 2.0](org/projects/tennagraph.md)
 * [Official Website](https://dgov.foundation)
-
-## Projects \(WIP\)
-
-* [\#dgov movement manifesto](research/foundation-thesis.md)
-* [Amsterdam 14.03.2019 \(draft\)](research/amsterdam-14.02.2019.md)
-* [Workshop in Ljubljana, Apr 28](research/workshop-in-ljubljana-apr-28.md)
-* [Media DAO / Tenna 2.0](research/tennagraph.md)
 

@@ -1,5 +1,19 @@
 # Table of Contents
 
+[Glossary](glossary.md)
+
+[Map of the industry landscape](dgov-industry-landscape.md) 
+
+[\#dgov global map](map-of-the-industry-landscape.md)
+
+[On-chain governance Case Studies](protocol-governance-case-studies.md)
+
+[DAO Tech Evaluation Framework](dao-infrastructure-interoperability.md)
+
+[Research](https://wiki.dgov.foundation/~/edit/drafts/-LYqLIPfWDGlXSZXK798/research/dao-infrastructure-interoperability)
+
+[Distributed Governance Challenges](distributed-governance-challenges.md)
+
 <table>
   <thead>
     <tr>
@@ -19,7 +33,8 @@
       <td style="text-align:left"><a href="dgov-industry-landscape.md">Map of the industry landscape</a> 
       </td>
       <td style="text-align:left">Grace + Pat, Ela, Max</td>
-      <td style="text-align:left"><a href="https://daotalk.org/t/dgov-industry-landscape/392">Discussion</a>
+      <td style="text-align:left">In progress
+        <br />
       </td>
     </tr>
     <tr>
@@ -29,14 +44,12 @@
       <td style="text-align:left">In progress</td>
     </tr>
     <tr>
-      <td style="text-align:left">
-        <p><a href="protocol-governance-case-studies.md">On-chain governance Case Studies</a>
-        </p>
-        <p><a href="protocol-governance-case-studies.md">Research</a> · <a href="https://daotalk.org/t/decentralized-orgs-with-on-chain-governance/395">Discussions</a>
-        </p>
+      <td style="text-align:left"><a href="protocol-governance-case-studies.md">On-chain governance Case Studies</a>
       </td>
       <td style="text-align:left">Max + ...</td>
-      <td style="text-align:left">In progress</td>
+      <td style="text-align:left">In progress
+        <br /><a href="https://daotalk.org/t/decentralized-orgs-with-on-chain-governance/395">Discussions</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">

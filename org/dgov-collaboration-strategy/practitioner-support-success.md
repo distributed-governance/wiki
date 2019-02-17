@@ -61,5 +61,5 @@ for artists on London\*
 
 ### Media DAO
 
-[Details](../../research/tennagraph.md)
+[Details](../projects/tennagraph.md)
 

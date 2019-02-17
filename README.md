@@ -1,4 +1,4 @@
-# \#dgov Resources
+# Welcome to \#dgov knowledge base
 
 ## Process
 
@@ -9,6 +9,9 @@ Feel free to contribute to any part of this wiki – it's very welcome
 
 Maintained by the [DGov Foundation](https://dgov.foundation/)
 
+Check out:
+
+* 
 ## **Newsletters, Blogs, Podcasts, Webinars**
 
 * ​[Aragon monthly](https://monthly.aragon.org/)​

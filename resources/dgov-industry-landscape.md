@@ -1,5 +1,10 @@
 # \#dgov Industry Landscape
 
+Team: Grace + Pat, Ela, Max  
+[Discussions](https://daotalk.org/t/dgov-industry-landscape/392)
+
+## Projects
+
 * [Aragon](https://aragon.org/) – project that aims to disintermediate the creation and maintenance of organizational structures by using blockchain technology 
 * [Colony](https://colony.io/) – platform for open organizations
 * [District0x](https://district0x.io/) – network of decentralized markets and communities
