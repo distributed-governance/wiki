@@ -18,10 +18,16 @@
 
 ## Resources
 
-* [Body of Knowledge](resources/articles-by-topic.md)
+* [Table of Contents](resources/articles-by-topic.md)
 * [Glossary](resources/glossary.md)
-* [Continuous Token Model](resources/curation-markets-and-bonding-curve.md)
+* [\#dgov Industry Landscape](resources/dgov-industry-landscape.md)
+* [\#dgov Global Map](resources/map-of-the-industry-landscape.md)
+* [On-chain Governance Case Studies](resources/protocol-governance-case-studies.md)
 * [Distributed Governance Challenges](resources/distributed-governance-challenges.md)
+* [DAO Tech Evaluation Framework](resources/dao-infrastructure-interoperability.md)
+* [Transparency in Networked Orgs](resources/transparency-in-networked-orgs.md)
+* [Articles by Topic](resources/articles-by-topic-1/README.md)
+  * [Continuous Token Model](resources/articles-by-topic-1/curation-markets-and-bonding-curve.md)
 
 ## Foundation
 
@@ -42,12 +48,8 @@
 
 ## Projects \(WIP\)
 
+* [\#dgov movement manifesto](research/foundation-thesis.md)
 * [Amsterdam 14.03.2019 \(draft\)](research/amsterdam-14.02.2019.md)
 * [Workshop in Ljubljana, Apr 28](research/workshop-in-ljubljana-apr-28.md)
 * [Media DAO / Tenna 2.0](research/tennagraph.md)
-* [\#dgov movement manifesto](research/foundation-thesis.md)
-* [On-chain Governance Case Studies](research/protocol-governance-case-studies.md)
-* [\#dgov Global Map](research/map-of-the-industry-landscape.md)
-* [DAO Tech Evaluation Framework](research/dao-infrastructure-interoperability.md)
-* [Transparency in Networked Orgs](research/transparency-in-networked-orgs.md)
 

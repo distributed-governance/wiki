@@ -4,6 +4,12 @@
 
 ## Resources
 
+Team: Grace + Max, Fran, Phil
+
+Develop wiki through AMA sessions?
+
++ translation in French \(Phil\)
+
 |  |
 | :--- |
 
