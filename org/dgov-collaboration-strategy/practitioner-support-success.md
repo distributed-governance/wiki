@@ -8,7 +8,7 @@ Team: Grace + Max, Fran, Phil
 Develop wiki through AMA sessions?  
 + translation in French \(Phil\)
 
-## DAO Incubator / Expertise center
+## [DAO Incubator / Expertise center](https://dao-incubator.gitbook.io/wiki/)
 
 Purpose: create more successful DAO pilots, through research, experiments and incubation.  
 Team: Cem + Daniel, Max
@@ -20,9 +20,7 @@ Team: Cem + Daniel, Max
 * [Telegram group](https://t.me/DAOincubator)
 * [Realtime board](https://realtimeboard.com/app/board/o9J_kysdxCw=/)
 
-## Pilots
-
-### Dgov DAO
+### Pilot: Dgov DAO
 
 Leader: Tim/Liraz? + 19 people on the telegram group
 
