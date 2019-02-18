@@ -2,13 +2,15 @@
 
 **Purpose:** more successful DAO pilots
 
-## [Body of Knowledge](../../resources/articles-by-topic.md)
+## [Body of Knowledge](../../resources/articles-by-topic.md) is gathered
 
 Team: Grace + Max, Fran, Phil  
 Develop wiki through AMA sessions?  
 + translation in French \(Phil\)
 
-## [DAO Incubator / Expertise center](https://dao-incubator.gitbook.io/wiki/)
+## [Expertise center](https://dao-incubator.gitbook.io/wiki/) is established
+
+### DAO Incubator
 
 Purpose: create more successful DAO pilots, through research, experiments and incubation.  
 Team: Cem + Daniel, Max
