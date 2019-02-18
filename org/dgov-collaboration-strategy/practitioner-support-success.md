@@ -2,31 +2,20 @@
 
 **Purpose:** more successful DAO pilots
 
-## Body of Knowledge
+## [Body of Knowledge](../../resources/articles-by-topic.md)
 
-Team: Grace + Max, Fran, Phil
-
-Develop wiki through AMA sessions?
-
+Team: Grace + Max, Fran, Phil  
+Develop wiki through AMA sessions?  
 + translation in French \(Phil\)
 
 ## DAO Incubator / Expertise center
 
-Leader: Cem.  
-Team: Daniel, Max
-
-#### **Purpose**
-
-* DAO founders – support with mechanics design and tool selection
-* Infra projects \(Aragon, DAO Stack etc\) – describe / formalize use cases, PR, product ideation
-* Experts – describe / formalize use cases, PR
-  * Economy / incentive design
-  * Legal Sandbox / Framework
-  * DAO developers sub-community coordination
-  * Facilitation Self Funding Support Group \(Lucas + Ela, Phoebe, Marina, Grace\)
+Purpose: create more successful DAO pilots, through research, experiments and incubation.  
+Team: Cem + Daniel, Max
 
 #### More Info
 
+* [https://dao-incubator.gitbook.io/wiki/](https://dao-incubator.gitbook.io/wiki/)
 * [http://daoincubator.org](http://daoincubator.org)
 * [Telegram group](https://t.me/DAOincubator)
 * [Realtime board](https://realtimeboard.com/app/board/o9J_kysdxCw=/)
