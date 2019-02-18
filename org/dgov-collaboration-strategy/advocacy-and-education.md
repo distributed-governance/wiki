@@ -2,7 +2,7 @@
 
 **Purpose:** Sharing and representing the dgov practices to the wider community
 
-## Movement Manifesto
+## Movement Manifesto is published
 
 Should be crowdsourced based in interviews of the brightest people in the space
 
@@ -15,7 +15,9 @@ Values
 
 [Manifesto Draft](../projects/foundation-thesis.md)
 
-## Forming Partner Network
++ clip / movie?
+
+## Media Partner Network is formed
 
 For cross publishing, speaking etc
 
@@ -32,7 +34,9 @@ For cross publishing, speaking etc
 * Colony – ?
 * Consensys
 
-## Memmes
+## Rich Movement Culture exists
+
+Memmes, Brand materials, Merch etc exists
 
 Ori – Max, Tim, Martin, Jack, Ruth
 
@@ -40,11 +44,7 @@ Chat: [https://t.me/MinistryofMemes](https://t.me/MinistryofMemes)
 
 [Some drafts here](../../how-to-contribute/memmes.md)
 
-## Brand materials, merch etc
-
 logo, cool merch etc...
 
-## Movie based on manifesto
 
-...
 

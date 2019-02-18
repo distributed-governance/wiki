@@ -2,15 +2,37 @@
 
 **Purpose:** increase connections and collaborations in the movement
 
-## Transparent and Participative structure of work
+## Right Connectivity
 
-### Newsletter / Wiki 
+### Network Mapping & Profiles
+
+Audience: people who want to bring more distributed/decentralized design to the organizations.
+
+Member catalog
+
+Intents and Strategies are open
+
+### Deep conversation platform
+
+DAO Talk Forum / Twist
+
+Use for research discussion
+
+### Chatty conversation platform
+
+Multichannel chat \(Discord, Rocket, Slack\)
+
+Safe space place to safely discuss & collaborate on dgov topics \(e.g. get feedback, intracommunity projects and hiring\).
+
+## Community Work has Open, Transparent and Participative Structure
+
+### Overview of activities in Newsletter / Wiki 
 
 Leader: Max  
 [Newsletter](../../newsletter/) and/or newspaper  
 Collaborate with Aragon, DAOstack and more.
 
-### Horizontal Organising Patterns / Dogfooding
+### Providing Horizontal Organising Patterns / Tools
 
 Horizontal leadership, decentralised organising patterns, group facilitation
 
@@ -18,35 +40,7 @@ Soft governance meets hard governance
 
 Phoebe + Liraz + Tim, Phoebe, Grace, Max
 
-## Right Connectivity through the Communication Channels
-
-### Network Mapping
-
-Audience: people who want to bring more distributed/decentralized design to the organizations.
-
-### Chats / telegram groups
-
-Multichannel chat \(Discord, Rocket, Slack\)
-
-Safe space place to safely discuss & collaborate on dgov topics \(e.g. get feedback, intracommunity projects and hiring\).
-
-### DAO Talk Forum / Twist
-
-Use for research discussion
-
-### Members catalog?
-
-...
-
-### Aligned operations / open up players strategies 
-
-...
-
-## Synchronization and Collaborative Decision Making
-
-### Loomio / Collective One
-
-Use for community consulting
+## Bonding and Synchronization 
 
 ### Council \#1 by inblock.io
 
