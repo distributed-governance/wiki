@@ -33,6 +33,6 @@ Team: Grace + Pat, Ela, Max
 **Concepts:**
 
 * [https://sobol.io/](https://sobol.io/)
-* [http://www.cone.network/](http://www.cone.network/)
+* [CONE Network](http://www.cone.network/) + [Demo](https://vimeo.com/314549856)
 * [https://www.metaorg.one/](https://www.metaorg.one/)
 
