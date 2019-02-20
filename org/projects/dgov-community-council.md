@@ -1,4 +1,4 @@
-# \#dgov Community Council
+# \#dgov Community Council 1
 
 Purpose: to bring together the pioneers and explorers for new principles of human-centric scalable governance. We move forward to develop a shared language and culture and deepen relationships to launch cross-project collaboration on distributed governance.
 

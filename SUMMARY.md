@@ -40,7 +40,7 @@
   * [Holacracy onboarding](org/roles/holacracy.md)
 * [Projects](org/projects/README.md)
   * [\#dgov movement manifesto](org/projects/foundation-thesis.md)
-  * [\#dgov Community Council](org/projects/dgov-community-council.md)
+  * [\#dgov Community Council 1](org/projects/dgov-community-council.md)
   * [Amsterdam 14.03.2019 \(draft\)](org/projects/amsterdam-14.02.2019.md)
   * [Workshop in Ljubljana, Apr 28](org/projects/workshop-in-ljubljana-apr-28.md)
   * [Media DAO / Tenna 2.0](org/projects/tennagraph.md)
