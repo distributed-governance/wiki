@@ -2,7 +2,7 @@
 
 **Purpose:** more successful DAO pilots
 
-## [Body of Knowledge](../../resources/articles-by-topic.md) is gathered
+## [Body of Knowledge]() is gathered
 
 Team: Grace + Max, Fran, Phil  
 Develop wiki through AMA sessions?  
