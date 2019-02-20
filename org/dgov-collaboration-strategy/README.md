@@ -1,6 +1,6 @@
 # \#dgov Strategy
 
-**Purpose**: to support the progress of distributed governance research and implementation.
+**Purpose**: to support the progress of distributed governance research and implementation. Our task is to support the \#dgov movement and maintain the \#dgov community.
 
 [Key Performance Indicators & Reports](https://docs.google.com/spreadsheets/d/1B0XGN2uMeStBHcOcr0VySbSzYz_V67zmKCjJ-NBwvNU/edit#gid=590065571)  \|  [Task board](https://trello.com/b/CIKoPoBt/q1-2019)  \|  [Governance](../roles/) 
 
