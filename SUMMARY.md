@@ -19,7 +19,7 @@
 * [Table of Contents](resources/articles-by-topic.md)
 * [Glossary](resources/glossary.md)
 * [\#dgov Industry Landscape](resources/dgov-industry-landscape.md)
-* [\#dgov Global Map](resources/map-of-the-industry-landscape.md)
+* [\#dgov Global Map & Hubs](resources/map-of-the-industry-landscape.md)
 * [On-chain Governance Case Studies](resources/protocol-governance-case-studies.md)
 * [DAO Tech Evaluation Framework](resources/dao-infrastructure-interoperability.md)
 * [Distributed Governance Challenges](resources/distributed-governance-challenges.md)

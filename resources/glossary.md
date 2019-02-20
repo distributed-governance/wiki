@@ -25,6 +25,10 @@ Zamfir: Decisions, decision-making processes, norms, and other institutions for 
 
 Distributed governance is the specification of principles and methods which enable scalable coordination for forming consensus and to legitimate decisions. In such systems, all participants are treated equally without the presence of a central actor of hierarchy. They are scalable, so efficiency is not reduced but steady or increased by an increasing number of participants. \[[source](https://medium.com/dgov/what-is-distributed-governance-3b103eb082c0)\]
 
+### On-chain Governance
+
+* [https://education.district0x.io/general-topics/what-is-governance/on-chain-governance/](https://education.district0x.io/general-topics/what-is-governance/on-chain-governance/)
+
 ## Ideology
 
 A collection of [normative](https://en.wikipedia.org/wiki/Normative) [beliefs](https://en.wikipedia.org/wiki/Beliefs) and [values](https://en.wikipedia.org/wiki/Values) that an individual or group holds for other than purely [epistemic](https://en.wikipedia.org/wiki/Epistemic) reasons.[\[1\]](https://en.wikipedia.org/wiki/Ideology#cite_note-1)

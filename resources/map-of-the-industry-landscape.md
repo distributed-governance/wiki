@@ -1,4 +1,4 @@
-# \#dgov Global Map
+# \#dgov Global Map & Hubs
 
 Local hubs aligned with \#dgov
 

@@ -13,7 +13,7 @@ Maintained by the [DGov Foundation](https://dgov.foundation/)
 
 * [Glossary](resources/glossary.md)
 * [Map of the industry landscape](resources/dgov-industry-landscape.md) 
-* [\#dgov global map](resources/map-of-the-industry-landscape.md)
+* [\#dgov global map & hubs](resources/map-of-the-industry-landscape.md)
 * [On-chain governance Case Studies](resources/protocol-governance-case-studies.md)
 * [DAO Tech Evaluation Framework](resources/dao-infrastructure-interoperability.md)
 * [Distributed Governance Challenges](resources/distributed-governance-challenges.md)
@@ -35,28 +35,6 @@ Maintained by the [DGov Foundation](https://dgov.foundation/)
 * [DGOV newsletter](https://dgov.foundation/newsletter)
 * [DAO Cast](https://daocast.io/)
 * [\#dgov Youtube](https://www.youtube.com/channel/UCGZX1WbJNjuxma-7SXRdRDg)
-
-## **Forums & Subreddits**
-
-* ​[Ethereum Research Forum / Economics](https://ethresear.ch/c/economics)​
-* ​[Aragon Research Forum](https://research.aragon.org/)​
-* ​[DAO Stack Forum](https://forum.daostack.io/)​
-* [Colony Forum](https://build.colony.io/)
-* ​r/[Dgov](https://new.reddit.com/r/dgov/)​
-* ​r/[Aragon](https://www.reddit.com/r/aragonproject/)​
-* r/​[Colony](https://www.reddit.com/r/joincolony)​
-* r/​[DAO Stack](https://www.reddit.com/r/daostack/)​
-* ​r/[District0x](https://www.reddit.com/r/district0x)​
-
-## **Chats**
-
-* [\#dgov chat​](https://dgov.foundation#join)
-* [Curation Markets](https://gitter.im/Curation-Markets/Lobby)​
-* [DAO Stack Polinators](https://t.me/joinchat/HfsmOEXV0YP6P5rGmRBaCQ)
-* [Aragon Chat](https://aragon.chat/)
-* ​[Ethereum Governance](https://gitter.im/ethereum/governance)​
-* ​[DAO Incubator](https://t.me/DAOincubator)​
-* [Mechanism Design](https://t.me/mechanismdesigners)
 
 ## Books
 
@@ -105,10 +83,7 @@ Open positions, bounties and gigs that support dgov, DAOs etc.
 ## **Additional Info**
 
 * [District0x Educational portal: on-chain vs off-chain governance](https://education.district0x.io/general-topics/what-is-governance/)
-* ​​[Participatory Orgs](https://github.com/ParticipatoryOrgs)
-* [P2P Models](https://p2pmodels.eu)
 * [A guide for funding opportunities in the crypto ecosystem](https://github.com/fredexed/crypto-funding-ops)
-* [P2P Foundation](https://p2pfoundation.net/) \([wiki](http://wiki.p2pfoundation.net/Main_Page), [blog](https://blog.p2pfoundation.net/)\)
 * [Resources for decentralised organising](https://hackmd.io/s/Skh_dXNbE) by Richard D. Bartlett
 * [Global Challenges Governance Labs](https://labs.globalchallenges.org/%20)
 * 0x [Legal Wiki](https://0x.org/wiki#Legal-Wiki) and [Legal Library](https://0x.org/wiki#Legal-Library)

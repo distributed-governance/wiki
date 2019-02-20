@@ -36,3 +36,34 @@ Team: Grace + Pat, Ela, Max
 * [CONE Network](http://www.cone.network/) + [Demo](https://vimeo.com/314549856)
 * [https://www.metaorg.one/](https://www.metaorg.one/)
 
+## Organizations
+
+* [DAO Zero](https://docs.google.com/document/d/1rrhkRKq2fK72Vmbn-xxt6bPwUX3GYDtGuCkoopbjVpw/edit#heading=h.frcxq7smt4ir)
+* [Participatory Orgs](https://github.com/ParticipatoryOrgs)
+* [P2P Models](https://p2pmodels.eu)
+* [P2P Foundation](https://p2pfoundation.net/) \([wiki](http://wiki.p2pfoundation.net/Main_Page), [blog](https://blog.p2pfoundation.net/)\)
+
+
+
+## **Forums & Subreddits**
+
+* ​[Ethereum Research Forum / Economics](https://ethresear.ch/c/economics)​
+* ​[Aragon Research Forum](https://research.aragon.org/)​
+* ​[DAO Stack Forum](https://forum.daostack.io/)​
+* [Colony Forum](https://build.colony.io/)
+* ​r/[Dgov](https://new.reddit.com/r/dgov/)​
+* ​r/[Aragon](https://www.reddit.com/r/aragonproject/)​
+* r/​[Colony](https://www.reddit.com/r/joincolony)​
+* r/​[DAO Stack](https://www.reddit.com/r/daostack/)​
+* ​r/[District0x](https://www.reddit.com/r/district0x)​
+
+## **Chats**
+
+* [\#dgov chat​](https://dgov.foundation#join)
+* [Curation Markets](https://gitter.im/Curation-Markets/Lobby)​
+* [DAO Stack Polinators](https://t.me/joinchat/HfsmOEXV0YP6P5rGmRBaCQ)
+* [Aragon Chat](https://aragon.chat/)
+* ​[Ethereum Governance](https://gitter.im/ethereum/governance)​
+* ​[DAO Incubator](https://t.me/DAOincubator)​
+* [Mechanism Design](https://t.me/mechanismdesigners)
+
