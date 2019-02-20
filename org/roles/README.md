@@ -1,8 +1,17 @@
 # \#dgov Governance
 
-Dgov foundation uses a Holacracy-like model as a governance model. Check brief [holacracy onboarding](holacracy.md).
+Dgov foundation is created to support the \#dgov movement and maintain the community. Foundation uses a Holacracy-like model as a governance model. Check brief [holacracy onboarding](holacracy.md).
 
 Changes to policies and roles are done through the Holacracy IDM process. Telegram and Loomio voting can be used for consulting with the community.
+
+### Assets
+
+* Website / Domain
+* Wiki
+* Communication channels \(SoMe accounts, Telegram Chat, Loomio etc\)
+* Email list
+* Logo / Brand
+* Budget \(0 for now\)
 
 ### Roles
 
@@ -16,15 +25,6 @@ Changes to policies and roles are done through the Holacracy IDM process. Telegr
   * [Wiki Maintainer](practitioner-support-success/wiki-maintainer.md) – Max, Phoebe, Grace
 * [Outreach & Advocacy / PR Manager](pr-manager.md) – Anja
 * [Designer](designer.md) – Max
-
-### Assets
-
-* Website / Domain
-* Wiki
-* Communication channels \(SoMe accounts, Telegram Chat, Loomio etc\)
-* Email list
-* Logo / Brand
-* Budget \(0 for now\)
 
 ## Policies
 
