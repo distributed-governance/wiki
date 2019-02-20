@@ -9,7 +9,7 @@ Feel free to contribute to any part of this wiki – it's very welcome
 
 Maintained by the [DGov Foundation](https://dgov.foundation/)
 
-### \#dgov Resources
+### \#dgov Community Resources
 
 * [Glossary](resources/glossary.md)
 * [Map of the industry landscape](resources/dgov-industry-landscape.md) 
