@@ -2,7 +2,7 @@
 
 **Purpose**: to support the progress of distributed governance research and implementation.
 
-[Key Performance Indicators & Reports](https://docs.google.com/spreadsheets/d/1B0XGN2uMeStBHcOcr0VySbSzYz_V67zmKCjJ-NBwvNU/edit#gid=590065571)  \|  [Task board](https://trello.com/b/CIKoPoBt/q1-2019)
+[Key Performance Indicators & Reports](https://docs.google.com/spreadsheets/d/1B0XGN2uMeStBHcOcr0VySbSzYz_V67zmKCjJ-NBwvNU/edit#gid=590065571)  \|  [Task board](https://trello.com/b/CIKoPoBt/q1-2019)  \|  [Governance](../roles/) 
 
 ## Goals 2019
 
