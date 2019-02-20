@@ -23,7 +23,7 @@ Maintained by the [DGov Foundation](https://dgov.foundation/)
 
 * [Strategy](org/dgov-collaboration-strategy/)
 * [Governance](org/roles/)
-* [History](org/dgov-history.md)
+* [About us](org/dgov-history.md)
 * [Logo / Identity](org/identity.md)
 
 ## Thanks to the Contributors!
