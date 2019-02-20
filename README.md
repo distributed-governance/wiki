@@ -1,6 +1,6 @@
 # Welcome to \#dgov community
 
-\#dgov is a community of people who want to bring more distributed/decentralized design to the organizations. Read more in our [Manifesto](org/projects/foundation-thesis.md).
+\#dgov is a community of people who want to bring more distributed/decentralized design to the organizations.
 
 ## \#dgov Community Resources
 
