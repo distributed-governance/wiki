@@ -62,6 +62,7 @@ Leader: Tim  + help from Felix, Ela, Phoebe, Lucas, Max
 
 ### Indi Meetups / Workshop
 
+* Detroit during RxC \(Mar 22-24\)
 * London \(Jack + Phoebe, Ruth + Furtherfield\)
 * Berlin \(Ela, Supermarkt - unconfirmed\)
 * Paris \(Philippe Honigman + Lucas, Max, Tim, Fran\)
