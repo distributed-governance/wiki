@@ -42,7 +42,7 @@ Ori – Max, Tim, Martin, Jack, Ruth
 
 Chat: [https://t.me/MinistryofMemes](https://t.me/MinistryofMemes)
 
-[Some drafts here](../../how-to-contribute/memmes.md)
+[Some drafts here](../../memmes.md)
 
 logo, cool merch etc...
 

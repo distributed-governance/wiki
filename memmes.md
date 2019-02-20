@@ -15,7 +15,20 @@
 * horizontal chicken
 * minimum viable governance
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](.gitbook/assets/image%20%283%29.png)
+
+### Coop anti-patterns
+
+* don’t trust
+* don’t share
+* keep all in secret
+* build moats
+* ego first
+* seek rent
+* find truth in absolute
+* defeat competitors
+
+![](.gitbook/assets/giphy-3.gif)
 
 ## Unsorted:
 
@@ -28,4 +41,8 @@ where did it come from? it’s emergent
 self organization is not self organizing
 
 Malthusian trap is a thing, but I’ll bring you a sandwich anyways
+
+
+
+### 
 

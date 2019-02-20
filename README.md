@@ -1,15 +1,8 @@
-# Welcome to the \#dgov knowledge base
+# Welcome to \#dgov community
 
-## Process
+\#dgov is a community of people who want to bring more distributed/decentralized design to the organizations. Read more in our [Manifesto](org/projects/foundation-thesis.md).
 
-Feel free to contribute to any part of this wiki – it's very welcome
-
-* Repo: [https://github.com/distributed-governance/wiki](https://github.com/distributed-governance/wiki) – open for contribution \([Pull request tutorial](https://www.youtube.com/watch?v=IBYHohWm_5w)\)
-* Discussion can happen on [Telegram Chat](https://dgov.foundation/#join), [Twitter](https://twitter.com/hashtag/dgov) \(\#dgov\), [Reddit](https://new.reddit.com/r/dgov/) or research forums
-
-Maintained by the [DGov Foundation](https://dgov.foundation/)
-
-### \#dgov Community Resources
+## \#dgov Community Resources
 
 * [Glossary](resources/glossary.md)
 * [Map of the industry landscape](resources/dgov-industry-landscape.md) 
@@ -20,14 +13,39 @@ Maintained by the [DGov Foundation](https://dgov.foundation/)
 * [Transparency in Networked Orgs](resources/transparency-in-networked-orgs.md)
 * [Articles by Topic](resources/articles-by-topic-1/)
 
-### \#dgov foundation
+### How to Contribute
+
+* Support the projects from the [\#dgov strategy 2019](org/dgov-collaboration-strategy/)
+* Add to / Edit the wiki \([tips](./#process)\)
+* Participate on the group chat
+* Attend [local meetups and events](resources/dgov-industry-landscape.md#events)
+* Host [local meetups and events](https://wiki.dgov.foundation/how-to-contribute/meetups)
+
+We practice [do-acracy](https://communitywiki.org/wiki/DoOcracy)
+
+### Rules
+
+1. Stay on topic: please post and discuss topics relevant to governance, DAO, token economy etc
+2. Give More Than You Take: What makes a community amazing is when members are more focused on helping each other, than on helping themselves. Be as helpful as possible and everyone benefits!
+3. No Hate Speech or Bullying: You should respectfully challenge ideas, but never attack the person. Help us make sure everyone feels safe in the community. Bullying of any kind isn't allowed, and degrading comments about things like race, religion, culture, sexual orientation, gender or identity will not be tolerated.
+
+## \#dgov foundation
 
 * [Strategy](org/dgov-collaboration-strategy/)
 * [Governance](org/roles/)
 * [About us](org/dgov-history.md)
 * [Logo / Identity](org/identity.md)
 
-## Thanks to the Contributors!
+## Process
+
+Feel free to contribute to any part of this wiki – it's very welcome
+
+* Repo: [https://github.com/distributed-governance/wiki](https://github.com/distributed-governance/wiki) – open for contribution \([Pull request tutorial](https://www.youtube.com/watch?v=IBYHohWm_5w)\)
+* Discussion can happen on [Telegram Chat](https://dgov.foundation/#join), [Twitter](https://twitter.com/hashtag/dgov) \(\#dgov\), [Reddit](https://new.reddit.com/r/dgov/) or research forums
+
+Maintained by the [DGov Foundation](https://dgov.foundation/)
+
+### Thanks to the Contributors!
 
 [@PhilH](https://github.com/PhilH), [@parrachia](https://github.com/parrachia), [@FantasticoFox](https://github.com/FantasticoFox), [@phoebetickell](https://github.com/phoebetickell), [@indekay](https://github.com/indekay)
 

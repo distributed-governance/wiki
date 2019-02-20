@@ -1,6 +1,8 @@
 # Table of contents
 
-* [Welcome to the \#dgov knowledge base](README.md)
+* [Welcome to \#dgov community](README.md)
+* [Host Local Meetups](meetups.md)
+* [\#dgov memmes](memmes.md)
 * [\#dgov Newsletter](newsletter/README.md)
   * [Newsletter \#1 \(september\)](newsletter/newsletter-1-september.md)
   * [Newsletter \#2 \(october\)](newsletter/newsletter-2-october.md)
@@ -8,11 +10,6 @@
   * [Newsletter \#4 \(december\)](newsletter/newsletter-4-december.md)
   * [Newsletter \#5 \(january\)](newsletter/newsletter-5-january.md)
   * [Newsletter \#6 \(february\)](newsletter/newsletter-6-february.md)
-* [\#dgov Community Council](dgov-community-council.md)
-* [\#dgov Community Onboarding](how-to-contribute/README.md)
-  * [Host Local Meetups](how-to-contribute/meetups.md)
-  * [\#dgov memmes](how-to-contribute/memmes.md)
-  * [Coop anti-patterns](how-to-contribute/coop-anti-patterns.md)
 
 ## Resources
 
@@ -43,6 +40,7 @@
   * [Holacracy onboarding](org/roles/holacracy.md)
 * [Projects](org/projects/README.md)
   * [\#dgov movement manifesto](org/projects/foundation-thesis.md)
+  * [\#dgov Community Council](org/projects/dgov-community-council.md)
   * [Amsterdam 14.03.2019 \(draft\)](org/projects/amsterdam-14.02.2019.md)
   * [Workshop in Ljubljana, Apr 28](org/projects/workshop-in-ljubljana-apr-28.md)
   * [Media DAO / Tenna 2.0](org/projects/tennagraph.md)

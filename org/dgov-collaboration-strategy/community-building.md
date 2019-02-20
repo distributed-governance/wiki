@@ -44,7 +44,7 @@ Phoebe + Liraz + Tim, Phoebe, Grace, Max
 
 ### Council \#1 by inblock.io
 
-* [Details](../../dgov-community-council.md)
+* [Details](../projects/dgov-community-council.md)
 
 ### Retreat \#1 in Ljubljana by inblock.io
 
