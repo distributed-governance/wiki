@@ -45,6 +45,13 @@ Maintained by the [DGov Foundation](https://dgov.foundation/)
 * [Going Horizontal: Creating a Non-Hierarchical Organization, One Practice at a Time](https://www.amazon.com/Going-Horizontal-Creating-Non-Hierarchical-Organization-ebook/dp/B07DKKGQB9/ref=sr_1_1?ie=UTF8&qid=1548501833&sr=8-1&keywords=going+horizontal) by Samantha Slade
 * [The TAO of DAO](https://thetaoofthedao.greaterthan.works/) by Kate Beecroft and Francesca Pick
 
+### **Additional Reading**
+
+* [District0x Educational portal: on-chain vs off-chain governance](https://education.district0x.io/general-topics/what-is-governance/)
+* [A guide for funding opportunities in the crypto ecosystem](https://github.com/fredexed/crypto-funding-ops)
+* [Resources for decentralised organising](https://hackmd.io/s/Skh_dXNbE) by Richard D. Bartlett
+* 0x [Legal Wiki](https://0x.org/wiki#Legal-Wiki) and [Legal Library](https://0x.org/wiki#Legal-Library)
+
 ## **Events**
 
 #### **2018**
@@ -79,14 +86,6 @@ Open positions, bounties and gigs that support dgov, DAOs etc.
 * [Genesis Alpha Bounties](https://docs.google.com/spreadsheets/d/1FV8iz4ebZb4E3nXckzPsWy7IfhtsX3filkbX_gbPLNs/edit#gid=204783618)
 * [Colony Bug Bounty](https://docs.colony.io/colonynetwork/bug-bounty-program-overview/)
 * Center for Innovative Governance Research is looking for [Research Fellow](https://innovativegovernance.org/2019/01/22/job-posting-research-fellow/)
-
-## **Additional Info**
-
-* [District0x Educational portal: on-chain vs off-chain governance](https://education.district0x.io/general-topics/what-is-governance/)
-* [A guide for funding opportunities in the crypto ecosystem](https://github.com/fredexed/crypto-funding-ops)
-* [Resources for decentralised organising](https://hackmd.io/s/Skh_dXNbE) by Richard D. Bartlett
-* [Global Challenges Governance Labs](https://labs.globalchallenges.org/%20)
-* 0x [Legal Wiki](https://0x.org/wiki#Legal-Wiki) and [Legal Library](https://0x.org/wiki#Legal-Library)
 
 ## Thanks to the Contributors!
 

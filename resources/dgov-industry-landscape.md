@@ -42,8 +42,9 @@ Team: Grace + Pat, Ela, Max
 * [Participatory Orgs](https://github.com/ParticipatoryOrgs)
 * [P2P Models](https://p2pmodels.eu)
 * [P2P Foundation](https://p2pfoundation.net/) \([wiki](http://wiki.p2pfoundation.net/Main_Page), [blog](https://blog.p2pfoundation.net/)\)
-
-
+* [Global Challenges Governance Labs](https://labs.globalchallenges.org/%20)
+* [The Hague Center for Global Governance, Innovation and Emergence](http://www.thehaguecenter.org/)
+* [Bushwick Generator](https://www.thebushwickgenerator.com/)
 
 ## **Forums & Subreddits**
 
