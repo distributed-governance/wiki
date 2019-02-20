@@ -16,7 +16,7 @@ The basic premise of curved bonding is as follows:
 
 ### Linear
 
-![](../../.gitbook/assets/image%20%2811%29.png)
+![](../../.gitbook/assets/image%20%2812%29.png)
 
 ### Dynamic Token Bonding Curves \[[1](https://tokeneconomy.co/dynamic-token-bonding-curves-41d36e43befa), [2](https://medium.com/thoughtchains/on-single-bonding-curves-for-continuous-token-models-a167f5ffef89)\]
 
@@ -24,7 +24,7 @@ Communities could fund the tokens however they wanted, based on the stage or mat
 
 Therefore the value of the funds underpinning the dynamic bonding curves _grows_ as the community ****grows \(in both size and revenues\), increasing the value of each community member’s token holdings.
 
-![](../../.gitbook/assets/image%20%288%29.png)
+![](../../.gitbook/assets/image%20%289%29.png)
 
   
 As the ‘backing’ funds in the dynamic bonding curve increases \(purple\), the economic value of every person’s tokens also increases along their individual bonding curve. At close to t=0, there are no backing funds so the tokens have no economic value. At t=100, there are funds backing the dynamic bonding curve, so all tokens will have economic value, but with different prices depending on the person’s curve.
@@ -33,7 +33,7 @@ As the ‘backing’ funds in the dynamic bonding curve increases \(purple\), th
 
 A common tool for building communities is the ‘[Commitment Curve](https://cmxhub.com/article/the-cmx-community-engagement-cycle/)’. It helps community leaders map the level of commitment a member has and the effort they are willing to expend for the community. For example, a member with a low commitment level may be able to attend an event passively, whereas a member with a very high commitment level may be able to organise a community event in a different city. This is best visualised with a graph:
 
-![](../../.gitbook/assets/image%20%287%29.png)
+![](../../.gitbook/assets/image%20%288%29.png)
 
 ## Case studies
 
