@@ -41,10 +41,11 @@ Team: Grace + Pat, Ela, Max
 * [DAO Zero](https://docs.google.com/document/d/1rrhkRKq2fK72Vmbn-xxt6bPwUX3GYDtGuCkoopbjVpw/edit#heading=h.frcxq7smt4ir)
 * [Participatory Orgs](https://github.com/ParticipatoryOrgs)
 * [P2P Models](https://p2pmodels.eu)
-* [P2P Foundation](https://p2pfoundation.net/) \([wiki](http://wiki.p2pfoundation.net/Main_Page), [blog](https://blog.p2pfoundation.net/)\)
+* [P2P Foundation](https://p2pfoundation.net/)
 * [Global Challenges Governance Labs](https://labs.globalchallenges.org/%20)
 * [The Hague Center for Global Governance, Innovation and Emergence](http://www.thehaguecenter.org/)
 * [Bushwick Generator](https://www.thebushwickgenerator.com/)
+* [Giveth Gov Labs](https://github.com/Giveth/gov-lab)
 
 ## **Forums & Subreddits**
 
