@@ -2,35 +2,31 @@
 
 **Purpose:** increase connections and collaborations in the movement
 
-## Right Connectivity
+## Consensus on the Direction is reached
 
-### Network Mapping & Profiles
+### Board of Advisors / Directors gathered
 
-Audience: people who want to bring more distributed/decentralized design to the organizations.
+* Aragon
+* DAO Stack
+* Colony
+* ...
 
-Member catalog
+### Movement Manifesto is published
 
-Intents and Strategies are open
+Should be crowdsourced from the board
 
-### Deep conversation platform
+Values
 
-DAO Talk Forum / Twist
+* Anti-rivalry
+* Co-creation
+* Team first
+* Wholeness
 
-Use for research discussion
+[Manifesto Draft](../projects/foundation-thesis.md)
 
-### Chatty conversation platform
+### clip / movie form?
 
-Multichannel chat \(Discord, Rocket, Slack\)
-
-Safe space place to safely discuss & collaborate on dgov topics \(e.g. get feedback, intracommunity projects and hiring\).
-
-## Community Work has Open, Transparent and Participative Structure
-
-### Overview of activities in Newsletter / Wiki 
-
-Leader: Max  
-[Newsletter](../../newsletter/) and/or newspaper  
-Collaborate with Aragon, DAOstack and more.
+...
 
 ### Providing Horizontal Organising Patterns / Tools
 
@@ -40,7 +36,7 @@ Soft governance meets hard governance
 
 Phoebe + Liraz + Tim, Phoebe, Grace, Max
 
-## Bonding and Synchronization 
+
 
 ### Council \#1 by inblock.io
 
@@ -59,6 +55,32 @@ Leader: Tim
 Leader: Tim  + help from Felix, Ela, Phoebe, Lucas, Max
 
 ~Sep-Oct 2019
+
+## Open, Transparent and Participative Structure of Work
+
+### Network Mapping & Profiles
+
+Audience: people who want to bring more distributed/decentralized design to the organizations.
+
+Member catalog
+
+Intents and Strategies are open
+
+### Deep Debate platform
+
+Discourse Forum – used e.g. for research 
+
+### Chatty / Announcement Platform
+
+Multichannel chat \(Discord, Rocket, Slack\)
+
+Safe space place to safely discuss & collaborate on dgov topics \(e.g. get feedback, intracommunity projects and hiring\).
+
+### Overview of activities in Newsletter / Wiki 
+
+Leader: Max  
+[Newsletter](../../newsletter/) and/or newspaper  
+Collaborate with Aragon, DAOstack and more.
 
 ### Indi Meetups / Workshop
 

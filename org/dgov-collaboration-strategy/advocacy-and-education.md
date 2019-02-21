@@ -2,21 +2,6 @@
 
 **Purpose:** Sharing and representing the dgov practices to the wider community
 
-## Movement Manifesto is published
-
-Should be crowdsourced based in interviews of the brightest people in the space
-
-Values
-
-* Anti-rivalry
-* Co-creation
-* Team first
-* Wholeness
-
-[Manifesto Draft](../projects/foundation-thesis.md)
-
-+ clip / movie?
-
 ## Media Partner Network is formed
 
 For cross publishing, speaking etc
