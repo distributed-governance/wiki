@@ -2,9 +2,13 @@
 
 ## \#dgov Community Updates \(Max\)
 
-\#dgov council happened, now assembly in Paris
+#### \#dgov council happened, now assembly in Paris
 
-Chat & new tools and newsletter \(built on strategy\)
+
+
+#### Chat & new tools and newsletter \(built on strategy\)
+
+* [https://www.youtube.com/watch?v=zNKUJjSSDZI](https://www.youtube.com/watch?v=zNKUJjSSDZI)
 
 #### Upcoming Events 
 
