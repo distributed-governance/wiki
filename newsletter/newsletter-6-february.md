@@ -25,7 +25,12 @@ The DGOV Assembly will meet on the 8th of March in Paris, right after EthCC 2019
 
 #### Aragon Network \(?\)
 
-#### Genesis Alpha \(Felipe, Stratis?\)
+#### Genesis Alpha \(Stratis\)
+
+On the 28th we'll probably redeploy Genesis with the new version of Alchemy. There will also be a big proposal from DAOstack to Genesis regarding its mission and future goals. A DAOstack leadership workshop is happening next week for that reason \(other topics will be discussed too of course\).
+
+* [https://medium.com/daostack/a-technical-analysis-of-the-genesis-alpha-hack-f8e34433c14b](https://medium.com/daostack/a-technical-analysis-of-the-genesis-alpha-hack-f8e34433c14b)
+* [https://daotalk.org/t/genesis-beta-what-do-we-want-to-be/388](https://daotalk.org/t/genesis-beta-what-do-we-want-to-be/388)
 
 #### Tokenizing Nature \(Phoebe?\)
 
