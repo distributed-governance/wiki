@@ -4,11 +4,11 @@
 
 #### \#dgov community assembly in Paris
 
-The DGOV Assembly will meet on the 8th of March in Paris, right after EthCC 2019. Over the course of the day, a group of about fifty people will have the opportunity to discuss topics related to Distributed Governance in an open conference format. We'd like to keep the highest quality of exchanges during the event. Due to limited capacity we require all participants to register through [this form](https://dgovfoundation.typeform.com/to/b0nVmw).
+The DGOV Assembly will meet on the 8th of March in Paris, right after EthCC 2019. Over the course of the day, a group of about fifty people will have the opportunity to discuss topics related to Distributed Governance in an open conference format. We'd like to keep the highest quality of exchanges during the event. Due to limited capacity we require all participants to register through [**this form**](https://dgovfoundation.typeform.com/to/b0nVmw). Thanks to Phil, Anuj and Louis for the organization!
 
 #### Chat, new tools and newsletter \(built on strategy\)
 
-* [https://www.youtube.com/watch?v=zNKUJjSSDZI](https://www.youtube.com/watch?v=zNKUJjSSDZI)
+Discourse, C1
 
 #### Upcoming Events 
 
@@ -19,7 +19,9 @@ The DGOV Assembly will meet on the 8th of March in Paris, right after EthCC 2019
 
 ## DAO Practitioner Support/Success
 
-#### Wiki updates \(Max\) – glossary, case studies, etc
+#### Wiki updates \(Max\)
+
+glossary, case studies, etc
 
 #### DAO Incubator \(Cem/Max\)
 
@@ -34,7 +36,11 @@ On the 28th we'll probably redeploy Genesis with the new version of Alchemy. The
 
 #### Tokenizing Nature \(Phoebe?\)
 
-#### Dgov DAO \(Tim\)
+...
+
+#### Dgov DAO \(Liraz, Tim\)
+
+...
 
 ## Outreach & Advocacy  
 
@@ -59,7 +65,7 @@ On the 28th we'll probably redeploy Genesis with the new version of Alchemy. The
 
 ...
 
-## Support the movement! <a id="DgovCompilation#3October2018-Events"></a>
+## Support the Movement! <a id="DgovCompilation#3October2018-Events"></a>
 
 If you're enthusiastic about the distributed governance – go give us a hand. Here're some tips on what's going on:
 
