@@ -9,6 +9,10 @@
 * Then + strategy, and direct action
 * on values: set priority e.g. cooperation over self interest
 
+{% hint style="info" %}
+What is the connection with the technology, blockchain and scaling? How is it compared with other networks like [https://www.responsive.org/](https://www.responsive.org/) ? Is it specific for networks? Is it about governance automation? human network governance
+{% endhint %}
+
 ### Examples
 
 * [https://www.responsive.org/manifesto](https://www.responsive.org/manifesto)
@@ -87,10 +91,6 @@ Building a system on the outlying principles will not only run into the misunder
 As a summary, distributed governance is an evolution proposal and experiment. Forward-thinking parties start to try it out with some success. Though there’s not a lot of well-known and clear results that can be taken into comparison with many long-living centralized systems.
 
 Only research and experiment in this sphere and only after some time can move the global perspective to adopt distributed governance. Clearly, this will produce mistakes and criticism, but it’s a natural way to learn.
-
-{% hint style="info" %}
-What is the connection with the technology, blockchain and scaling? How is it compared with other networks like [https://www.responsive.org/](https://www.responsive.org/) ? Is it specific for networks? Is it about governance automation?
-{% endhint %}
 
 ## Values
 
