@@ -21,7 +21,7 @@ Chat & new tools and newsletter \(built on strategy\)
 
 #### Aragon Network \(?\)
 
-#### Genesis Alpha \(Felippe?\)
+#### Genesis Alpha \(Felipe, Stratis?\)
 
 #### Tokenizing Nature \(Phoebe?\)
 
@@ -48,14 +48,13 @@ Chat & new tools and newsletter \(built on strategy\)
 
 #### Ministry of Memes
 
+...
 
+## Support the movement! <a id="DgovCompilation#3October2018-Events"></a>
 
-## Support the movement <a id="DgovCompilation#3October2018-Events"></a>
+If you're enthusiastic about the distributed governance – go give us a hand. Here're some tips on what's going on:
 
-Check out Strategy and Community Onboarding Tips
+\#dgov community: [join](https://dgov.foundation/#join), [onboarding and resources](../), [twitter](https://twitter.com/dgovearth), [website](http://dgov.foundation)
 
-Want to get your info published – drop us a line at [dgov.foundation@gmail.com](mailto:dgov.foundation@gmail.com)  
-Want more? Check out our [Website](http://dgov.foundation/), [Wiki](http://wiki.dgov.foundation), [Twitter](https://twitter.com/dgovearth), [Medium](https://medium.com/dgov)
-
-Got this email from a friend? Join our community \(newsletter, chat, events\): [https://dgov.foundation/\#join](https://dgov.foundation/#join)
+\#dgov foundation: [strategy and projects](../org/dgov-collaboration-strategy/), [KPIs](https://docs.google.com/spreadsheets/d/1B0XGN2uMeStBHcOcr0VySbSzYz_V67zmKCjJ-NBwvNU/edit#gid=590065571)
 
