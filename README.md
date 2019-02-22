@@ -28,6 +28,7 @@
 * Add to / Edit the wiki \([tips](./#process)\)
 * Attend [local meetups and events](resources/dgov-industry-landscape.md#events)
 * Host [local meetups and events](https://wiki.dgov.foundation/how-to-contribute/meetups)
+* Follow us on [Twitter](https://twitter.com/dgovearth), [Youtube](https://www.youtube.com/channel/UCGZX1WbJNjuxma-7SXRdRDg), [Medium](https://medium.com/dgov)
 
 ## \#dgov foundation
 
