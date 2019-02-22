@@ -15,7 +15,7 @@ Anyone can start a meetup in his \(her\) region. Meetup can be in a form of an i
 
 ### Materials: <a id="LocalMeetups-Createevent"></a>
 
-* [Design materials](https://www.figma.com/file/VOljSsjBw43q9x6xi5ZYwNf0/DAO-Foundation?node-id=19%3A7)
+* [Design materials](org/identity.md)
 
 ### Invite <a id="LocalMeetups-Invite"></a>
 
@@ -24,7 +24,7 @@ Places to invite people:
 * add to neswletter
 * dgov reddit + other reddits
 * dgov twitter + mentions
-* [https://t.me/DAOincubator](https://t.me/DAOincubator)
+* chat
 * Publish on website
 
 Example:
@@ -41,7 +41,7 @@ Example:
 >
 > Could you pls share your feedback in the free form? How it went, what can be improved, how good it was at a scale from 1 to 5? You can reply to this email. Any ideas or suggestions are very welcome.
 >
-> If you'd like to get more info on dgov we have a [monthly recap newsletter](https://dgov.foundation/newsletter) with best articles and community updates, [telegram chat](https://t.me/joinchat/E9cyAw9Ix0g4CS8PNTvR3g), [twitter](https://twitter.com/dgovearth) and [reddit.](https://reddit.com/r/dgov/)
+> If you'd like to get more info on dgov we have a monthly recap newsletter with best articles and community updates, telegram chat, twitter and reddit.
 
 ####  <a id="LocalMeetups-Dearinnovators,thanksforjoiningourdgovdinner!"></a>
 
