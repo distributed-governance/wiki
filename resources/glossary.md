@@ -57,6 +57,10 @@ Organization is an entity comprising multiple people, such as an institution or 
 
 A firm is a business organization, such as a corporation, limited liability company or partnership, that sells goods or services to make a profit. \[[source](https://www.investopedia.com/terms/f/firm.asp)\]
 
+## Platform
+
+A Platform is a strategy, run by a shaper, to mobilize and help an ecosystem in creating value, with the aim of capturing part of this value. \[[source](https://platformdesigntoolkit.com/toolkit/#download)\]
+
 ## Social movement
 
 A large, sometimes informal, groupings of [individuals](https://en.wikipedia.org/wiki/Individual) or [organizations](https://en.wikipedia.org/wiki/Organization) which focus on specific [political](https://en.wikipedia.org/wiki/Politics) or [social issues](https://en.wikipedia.org/wiki/Social_issue). \[[source](https://en.wikipedia.org/wiki/Social_movement)\] 
