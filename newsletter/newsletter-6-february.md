@@ -1,24 +1,33 @@
 # Newsletter \#6 \(february\)
 
-## \#dgov updates
+## \#dgov Community Updates \(Max\)
 
-### Community Management
+\#dgov council happened, now assembly in Paris
 
-
+Chat & new tools and newsletter \(built on strategy\)
 
 #### Upcoming Events 
 
-* ...
+* [Rebooting the Web of Trust VIII](https://www.eventbrite.com/e/rebooting-the-web-of-trust-viii-spring-2019-barcelona-tickets-54843077120) \(Mar 1, Barcelona\)
+* [\#dgov Commnuity Assembly](https://dgovfoundation.typeform.com/to/b0nVmw) \(Mar 8, Paris\)
+* [radicalXchange](https://radicalxchange.org/) \(Mar 22-24, Detroit\)
+* [DAOCon](https://daocon.io/) \(Par 26, Split, Croatia\)
 
-### Practitioner Support Success
+## DAO Practitioner Support/Success
 
-Aragon Network
+#### Wiki updates \(Max\) – glossary, case studies, etc
 
-Genesis Alpha
+#### DAO Incubator \(Cem/Max\)
 
-### Outreach & Advocacy  
+#### Aragon Network \(?\)
 
-\*\*\*\*
+#### Genesis Alpha \(Felipe?\)
+
+#### Tokenizing Nature \(Phoebe?\)
+
+#### Dgov DAO \(Tim\)
+
+## Outreach & Advocacy  
 
 #### Articles, Papers & Videos 
 
@@ -34,6 +43,11 @@ Genesis Alpha
 * [TCR Party - A Twitter Curated Registry](https://www.reddit.com/r/ethereum/comments/an3ud1/tcr_party_a_twitter_curated_registry/)
 * [A deep dive into the world of Distributed Governance](https://akasha.org/blog/2019/02/08/distributed-governance) By Martin Etzrodt & Mihai Alisie
 * Future Thinkers Podcast: [The Memetic War And Collective Intelligence](https://futurethinkers.org/collective-intelligence-and-meme-tribes/) \(including \#dgov council discussion\)
+* [A living organism, exploring DAO components and their relationships](https://medium.com/@LuigiGrx/a-living-organism-exploring-dao-components-and-their-relationships-cb2ed890def0) by Louis Grx
+
+#### Ministry of Memes
+
+
 
 ## Support the movement <a id="DgovCompilation#3October2018-Events"></a>
 
