@@ -21,7 +21,7 @@ Chat & new tools and newsletter \(built on strategy\)
 
 #### Aragon Network \(?\)
 
-#### Genesis Alpha \(Felipe?\)
+#### Genesis Alpha \(Felippe?\)
 
 #### Tokenizing Nature \(Phoebe?\)
 
@@ -44,6 +44,7 @@ Chat & new tools and newsletter \(built on strategy\)
 * [A deep dive into the world of Distributed Governance](https://akasha.org/blog/2019/02/08/distributed-governance) By Martin Etzrodt & Mihai Alisie
 * Future Thinkers Podcast: [The Memetic War And Collective Intelligence](https://futurethinkers.org/collective-intelligence-and-meme-tribes/) \(including \#dgov council discussion\)
 * [A living organism, exploring DAO components and their relationships](https://medium.com/@LuigiGrx/a-living-organism-exploring-dao-components-and-their-relationships-cb2ed890def0) by Louis Grx
+* [Research and promotion of Cognitive Diversity in the information age](http://cognitive-diversity.org/lightpaper.pdf) \(Lightpaper\)
 
 #### Ministry of Memes
 
