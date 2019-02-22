@@ -2,15 +2,11 @@
 
 ## \#dgov Community Updates \(Max\)
 
-#### \#dgov council 1
+#### \#dgov community assembly in Paris
 
+The DGOV Assembly will meet on the 8th of March in Paris, right after EthCC 2019. Over the course of the day, a group of about fifty people will have the opportunity to discuss topics related to Distributed Governance in an open conference format. We'd like to keep the highest quality of exchanges during the event. Due to limited capacity we require all participants to register through [this form](https://dgovfoundation.typeform.com/to/b0nVmw).
 
-
-#### Assembly in Paris
-
-
-
-#### Chat & new tools and newsletter \(built on strategy\)
+#### Chat, new tools and newsletter \(built on strategy\)
 
 * [https://www.youtube.com/watch?v=zNKUJjSSDZI](https://www.youtube.com/watch?v=zNKUJjSSDZI)
 
