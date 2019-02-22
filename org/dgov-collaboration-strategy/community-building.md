@@ -56,7 +56,7 @@ Leader: Tim  + help from Felix, Ela, Phoebe, Lucas, Max
 
 ~Sep-Oct 2019
 
-## Open, Transparent and Participative Structure of Work
+## Structure of Work is Open, Transparent and Participative 
 
 ### Network Mapping & Profiles
 

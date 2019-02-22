@@ -22,6 +22,8 @@ Team: Cem + Daniel, Max
 * [Telegram group](https://t.me/DAOincubator)
 * [Realtime board](https://realtimeboard.com/app/board/o9J_kysdxCw=/)
 
+## DAO progressed is tracked and shared
+
 ### Pilot: Dgov DAO
 
 Leader: Tim/Liraz? + 19 people on the telegram group
@@ -47,8 +49,4 @@ Phoebe + Lucas, Liraz, Ruth, Maria
 Ruth + Grace, Tim, Phoebe
 
 for artists on London\*
-
-### Media DAO
-
-[Details](../projects/tennagraph.md)
 

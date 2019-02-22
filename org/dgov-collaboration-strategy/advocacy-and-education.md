@@ -19,7 +19,7 @@ For cross publishing, speaking etc
 * Colony – ?
 * Consensys
 
-## Rich Movement Culture exists
+## Rich Movement Culture Exists
 
 Memmes, Brand materials, Merch etc exists
 
