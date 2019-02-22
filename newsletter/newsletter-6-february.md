@@ -2,7 +2,11 @@
 
 ## \#dgov Community Updates \(Max\)
 
-#### \#dgov council happened, now assembly in Paris
+#### \#dgov council 1
+
+
+
+#### Assembly in Paris
 
 
 
