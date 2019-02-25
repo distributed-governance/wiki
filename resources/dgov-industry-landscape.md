@@ -47,6 +47,13 @@ Team: Grace + Pat, Ela, Max
 * [Bushwick Generator](https://www.thebushwickgenerator.com/)
 * [Giveth Gov Labs](https://github.com/Giveth/gov-lab)
 
+### VCs
+
+* [Placeholder](https://www.placeholder.vc/)
+* [Cambrial](https://cambrial.com/)
+* [Index ventures](https://www.indexventures.com/)
+* [Coinfund](https://coinfund.io/)
+
 ## **Forums & Subreddits**
 
 * ​[Ethereum Research Forum / Economics](https://ethresear.ch/c/economics)​
