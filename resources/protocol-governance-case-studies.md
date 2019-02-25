@@ -3,6 +3,14 @@
 Team: Max, Theo, Jack, Louisgrx?  
 [Discussion](https://daotalk.org/t/case-studies-decentralized-orgs-with-on-chain-governance/395)
 
+Plan:
+
+1. Gather the team
+2. Agree on methodology, structure, reviewing process
+3. Distribute the case studies
+4. ...
+5. Request feedback
+
 ## Introduction
 
 * what, why, relevance?
@@ -121,6 +129,8 @@ Based on Alchemy
 ## Unsorted
 
 ### Digix
+
+* [https://medium.com/@Digix/digix-dev-update-22-feb-2019-387076e1d1d0](https://medium.com/@Digix/digix-dev-update-22-feb-2019-387076e1d1d0)
 
 ### Bitshares
 
