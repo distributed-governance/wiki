@@ -26,8 +26,8 @@ Team: Grace + Pat, Ela, Max
 * [Ethereum](https://www.ethereum.org/) – blockchain App Platform
 * [Tezos](https://tezos.com/) – a new platform for decentralized applications and smart contracts
 * [CONE Network](http://www.cone.network/) + [Demo](https://vimeo.com/314549856)
-* [https://sobol.io/](https://sobol.io/)
-* [https://www.metaorg.one/](https://www.metaorg.one/)
+* [Sobol](https://sobol.io/)
+* [Metaorg](https://www.metaorg.one/)
 
 ### Bounties & Donations
 
