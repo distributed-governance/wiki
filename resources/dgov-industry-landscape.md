@@ -5,6 +5,8 @@ Team: Grace + Pat, Ela, Max
 
 ## Projects
 
+### DAO Platforms
+
 * [Aragon](https://aragon.org/) – project that aims to disintermediate the creation and maintenance of organizational structures by using blockchain technology 
 * [Colony](https://colony.io/) – platform for open organizations
 * [District0x](https://district0x.io/) – network of decentralized markets and communities
@@ -22,19 +24,31 @@ Team: Grace + Pat, Ela, Max
 * [Decidim](https://decidim.org/) – free open-source participatory democracy for cities and organizations
 * [dOrg](https://github.com/dOrgTech) – dApp for creating and interacting with DAOs
 * [Ethereum](https://www.ethereum.org/) – blockchain App Platform
-* [Tezos](https://tezos.com/) – a new platform for decentralized applications and smart contracts.
+* [Tezos](https://tezos.com/) – a new platform for decentralized applications and smart contracts
+* [CONE Network](http://www.cone.network/) + [Demo](https://vimeo.com/314549856)
+* 
+### Bounties & Donations
+
 * [Giveth](https://giveth.io/) – donation platform and community
+* [Gitcoin](https://gitcoin.co/)
+* [Bounties Network](https://bounties.network/)
+* [Talao](https://talao.io) – The Reputation Protocol and DAO for the 100 million freelancing talent
+* [Covee](https://covee.network/) – The Trusted Platform for Knowledge Workers
+
+### Identity Solutions
+
 * [Iden3](https://iden3.io/)​ – identity solution
 * [uPort](https://www.uport.me/)​ – identity solution
 * ​[BrightID](https://www.brightid.org/)​ – identity solution
 * [Jolocom](https://jolocom.io/) – identity solution
 * [Kleros](https://kleros.io/) – dispute resolution
 
-**Concepts:**
+### Misc
+
+### **Concepts**
 
 * [https://sobol.io/](https://sobol.io/)
-* [CONE Network](http://www.cone.network/) + [Demo](https://vimeo.com/314549856)
-* [https://www.metaorg.one/](https://www.metaorg.one/)
+* * [https://www.metaorg.one/](https://www.metaorg.one/)
 
 ## Organizations
 
