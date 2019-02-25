@@ -26,7 +26,7 @@ Structure of the report:
 * Purpose of DAO
 * Objects to be governed \(e.g. repo, funds distribution\)
 * Used mechanics \(on-chain, off-chain\)
-* History
+* History & key events
 
 Use [Grins way](https://medium.com/blockchain-capital-blog/grin-governance-a-novel-approach-154aca07291b) to describe governance?
 
