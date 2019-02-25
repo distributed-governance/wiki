@@ -26,7 +26,9 @@ Team: Grace + Pat, Ela, Max
 * [Ethereum](https://www.ethereum.org/) – blockchain App Platform
 * [Tezos](https://tezos.com/) – a new platform for decentralized applications and smart contracts
 * [CONE Network](http://www.cone.network/) + [Demo](https://vimeo.com/314549856)
-* 
+* [https://sobol.io/](https://sobol.io/)
+* [https://www.metaorg.one/](https://www.metaorg.one/)
+
 ### Bounties & Donations
 
 * [Giveth](https://giveth.io/) – donation platform and community
@@ -42,13 +44,6 @@ Team: Grace + Pat, Ela, Max
 * ​[BrightID](https://www.brightid.org/)​ – identity solution
 * [Jolocom](https://jolocom.io/) – identity solution
 * [Kleros](https://kleros.io/) – dispute resolution
-
-### Misc
-
-### **Concepts**
-
-* [https://sobol.io/](https://sobol.io/)
-* * [https://www.metaorg.one/](https://www.metaorg.one/)
 
 ## Organizations
 
