@@ -3,9 +3,15 @@
 Team: Max, Theo, Jack, Louisgrx?  
 [Discussion](https://daotalk.org/t/case-studies-decentralized-orgs-with-on-chain-governance/395)
 
+## Introduction
+
+* what, why, relevance?
+
 ## Methodology
 
-On-chain governance – ability to change the protocol based on the on-chain events. No need in 100% on-chain, combination with off-chain is ok as well.
+{% hint style="info" %}
+what are the formal criteria to include \(and to exclude\) a certain case related to blockchain governance?
+{% endhint %}
 
 Structure of the report:
 
@@ -16,7 +22,7 @@ Structure of the report:
 
 Use [Grins way](https://medium.com/blockchain-capital-blog/grin-governance-a-novel-approach-154aca07291b) to describe governance?
 
-## L1 Network-based
+## Layer 1: Network-based
 
 ### Bitcoin
 
@@ -74,7 +80,7 @@ Time-lock Voting + Delayed Enactment
 
 * [https://cryptovest.com/news/cardano-ada-hit-by-governance-woes-as-iohk-emurgo-chairs-split-with-cardano-foundation/](https://cryptovest.com/news/cardano-ada-hit-by-governance-woes-as-iohk-emurgo-chairs-split-with-cardano-foundation/)
 
-## L2 Application-based
+## Layer 2: Application-based
 
 ### Genesis 
 
@@ -120,5 +126,7 @@ Based on Alchemy
 
 ### Leap DAO
 
-### 
+## Summary
+
+Make statements about what blockchain governance is and how it realtes to onchain and offchain governance. E.g. On-chain governance – ability to change the protocol based on the on-chain events. No need in 100% on-chain, combination with off-chain is ok as well.
 
