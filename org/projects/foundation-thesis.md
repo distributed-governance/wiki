@@ -17,6 +17,7 @@ What is the connection with the technology, blockchain and scaling? How is it co
 
 * [https://www.responsive.org/manifesto](https://www.responsive.org/manifesto)
 * [https://blog.aragon.org/the-aragon-manifesto-4a21212eac03/](https://blog.aragon.org/the-aragon-manifesto-4a21212eac03/)
+* [https://platform.coop/about/consortium](https://platform.coop/about/consortium)
 
 ## From Anja
 
