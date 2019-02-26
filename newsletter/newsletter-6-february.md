@@ -64,6 +64,7 @@ On the 28th we'll probably redeploy Genesis with the new version of Alchemy. The
 * [Cryptonetwork Governance as Capital](https://www.placeholder.vc/blog/2019/2/19/cryptonetwork-governance-as-capital) by Joel Monegro \(Placeholder VC\)
 * [There is no such thing as decentralised governance. Working toward the crypto trias politic](https://medium.com/outlier-ventures-io/there-is-no-such-thing-as-decentralised-governance-3b31a65a3dff) by ****Lawrence Lundy-Bryan
 * [Hääl - Anonymous Electronic Voting System on Public Blockchains](https://github.com/eddieoz/haal)
+* [Report "Platform co-operatives – solving the capital conundrum"](https://media.nesta.org.uk/documents/Nesta_Platform_Report_AW_v4_3.pdf)
 
 #### Ministry of Memes
 
