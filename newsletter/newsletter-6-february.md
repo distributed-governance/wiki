@@ -60,6 +60,9 @@ On the 28th we'll probably redeploy Genesis with the new version of Alchemy. The
 * Future Thinkers Podcast: [The Memetic War And Collective Intelligence](https://futurethinkers.org/collective-intelligence-and-meme-tribes/) \(including \#dgov council discussion\)
 * [A living organism, exploring DAO components and their relationships](https://medium.com/@LuigiGrx/a-living-organism-exploring-dao-components-and-their-relationships-cb2ed890def0) by Louis Grx
 * [Research and promotion of Cognitive Diversity in the information age](http://cognitive-diversity.org/lightpaper.pdf) \(Lightpaper\)
+* [Aragon Agent and the future of DAOs. Enabling organizations to interact on the decentralized web](https://tokeneconomy.co/aragon-agent-and-the-future-of-daos-ac27d831e22e) by Stefano Bernardi
+* [Cryptonetwork Governance as Capital](https://www.placeholder.vc/blog/2019/2/19/cryptonetwork-governance-as-capital) by Joel Monegro \(Placeholder VC\)
+* [There is no such thing as decentralised governance. Working toward the crypto trias politic](https://medium.com/outlier-ventures-io/there-is-no-such-thing-as-decentralised-governance-3b31a65a3dff) by ****Lawrence Lundy-Bryan
 
 #### Ministry of Memes
 

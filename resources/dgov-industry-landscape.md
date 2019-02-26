@@ -62,6 +62,7 @@ Team: Grace + Pat, Ela, Max
 * [Cambrial](https://cambrial.com/)
 * [Index ventures](https://www.indexventures.com/)
 * [Coinfund](https://coinfund.io/)
+* Outlier Ventures
 
 ## **Forums & Subreddits**
 

@@ -2,6 +2,11 @@
 
 Purpose: to bring together the pioneers and explorers for new principles of human-centric scalable governance. We move forward to develop a shared language and culture and deepen relationships to launch cross-project collaboration on distributed governance.
 
+## Results
+
+* [Videos from the lightning talks and end fishbowl](https://www.youtube.com/watch?v=qTHHZN6bhlQ&list=PLDj0XyKkeYnfKo_yGij3ciK8lI9f3_VhL)
+* [“Distributed Governance Challenges” Open Space Discussion](../../resources/distributed-governance-challenges.md) transcript
+
 ## **Schedule**
 
 **Saturday, Jan 26th 2019**
