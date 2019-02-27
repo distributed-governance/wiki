@@ -12,6 +12,7 @@ Goal: define a manifesto, which will guide the movement, community and org devel
 * What is the connection of \#dgov with the technology, blockchain, scaleable governance, governance automation?
 * Is \#dgov specific for networks/platforms/coops? 
 * How is it compared with other networks like [responsive.org](https://www.responsive.org/) or P2P Foundation?
+* What are out guiding principles?
 
 ### Defining the movement
 
