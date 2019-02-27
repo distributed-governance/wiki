@@ -52,6 +52,11 @@ Inblock.io events is a trusted company to execute the DGOV Councils as well as t
 
 We expect other organisations and members of the community to host DGOV events. This is encouraged and supported by the DGOV Foundation if they are trusted parties by the DGOV Foundation. There please always check that the organisation organising a DGOV event is clearly stated.
 
+On Rejection
+
+* any core member can reject, but needs to justify if challenged
+* lack of cognitive diversity concerns
+
 ### Transparency Policy
 
 Everything should be transparent, except of 
@@ -59,4 +64,8 @@ Everything should be transparent, except of
 * private data without consent \(names, addresses, contacts\)
 * security \(passwords\)
 * budget details, like salaries \(low resolution reports are ok\)
+
+### Moral code
+
+Being excellent with each other \(respect, support, caring\). Intentional dishonour of this rule can lead to ban.
 
