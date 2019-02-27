@@ -2,16 +2,17 @@
 
 Goal: define a manifesto, which will guide the movement, community and org development.
 
-## Open questions:
+## Questions to be answered
 
-* Who should define it \(smaller circle 3-4 faster/easier or 10-15 industry leaders like Aragon\)?
-* What is the connection of \#dgov with the technology, blockchain, scaleable governance, governance automation?
+* What are we trying to accomplish
+* Why are we doing this?
+* Is it a movement or a consortia \(see movement definition below, compared to platform coop consortia\)
   * If a movement – what change are we looking for?
   * If a movement is tech then secondary?
+* What is the connection of \#dgov with the technology, blockchain, scaleable governance, governance automation?
 * Is \#dgov specific for networks/platforms/coops? 
 * How is it compared with other networks like [responsive.org](https://www.responsive.org/) or P2P Foundation?
-* Is it a movement or a consortia \(see movement definition below, compared to platform coop consortia\)
-* 
+
 ### Defining the movement
 
 * ultimate goal the group intends to achieve. When a movement achieves success—“Mission accomplished!”—everyone goes home. 
