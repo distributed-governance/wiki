@@ -1,13 +1,12 @@
 # Articles by Topic
 
-
-
 ## Articles by Topic
 
 ### Crypto Commons
 
 * [https://marginalrevolution.com/marginalrevolution/2018/06/blockchains-opportunity-commons.html](https://marginalrevolution.com/marginalrevolution/2018/06/blockchains-opportunity-commons.html)
 * [https://blog.usejournal.com/crypto-commons-da602fb98138](https://blog.usejournal.com/crypto-commons-da602fb98138)
+* [Commons Stack Library on continuous token model, TCR and curation markets](https://commons-stack.gitbook.io/wiki/library)
 
 ### DAO Legal Status
 

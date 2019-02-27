@@ -11,7 +11,7 @@
 * [DAO Tech Evaluation Framework](resources/dao-infrastructure-interoperability.md)
 * [Distributed Governance Challenges](resources/distributed-governance-challenges.md)
 * [Transparency in Networked Orgs](resources/transparency-in-networked-orgs.md)
-* [Articles by Topic](resources/articles-by-topic-1/)
+* [Articles by Topic](resources/articles-by-topic-1.md)
 
 ### How to Contribute
 
