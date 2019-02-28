@@ -20,7 +20,7 @@
 * Host [local meetups and events](https://wiki.dgov.foundation/how-to-contribute/meetups)
 * Follow us on [Twitter](https://twitter.com/dgovearth), [Youtube](https://www.youtube.com/channel/UCGZX1WbJNjuxma-7SXRdRDg), [Medium](https://medium.com/dgov)
 * Quick announcement/fun talk/random ideas chat happens in closed telegram group \(join to get invite\)
-* Substantial, deep conversations on [DAO Talk forum](https://daotalk.org/c/research)
+* Substantial, deep conversations happen on [\#dgov forum](http://forum.dgov.foundation)
 
 ### Rules
 
