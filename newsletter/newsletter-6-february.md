@@ -65,6 +65,7 @@ There will also be a big proposal from DAOstack to Genesis regarding its mission
 * [Report "Platform co-operatives – solving the capital conundrum"](https://media.nesta.org.uk/documents/Nesta_Platform_Report_AW_v4_3.pdf)
 * [Anti Toxic: Ethereum Will Go To The Moon Embracing Tolerance & Criticism](https://medium.com/tabookey/anti-toxic-ethereum-will-go-to-the-moon-embracing-tolerance-criticism-2871a61f7ef8) by Liraz Siri
 * Video [Bringing Your Own Governance Model to Aragon](https://www.youtube.com/watch?v=gEcaPRkcfR8&feature=youtu.be) by Jorge Izquierdo
+* [Why Voting Tokens Are F`**`king Horrible, And 4 Ways to Fix Them](https://www.zeframlou.com/2019/02/why-voting-tokens-are-fking-horrible.html) by Zefram Lou
 
 ### \#dgov culture
 
