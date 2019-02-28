@@ -4,14 +4,14 @@
 
 ### Consensus on the Direction
 
-\#dgov council revealed that while we share a lot of values, some aspects of our collaboration are not clear. E.g. what's the role of blockchain and technology in the movement, what exactly are we trying to achieve and so on. 
+\#dgov council revealed that while we share a lot of values, some aspects of our collaboration are not clear. E.g. what's the role of blockchain and technology in the movement, what exactly are we trying to achieve and so on.
 
 We'll be having a core group strategic session soon to form an initial vision. And then discussing this and more other connected topics during **\#dgov Community Assembly in Paris on Mar 8**, just after EthCC. [Join us there](https://dgovfoundation.typeform.com/to/b0nVmw).
 
 More themed upcoming events
 
 * [Rebooting the Web of Trust VIII](https://www.eventbrite.com/e/rebooting-the-web-of-trust-viii-spring-2019-barcelona-tickets-54843077120) \(Mar 1, Barcelona\)
-* [radicalXchange](https://radicalxchange.org/) \(Mar 22-24, Detroit\) – ping Beth, she might be gathering a \#dgov group there
+* [radicalXchange](https://radicalxchange.org/) \(Mar 22-24, Detroit\) – ping Beth, she might be gathering a \#dgov group there
 * [DAOCon](https://daocon.io/) \(Apr 26, Split, Croatia\)
 
 ### Structure of Work
@@ -34,15 +34,15 @@ We've launched a series of calls around building a DAO incubator. The first proj
 
 **Aragon Network** [published a review on the \#1 vote](https://blog.aragon.one/aragon-network-vote-1-review/) with some fruity outtakes. The new version of the Aragon App [can now interact with external contracts](https://tokeneconomy.co/aragon-agent-and-the-future-of-daos-ac27d831e22e) \(e.g. Maker DAO CDP or Cryptokitties\). Also [an interesting discussion on the long term funding](https://forum.aragon.org/t/long-term-funding-of-aragon/547/2?u=luis).
 
-**Genesis Alpha** has been recently hacked \(~$15k drained\) and down, some [analysis on the hack is here](https://medium.com/daostack/a-technical-analysis-of-the-genesis-alpha-hack-f8e34433c14b). It  will be redeployed soon with a new version of contracts.
+**Genesis Alpha** has been recently hacked \(~$15k drained\) and down, some [analysis on the hack is here](https://medium.com/daostack/a-technical-analysis-of-the-genesis-alpha-hack-f8e34433c14b). It will be redeployed soon with a new version of contracts.
 
 There will also be a big proposal from DAOstack to Genesis regarding its mission and future goals. A DAOstack leadership workshop is happening this week for that reason \(other topics will be discussed too of course\). [More discussion happen here](https://daotalk.org/t/genesis-beta-what-do-we-want-to-be/388).
 
 **Dgov DAO** will be posting more updates soon.
 
-## Outreach & Advocacy  
+## Outreach & Advocacy
 
-### Media updates: Articles, Papers & Videos 
+### Media updates: Articles, Papers & Videos
 
 * [Lightning Talks, Interviews and Fishbowl from the \#dgov council](https://www.youtube.com/watch?v=qTHHZN6bhlQ&list=PLDj0XyKkeYnfKo_yGij3ciK8lI9f3_VhL)
 * [Gitcoin Grants: CLR Matching](https://medium.com/gitcoin/gitcoin-grants-clr-matching-ecbc87b10038). Matching contributions with up to $25,000 in funding, in ETH
@@ -60,7 +60,7 @@ There will also be a big proposal from DAOstack to Genesis regarding its mission
 * [Research and promotion of Cognitive Diversity in the information age](http://cognitive-diversity.org/lightpaper.pdf) \(Lightpaper\)
 * [Aragon Agent and the future of DAOs. Enabling organizations to interact on the decentralized web](https://tokeneconomy.co/aragon-agent-and-the-future-of-daos-ac27d831e22e) by Stefano Bernardi
 * [Cryptonetwork Governance as Capital](https://www.placeholder.vc/blog/2019/2/19/cryptonetwork-governance-as-capital) by Joel Monegro \(Placeholder VC\)
-* [There is no such thing as decentralised governance. Working toward the crypto trias politic](https://medium.com/outlier-ventures-io/there-is-no-such-thing-as-decentralised-governance-3b31a65a3dff) by ****Lawrence Lundy-Bryan
+* [There is no such thing as decentralised governance. Working toward the crypto trias politic](https://medium.com/outlier-ventures-io/there-is-no-such-thing-as-decentralised-governance-3b31a65a3dff) by _\*\*_Lawrence Lundy-Bryan
 * [Hääl - Anonymous Electronic Voting System on Public Blockchains](https://github.com/eddieoz/haal)
 * [Report "Platform co-operatives – solving the capital conundrum"](https://media.nesta.org.uk/documents/Nesta_Platform_Report_AW_v4_3.pdf)
 * [Anti Toxic: Ethereum Will Go To The Moon Embracing Tolerance & Criticism](https://medium.com/tabookey/anti-toxic-ethereum-will-go-to-the-moon-embracing-tolerance-criticism-2871a61f7ef8) by Liraz Siri
@@ -81,11 +81,11 @@ Here're also some highlights from the Ministry of Memes chat:
 
 ![](../.gitbook/assets/image%20%2815%29.png)
 
-## Support the Movement! <a id="DgovCompilation#3October2018-Events"></a>
+## Support the Movement!  <a id="DgovCompilation#3October2018-Events"></a>
 
-If you're enthusiastic about the distributed governance – go give us a hand. Here're some tips on what's going on:
+If you're enthusiastic about the distributed governance – go give us a hand. Here're some tips on what's going on:
 
 \#dgov community: [join](https://dgov.foundation/#join), [onboarding and resources](../), [twitter](https://twitter.com/dgovearth), [website](http://dgov.foundation)
 
-\#dgov foundation: [strategy and projects](../org/dgov-collaboration-strategy/), [governance](../org/roles/), [KPIs](https://docs.google.com/spreadsheets/d/1B0XGN2uMeStBHcOcr0VySbSzYz_V67zmKCjJ-NBwvNU/edit#gid=590065571)
+\#dgov foundation: [strategy and projects](../foundation/dgov-collaboration-strategy/), [governance](../foundation/roles/), [KPIs](https://docs.google.com/spreadsheets/d/1B0XGN2uMeStBHcOcr0VySbSzYz_V67zmKCjJ-NBwvNU/edit#gid=590065571)
 

@@ -14,7 +14,7 @@
 
 ### How to Contribute
 
-* Support the projects from the [\#dgov strategy 2019](org/dgov-collaboration-strategy/)
+* Support the projects from the [\#dgov strategy 2019](foundation/dgov-collaboration-strategy/)
 * Add to / Edit the wiki \([tips](./#process)\)
 * Attend [local meetups and events](resources/dgov-industry-landscape.md#events)
 * Host [local meetups and events](https://wiki.dgov.foundation/how-to-contribute/meetups)
@@ -31,10 +31,10 @@
 
 ## \#dgov foundation
 
-* [Strategy](org/dgov-collaboration-strategy/)
-* [Governance](org/roles/)
-* [About us](org/dgov-history.md)
-* [Logo / Identity](org/identity.md)
+* [Strategy](foundation/dgov-collaboration-strategy/)
+* [Governance](foundation/roles/)
+* [About us](foundation/dgov-history.md)
+* [Logo / Identity](foundation/identity.md)
 
 ## Process
 
@@ -47,5 +47,5 @@ Maintained by the [DGov Foundation](https://dgov.foundation/)
 
 ### Thanks to the Contributors!
 
-[@PhilH](https://github.com/PhilH), [@parrachia](https://github.com/parrachia), [@FantasticoFox](https://github.com/FantasticoFox), [@phoebetickell](https://github.com/phoebetickell), [@indekay](https://github.com/indekay)
+[@PhilH](https://github.com/PhilH), [@parrachia](https://github.com/parrachia), [@FantasticoFox](https://github.com/FantasticoFox), [@phoebetickell](https://github.com/phoebetickell), [@indekay](https://github.com/indekay), [@john-light](https://github.com/john-light)
 

@@ -15,7 +15,7 @@ Anyone can start a meetup in his \(her\) region. Meetup can be in a form of an i
 
 ### Materials: <a id="LocalMeetups-Createevent"></a>
 
-* [Design materials](org/identity.md)
+* [Design materials](foundation/identity.md)
 
 ### Invite <a id="LocalMeetups-Invite"></a>
 
