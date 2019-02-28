@@ -117,7 +117,7 @@ We developed two basic types of values - some were human centric, the others wer
       <td style="text-align:left">
         <p>Yes, we are building a new system for the commons, which will challenge
           what the existing system is.</p>
-        <p>It’s not about incentives fetishism.</p>
+        <p>It&#x2019;s not about incentives fetishism.</p>
       </td>
     </tr>
   </tbody>
