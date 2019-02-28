@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to \#dgov community](README.md)
+* [Welcome to the \#dgov community](README.md)
 * [Host Local Meetups](meetups.md)
 * [\#dgov memmes](memmes.md)
 * [\#dgov Newsletter](newsletter/README.md)

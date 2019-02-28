@@ -1,4 +1,4 @@
-# Welcome to \#dgov community
+# Welcome to the \#dgov community
 
 \#dgov is a community of people who want to bring more distributed/decentralized design to the organizations.
 
