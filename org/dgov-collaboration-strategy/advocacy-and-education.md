@@ -31,5 +31,9 @@ Chat: [https://t.me/MinistryofMemes](https://t.me/MinistryofMemes)
 
 logo, cool merch etc...
 
+### clip / movie form of manifesto?
+
+...
+
 
 

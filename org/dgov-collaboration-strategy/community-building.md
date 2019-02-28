@@ -24,10 +24,6 @@ Values
 
 [Manifesto Draft](../projects/foundation-thesis.md)
 
-### clip / movie form?
-
-...
-
 ### Providing Horizontal Organising Patterns / Tools
 
 Horizontal leadership, decentralised organising patterns, group facilitation

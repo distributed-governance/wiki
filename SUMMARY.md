@@ -19,7 +19,6 @@
 * [On-chain Governance Case Studies](resources/protocol-governance-case-studies.md)
 * [DAO Tech Evaluation Framework](resources/dao-infrastructure-interoperability.md)
 * [Distributed Governance Challenges](resources/distributed-governance-challenges.md)
-* [Transparency in Networked Orgs](resources/transparency-in-networked-orgs.md)
 * [Articles by Topic](resources/articles-by-topic-1.md)
 
 ## Foundation
@@ -43,6 +42,7 @@
   * [Amsterdam 14.03.2019 \(draft\)](org/projects/amsterdam-14.02.2019.md)
   * [Workshop in Ljubljana, Apr 28](org/projects/workshop-in-ljubljana-apr-28.md)
   * [Media DAO / Tenna 2.0](org/projects/tennagraph.md)
+  * [Transparency in Networked Orgs](org/projects/transparency-in-networked-orgs.md)
 * [About us](org/dgov-history.md)
 * [\#dgov Logo /  Identity](org/identity.md)
 * [Official Website](https://dgov.foundation)

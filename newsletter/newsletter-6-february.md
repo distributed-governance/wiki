@@ -2,49 +2,47 @@
 
 ## \#dgov Community Updates \(Max\)
 
-#### \#dgov community assembly in Paris
+### Consensus on the Direction
 
-The DGOV Assembly will meet on the 8th of March in Paris, right after EthCC 2019. Over the course of the day, a group of about fifty people will have the opportunity to discuss topics related to Distributed Governance in an open conference format. We'd like to keep the highest quality of exchanges during the event. Due to limited capacity we require all participants to register through [**this form**](https://dgovfoundation.typeform.com/to/b0nVmw). Thanks to Phil, Anuj and Louis for the organization!
+\#dgov council revealed that while we share a lot of values, some aspects of our collaboration are not clear. E.g. what's the role of blockchain and technology in the movement, what exactly are we trying to achieve and so on. 
 
-#### Chat, new tools and newsletter \(built on strategy\)
+We'll be having a core group strategic session soon to form an initial vision. And then discussing this and more other connected topics during **\#dgov Community Assembly in Paris on Mar 8**, just after EthCC. [Join us there](https://dgovfoundation.typeform.com/to/b0nVmw).
 
-Discourse, C1
-
-#### Upcoming Events 
+More themed upcoming events
 
 * [Rebooting the Web of Trust VIII](https://www.eventbrite.com/e/rebooting-the-web-of-trust-viii-spring-2019-barcelona-tickets-54843077120) \(Mar 1, Barcelona\)
-* [\#dgov Commnuity Assembly](https://dgovfoundation.typeform.com/to/b0nVmw) \(Mar 8, Paris\)
-* [radicalXchange](https://radicalxchange.org/) \(Mar 22-24, Detroit\)
-* [DAOCon](https://daocon.io/) \(Par 26, Split, Croatia\)
+* [radicalXchange](https://radicalxchange.org/) \(Mar 22-24, Detroit\) – ping Beth, she might be gathering a \#dgov group there
+* [DAOCon](https://daocon.io/) \(Apr 26, Split, Croatia\)
+
+### Structure of Work
+
+Our telegram group has significantly grown since last year, and while some discussions are gold, it's getting harder to do structured conversations there. We've discussed many options \(including discord, collective one, twist etc\) and so far the most supported option became the Discourse Forum. While there're some existent forums in the space, the community sentiment leaned towards an own \#dgov forum. We'll be launching and announcing that soon.
+
+Overall you can track active projects, KPIs and so on at our [wiki/Strategy page](https://wiki.dgov.foundation/org/dgov-collaboration-strategy). It contains descriptions \(sometimes raw\), links to groups and discussion. Your support and new projects initiation is highly appreciated.
 
 ## DAO Practitioner Support/Success
 
-#### Wiki updates \(Max\)
+### Gathering a Body of Knowledge
 
-glossary, case studies, etc
+We've created a resource section in the wiki, that now contains [glossary](https://wiki.dgov.foundation/resources/glossary), [industry landscape](https://wiki.dgov.foundation/resources/dgov-industry-landscape), [global hubs map](https://wiki.dgov.foundation/resources/map-of-the-industry-landscape), [on-chain governance case studies](https://wiki.dgov.foundation/resources/protocol-governance-case-studies), and more [articles by various governance topics](https://wiki.dgov.foundation/resources/articles-by-topic-1). We'll be mostly coordinating further work on a new forum, Paris assembly and further events. Quick questions, suggestions etc can be discussed in the telegram chat as well.
 
-#### DAO Incubator \(Cem/Max\)
+### Expertise Center \(DAO Incubator\)
 
-#### Aragon Network \(?\)
+We've launched a series of calls around building a DAO incubator. The first project in review is Trojan DAO, which aims at the reformation of local art value chains based in Athens, Greece, using a new and experimental blockchain-based primitive -- the token bonding curve -- as community fund to empower and sustain artistic and cultural production. If you're building a DAO and can use some expertise and funding, please [apply here](https://daoincubator.org/).
 
-#### Genesis Alpha \(Stratis\)
+### DAO progress
 
-On the 28th we'll probably redeploy Genesis with the new version of Alchemy. There will also be a big proposal from DAOstack to Genesis regarding its mission and future goals. A DAOstack leadership workshop is happening next week for that reason \(other topics will be discussed too of course\).
+**Aragon Network** [published a review on the \#1 vote](https://blog.aragon.one/aragon-network-vote-1-review/) with some fruity outtakes. The new version of the Aragon App [can now interact with external contracts](https://tokeneconomy.co/aragon-agent-and-the-future-of-daos-ac27d831e22e) \(e.g. Maker DAO CDP or Cryptokitties\). Also [an interesting discussion on the long term funding](https://forum.aragon.org/t/long-term-funding-of-aragon/547/2?u=luis).
 
-* [https://medium.com/daostack/a-technical-analysis-of-the-genesis-alpha-hack-f8e34433c14b](https://medium.com/daostack/a-technical-analysis-of-the-genesis-alpha-hack-f8e34433c14b)
-* [https://daotalk.org/t/genesis-beta-what-do-we-want-to-be/388](https://daotalk.org/t/genesis-beta-what-do-we-want-to-be/388)
+**Genesis Alpha** has been recently hacked \(~$15k drained\) and down, some [analysis on the hack is here](https://medium.com/daostack/a-technical-analysis-of-the-genesis-alpha-hack-f8e34433c14b). It  will be redeployed soon with a new version of contracts.
 
-#### Tokenizing Nature \(Phoebe?\)
+There will also be a big proposal from DAOstack to Genesis regarding its mission and future goals. A DAOstack leadership workshop is happening this week for that reason \(other topics will be discussed too of course\). [More discussion happen here](https://daotalk.org/t/genesis-beta-what-do-we-want-to-be/388).
 
-...
-
-#### Dgov DAO \(Liraz, Tim\)
-
-...
+**Dgov DAO** will be posting more updates soon.
 
 ## Outreach & Advocacy  
 
-#### Articles, Papers & Videos 
+### Media updates: Articles, Papers & Videos 
 
 * [Lightning Talks, Interviews and Fishbowl from the \#dgov council](https://www.youtube.com/watch?v=qTHHZN6bhlQ&list=PLDj0XyKkeYnfKo_yGij3ciK8lI9f3_VhL)
 * [Gitcoin Grants: CLR Matching](https://medium.com/gitcoin/gitcoin-grants-clr-matching-ecbc87b10038). Matching contributions with up to $25,000 in funding, in ETH
@@ -66,10 +64,21 @@ On the 28th we'll probably redeploy Genesis with the new version of Alchemy. The
 * [Hääl - Anonymous Electronic Voting System on Public Blockchains](https://github.com/eddieoz/haal)
 * [Report "Platform co-operatives – solving the capital conundrum"](https://media.nesta.org.uk/documents/Nesta_Platform_Report_AW_v4_3.pdf)
 * [Anti Toxic: Ethereum Will Go To The Moon Embracing Tolerance & Criticism](https://medium.com/tabookey/anti-toxic-ethereum-will-go-to-the-moon-embracing-tolerance-criticism-2871a61f7ef8) by Liraz Siri
+* Video [Bringing Your Own Governance Model to Aragon](https://www.youtube.com/watch?v=gEcaPRkcfR8&feature=youtu.be) by Jorge Izquierdo
 
-#### Ministry of Memes
+### \#dgov culture
 
-...
+First of all thanks to Aragon we now have the "Fight for freedom" day \(Feb 10\). Nothing crazy happened this year, but let's change it add some festive mood in 2020 ;\)
+
+Here're also some highlights from the Ministry of Memes chat:
+
+![](../.gitbook/assets/image%20%2818%29.png)
+
+![](../.gitbook/assets/image%20%287%29.png)
+
+![](../.gitbook/assets/image%20%289%29.png)
+
+![](../.gitbook/assets/image%20%2815%29.png)
 
 ## Support the Movement! <a id="DgovCompilation#3October2018-Events"></a>
 

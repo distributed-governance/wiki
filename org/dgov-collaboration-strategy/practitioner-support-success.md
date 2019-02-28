@@ -22,7 +22,7 @@ Team: Cem + Daniel, Max
 * [Telegram group](https://t.me/DAOincubator)
 * [Realtime board](https://realtimeboard.com/app/board/o9J_kysdxCw=/)
 
-## DAO progressed is tracked and shared
+## DAO progress is tracked and shared
 
 ### Pilot: Dgov DAO
 
