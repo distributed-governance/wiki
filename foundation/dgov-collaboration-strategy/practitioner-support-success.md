@@ -4,6 +4,12 @@
 
 ## [Body of Knowledge](../../) is gathered
 
+Priorities:
+
+1. [On-chain governance case studies](../../resources/protocol-governance-case-studies.md)
+2. [\#dgov industry landscape](../../resources/dgov-industry-landscape.md)
+3. ...
+
 Team: Grace + Max, Fran, Phil  
 Develop wiki through AMA sessions?  
 + translation in French \(Phil\)
