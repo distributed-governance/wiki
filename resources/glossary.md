@@ -1,6 +1,5 @@
 # Glossary
 
-Team: PhilH, Grace, Max   
 [Discussion](https://daotalk.org/t/dgov-dao-governance-glossary/408)
 
 ## Commons

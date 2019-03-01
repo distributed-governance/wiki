@@ -1,4 +1,6 @@
-# ToC
+# Intro
+
+## Table of Contents
 
 * [Glossary](https://wiki.dgov.foundation/resources/glossary)​
 * [Map of the industry landscape](https://wiki.dgov.foundation/resources/dgov-industry-landscape)
@@ -7,4 +9,6 @@
 * [DAO Tech Evaluation Framework](https://wiki.dgov.foundation/resources/dao-infrastructure-interoperability)​
 * [Distributed Governance Challenges](https://wiki.dgov.foundation/resources/distributed-governance-challenges)​
 * [Articles by Topic](https://wiki.dgov.foundation/resources/articles-by-topic-1)​
+
+Team: PhilH, Grace, Max, Pat, Ela, Theo, Jack, Louis Grx
 

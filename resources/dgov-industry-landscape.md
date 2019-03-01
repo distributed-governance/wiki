@@ -1,6 +1,5 @@
 # \#dgov Industry Landscape
 
-Team: Grace + Pat, Ela, Max  
 [Discussions](https://daotalk.org/t/dgov-industry-landscape/392)
 
 ## Projects
