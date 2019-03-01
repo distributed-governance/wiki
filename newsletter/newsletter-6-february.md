@@ -6,7 +6,7 @@
 
 \#dgov council revealed that while we share a lot of values, some aspects of our collaboration are not clear. E.g. what's the role of blockchain and technology in the movement, what exactly are we trying to achieve and so on.
 
-We'll be having a core group strategic session soon to form an initial vision. And then discussing this and more other connected topics during **\#dgov Community Assembly in Paris on Mar 8**, just after EthCC. [Join us there](https://dgovfoundation.typeform.com/to/b0nVmw).
+We'll be having a core group strategic session soon to form an initial manifesto. And then discussing this and more other connected topics during **\#dgov Community Assembly in Paris on Mar 8**, just after EthCC. [Join us there](https://dgovfoundation.typeform.com/to/b0nVmw).
 
 More themed upcoming events
 
