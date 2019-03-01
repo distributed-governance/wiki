@@ -134,6 +134,7 @@ Team: Grace + Pat, Ela, Max
 * [\#dgov Commnuity Assembly](https://dgovfoundation.typeform.com/to/b0nVmw) \(Mar 8, Paris\)
 * [radicalXchange](https://radicalxchange.org/) \(Mar 22-24, Detroit\)
 * [DAOCon](https://daocon.io/) \(Apr 26, Split, Croatia\)
+* [Governance and new organizational challenges](https://www.eublockchainforum.eu/events/governance-and-new-organizational-challenges) \(Apr 30, Brussels\)
 
 Want to host a local meetup?[ here're some tips](https://wiki.dgov.foundation/meetups)
 
