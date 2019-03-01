@@ -16,7 +16,7 @@ More themed upcoming events
 
 ### Structure of Work
 
-Our telegram group has significantly grown since last year, and while some discussions are gold, it's getting harder to do structured conversations there. We've discussed many options \(including discord, collective one, twist etc\) and so far the most supported option became the Discourse Forum. While there're some existent forums in the space, the community sentiment leaned towards an own \#dgov forum. We'll be launching and announcing that soon.
+Our telegram group has significantly grown since last year, and while some discussions are gold, it's getting harder to do structured conversations there. We've discussed many options \(including discord, collective one, twist etc\) and so far the most supported option became the Discourse Forum. While there're some existent forums in the space, the community sentiment leaned towards an own \#dgov forum. **So here it is** [http://forum.dgov.foundation/](http://forum.dgov.foundation/) , quite virgin now but feel free to add topic and proposals for categories and moderation in there.
 
 Overall you can track active projects, KPIs and so on at our [wiki/Strategy page](https://wiki.dgov.foundation/org/dgov-collaboration-strategy). It contains descriptions \(sometimes raw\), links to groups and discussion. Your support and new projects initiation is highly appreciated.
 
@@ -71,15 +71,21 @@ There will also be a big proposal from DAOstack to Genesis regarding its mission
 
 First of all thanks to Aragon we now have the "Fight for freedom" day \(Feb 10\). Nothing crazy happened this year, but let's change it add some festive mood in 2020 ;\)
 
-Here're also some highlights from the Ministry of Memes chat:
+Here're also some highlights from the Ministry of Memes chat and Pedro Parrachia specifically:
 
-![](../.gitbook/assets/image%20%2818%29.png)
+![](../.gitbook/assets/image%20%2819%29.png)
+
+![](../.gitbook/assets/image%20%288%29.png)
+
+![](../.gitbook/assets/image%20%2810%29.png)
+
+![](../.gitbook/assets/image%20%2816%29.png)
 
 ![](../.gitbook/assets/image%20%287%29.png)
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2820%29.png)
 
-![](../.gitbook/assets/image%20%2815%29.png)
+![](../.gitbook/assets/image%20%2821%29.png)
 
 ## Support the Movement!  <a id="DgovCompilation#3October2018-Events"></a>
 
