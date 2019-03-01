@@ -13,6 +13,7 @@
 
 ## Resources
 
+* [ToC](resources/toc.md)
 * [Glossary](resources/glossary.md)
 * [\#dgov Industry Landscape](resources/dgov-industry-landscape.md)
 * [\#dgov Global Map & Hubs](resources/map-of-the-industry-landscape.md)

@@ -4,23 +4,18 @@
 
 ## \#dgov Community Resources
 
-* [Glossary](resources/glossary.md)
-* [Map of the industry landscape](resources/dgov-industry-landscape.md) 
-* [\#dgov global map & hubs](resources/map-of-the-industry-landscape.md)
-* [On-chain governance Case Studies](resources/protocol-governance-case-studies.md)
-* [DAO Tech Evaluation Framework](resources/dao-infrastructure-interoperability.md)
-* [Distributed Governance Challenges](resources/distributed-governance-challenges.md)
-* [Articles by Topic](resources/articles-by-topic-1.md)
+* [Body of Knowledge](resources/toc.md)
+* [Forum](http://forum.dgov.foundation/) for substantial & deep conversations
+* Telegram group \(join to get invite\) for quick announcement/fun talk/random ideas
+* [Twitter](https://twitter.com/dgovearth)
+* [Youtube](https://www.youtube.com/channel/UCGZX1WbJNjuxma-7SXRdRDg)
+* [Medium](https://medium.com/dgov)
 
 ### How to Contribute
 
 * Support the projects from the [\#dgov strategy 2019](foundation/dgov-collaboration-strategy/)
 * Add to / Edit the wiki \([tips](./#process)\)
-* Attend [local meetups and events](resources/dgov-industry-landscape.md#events)
-* Host [local meetups and events](https://wiki.dgov.foundation/how-to-contribute/meetups)
-* Follow us on [Twitter](https://twitter.com/dgovearth), [Youtube](https://www.youtube.com/channel/UCGZX1WbJNjuxma-7SXRdRDg), [Medium](https://medium.com/dgov)
-* Quick announcement/fun talk/random ideas chat happens in closed telegram group \(join to get invite\)
-* Substantial, deep conversations happen on [\#dgov forum](http://forum.dgov.foundation)
+* [Host](meetups.md) & [Attend](resources/dgov-industry-landscape.md#events) local meetups and events
 
 ### Rules
 
