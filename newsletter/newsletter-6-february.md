@@ -1,6 +1,6 @@
 # Newsletter \#6 \(february\)
 
-## \#dgov Community Updates \(Max\)
+## \#dgov Community Updates
 
 ### Consensus on the Direction
 

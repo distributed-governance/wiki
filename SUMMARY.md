@@ -31,7 +31,7 @@
   * [Community Manager](foundation/roles/community-manager/README.md)
     * [Chat moderator](foundation/roles/community-manager/chat-moderator.md)
     * [Newsletter Editor](foundation/roles/community-manager/newsletter-editor.md)
-  * [Practitioner support / success](foundation/roles/practitioner-support-success/README.md)
+  * [Practitioner support / success manager](foundation/roles/practitioner-support-success/README.md)
     * [Wiki Maintainer](foundation/roles/practitioner-support-success/wiki-maintainer.md)
   * [Outreach & Advocacy / PR Manager](foundation/roles/pr-manager.md)
   * [Designer](foundation/roles/designer.md)
