@@ -28,6 +28,8 @@ Team: Cem + Daniel, Max
 * [Telegram group](https://t.me/DAOincubator)
 * [Realtime board](https://realtimeboard.com/app/board/o9J_kysdxCw=/)
 
+### Online dgov coffee?
+
 ## DAO progress is tracked and shared
 
 ### Pilot: Dgov DAO
