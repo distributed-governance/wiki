@@ -17,21 +17,30 @@
 
 ## Impact Mapping
 
-* Products e.g. protocols / infrastructure \(E.g. Ethereum, Tezos, Aragon, DAOStack...\)
-  * Pilots
-  * Access to the research
-  * Access to the community \(e.g. sentiment\)
-* DO / DAO \(Genesis Alpha, Aragon DAC\)
-  * Trustworthy core infrastructure
-  * Access to the research
-  * Access to the community \(engagement, hires, finances\)
-  * Regulation Framework
-* Experts e.g. Facilitators, Engineers, Legal \(Percolab, Enspiral\)
-  * Exploration / Sandboxes
-  * Access to customers
-* Researchers / Academics \(Jacob Eberhardt ZKProofs, Carla Legal Research\)
-  * Resource for the research \(community\)
-  * Recognition
-* Funds / VC \(Cambrial, Placeholder\)
-* Ecosystem / wider communities
+1. Products e.g. protocols / infrastructure \(E.g. Ethereum, Tezos, Aragon, DAOStack...\)
+
+   * Pilots
+   * Access to the research
+   * Access to the community \(e.g. sentiment\)
+
+2. DO / DAO \(Genesis Alpha, Aragon DAC\)
+
+   * Trustworthy core infrastructure
+   * Access to the research
+   * Access to the community \(engagement, hires, finances\)
+   * Regulation Framework
+
+3. Experts e.g. Facilitators, Engineers, Legal \(Percolab, Enspiral\)
+
+   * Exploration / Sandboxes
+   * Access to customers
+
+4. Researchers / Academics \(Jacob Eberhardt ZKProofs, Carla Legal Research\)
+
+   * Resource for the research \(community\)
+   * Recognition
+
+5. Team
+6. Funds / VC \(Cambrial, Placeholder\)
+7. Ecosystem / wider communities
 
