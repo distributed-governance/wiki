@@ -32,11 +32,13 @@ Soft governance meets hard governance
 
 Phoebe + Liraz + Tim, Phoebe, Grace, Max
 
-
-
 ### Council \#1 by inblock.io
 
 * [Details](../projects/dgov-community-council.md)
+
+### Paris Assembly
+
+...
 
 ### Retreat \#1 in Ljubljana by inblock.io
 
@@ -52,7 +54,9 @@ Leader: Tim  + help from Felix, Ela, Phoebe, Lucas, Max
 
 ~Sep-Oct 2019
 
-## Structure of Work is Open, Transparent and Participative 
+## Structure of Work is Open, Transparent and Participative
+
+
 
 ### Network Mapping & Profiles
 
@@ -62,9 +66,7 @@ Member catalog
 
 Intents and Strategies are open
 
-### Deep Debate platform
 
-Discourse Forum – used e.g. for research 
 
 ### Chatty / Announcement Platform
 
@@ -83,7 +85,10 @@ Collaborate with Aragon, DAOstack and more.
 * Detroit during RxC \(Mar 22-24\)
 * London \(Jack + Phoebe, Ruth + Furtherfield\)
 * Berlin \(Ela, Supermarkt - unconfirmed\)
-* Paris \(Philippe Honigman + Lucas, Max, Tim, Fran\)
-* Madrid \(Maria T Vida \(Tete\) forLegalBlock +David Llop for P2P Models\)
 * Amsterdam \(Luuk - unconfirmed\)
+
+### Done
+
+* ~~Setup Discourse Forum for deep debates & research~~
+* ~~Madrid \(Maria T Vida \(Tete\) forLegalBlock +David Llop for P2P Models\)~~
 
