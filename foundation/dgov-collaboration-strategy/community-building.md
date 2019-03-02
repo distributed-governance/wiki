@@ -18,6 +18,8 @@
 3. Setup the [newsletter](../../newsletter/) report routine
 4. [Industry Landscape](../../resources/dgov-industry-landscape.md) and [Global Hubs](../../resources/map-of-the-industry-landscape.md) directories are maintained
 
+move some best philosophical talks to dgov forum?
+
 ## 3. Community is Growing
 
 Support Indi Meetups / Workshop
