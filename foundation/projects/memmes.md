@@ -1,4 +1,4 @@
-# \#dgov memmes
+# \#dgov stickers
 
 {% embed url="https://medium.com/@luanvanpletsen/the-new-republic-d6cfd961c1d5" %}
 
@@ -15,7 +15,7 @@
 * horizontal chicken
 * minimum viable governance
 
-![](.gitbook/assets/image%20%283%29.png)
+![](../../.gitbook/assets/image%20%283%29.png)
 
 ### Coop anti-patterns
 
@@ -28,7 +28,7 @@
 * find truth in absolute
 * defeat competitors
 
-![](.gitbook/assets/giphy-3.gif)
+![](../../.gitbook/assets/giphy-3.gif)
 
 ## Unsorted:
 

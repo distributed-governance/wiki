@@ -21,17 +21,14 @@ For cross publishing, speaking etc
 
 ## Rich Movement Culture Exists
 
-Memmes, Brand materials, Merch etc exists
+* Collect and share governance memes
+* [Dgov Stickers](../projects/memmes.md)
+* Merch
+* clip / movie form of manifesto?
 
 Ori – Max, Tim, Martin, Jack, Ruth
 
 Chat: [https://t.me/MinistryofMemes](https://t.me/MinistryofMemes)
-
-[Some drafts here](../../memmes.md)
-
-logo, cool merch etc...
-
-### clip / movie form of manifesto?
 
 ...
 

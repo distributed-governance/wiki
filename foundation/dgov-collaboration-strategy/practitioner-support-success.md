@@ -2,9 +2,7 @@
 
 **Purpose:** more successful DAO pilots
 
-## [Body of Knowledge](../../) is gathered
-
-Priorities:
+## 1. [Body of Knowledge](../../) is gathered
 
 1. [On-chain governance case studies](../../resources/protocol-governance-case-studies.md)
 2. [\#dgov industry landscape](../../resources/dgov-industry-landscape.md)
@@ -15,7 +13,7 @@ Team: Grace + Max, Fran, Phil
 Develop wiki through AMA sessions?  
 + translation in French \(Phil\)
 
-## [Expertise center](https://dao-incubator.gitbook.io/wiki/) is established
+## 2. [Expertise center](https://dao-incubator.gitbook.io/wiki/) is established
 
 ### DAO Incubator
 
@@ -29,20 +27,11 @@ Team: Cem + Daniel, Max
 * [Telegram group](https://t.me/DAOincubator)
 * [Realtime board](https://realtimeboard.com/app/board/o9J_kysdxCw=/)
 
-### Online dgov coffee?
+### Dgov coffee \(online\)?
 
-## DAO progress is tracked and shared
+## 3. DAO progress is tracked and shared
 
-### Pilot: Dgov DAO
-
-Leader: Tim/Liraz? + 19 people on the telegram group
-
-The DAO itself is believe to be nothing else than an intermediate step of exploration to support the DGOV Community with blockchain based infrastructure for coordination. This creates space\(s\) for exploration of new governance models.
-
-The first seed DAO acts as in incubator to spawn many other independent second generation “child DAO’s” which spawn third generation “child DAO’s” ...and so on to allow for concurrent iterations. The number of child-DAO’s or newly created DAO’s based on iterations of the first template should be arbitrary.
-
-* [Description](https://docs.google.com/document/d/1pD0yTQStmvi-KISIHT1hKwHsRSfFRY1BlGydOeD3KDg/edit#heading=h.fxbnb3eqovuq)
-* Chat \(by invite\)
+* [Dgov DAO](../projects/dgov-dao.md)
 
 ### Tokenizing Nature 2.0
 

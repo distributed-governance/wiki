@@ -2,6 +2,15 @@
 
 Goal: define a manifesto, which will guide the movement, community and org development.
 
+Should be crowdsourced from the board
+
+Values
+
+* Anti-rivalry
+* Co-creation
+* Team first
+* Wholeness
+
 ## Questions to be answered
 
 * What are we trying to accomplish

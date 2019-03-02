@@ -1,5 +1,9 @@
 # \#dgov Industry Landscape
 
+Audience: people who want to bring more distributed/decentralized design to the organizations.
+
+Would be nice to open Intents and Strategies
+
 [Discussions](https://daotalk.org/t/dgov-industry-landscape/392)
 
 ## Projects
