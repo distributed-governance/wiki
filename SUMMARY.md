@@ -20,6 +20,7 @@
 * [On-chain Governance Case Studies](resources/protocol-governance-case-studies.md)
 * [DAO Tech Evaluation Framework](resources/dao-infrastructure-interoperability.md)
 * [Distributed Governance Challenges](resources/distributed-governance-challenges.md)
+* [Horizontal Organizing Patterns / Tools](resources/horizontal-organizing-patterns-tools.md)
 * [Articles by Topic](resources/articles-by-topic-1.md)
 
 ## Foundation

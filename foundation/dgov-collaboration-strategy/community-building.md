@@ -4,13 +4,6 @@
 
 ## Consensus on the Direction is reached
 
-### Board of Advisors / Directors gathered
-
-* Aragon
-* DAO Stack
-* Colony
-* ...
-
 ### Movement Manifesto is published
 
 Should be crowdsourced from the board
@@ -23,18 +16,6 @@ Values
 * Wholeness
 
 [Manifesto Draft](../projects/foundation-thesis.md)
-
-### Providing Horizontal Organising Patterns / Tools
-
-Horizontal leadership, decentralised organising patterns, group facilitation
-
-Soft governance meets hard governance
-
-Phoebe + Liraz + Tim, Phoebe, Grace, Max
-
-### Council \#1 by inblock.io
-
-* [Details](../projects/dgov-community-council.md)
 
 ### Paris Assembly
 
@@ -53,6 +34,17 @@ Leader: Tim
 Leader: Tim  + help from Felix, Ela, Phoebe, Lucas, Max
 
 ~Sep-Oct 2019
+
+### Board of Advisors is gathered
+
+* Aragon
+* DAO Stack
+* Colony
+* ...
+
+### Done
+
+* ~~~~[~~Council \#1 by inblock.io~~](../projects/dgov-community-council.md)~~~~
 
 ## Structure of Work is Open, Transparent and Participative
 

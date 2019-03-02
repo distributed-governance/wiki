@@ -8,7 +8,8 @@ Priorities:
 
 1. [On-chain governance case studies](../../resources/protocol-governance-case-studies.md)
 2. [\#dgov industry landscape](../../resources/dgov-industry-landscape.md)
-3. ...
+3. [Horizontal Organising Patterns / Tools](../../resources/horizontal-organizing-patterns-tools.md)
+4. ...
 
 Team: Grace + Max, Fran, Phil  
 Develop wiki through AMA sessions?  
