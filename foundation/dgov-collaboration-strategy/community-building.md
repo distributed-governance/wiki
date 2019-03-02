@@ -28,3 +28,5 @@ Support Indi Meetups / Workshop
 * Berlin \(Ela, Supermarkt - unconfirmed\)
 * Amsterdam \(Luuk - unconfirmed\)
 
+Develop [supporting guidelines](../../meetups.md) for local hubs
+
