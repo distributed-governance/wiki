@@ -4,7 +4,7 @@ Audience: people who want to bring more distributed/decentralized design to the 
 
 Would be nice to open Intents and Strategies
 
-[Discussions](https://daotalk.org/t/dgov-industry-landscape/392)
+[Discussions](http://forum.dgov.foundation/t/dgov-industry-landscape/15)
 
 ## Projects
 
