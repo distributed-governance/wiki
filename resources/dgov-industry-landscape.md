@@ -58,6 +58,7 @@ Would be nice to open Intents and Strategies
 * [The Hague Center for Global Governance, Innovation and Emergence](http://www.thehaguecenter.org/)
 * [Bushwick Generator](https://www.thebushwickgenerator.com/)
 * [Giveth Gov Labs](https://github.com/Giveth/gov-lab)
+* [http://rethinkerylabs.com/](http://rethinkerylabs.com/)
 
 ### VCs
 
