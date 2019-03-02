@@ -4,7 +4,7 @@
 
 ## \#dgov Community Resources
 
-* [Body of Knowledge](resources/toc.md)
+* [Wiki / Body of Knowledge](resources/toc.md)
 * [Forum](http://forum.dgov.foundation/) for substantial & deep conversations
 * Telegram group \(join to get invite\) for quick announcement/fun talk/random ideas
 * [Twitter](https://twitter.com/dgovearth)
