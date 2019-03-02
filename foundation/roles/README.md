@@ -21,7 +21,7 @@ Changes to policies and roles are done through the Holacracy IDM process. Telegr
 
 \*Work in progress
 
-### Assets
+### Governed Assets
 
 * Website / Domain
 * Wiki
