@@ -29,6 +29,7 @@ Twitter: [@AnjaBlaj](https://twitter.com/AnjaBlaj)
 * Sep 2018 – First \#dgov meetup in Berli
 * Oct 2018 – Conference postponed, focus on community building
 * Jan 26-28, 2019 – First community council
+* ...
 
 ## Publications
 
@@ -36,5 +37,5 @@ Twitter: [@AnjaBlaj](https://twitter.com/AnjaBlaj)
 * [How to improve the economy with better organizations and technology](https://irishtechnews.ie/how-to-improve-the-economy-with-better-organisations-and-technology-max-semenchuk-dgov/) for IrishTechNews
 * [https://akasha.org/blog/2019/02/08/distributed-governance](https://akasha.org/blog/2019/02/08/distributed-governance)
 * [https://futurethinkers.org/collective-intelligence-and-meme-tribes/](https://futurethinkers.org/collective-intelligence-and-meme-tribes/)
-* [https://www.youtube.com/watch?v=qTHHZN6bhlQ&list=PLDj0XyKkeYnfKo\_yGij3ciK8lI9f3\_VhL](https://www.youtube.com/watch?v=qTHHZN6bhlQ&list=PLDj0XyKkeYnfKo_yGij3ciK8lI9f3_VhL)
+* [\#dgov council 1 videos](https://www.youtube.com/watch?v=qTHHZN6bhlQ&list=PLDj0XyKkeYnfKo_yGij3ciK8lI9f3_VhL)
 
