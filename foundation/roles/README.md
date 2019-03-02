@@ -4,16 +4,7 @@ Dgov foundation is created to support the \#dgov movement and maintain the commu
 
 Changes to policies and roles are done through the Holacracy IDM process. Telegram and Loomio voting can be used for consulting with the community.
 
-### Assets
-
-* Website / Domain
-* Wiki
-* Communication channels \(SoMe accounts, Telegram Chat, Loomio etc\)
-* Email list
-* Logo / Brand
-* Budget \(0 for now\)
-
-### Roles
+## Roles
 
 * [Community Manager](community-manager/) – Max
   * [Chat Moderator](community-manager/chat-moderator.md) – Max, Tim, Anja
@@ -28,7 +19,16 @@ Changes to policies and roles are done through the Holacracy IDM process. Telegr
 
 ## Policies
 
-Work in progress
+\*Work in progress
+
+### Assets
+
+* Website / Domain
+* Wiki
+* Communication channels \(SoMe accounts, Telegram Chat, Loomio etc\)
+* Email list
+* Logo / Brand
+* Budget \(0 for now\)
 
 ### Accepting new members
 
