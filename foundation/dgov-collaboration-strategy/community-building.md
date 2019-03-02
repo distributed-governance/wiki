@@ -44,7 +44,7 @@ Leader: Tim  + help from Felix, Ela, Phoebe, Lucas, Max
 
 ### Done
 
-* ~~~~[~~Council \#1 by inblock.io~~](../projects/dgov-community-council.md)~~~~
+* ~~~~[~~Council \#1 by inblock.io~~](../projects/events/dgov-community-council.md)~~~~
 
 ## Structure of Work is Open, Transparent and Participative
 
