@@ -9,18 +9,18 @@
    * Access to the customers / community \(feedback, sentiment\)
    * More Pilots, Exploration / Sandboxes
    * Access to the research
-   * Festival in Athens 2020
-   * Raise and create value equivalent ~$1M
 
 2. [Practitioner Support / Success](practitioner-support-success.md) for DO / DAO by [practitioner support / success manager](../roles/practitioner-support-success/)
 
-   * Trustworthy core infrastructure
-   * Access to the research
-   * Access to the community \(engagement, hires, finances\)
+   * Experts
+   * Finance
+   * Knowledge, research
+   * Tools \(core infrastructure\)
    * Regulation Framework
 
-3. ?? for [Team](../dgov-history.md) by ??
-   * ! governance / compensation 
+3. [Team care](team-care.md) for [Team](../dgov-history.md) by team care manager
+   * good governance
+   * fair compensation 
 4. [Outreach & Advocacy](advocacy-and-education.md) for Ecosystem / wider communities by [outreach & Advocacy / PR manager](../roles/pr-manager.md)
 
 Other: researchers, policy makers, funds/vcs

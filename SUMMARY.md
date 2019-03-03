@@ -27,6 +27,7 @@
 * [\#dgov Strategy](foundation/dgov-collaboration-strategy/README.md)
   * [Community Management](foundation/dgov-collaboration-strategy/community-building.md)
   * [Practitioner Support/Success](foundation/dgov-collaboration-strategy/practitioner-support-success.md)
+  * [Team Care](foundation/dgov-collaboration-strategy/team-care.md)
   * [Outreach & Advocacy](foundation/dgov-collaboration-strategy/advocacy-and-education.md)
 * [\#dgov Governance](foundation/roles/README.md)
   * [Community Manager](foundation/roles/community-manager/README.md)

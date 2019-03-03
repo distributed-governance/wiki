@@ -2,6 +2,8 @@
 
 **Purpose:** increase connections and collaborations in the movement
 
+KPI: value created \(~$1M till end of 2020?\)
+
 ## 1. Consensus on the Direction is Reached
 
 1. ~~~~[~~Council \#1 by inblock.io~~](../projects/events/dgov-community-council.md)
@@ -20,7 +22,7 @@
 
 move some best philosophical talks to dgov forum?
 
-## 3. Community is Growing
+## 3. Capacity building
 
 Support Indi Meetups / Workshop
 
@@ -29,6 +31,7 @@ Support Indi Meetups / Workshop
 * London \(Jack + Phoebe, Ruth + Furtherfield\)
 * Berlin \(Ela, Supermarkt - unconfirmed\)
 * Amsterdam \(Luuk - unconfirmed\)
+* Festival in Athens 2020
 
 Develop [supporting guidelines](../../meetups.md) for local hubs
 
