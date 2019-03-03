@@ -59,6 +59,8 @@ Would be nice to open Intents and Strategies
 * [Bushwick Generator](https://www.thebushwickgenerator.com/)
 * [Giveth Gov Labs](https://github.com/Giveth/gov-lab)
 * [http://rethinkerylabs.com/](http://rethinkerylabs.com/)
+* Institute for Futures Studies and Technology Assessment
+* [4irelabs](https://4irelabs.com/)
 
 ### VCs
 
