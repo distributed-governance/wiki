@@ -14,7 +14,7 @@ Would be nice to open Intents and Strategies
 * Aragon Network
 * Melonport
 
-### DAO Platforms
+### Tools / Platforms
 
 * [Aragon](https://aragon.org/) – project that aims to disintermediate the creation and maintenance of organizational structures by using blockchain technology 
 * [Colony](https://colony.io/) – platform for open organizations
@@ -54,7 +54,7 @@ Would be nice to open Intents and Strategies
 * ​[BrightID](https://www.brightid.org/)​ – identity solution
 * [Jolocom](https://jolocom.io/) – identity solution
 
-## Organizations
+### Unsorted
 
 * [DAO Zero](https://docs.google.com/document/d/1rrhkRKq2fK72Vmbn-xxt6bPwUX3GYDtGuCkoopbjVpw/edit#heading=h.frcxq7smt4ir)
 * [Participatory Orgs](https://github.com/ParticipatoryOrgs)
@@ -74,6 +74,43 @@ Would be nice to open Intents and Strategies
 * Akasha
 * [https://variabl.io/](https://variabl.io/)
 * Consensys Labs
+* [starfish network](https://www.starfish.network/)
+* [Dezentrum](https://www.dezentrum.ch/en/)
+* Web3 Foundation
+* Enspiral
+* Percolab
+* Ethereum Foundation
+* Amatus
+* [https://www.enkel.co/](https://www.enkel.co/)
+* Betoken
+* FutureThinkers.org
+* Greenfield.one
+* [https://www.edenblock.com/](https://www.edenblock.com/)
+* Blockchains LLC
+* TabooKey
+* Pocket Network
+* Economic Space Agency
+* Horatii Partners
+* aeternity
+* [http://smtngood.eu](http://smtngood.eu)
+* [https://claryon.github.io/lexon/](https://claryon.github.io/lexon/)
+* [https://axveco.com/en/](https://axveco.com/en/)
+* Mattereum
+* Gnosis
+* Ocean Protocol
+* wd-pl.com
+* oscoin
+* Ouishare
+* Pando
+* [https://autark.ventures/](https://autark.ventures/)
+* betterplace lab
+* EOS
+* RadicalXChange
+* RAREAF2
+* CADAF.io
+* Globatalent
+* SUPERMARKT
+* BlockchainCommons
 
 ### VCs
 
@@ -82,6 +119,7 @@ Would be nice to open Intents and Strategies
 * [Index ventures](https://www.indexventures.com/)
 * [Coinfund](https://coinfund.io/)
 * Outlier Ventures
+* [https://www.libertuscapital.com/](https://www.libertuscapital.com/)
 
 ## **Forums & Subreddits**
 
