@@ -13,12 +13,11 @@ KPI: value created \(~$1M till end of 2020?\)
 5. Retreat \#1 in Ljubljana by inblock.io ~Apr-Jun 2019
 6. Council \#2 by inblock.io ~Sep-Oct 2019 \(Tim + help from Felix, Ela, Phoebe, Lucas, Max\)
 
-## 2. Structure of Work is Open, Transparent and Participative
+## 2. Create more DAOs / acquisition group
 
-1. ~~~~[~~Setup Discourse Forum for deep debates & research~~](http://forum.dgov.foundation)~~~~
-2. Maintain the [strategy](./) / [governance](../roles/) up to date
-3. Setup the [newsletter](../../newsletter/) report routine
-4. [Industry Landscape](../../resources/dgov-industry-landscape.md) and [Global Hubs](../../resources/map-of-the-industry-landscape.md) directories are maintained
+...
+
+## 
 
 move some best philosophical talks to dgov forum?
 
