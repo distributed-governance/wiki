@@ -1,37 +1,38 @@
 # Welcome to the \#dgov community
 
-\#dgov is a community of people who want to bring more distributed/decentralized design to the organizations.
+We in \#dgov community want to bring more distributed/decentralized design to the organizations. It's a pleasure to welcome you here.
 
-## \#dgov Community Resources
+### Some tips that can help you to be productive:
 
-* [Wiki / Body of Knowledge](resources/toc.md)
-* [Forum](http://forum.dgov.foundation/) for substantial & deep conversations
-* Telegram group \(join to get invite\) for quick announcement/fun talk/random ideas
-* [Twitter](https://twitter.com/dgovearth)
-* [Youtube](https://www.youtube.com/channel/UCGZX1WbJNjuxma-7SXRdRDg)
-* [Medium](https://medium.com/dgov)
+* [Join the Telegram group](https://earth.us18.list-manage.com/track/click?u=566b6b2a60e0829db656d3b34&id=34137f124c&e=7265fe9357) for quick announcement, fun talk & random ideas
+* [Use forum](https://earth.us18.list-manage.com/track/click?u=566b6b2a60e0829db656d3b34&id=ce349e1f74&e=7265fe9357) for substantial & deep conversations
+* Check out our [Wiki / Body of Knowledge](http://resources/toc)
+* Subscribe to our [Twitter](https://earth.us18.list-manage.com/track/click?u=566b6b2a60e0829db656d3b34&id=b3dd507d36&e=7265fe9357)
+
+### Also we have a couple of rules:
+
+* Stay on topic: please post and discuss topics relevant to governance, DAO, token economy etc
+* Give More Than You Take: What makes a community amazing is when members are more focused on helping each other, than on helping themselves. Be as helpful as possible and everyone benefits!
+* No Hate Speech or Bullying: You should respectfully challenge ideas, but never attack the person. Help us make sure everyone feels safe in the community. Bullying of any kind isn't allowed, and degrading comments about things like race, religion, culture, sexual orientation, gender or identity will not be tolerated.
+* We practice [do-acracy](https://earth.us18.list-manage.com/track/click?u=566b6b2a60e0829db656d3b34&id=b9d4ac1cc6&e=7265fe9357)
+
+### If you're interested in active project/foundation participation you might want to check out our
+
+* [Strategy](http://foundation/dgov-collaboration-strategy)
+* [Governance](http://foundation/roles)
+* [About us](http://foundation/dgov-history)
+* [Logo / Identity](http://foundation/identity)
+
+Whenever you have a question or siggestion feel free to ping the community manager – Max, that's me =\) Quick contacts: [max.semenchuk@gmail.com](mailto:max.semenchuk@gmail.com), telegram, twitter: @maxsemenchuk
+
+## Process
 
 ### How to Contribute
 
 * Support the projects from the [\#dgov strategy 2019](foundation/dgov-collaboration-strategy/)
-* Add to / Edit the wiki \([tips](./#process)\)
 * [Host](meetups.md) & [Attend](resources/dgov-industry-landscape.md#events) local meetups and events
 
-### Rules
-
-1. Stay on topic: please post and discuss topics relevant to governance, DAO, token economy etc
-2. Give More Than You Take: What makes a community amazing is when members are more focused on helping each other, than on helping themselves. Be as helpful as possible and everyone benefits!
-3. No Hate Speech or Bullying: You should respectfully challenge ideas, but never attack the person. Help us make sure everyone feels safe in the community. Bullying of any kind isn't allowed, and degrading comments about things like race, religion, culture, sexual orientation, gender or identity will not be tolerated.
-4. We practice [do-acracy](https://communitywiki.org/wiki/DoOcracy)
-
-## \#dgov foundation
-
-* [Strategy](foundation/dgov-collaboration-strategy/)
-* [Governance](foundation/roles/)
-* [About us](foundation/dgov-history.md)
-* [Logo / Identity](foundation/identity.md)
-
-## Process
+### Edit this wiki
 
 Feel free to contribute to any part of this wiki – it's very welcome
 
