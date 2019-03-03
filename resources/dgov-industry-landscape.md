@@ -1,4 +1,4 @@
-# \#dgov Industry Landscape
+# \#dgov Community Landscape
 
 Audience: people who want to bring more distributed/decentralized design to the organizations.
 
@@ -8,6 +8,11 @@ Would be nice to open Intents and Strategies
 
 ## Projects
 
+### DO / DAOs
+
+* Guerrilla Translation
+* Aragon Network
+* 
 ### DAO Platforms
 
 * [Aragon](https://aragon.org/) – project that aims to disintermediate the creation and maintenance of organizational structures by using blockchain technology 
@@ -31,6 +36,7 @@ Would be nice to open Intents and Strategies
 * [CONE Network](http://www.cone.network/) + [Demo](https://vimeo.com/314549856)
 * [Sobol](https://sobol.io/)
 * [Metaorg](https://www.metaorg.one/)
+* [Kleros](https://kleros.io/) – dispute resolution
 
 ### Bounties & Donations
 
@@ -46,7 +52,6 @@ Would be nice to open Intents and Strategies
 * [uPort](https://www.uport.me/)​ – identity solution
 * ​[BrightID](https://www.brightid.org/)​ – identity solution
 * [Jolocom](https://jolocom.io/) – identity solution
-* [Kleros](https://kleros.io/) – dispute resolution
 
 ## Organizations
 
@@ -61,11 +66,17 @@ Would be nice to open Intents and Strategies
 * [http://rethinkerylabs.com/](http://rethinkerylabs.com/)
 * Institute for Futures Studies and Technology Assessment
 * [4irelabs](https://4irelabs.com/)
+* GIZ Blockchain Lab
+* blockchaintalks.io
+* COALA
+* [https://alice.si/](https://alice.si/)
+* Akasha
+* [https://variabl.io/](https://variabl.io/)
 
 ### VCs
 
 * [Placeholder](https://www.placeholder.vc/)
-* [Cambrial](https://cambrial.com/)
+* [Cambrial Capital](https://cambrial.com/)
 * [Index ventures](https://www.indexventures.com/)
 * [Coinfund](https://coinfund.io/)
 * Outlier Ventures

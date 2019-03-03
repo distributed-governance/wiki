@@ -14,7 +14,7 @@
 
 * [Intro](resources/toc.md)
 * [Glossary](resources/glossary.md)
-* [\#dgov Industry Landscape](resources/dgov-industry-landscape.md)
+* [\#dgov Community Landscape](resources/dgov-industry-landscape.md)
 * [\#dgov Global Map & Hubs](resources/map-of-the-industry-landscape.md)
 * [On-chain Governance Case Studies](resources/protocol-governance-case-studies.md)
 * [DAO Tech Evaluation Framework](resources/dao-infrastructure-interoperability.md)
