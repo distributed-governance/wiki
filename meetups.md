@@ -1,31 +1,24 @@
 # Host Local Meetups
 
-## **Guide**
-
 Anyone can start a meetup in his \(her\) region. Meetup can be in a form of an informal dinner for 3-12 people. Or can be an educational / network meetup with a dedicated place.
 
-### **Process:**
+## **Process**
 
-1. Select date
-2. Find and book the venue
-3. Create event \(e.g. Eventbrite\)
-4. Invite people
-5. Facilitate the event
-6. Collect feedback
+1. [Preparation](meetups.md#preparation)
+2. [Announcing the event and Inviting people](meetups.md#announcing-the-event-and-inviting-people)
+3. [Facilitation](meetups.md#facilitation)
+4. [Collecting feedback](meetups.md#collecting-feedback)
 
-### Materials: <a id="LocalMeetups-Createevent"></a>
+## Preparation
 
-* [Design materials](foundation/identity.md)
+Select date, Find and book the venue
 
-### Invite <a id="LocalMeetups-Invite"></a>
+## Announcing the event and Inviting people
 
-Places to invite people:
-
-* add to neswletter
-* dgov reddit + other reddits
-* dgov twitter + mentions
-* chat
-* Publish on website
+1. Сreate event announcements on the forum
+2. Share to the chat
+3. Share on twitter with @dgoverath \#dgov mentions
+4. Add to newsletter
 
 Example:
 
@@ -33,7 +26,13 @@ Example:
 >
 > We're gathering friends and peers who are interested in the discussion of distributed governance, blockchain governance and DAOs. We'll have a quiet dinner near the Web3 location \(location will be announced soon\). Please RSVP, the event is free, but places are limited.
 
-### Collect Feedback <a id="LocalMeetups-CollectFeedback"></a>
+* [Design materials](foundation/identity.md)
+
+## Facilitation
+
+...
+
+## Collecting Feedback
 
 Example:
 
