@@ -10,6 +10,7 @@
 2. Maintain the [strategy](./) / [governance](../roles/) up to date
 3. Setup the [newsletter](../../newsletter/) report routine
 4. [Industry Landscape](../../resources/dgov-industry-landscape.md) and [Global Hubs](../../resources/map-of-the-industry-landscape.md) directories are maintained
+5. for strategy quarterly retro + strategy clarification
 
 ## fair compensation
 
