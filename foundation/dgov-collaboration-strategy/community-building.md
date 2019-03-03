@@ -13,13 +13,11 @@ KPI: value created \(~$1M till end of 2020?\)
 5. Retreat \#1 in Ljubljana by inblock.io ~Apr-Jun 2019
 6. Council \#2 by inblock.io ~Sep-Oct 2019 \(Tim + help from Felix, Ela, Phoebe, Lucas, Max\)
 
-## 2. Create more DAOs / acquisition group
-
-...
-
-## 
-
 move some best philosophical talks to dgov forum?
+
+## 2. Create more DAOs / Setup Acquisition Group
+
+Purpose: support the creation of more DAOs
 
 ## 3. Capacity building
 
@@ -27,10 +25,12 @@ Support Indi Meetups / Workshop
 
 * ~~Feb 28, 2019 Madrid \(Maria T Vida \(Tete\) forLegalBlock +David Llop for P2P Models\)~~
 * Detroit during RxC \(Mar 22-24\)
+* Develop [supporting guidelines](../../meetups.md) for local hubs
+* Festival in Athens 2020
+
+Possible events:
+
 * London \(Jack + Phoebe, Ruth + Furtherfield\)
 * Berlin \(Ela, Supermarkt - unconfirmed\)
 * Amsterdam \(Luuk - unconfirmed\)
-* Festival in Athens 2020
-
-Develop [supporting guidelines](../../meetups.md) for local hubs
 
