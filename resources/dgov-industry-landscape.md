@@ -12,7 +12,8 @@ Would be nice to open Intents and Strategies
 
 * Guerrilla Translation
 * Aragon Network
-* 
+* Melonport
+
 ### DAO Platforms
 
 * [Aragon](https://aragon.org/) – project that aims to disintermediate the creation and maintenance of organizational structures by using blockchain technology 
@@ -72,6 +73,7 @@ Would be nice to open Intents and Strategies
 * [https://alice.si/](https://alice.si/)
 * Akasha
 * [https://variabl.io/](https://variabl.io/)
+* Consensys Labs
 
 ### VCs
 
