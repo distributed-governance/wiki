@@ -17,6 +17,7 @@
 * [\#dgov Community Landscape](resources/dgov-industry-landscape.md)
 * [\#dgov Global Map & Hubs](resources/map-of-the-industry-landscape.md)
 * [On-chain Governance Case Studies](resources/protocol-governance-case-studies.md)
+* [DAO Use Cases](resources/dao-use-cases.md)
 * [DAO Tech Evaluation Framework](resources/dao-infrastructure-interoperability.md)
 * [Distributed Governance Challenges](resources/distributed-governance-challenges.md)
 * [Horizontal Organizing Patterns / Tools](resources/horizontal-organizing-patterns-tools.md)
