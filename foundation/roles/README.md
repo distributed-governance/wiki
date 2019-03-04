@@ -12,8 +12,9 @@ Changes to policies and roles are done through the Holacracy IDM process. Telegr
   * [Newsletter Editor](community-manager/newsletter-editor.md) – Max
   * Facilitators \(incl. council events\) – Max, Fran, Phoebe, Lucas, Ela
   * Mediators \(preliminary\) – Chris, Loie, Felix, Phoebe, Anuj
-* Practitioner support / success manager – 
+* Practitioner support / success manager – Max?
   * [Wiki Maintainer](practitioner-support-success/wiki-maintainer.md) – Max, Phoebe, Grace
+* Team Care – Phoebe?
 * [Outreach & Advocacy / PR Manager](pr-manager.md) – Anja
 * [Designer](designer.md) – Max
 
