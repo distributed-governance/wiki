@@ -1,18 +1,10 @@
-# \#dgov Community Landscape
+# \#dgov Service Providers
 
 Audience: people who want to bring more distributed/decentralized design to the organizations.
 
 Would be nice to open Intents and Strategies
 
 [Discussions](http://forum.dgov.foundation/t/dgov-industry-landscape/15)
-
-## Projects
-
-### DO / DAOs
-
-* Guerrilla Translation
-* Aragon Network
-* Melonport
 
 ### Tools / Platforms
 
@@ -104,13 +96,13 @@ Would be nice to open Intents and Strategies
 * Pando
 * [https://autark.ventures/](https://autark.ventures/)
 * betterplace lab
-* EOS
 * RadicalXChange
 * RAREAF2
 * CADAF.io
 * Globatalent
 * SUPERMARKT
 * BlockchainCommons
+* DAO Bridge
 
 ### VCs
 
