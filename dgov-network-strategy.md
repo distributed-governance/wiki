@@ -58,7 +58,7 @@
 * [CONE Network](http://www.cone.network/) + [Demo](https://vimeo.com/314549856)
 * [Sobol](https://sobol.io/)
 * [Metaorg](https://www.metaorg.one/)
-* [Kleros](https://kleros.io/) – dispute resolution
+* [Abie](http://abie.fund) – minimalist DAO that includes a Sybil-resistant voting system based on liquid democracy.
 
 ### Bounties & Donations
 
@@ -88,6 +88,12 @@
 * inblock.io
 * [Rethinkery Labs](http://rethinkerylabs.com/)
 
+### Legal / Jurisdiction
+
+* [Kleros](https://kleros.io/) – dispute resolution
+* Mattereum
+* DAO Bridge
+
 ### VCs
 
 * [Placeholder](https://www.placeholder.vc/)
@@ -101,13 +107,11 @@
 
 ### Other
 
-* Mattereum
 * Gnosis
 * Ocean Protocol
 * [https://alice.si/](https://alice.si/)
 * Akasha
 * [https://variabl.io/](https://variabl.io/)
-* DAO Bridge
 * Pando / Aragon Black
 * [https://claryon.github.io/lexon/](https://claryon.github.io/lexon/)
 * aeternity
