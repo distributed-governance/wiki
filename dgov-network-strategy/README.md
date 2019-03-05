@@ -8,9 +8,9 @@ Would be nice to open Intents and Strategies
 
 ## Needs
 
-1. [Good governance](team-care.md) for the network
-   * Structure of Work is Open, Transparent and Participative
-   * Integration of knowledge by [Dgov Foundation](https://dgov.foundation/), [DAO Stack Polinators](https://t.me/joinchat/HfsmOEXV0YP6P5rGmRBaCQ), [Bushwick Generator](https://www.thebushwickgenerator.com/), COALAs, [starfish network](https://www.starfish.network/)  
+1.  Network
+   * Increase the collaborations in the network with [Good governance](team-care.md) \(Structure of Work is Open, Transparent and Participative\)
+   * Support Integration of knowledge by [Dgov Foundation](https://dgov.foundation/), [DAO Stack Polinators](https://t.me/joinchat/HfsmOEXV0YP6P5rGmRBaCQ), [Bushwick Generator](https://www.thebushwickgenerator.com/), COALAs, [starfish network](https://www.starfish.network/)  
 2. [Providers](./#providers)
 
    * Users
