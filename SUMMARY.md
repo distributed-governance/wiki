@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to the \#dgov community](README.md)
+* [Welcome to the \#dgov network](README.md)
 * [\#dgov Global Map & Hubs](map-of-the-industry-landscape.md)
 * [Events](dgov-industry-landscape/README.md)
   * [Host Local Meetups](dgov-industry-landscape/meetups.md)
