@@ -6,5 +6,5 @@
 2. Setup the [newsletter](../newsletter/) report routine
 3. Board of Advisors is gathered \(e.g. Aragon, DAO Stack, Colony\)
 4. [Industry Landscape](../dgov-industry-landscape/) and [Global Hubs](../resources/map-of-the-industry-landscape.md) directories are maintained
-5. Interview more dgov stakeholders
+5. Interview more dgov stakeholders \(needs, expectations, strategies\)
 
