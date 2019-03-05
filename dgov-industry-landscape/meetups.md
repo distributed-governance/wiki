@@ -15,8 +15,8 @@ Select date, Find and book the venue
 
 ## Announcing the event and Inviting people
 
-1. Сreate event announcements on the forum
-2. Share to the chat
+1. Сreate event announcements on the [forum](http://forum.dgov.foundation/)
+2. Share link to the chat
 3. Share on twitter with @dgoverath \#dgov mentions
 4. Add to newsletter
 
