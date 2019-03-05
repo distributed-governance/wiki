@@ -30,7 +30,7 @@
 
 ## Foundation
 
-* [\#dgov Governance](foundation/roles/README.md)
+* [\#dgov Strategy & Governance](foundation/roles/README.md)
   * [Community Manager](foundation/roles/community-manager/README.md)
     * [Chat moderator](foundation/roles/community-manager/chat-moderator.md)
     * [Newsletter Editor](foundation/roles/community-manager/newsletter-editor.md)
