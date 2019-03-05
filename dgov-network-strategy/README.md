@@ -101,6 +101,9 @@ Would be nice to open Intents and Strategies
 * Akasha
 * [https://variabl.io/](https://variabl.io/)
 * DAO Bridge
+* Pando / Aragon Black
+* [https://claryon.github.io/lexon/](https://claryon.github.io/lexon/)
+* aeternity
 
 ## Researchers & Academics
 
@@ -112,6 +115,10 @@ Would be nice to open Intents and Strategies
 * [Giveth Gov Labs](https://github.com/Giveth/gov-lab)
 * Institute for Futures Studies and Technology Assessment
 * GIZ Blockchain Lab
+* wd-pl.com
+* [https://economicspace.agency/](https://economicspace.agency/)
+* Web3 Foundation?
+* Ethereum Foundation?
 
 ### Forums
 
@@ -129,28 +136,18 @@ Would be nice to open Intents and Strategies
 
 * FutureThinkers.org
 * RadicalXChange
+* [enkel.co](https://www.enkel.co/)
 
 ## Unsorted
 
 * [Dezentrum](https://www.dezentrum.ch/en/)
-* Web3 Foundation
-* Ethereum Foundation
 * Amatus
-* [https://www.enkel.co/](https://www.enkel.co/)
-* Betoken
 * Greenfield.one
 * [https://www.edenblock.com/](https://www.edenblock.com/)
-* TabooKey
 * Pocket Network
-* Economic Space Agency
-* aeternity
-* [http://smtngood.eu](http://smtngood.eu)
-* [https://claryon.github.io/lexon/](https://claryon.github.io/lexon/)
 * [https://axveco.com/en/](https://axveco.com/en/)
-* wd-pl.com
 * oscoin
 * Ouishare
-* Pando
 * betterplace lab
 * RAREAF2
 * CADAF.io
