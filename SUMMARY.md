@@ -9,6 +9,11 @@
   * [Newsletter \#4 \(december\)](newsletter/newsletter-4-december.md)
   * [Newsletter \#5 \(january\)](newsletter/newsletter-5-january.md)
   * [Newsletter \#6 \(february\)](newsletter/newsletter-6-february.md)
+* [\#dgov Movement Strategy](dgov-movement-strategy/README.md)
+  * [Good Governance](dgov-movement-strategy/team-care.md)
+  * [Community Building](dgov-movement-strategy/community-building.md)
+  * [DAOs Support](dgov-movement-strategy/untitled.md)
+  * [Outreach & Advocacy](dgov-movement-strategy/advocacy-and-education.md)
 
 ## Resources
 
@@ -25,10 +30,6 @@
 
 ## Foundation
 
-* [\#dgov Industry Strategy](foundation/dgov-collaboration-strategy/README.md)
-  * [Good Governance](foundation/dgov-collaboration-strategy/team-care.md)
-  * [More DAOs](foundation/dgov-collaboration-strategy/untitled.md)
-  * [Outreach & Advocacy](foundation/dgov-collaboration-strategy/advocacy-and-education.md)
 * [\#dgov Governance](foundation/roles/README.md)
   * [Community Manager](foundation/roles/community-manager/README.md)
     * [Chat moderator](foundation/roles/community-manager/chat-moderator.md)

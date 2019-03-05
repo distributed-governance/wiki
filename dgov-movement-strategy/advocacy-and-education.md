@@ -22,7 +22,7 @@ For cross publishing, speaking etc
 ## Rich Movement Culture Exists
 
 * Collect and share governance memes
-* [Dgov Stickers](../projects/memmes.md)
+* [Dgov Stickers](../foundation/projects/memmes.md)
 * Merch
 * clip / movie form of manifesto?
 

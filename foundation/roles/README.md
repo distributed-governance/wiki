@@ -1,5 +1,9 @@
 # \#dgov Governance
 
+**Purpose**: to support the progress of distributed governance research and implementation. Our task is to support the \#dgov movement and maintain the \#dgov community.
+
+[Key Performance Indicators & Reports](https://docs.google.com/spreadsheets/d/1B0XGN2uMeStBHcOcr0VySbSzYz_V67zmKCjJ-NBwvNU/edit#gid=590065571)  \|  [Task board](https://trello.com/b/CIKoPoBt/q1-2019)
+
 Dgov foundation is created to support the \#dgov movement and maintain the community. Foundation uses a Holacracy-like model as a governance model. Check brief [holacracy onboarding](holacracy.md).
 
 Changes to policies and roles are done through the Holacracy IDM process. Telegram and Loomio voting can be used for consulting with the community.

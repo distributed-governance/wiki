@@ -1,12 +1,12 @@
-# More DAOs
+# DAOs Support
 
 **Purpose:** more successful DAO pilots, support the creation of more DAOs
 
-## 1. [Body of Knowledge](../../) is gathered
+## 1. [Body of Knowledge](../) is gathered
 
-1. [On-chain governance case studies](../../resources/protocol-governance-case-studies.md)
-2. [\#dgov industry landscape](../../resources/dgov-industry-landscape.md)
-3. [Horizontal Organising Patterns / Tools](../../resources/horizontal-organizing-patterns-tools.md)
+1. [On-chain governance case studies](../resources/protocol-governance-case-studies.md)
+2. [\#dgov industry landscape](../resources/dgov-industry-landscape.md)
+3. [Horizontal Organising Patterns / Tools](../resources/horizontal-organizing-patterns-tools.md)
 4. ...
 
 Team: Grace + Max, Fran, Phil  
@@ -32,7 +32,7 @@ Team: Cem + Daniel, Max
 
 ## 3. DAO progress is tracked and shared
 
-* [Dgov DAO](../projects/dgov-dao.md)
+* [Dgov DAO](../foundation/projects/dgov-dao.md)
 
 ### Tokenizing Nature 2.0
 
