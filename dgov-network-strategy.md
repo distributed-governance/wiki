@@ -8,18 +8,15 @@
 
 1.  Network capacity \(Open, Transparent and Participative\)
 
-   * Maintain the [strategy](dgov-network-strategy.md) / [governance](foundation/roles/) up to date \(quarterly retro + strategy clarification\)
-   * Setup the [newsletter](newsletter/) report routine
+   * Maintain the [strategy](dgov-network-strategy.md) / [governance](foundation/roles/) up to date \(quarterly retro + strategy clarification\), [newsletter](newsletter/) report routine. Interview more dgov stakeholders \(needs, expectations, strategies\). Board of Advisors is gathered \(e.g. Aragon, DAO Stack, Colony\) / Meta calls?
    * Support Integration of knowledge by [Dgov Foundation](https://dgov.foundation/), [DAO Stack Polinators](https://t.me/joinchat/HfsmOEXV0YP6P5rGmRBaCQ), [Bushwick Generator](https://www.thebushwickgenerator.com/), COALAs, [starfish network](https://www.starfish.network/)
-   * [Event Calendar](dgov-industry-landscape/) is maintained
-   * Rich Movement Culture Exists [https://t.me/MinistryofMemes](https://t.me/MinistryofMemes)
-   * [Industry Landscape](dgov-industry-landscape/) and [Global Hubs](resources/map-of-the-industry-landscape.md) directories are maintained
-   * Interview more dgov stakeholders \(needs, expectations, strategies\). Board of Advisors is gathered \(e.g. Aragon, DAO Stack, Colony\) / Meta calls?
+   * [Event Calendar](dgov-industry-landscape/) , [Industry Landscape](dgov-industry-landscape/) and [Global Hubs](resources/map-of-the-industry-landscape.md) directories are maintained
+   * Rich Movement Culture Exists by [Ministry of Memes](https://t.me/MinistryofMemes)
 
 2. [Providers](dgov-network-strategy.md#providers)
 
-   * Users
-   * Product Feedback
+   * Access to Users
+   * Product Feedback & Ideation
 
 3. DO / DAO / Co-ops Support by providers
 
