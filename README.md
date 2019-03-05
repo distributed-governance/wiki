@@ -4,7 +4,6 @@ We in \#dgov want to bring more distributed/decentralized design to the organiza
 
 ### Some tips that can help you to be productive:
 
-* [Join the Telegram group](https://earth.us18.list-manage.com/track/click?u=566b6b2a60e0829db656d3b34&id=34137f124c&e=7265fe9357) for quick announcement, fun talk & random ideas
 * [Use forum](https://earth.us18.list-manage.com/track/click?u=566b6b2a60e0829db656d3b34&id=ce349e1f74&e=7265fe9357) for substantial & deep conversations
 * Check out our [Wiki / Body of Knowledge](http://resources/toc)
 * Subscribe to our [Twitter](https://earth.us18.list-manage.com/track/click?u=566b6b2a60e0829db656d3b34&id=b3dd507d36&e=7265fe9357)
