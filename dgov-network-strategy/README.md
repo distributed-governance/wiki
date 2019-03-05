@@ -114,6 +114,33 @@ Would be nice to open Intents and Strategies
 * [https://claryon.github.io/lexon/](https://claryon.github.io/lexon/)
 * aeternity
 
+## DO / DAOs / Co-ops
+
+### Layer 1: Network-based
+
+* Bitcoin
+* Ethereum
+* Tezos
+* EOS
+* Polkadot
+* Decred
+* DASH
+* Grin
+* Beam
+* Cardano
+* Bitshares
+
+### Layer 2: Application-based
+
+* Alchemy: Genesis, DxDAO
+* Maker DAO
+* The DAO
+* Aragon Association
+* 0x Association
+* \(Water\)Melonport
+* Digix DAO
+* Leap DAO
+
 ## Researchers & Academics
 
 * [Participatory Orgs](https://github.com/ParticipatoryOrgs)
