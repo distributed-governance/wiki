@@ -1,8 +1,6 @@
 # \#dgov Network Strategy \(draft\)
 
-Audience: people who want to bring more distributed/decentralized design to the organizations.
-
-Would be nice to open Intents and Strategies
+\#dgov is a network for people and organizations interested in bringing more distributed / decentralized designs to the organizations.
 
 [Discussions](http://forum.dgov.foundation/t/dgov-industry-landscape/15)
 
