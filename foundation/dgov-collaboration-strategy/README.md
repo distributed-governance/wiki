@@ -1,8 +1,8 @@
 # \#dgov Industry Strategy
 
-## Goals / Responsible
-
 **Purpose**: to support the progress of distributed governance research and implementation. Our task is to support the \#dgov movement and maintain the \#dgov community.
+
+## Stakeholders and Needs
 
 1. Service Providers \(infrastructure, services\)
 

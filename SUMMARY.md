@@ -27,6 +27,7 @@
 
 * [\#dgov Industry Strategy](foundation/dgov-collaboration-strategy/README.md)
   * [Good Governance](foundation/dgov-collaboration-strategy/team-care.md)
+  * [Untitled](foundation/dgov-collaboration-strategy/untitled.md)
   * [Outreach & Advocacy](foundation/dgov-collaboration-strategy/advocacy-and-education.md)
 * [\#dgov Governance](foundation/roles/README.md)
   * [Community Manager](foundation/roles/community-manager/README.md)
