@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome to the \#dgov community](README.md)
+* [\#dgov Global Map & Hubs](map-of-the-industry-landscape.md)
 * [Events](dgov-industry-landscape/README.md)
   * [Host Local Meetups](dgov-industry-landscape/meetups.md)
 * [\#dgov Newsletter](newsletter/README.md)
@@ -16,13 +17,11 @@
 
 * [Intro](resources/toc.md)
 * [Glossary](resources/glossary.md)
-* [\#dgov Global Map & Hubs](resources/map-of-the-industry-landscape.md)
-* [On-chain Governance Case Studies](resources/protocol-governance-case-studies.md)
 * [DAO Use Cases](resources/dao-use-cases.md)
+* [On-chain Governance Case Studies](resources/protocol-governance-case-studies.md)
 * [DAO Tech Evaluation Framework](resources/dao-infrastructure-interoperability.md)
-* [Distributed Governance Challenges](resources/distributed-governance-challenges.md)
-* [Horizontal Organizing Patterns / Tools](resources/horizontal-organizing-patterns-tools.md)
-* [Articles by Topic](resources/articles-by-topic-1.md)
+* [Articles by Topic](resources/articles-by-topic-1/README.md)
+  * [Distributed Governance Challenges](resources/articles-by-topic-1/distributed-governance-challenges.md)
 
 ## Foundation
 
