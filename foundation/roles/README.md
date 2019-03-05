@@ -124,7 +124,7 @@ On Rejection
 * any core member can reject, but needs to justify if challenged
 * lack of cognitive diversity concerns
 
-### Transparency Policy
+### Transparency
 
 Everything should be transparent, except of 
 
