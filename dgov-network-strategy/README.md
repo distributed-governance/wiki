@@ -1,4 +1,4 @@
-# \#dgov Network Strategy
+# \#dgov Network Strategy \(draft\)
 
 Audience: people who want to bring more distributed/decentralized design to the organizations.
 
@@ -22,10 +22,11 @@ Would be nice to open Intents and Strategies
    * Expertise
    * Regulation
 
-4. [Researchers & Academics](./#researchers-and-academics) 
-5. Policy Makers 
-6. [Ecosystem / wider communities ](./#ecosystem-wider-communities)
-   * Outreach & Advocacy by [outreach & Advocacy / PR manager](../foundation/roles/pr-manager.md)
+4. [Researchers & Academics](./#researchers-and-academics)
+   * Coverage? 
+5. [Ecosystem / wider communities ](./#ecosystem-wider-communities)
+   * Integration?
+   * Smth ~Policies?
 
 ## Providers
 
