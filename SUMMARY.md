@@ -26,10 +26,11 @@
 ## Foundation
 
 * [\#dgov Strategy](foundation/dgov-collaboration-strategy/README.md)
-  * [Community Management](foundation/dgov-collaboration-strategy/community-building.md)
-  * [Practitioner Support/Success](foundation/dgov-collaboration-strategy/practitioner-support-success.md)
-  * [Team Care](foundation/dgov-collaboration-strategy/team-care.md)
+  * [Practitioner Support/Success /  Create more DAOs](foundation/dgov-collaboration-strategy/practitioner-support-success.md)
+  * [Good Governance](foundation/dgov-collaboration-strategy/team-care.md)
   * [Outreach & Advocacy](foundation/dgov-collaboration-strategy/advocacy-and-education.md)
+  * [Direction Sync](foundation/dgov-collaboration-strategy/direction-sync.md)
+  * [Community Capacity Building](foundation/dgov-collaboration-strategy/community-capacity-building.md)
 * [\#dgov Governance](foundation/roles/README.md)
   * [Community Manager](foundation/roles/community-manager/README.md)
     * [Chat moderator](foundation/roles/community-manager/chat-moderator.md)
@@ -45,6 +46,7 @@
     * [Paris Assembly, Mar 8, 2019](foundation/projects/events/paris-assembly-mar-8-2019.md)
     * [Amsterdam 14.03.2019 \(draft\)](foundation/projects/events/amsterdam-14.02.2019.md)
     * [Workshop in Ljubljana, Apr 28](foundation/projects/events/workshop-in-ljubljana-apr-28.md)
+    * [Festival in Athens 2020](foundation/projects/events/festival-in-athens-2020.md)
   * [\#dgov movement manifesto](foundation/projects/foundation-thesis.md)
   * [Media DAO / Tenna 2.0](foundation/projects/tennagraph.md)
   * [Transparency in Networked Orgs](foundation/projects/transparency-in-networked-orgs.md)

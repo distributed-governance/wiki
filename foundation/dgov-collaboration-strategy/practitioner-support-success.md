@@ -1,6 +1,6 @@
-# Practitioner Support/Success
+# Practitioner Support/Success /  Create more DAOs
 
-**Purpose:** more successful DAO pilots
+**Purpose:** more successful DAO pilots, support the creation of more DAOs
 
 ## 1. [Body of Knowledge](../../) is gathered
 
