@@ -8,29 +8,34 @@ Would be nice to open Intents and Strategies
 
 ## Needs
 
-1.  Network
-   * Increase the collaborations in the network with [Good governance](team-care.md) \(Structure of Work is Open, Transparent and Participative\)
+1.  Network capacity \(Open, Transparent and Participative\)
+
+   * Maintain the [strategy](dgov-network-strategy.md) / [governance](foundation/roles/) up to date \(quarterly retro + strategy clarification\)
+   * Setup the [newsletter](newsletter/) report routine
    * Support Integration of knowledge by [Dgov Foundation](https://dgov.foundation/), [DAO Stack Polinators](https://t.me/joinchat/HfsmOEXV0YP6P5rGmRBaCQ), [Bushwick Generator](https://www.thebushwickgenerator.com/), COALAs, [starfish network](https://www.starfish.network/)
-   * [Event Calendar](../dgov-industry-landscape/) is maintained
-   * Rich Movement Culture Exists [https://t.me/MinistryofMemes](https://t.me/MinistryofMemes) 
-2. [Providers](./#providers)
+   * [Event Calendar](dgov-industry-landscape/) is maintained
+   * Rich Movement Culture Exists [https://t.me/MinistryofMemes](https://t.me/MinistryofMemes)
+   * [Industry Landscape](dgov-industry-landscape/) and [Global Hubs](resources/map-of-the-industry-landscape.md) directories are maintained
+   * Interview more dgov stakeholders \(needs, expectations, strategies\). Board of Advisors is gathered \(e.g. Aragon, DAO Stack, Colony\) / Meta calls?
+
+2. [Providers](dgov-network-strategy.md#providers)
 
    * Users
    * Product Feedback
 
 3. DO / DAO / Co-ops Support by providers
 
-   * Tools & Services by [Providers](./#providers)
-   * Funding – [VCs](./#vcs)
+   * Tools & Services by [Providers](dgov-network-strategy.md#providers)
+   * Funding – [VCs](dgov-network-strategy.md#vcs)
    * Expertise – [DAO Incubator](http://daoincubator.org), DAO Hackathon
-   * Knowledge – [Body of Knowledge](../)
+   * Knowledge – [Body of Knowledge](./)
    * Regulation – [DAO Zero](https://docs.google.com/document/d/1rrhkRKq2fK72Vmbn-xxt6bPwUX3GYDtGuCkoopbjVpw/edit#heading=h.frcxq7smt4ir)
 
-4. [Researchers & Academics](./#researchers-and-academics)
+4. [Researchers & Academics](dgov-network-strategy.md#researchers-and-academics)
    * Identifying research needs
    * Feedback / Ideation
    * Coverage? 
-5. [Ecosystem / wider communities ](./#ecosystem-wider-communities)
+5. [Ecosystem / wider communities ](dgov-network-strategy.md#ecosystem-wider-communities)
    * DAO progress is tracked and shared
    * Integration?
    * Smth ~Policies?
