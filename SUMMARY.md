@@ -19,7 +19,7 @@
 
 * [Intro](resources/toc.md)
 * [Glossary](resources/glossary.md)
-* [\#dgov Service Providers](resources/dgov-industry-landscape.md)
+* [\#dgov Industry Landscape](resources/dgov-industry-landscape.md)
 * [\#dgov Global Map & Hubs](resources/map-of-the-industry-landscape.md)
 * [On-chain Governance Case Studies](resources/protocol-governance-case-studies.md)
 * [DAO Use Cases](resources/dao-use-cases.md)

@@ -1,24 +1,11 @@
-# \#dgov Service Providers
+# \#dgov Industry Landscape
 
 Some info moved to [Strategy](../dgov-network-strategy/)
-
-## **Forums & Subreddits**
-
-* ​[Ethereum Research Forum / Economics](https://ethresear.ch/c/economics)​
-* ​[Aragon Research Forum](https://research.aragon.org/)​
-* ​[DAO Stack Forum](https://forum.daostack.io/)​
-* [Colony Forum](https://build.colony.io/)
-* ​r/[Dgov](https://new.reddit.com/r/dgov/)​
-* ​r/[Aragon](https://www.reddit.com/r/aragonproject/)​
-* r/​[Colony](https://www.reddit.com/r/joincolony)​
-* r/​[DAO Stack](https://www.reddit.com/r/daostack/)​
-* ​r/[District0x](https://www.reddit.com/r/district0x)​
 
 ## **Chats**
 
 * [\#dgov chat​](https://dgov.foundation#join)
 * [Curation Markets](https://gitter.im/Curation-Markets/Lobby)​
-* [DAO Stack Polinators](https://t.me/joinchat/HfsmOEXV0YP6P5rGmRBaCQ)
 * [Aragon Chat](https://aragon.chat/)
 * ​[Ethereum Governance](https://gitter.im/ethereum/governance)​
 * ​[DAO Incubator](https://t.me/DAOincubator)​

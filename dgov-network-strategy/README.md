@@ -8,15 +8,19 @@ Would be nice to open Intents and Strategies
 
 ## Needs
 
-1. [Good governance](team-care.md) for the network 
+1. [Good governance](team-care.md) for the network
+   * Good Governance
+   * Integration of knowledge by [Dgov Foundation](https://dgov.foundation/), [DAO Stack Polinators](https://t.me/joinchat/HfsmOEXV0YP6P5rGmRBaCQ), [Bushwick Generator](https://www.thebushwickgenerator.com/), COALAs, [starfish network](https://www.starfish.network/)  
 2. [Providers](./#providers)
 
-   * [Community](community-building.md) by own resources, [Dgov Foundation](https://dgov.foundation/), [Bushwick Generator](https://www.thebushwickgenerator.com/), COALAs, [starfish network](https://www.starfish.network/) \(feedback, integration of knowledge, including wider domains like phycology\)
+   * Users
+   * Product Feedback
 
-3. DO / DAO / Co-ops
+3. DO / DAO / Co-ops [Support](untitled.md) by providers, [DAO Incubator](http://daoincubator.org), [DAO Zero](https://docs.google.com/document/d/1rrhkRKq2fK72Vmbn-xxt6bPwUX3GYDtGuCkoopbjVpw/edit#heading=h.frcxq7smt4ir), Consensys Labs, [Autark Ventures](https://autark.ventures/)
 
-   * [DAOs Support](untitled.md) \(funding, expertise\) by providers, [DAO Incubator](http://daoincubator.org), [DAO Zero](https://docs.google.com/document/d/1rrhkRKq2fK72Vmbn-xxt6bPwUX3GYDtGuCkoopbjVpw/edit#heading=h.frcxq7smt4ir), Consensys Labs, [Autark Ventures](https://autark.ventures/)
-   * Regulation Framework
+   * Funding
+   * Expertise
+   * Regulation
 
 4. [Researchers & Academics](./#researchers-and-academics) 
 5. Policy Makers 
@@ -107,6 +111,18 @@ Would be nice to open Intents and Strategies
 * [Giveth Gov Labs](https://github.com/Giveth/gov-lab)
 * Institute for Futures Studies and Technology Assessment
 * GIZ Blockchain Lab
+
+### Forums
+
+* ​[Ethereum Research Forum / Economics](https://ethresear.ch/c/economics)​
+* ​[Aragon Research Forum](https://research.aragon.org/)​
+* ​[DAO Stack Forum](https://forum.daostack.io/)​
+* [Colony Forum](https://build.colony.io/)
+* ​r/[Dgov](https://new.reddit.com/r/dgov/)​
+* ​r/[Aragon](https://www.reddit.com/r/aragonproject/)​
+* r/​[Colony](https://www.reddit.com/r/joincolony)​
+* r/​[DAO Stack](https://www.reddit.com/r/daostack/)​
+* ​r/[District0x](https://www.reddit.com/r/district0x)​
 
 ## Ecosystem / Wider Communities
 
