@@ -1,13 +1,40 @@
 # \#dgov Strategy & Governance
 
-**Purpose**: to support the progress of distributed governance research and implementation through the \#dgov community development.
+## **Purpose \(why\)**
 
-## Strategy
+Develop the principles for a highly-adaptable society operating system fit to overcome global challenges:
 
-1. [~~Council \#1 by inblock.io~~](../projects/dgov-community-council.md)
+* Rivalrous environment
+* VUCA \(Volatility, uncertainty, complexity and ambiguity\)
+* Scarcity
+* ...
+
+## **Strategy \(how\)**
+
+### **Build connectivity / a network**
+
+The goal of the DGOV Foundation is to create a highly-potent group of approximate 150 people which are bond together in a vision and by a culture allowing them to build and implement distributed governance models. This group acts as a role-model for \(if successful\) many independent groups iterating in collaboration on distributed governance models. Provide meaningful connections & direction.
+
+### **Help to execute projects**
+
+e.g. DGOV SEED DAO, Strategy papers
+
+### **Suggest guiding principles & culture for the world we want to live in**
+
+* Maximum integratable cognitive diversity
+* Omni-considerative / omni-win decision making
+* The principle Life - Change and Adoption
+* The principles of wholeness - interconnectedness.
+* Cohesion
+* Collaboration “Act local - think global”
+* Be excellent to each other
+
+## Projects
+
+1. [~~Council \#1 by inblock.io~~](dgov-community-council.md)
 2. ~~~~[~~Setup Discourse Forum for deep debates & research~~](http://forum.dgov.foundation)~~~~
-3. [Paris Assembly Mar 8, 2019](../projects/paris-assembly-mar-8-2019.md)
-4. [Movement Manifesto](../projects/foundation-thesis.md) is developed & published
+3. [Paris Assembly Mar 8, 2019](paris-assembly-mar-8-2019.md)
+4. [Movement Manifesto]() is developed & published
 5. Retreat \#1 in Ljubljana by inblock.io ~Apr-Jun 2019
 6. Council \#2 by inblock.io ~Sep-Oct 2019 \(Tim + help from Felix, Ela, Phoebe, Lucas, Max\)
 
@@ -15,23 +42,47 @@
 
 ## Governance
 
-Foundation uses a Holacracy-like model as a governance model. Check brief [holacracy onboarding](holacracy.md).
+Foundation uses a Holacracy-like model as a governance model. Check brief [holacracy onboarding]().
 
 Changes to policies and roles are done through the Holacracy IDM process. Telegram and Loomio voting can be used for consulting with the community.
 
 ### Roles
 
-* [Community Manager](community-manager/) – Max
-  * [Chat Moderator](community-manager/chat-moderator.md) – Max, Tim, Anja
-  * Council Event Organizer – Tim
-  * [Newsletter Editor](community-manager/newsletter-editor.md) – Max
-  * Facilitators \(incl. council events\) – Max, Fran, Phoebe, Lucas, Ela
-  * Mediators \(preliminary\) – Chris, Loie, Felix, Phoebe, Anuj
-* Practitioner support / success manager – Max?
-  * [Wiki Maintainer](practitioner-support-success/wiki-maintainer.md) – Max, Phoebe, Grace
-* Team Care – Phoebe?
-* [Outreach & Advocacy / PR Manager](pr-manager.md) – Anja
-* [Designer](designer.md) – Max
+* Council Event Organizer – Tim
+* Newsletter Editor – Max
+* Facilitators \(incl. council events\) – Max, Fran, Phoebe, Lucas, Ela
+* Mediators \(preliminary\) – Chris, Loie, Felix, Phoebe, Anuj
+* [Outreach & Advocacy / PR Manager]() – Anja
+* Designer – Max
+
+### Outreach & Advocacy / PR Manager
+
+**Purpose:**
+
+* Increasing Awareness;
+* Increasing Commitment of parties of interest to come to the event;
+* Building up momentum \(people speak about it\).
+* Create news and noise around the event; Make it visible.
+
+**Channels:**
+
+* Twitter
+* Linkedin
+
+**Recommendation to include \(where possible\):**
+
+* Names \(twitter handles\);
+* Picture;
+* Link to further material;
+* Link to picture \(names\);
+
+**Content programming:**
+
+* Monday: Administrative info
+* Tuesday: What's happening
+* Wednesday: Good material
+* Thursday: Who's coming / People
+* Friday: Fun
 
 ## Policies
 
