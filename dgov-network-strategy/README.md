@@ -18,12 +18,13 @@ Would be nice to open Intents and Strategies
    * Users
    * Product Feedback
 
-3. DO / DAO / Co-ops [Support]() by providers, [DAO Incubator](http://daoincubator.org), [DAO Zero](https://docs.google.com/document/d/1rrhkRKq2fK72Vmbn-xxt6bPwUX3GYDtGuCkoopbjVpw/edit#heading=h.frcxq7smt4ir), Consensys Labs, [Autark Ventures](https://autark.ventures/)
+3. DO / DAO / Co-ops Support by providers
 
-   * Funding
-   * Expertise
-   * Regulation
-   * [Body of Knowledge](../) is gathered
+   * Tools & Services by [Providers](./#providers)
+   * Funding – [VCs](./#vcs)
+   * Expertise – [DAO Incubator](http://daoincubator.org), DAO Hackathon
+   * Knowledge – [Body of Knowledge](../)
+   * Regulation – [DAO Zero](https://docs.google.com/document/d/1rrhkRKq2fK72Vmbn-xxt6bPwUX3GYDtGuCkoopbjVpw/edit#heading=h.frcxq7smt4ir)
 
 4. [Researchers & Academics](./#researchers-and-academics)
    * Identifying research needs
@@ -97,6 +98,8 @@ Would be nice to open Intents and Strategies
 * [Coinfund](https://coinfund.io/)
 * Outlier Ventures
 * [https://www.libertuscapital.com/](https://www.libertuscapital.com/)
+* [Autark Ventures](https://autark.ventures/)
+* [Consensys Labs](https://consensys.net/labs/)
 
 ### Other
 
