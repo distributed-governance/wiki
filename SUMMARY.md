@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Welcome to the \#dgov community](README.md)
-* [Host Local Meetups](meetups.md)
+* [Events](dgov-industry-landscape/README.md)
+  * [Host Local Meetups](dgov-industry-landscape/meetups.md)
 * [\#dgov Newsletter](newsletter/README.md)
   * [Newsletter \#1 \(september\)](newsletter/newsletter-1-september.md)
   * [Newsletter \#2 \(october\)](newsletter/newsletter-2-october.md)
@@ -19,7 +20,6 @@
 
 * [Intro](resources/toc.md)
 * [Glossary](resources/glossary.md)
-* [\#dgov Industry Landscape](resources/dgov-industry-landscape.md)
 * [\#dgov Global Map & Hubs](resources/map-of-the-industry-landscape.md)
 * [On-chain Governance Case Studies](resources/protocol-governance-case-studies.md)
 * [DAO Use Cases](resources/dao-use-cases.md)

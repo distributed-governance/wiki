@@ -5,7 +5,7 @@
 ## 1. [Body of Knowledge](../) is gathered
 
 1. [On-chain governance case studies](../resources/protocol-governance-case-studies.md)
-2. [\#dgov industry landscape](../resources/dgov-industry-landscape.md)
+2. [\#dgov industry landscape](../dgov-industry-landscape/)
 3. [Horizontal Organising Patterns / Tools](../resources/horizontal-organizing-patterns-tools.md)
 4. ...
 

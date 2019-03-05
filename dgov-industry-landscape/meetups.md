@@ -26,7 +26,7 @@ Example:
 >
 > We're gathering friends and peers who are interested in the discussion of distributed governance, blockchain governance and DAOs. We'll have a quiet dinner near the Web3 location \(location will be announced soon\). Please RSVP, the event is free, but places are limited.
 
-* [Design materials](foundation/identity.md)
+* [Design materials](../foundation/identity.md)
 
 ## Facilitation
 
