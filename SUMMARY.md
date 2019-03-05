@@ -25,12 +25,9 @@
 
 ## Foundation
 
-* [\#dgov Strategy](foundation/dgov-collaboration-strategy/README.md)
-  * [Practitioner Support/Success /  Create more DAOs](foundation/dgov-collaboration-strategy/practitioner-support-success.md)
+* [\#dgov Industry Strategy](foundation/dgov-collaboration-strategy/README.md)
   * [Good Governance](foundation/dgov-collaboration-strategy/team-care.md)
   * [Outreach & Advocacy](foundation/dgov-collaboration-strategy/advocacy-and-education.md)
-  * [Direction Sync](foundation/dgov-collaboration-strategy/direction-sync.md)
-  * [Community Capacity Building](foundation/dgov-collaboration-strategy/community-capacity-building.md)
 * [\#dgov Governance](foundation/roles/README.md)
   * [Community Manager](foundation/roles/community-manager/README.md)
     * [Chat moderator](foundation/roles/community-manager/chat-moderator.md)

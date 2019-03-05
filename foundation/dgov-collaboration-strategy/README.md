@@ -1,4 +1,4 @@
-# \#dgov Strategy
+# \#dgov Industry Strategy
 
 ## Goals / Responsible
 
