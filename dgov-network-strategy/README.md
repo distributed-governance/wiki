@@ -76,7 +76,7 @@ Would be nice to open Intents and Strategies
 * Enspiral
 * Percolab
 
-### Tech Integrators
+### Integrators
 
 * [4IRE labs](https://4irelabs.com/)
 * Horatii Partners
