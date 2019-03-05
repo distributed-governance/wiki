@@ -4,9 +4,9 @@
 
 ## Strategy
 
-1. [~~Council \#1 by inblock.io~~](../projects/events/dgov-community-council.md)
+1. [~~Council \#1 by inblock.io~~](../projects/dgov-community-council.md)
 2. ~~~~[~~Setup Discourse Forum for deep debates & research~~](http://forum.dgov.foundation)~~~~
-3. [Paris Assembly Mar 8, 2019](../projects/events/paris-assembly-mar-8-2019.md)
+3. [Paris Assembly Mar 8, 2019](../projects/paris-assembly-mar-8-2019.md)
 4. [Movement Manifesto](../projects/foundation-thesis.md) is developed & published
 5. Retreat \#1 in Ljubljana by inblock.io ~Apr-Jun 2019
 6. Council \#2 by inblock.io ~Sep-Oct 2019 \(Tim + help from Felix, Ela, Phoebe, Lucas, Max\)

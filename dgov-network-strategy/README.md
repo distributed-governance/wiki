@@ -10,23 +10,27 @@ Would be nice to open Intents and Strategies
 
 1.  Network
    * Increase the collaborations in the network with [Good governance](team-care.md) \(Structure of Work is Open, Transparent and Participative\)
-   * Support Integration of knowledge by [Dgov Foundation](https://dgov.foundation/), [DAO Stack Polinators](https://t.me/joinchat/HfsmOEXV0YP6P5rGmRBaCQ), [Bushwick Generator](https://www.thebushwickgenerator.com/), COALAs, [starfish network](https://www.starfish.network/)  
+   * Support Integration of knowledge by [Dgov Foundation](https://dgov.foundation/), [DAO Stack Polinators](https://t.me/joinchat/HfsmOEXV0YP6P5rGmRBaCQ), [Bushwick Generator](https://www.thebushwickgenerator.com/), COALAs, [starfish network](https://www.starfish.network/)
+   * [Event Calendar](../dgov-industry-landscape/) is maintained
+   * Rich Movement Culture Exists [https://t.me/MinistryofMemes](https://t.me/MinistryofMemes) 
 2. [Providers](./#providers)
 
    * Users
    * Product Feedback
 
-3. DO / DAO / Co-ops [Support](untitled.md) by providers, [DAO Incubator](http://daoincubator.org), [DAO Zero](https://docs.google.com/document/d/1rrhkRKq2fK72Vmbn-xxt6bPwUX3GYDtGuCkoopbjVpw/edit#heading=h.frcxq7smt4ir), Consensys Labs, [Autark Ventures](https://autark.ventures/)
+3. DO / DAO / Co-ops [Support]() by providers, [DAO Incubator](http://daoincubator.org), [DAO Zero](https://docs.google.com/document/d/1rrhkRKq2fK72Vmbn-xxt6bPwUX3GYDtGuCkoopbjVpw/edit#heading=h.frcxq7smt4ir), Consensys Labs, [Autark Ventures](https://autark.ventures/)
 
    * Funding
    * Expertise
    * Regulation
+   * [Body of Knowledge](../) is gathered
 
 4. [Researchers & Academics](./#researchers-and-academics)
    * Identifying research needs
    * Feedback / Ideation
    * Coverage? 
 5. [Ecosystem / wider communities ](./#ecosystem-wider-communities)
+   * DAO progress is tracked and shared
    * Integration?
    * Smth ~Policies?
 
@@ -140,6 +144,10 @@ Would be nice to open Intents and Strategies
 * FutureThinkers.org
 * RadicalXChange
 * [enkel.co](https://www.enkel.co/)
+* Open organizations
+* Holacracy
+* [Revision](https://revision.io/)
+* WEF
 
 ## Unsorted
 

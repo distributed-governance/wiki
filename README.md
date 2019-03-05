@@ -8,6 +8,7 @@ We in \#dgov community want to bring more distributed/decentralized design to th
 * [Use forum](https://earth.us18.list-manage.com/track/click?u=566b6b2a60e0829db656d3b34&id=ce349e1f74&e=7265fe9357) for substantial & deep conversations
 * Check out our [Wiki / Body of Knowledge](http://resources/toc)
 * Subscribe to our [Twitter](https://earth.us18.list-manage.com/track/click?u=566b6b2a60e0829db656d3b34&id=b3dd507d36&e=7265fe9357)
+* [Related Events](dgov-industry-landscape/)
 
 ### Also we have a couple of rules:
 
@@ -18,8 +19,7 @@ We in \#dgov community want to bring more distributed/decentralized design to th
 
 ### If you're interested in active project/foundation participation you might want to check out our
 
-* [Strategy](http://foundation/dgov-collaboration-strategy)
-* [Governance](http://foundation/roles)
+* [Strategy & Governance](http://foundation/roles)
 * [About us](http://foundation/dgov-history)
 * [Logo / Identity](http://foundation/identity)
 
