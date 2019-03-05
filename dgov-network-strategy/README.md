@@ -9,31 +9,23 @@ Would be nice to open Intents and Strategies
 ## Strategy
 
 1. [Good governance](team-care.md) for the network 
-2. Providers \(infrastructure, services\)
+2. [Providers](./#providers) \(infrastructure, services\)
 
-   * [Community](community-building.md) by [Dgov Foundation](https://dgov.foundation/), [Bushwick Generator](https://www.thebushwickgenerator.com/)
-
-     \(feedback, integration of knowledge, including wider domains like phycology\)
-
-   * [DAOs Support](untitled.md) by [DAO Incubator](http://daoincubator.org), [DAO Zero](https://docs.google.com/document/d/1rrhkRKq2fK72Vmbn-xxt6bPwUX3GYDtGuCkoopbjVpw/edit#heading=h.frcxq7smt4ir)
+   * [Community](community-building.md) by own resources, [Dgov Foundation](https://dgov.foundation/), [Bushwick Generator](https://www.thebushwickgenerator.com/), COALAs, [starfish network](https://www.starfish.network/) \(feedback, integration of knowledge, including wider domains like phycology\)
 
 3. DO / DAO / Co-ops \(Ethereum, Genesis Alpha\)
 
-   * [DAOs Support](untitled.md) by DAO Incubator
-   * Experts
-   * Finance
-   * Knowledge, research
-   * Tools \(core infrastructure\)
+   * [DAOs Support](untitled.md) by providers, [DAO Incubator](http://daoincubator.org), [DAO Zero](https://docs.google.com/document/d/1rrhkRKq2fK72Vmbn-xxt6bPwUX3GYDtGuCkoopbjVpw/edit#heading=h.frcxq7smt4ir), Consensys Labs, [Autark Ventures](https://autark.ventures/)
    * Regulation Framework
-   * by [practitioner support / success manager](../foundation/roles/practitioner-support-success/)
 
-4. Researchers & Academics 
-5. Ecosystem / wider communities 
+4. [Researchers & Academics](./#researchers-and-academics) 
+5. Policy Makers 
+6. [Ecosystem / wider communities ](./#ecosystem-wider-communities)
    * Outreach & Advocacy by [outreach & Advocacy / PR manager](../foundation/roles/pr-manager.md)
 
-Other: researchers, policy makers, funds/vcs
-
 ## Providers
+
+### Tech infrastructure
 
 * [Aragon](https://aragon.org/) – project that aims to disintermediate the creation and maintenance of organizational structures by using blockchain technology 
 * [Colony](https://colony.io/) – platform for open organizations
@@ -58,7 +50,7 @@ Other: researchers, policy makers, funds/vcs
 * [Metaorg](https://www.metaorg.one/)
 * [Kleros](https://kleros.io/) – dispute resolution
 
-#### Bounties & Donations
+### Bounties & Donations
 
 * [Giveth](https://giveth.io/) – donation platform and community
 * [Gitcoin](https://gitcoin.co/)
@@ -66,65 +58,25 @@ Other: researchers, policy makers, funds/vcs
 * [Talao](https://talao.io) – The Reputation Protocol and DAO for the 100 million freelancing talent
 * [Covee](https://covee.network/) – The Trusted Platform for Knowledge Workers
 
-#### Identity Solutions
+### Identity Solutions
 
 * [Iden3](https://iden3.io/)​ – identity solution
 * [uPort](https://www.uport.me/)​ – identity solution
 * ​[BrightID](https://www.brightid.org/)​ – identity solution
 * [Jolocom](https://jolocom.io/) – identity solution
 
-#### Unsorted
+### Soft Governance
 
-
-
-* * [Giveth Gov Labs](https://github.com/Giveth/gov-lab)
-* [http://rethinkerylabs.com/](http://rethinkerylabs.com/)
-* Institute for Futures Studies and Technology Assessment
-* [4irelabs](https://4irelabs.com/)
-* GIZ Blockchain Lab
-* blockchaintalks.io
-* COALA
-* [https://alice.si/](https://alice.si/)
-* Akasha
-* [https://variabl.io/](https://variabl.io/)
-* Consensys Labs
-* [starfish network](https://www.starfish.network/)
-* [Dezentrum](https://www.dezentrum.ch/en/)
-* Web3 Foundation
+* Betterthan
 * Enspiral
 * Percolab
-* Ethereum Foundation
-* Amatus
-* [https://www.enkel.co/](https://www.enkel.co/)
-* Betoken
-* FutureThinkers.org
-* Greenfield.one
-* [https://www.edenblock.com/](https://www.edenblock.com/)
-* Blockchains LLC
-* TabooKey
-* Pocket Network
-* Economic Space Agency
+
+### Tech Integrators
+
+* [4IRE labs](https://4irelabs.com/)
 * Horatii Partners
-* aeternity
-* [http://smtngood.eu](http://smtngood.eu)
-* [https://claryon.github.io/lexon/](https://claryon.github.io/lexon/)
-* [https://axveco.com/en/](https://axveco.com/en/)
-* Mattereum
-* Gnosis
-* Ocean Protocol
-* wd-pl.com
-* oscoin
-* Ouishare
-* Pando
-* [https://autark.ventures/](https://autark.ventures/)
-* betterplace lab
-* RadicalXChange
-* RAREAF2
-* CADAF.io
-* Globatalent
-* SUPERMARKT
-* BlockchainCommons
-* DAO Bridge
+* inblock.io
+* [Rethinkery Labs](http://rethinkerylabs.com/)
 
 ### VCs
 
@@ -135,6 +87,16 @@ Other: researchers, policy makers, funds/vcs
 * Outlier Ventures
 * [https://www.libertuscapital.com/](https://www.libertuscapital.com/)
 
+### Other
+
+* Mattereum
+* Gnosis
+* Ocean Protocol
+* [https://alice.si/](https://alice.si/)
+* Akasha
+* [https://variabl.io/](https://variabl.io/)
+* DAO Bridge
+
 ## Researchers & Academics
 
 * [Participatory Orgs](https://github.com/ParticipatoryOrgs)
@@ -142,6 +104,42 @@ Other: researchers, policy makers, funds/vcs
 * [P2P Foundation](https://p2pfoundation.net/)
 * [Global Challenges Governance Labs](https://labs.globalchallenges.org/%20)
 * [The Hague Center for Global Governance, Innovation and Emergence](http://www.thehaguecenter.org/)
+* [Giveth Gov Labs](https://github.com/Giveth/gov-lab)
+* Institute for Futures Studies and Technology Assessment
+* GIZ Blockchain Lab
+
+## Ecosystem / Wider Communities
+
+* FutureThinkers.org
+* RadicalXChange
+
+## Unsorted
+
+* [Dezentrum](https://www.dezentrum.ch/en/)
+* Web3 Foundation
+* Ethereum Foundation
+* Amatus
+* [https://www.enkel.co/](https://www.enkel.co/)
+* Betoken
+* Greenfield.one
+* [https://www.edenblock.com/](https://www.edenblock.com/)
+* TabooKey
+* Pocket Network
+* Economic Space Agency
+* aeternity
+* [http://smtngood.eu](http://smtngood.eu)
+* [https://claryon.github.io/lexon/](https://claryon.github.io/lexon/)
+* [https://axveco.com/en/](https://axveco.com/en/)
+* wd-pl.com
+* oscoin
+* Ouishare
+* Pando
+* betterplace lab
+* RAREAF2
+* CADAF.io
+* Globatalent
+* SUPERMARKT
+* BlockchainCommons
 
 
 
