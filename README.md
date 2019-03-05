@@ -29,7 +29,7 @@ Whenever you have a question or siggestion feel free to ping the community manag
 
 ### How to Contribute
 
-* Support the projects from the [\#dgov strategy 2019](dgov-movement-strategy/)
+* Support the projects from the [\#dgov strategy 2019](dgov-network-strategy/)
 * [Host](meetups.md) & [Attend](resources/dgov-industry-landscape.md#events) local meetups and events
 
 ### Edit this wiki

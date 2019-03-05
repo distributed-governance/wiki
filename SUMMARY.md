@@ -9,11 +9,11 @@
   * [Newsletter \#4 \(december\)](newsletter/newsletter-4-december.md)
   * [Newsletter \#5 \(january\)](newsletter/newsletter-5-january.md)
   * [Newsletter \#6 \(february\)](newsletter/newsletter-6-february.md)
-* [\#dgov Movement Strategy](dgov-movement-strategy/README.md)
-  * [Good Governance](dgov-movement-strategy/team-care.md)
-  * [Community Building](dgov-movement-strategy/community-building.md)
-  * [DAOs Support](dgov-movement-strategy/untitled.md)
-  * [Outreach & Advocacy](dgov-movement-strategy/advocacy-and-education.md)
+* [\#dgov Network Strategy](dgov-network-strategy/README.md)
+  * [Good Governance](dgov-network-strategy/team-care.md)
+  * [Community Building](dgov-network-strategy/community-building.md)
+  * [DAOs Support](dgov-network-strategy/untitled.md)
+  * [Outreach & Advocacy](dgov-network-strategy/advocacy-and-education.md)
 
 ## Resources
 
