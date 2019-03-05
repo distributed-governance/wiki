@@ -9,7 +9,7 @@ Would be nice to open Intents and Strategies
 ## Needs
 
 1. [Good governance](team-care.md) for the network
-   * Good Governance
+   * Structure of Work is Open, Transparent and Participative
    * Integration of knowledge by [Dgov Foundation](https://dgov.foundation/), [DAO Stack Polinators](https://t.me/joinchat/HfsmOEXV0YP6P5rGmRBaCQ), [Bushwick Generator](https://www.thebushwickgenerator.com/), COALAs, [starfish network](https://www.starfish.network/)  
 2. [Providers](./#providers)
 
@@ -23,6 +23,8 @@ Would be nice to open Intents and Strategies
    * Regulation
 
 4. [Researchers & Academics](./#researchers-and-academics)
+   * Identifying research needs
+   * Feedback / Ideation
    * Coverage? 
 5. [Ecosystem / wider communities ](./#ecosystem-wider-communities)
    * Integration?
@@ -117,6 +119,7 @@ Would be nice to open Intents and Strategies
 * GIZ Blockchain Lab
 * wd-pl.com
 * [https://economicspace.agency/](https://economicspace.agency/)
+* [https://www.blockchaincommons.com/](https://www.blockchaincommons.com/)
 * Web3 Foundation?
 * Ethereum Foundation?
 

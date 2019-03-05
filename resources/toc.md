@@ -10,8 +10,6 @@
 * [Distributed Governance Challenges](https://wiki.dgov.foundation/resources/distributed-governance-challenges)​
 * [Articles by Topic](https://wiki.dgov.foundation/resources/articles-by-topic-1)​
 
-Team: PhilH, Grace, Max, Pat, Ela, Theo, Jack, Louis Grx
-
 ## Additional Reading
 
 ### Books
@@ -39,4 +37,10 @@ Team: PhilH, Grace, Max, Pat, Ela, Theo, Jack, Louis Grx
 * [A guide for funding opportunities in the crypto ecosystem](https://github.com/fredexed/crypto-funding-ops)
 * [Resources for decentralised organising](https://hackmd.io/s/Skh_dXNbE) by Richard D. Bartlett
 * 0x [Legal Wiki](https://0x.org/wiki#Legal-Wiki) and [Legal Library](https://0x.org/wiki#Legal-Library)
+
+--
+
+Team: PhilH, Grace, Max, Pat, Ela, Theo, Jack, Louis Grx  
+Develop wiki through AMA sessions?  
+translation in French \(Phil\)
 

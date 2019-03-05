@@ -2,17 +2,10 @@
 
 **Purpose:** more successful DAO pilots, support the creation of more DAOs
 
-## 1. [Body of Knowledge](../) is gathered
+1. [Body of Knowledge](../) is gathered
 
-1. [On-chain governance case studies](../resources/protocol-governance-case-studies.md)
-2. [\#dgov industry landscape](../dgov-industry-landscape/)
-3. [Horizontal Organising Patterns / Tools](../resources/horizontal-organizing-patterns-tools.md)
-4. ...
+1. 
 
-Team: Grace + Max, Fran, Phil  
-Develop wiki through AMA sessions?
-
-* translation in French \(Phil\)
 
 ## 2. [Expertise center](https://dao-incubator.gitbook.io/wiki/) is established
 
