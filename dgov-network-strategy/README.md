@@ -6,16 +6,16 @@ Would be nice to open Intents and Strategies
 
 [Discussions](http://forum.dgov.foundation/t/dgov-industry-landscape/15)
 
-## Strategy
+## Needs
 
 1. [Good governance](team-care.md) for the network 
-2. [Providers](./#providers) \(infrastructure, services\)
+2. [Providers](./#providers)
 
    * [Community](community-building.md) by own resources, [Dgov Foundation](https://dgov.foundation/), [Bushwick Generator](https://www.thebushwickgenerator.com/), COALAs, [starfish network](https://www.starfish.network/) \(feedback, integration of knowledge, including wider domains like phycology\)
 
-3. DO / DAO / Co-ops \(Ethereum, Genesis Alpha\)
+3. DO / DAO / Co-ops
 
-   * [DAOs Support](untitled.md) by providers, [DAO Incubator](http://daoincubator.org), [DAO Zero](https://docs.google.com/document/d/1rrhkRKq2fK72Vmbn-xxt6bPwUX3GYDtGuCkoopbjVpw/edit#heading=h.frcxq7smt4ir), Consensys Labs, [Autark Ventures](https://autark.ventures/)
+   * [DAOs Support](untitled.md) \(funding, expertise\) by providers, [DAO Incubator](http://daoincubator.org), [DAO Zero](https://docs.google.com/document/d/1rrhkRKq2fK72Vmbn-xxt6bPwUX3GYDtGuCkoopbjVpw/edit#heading=h.frcxq7smt4ir), Consensys Labs, [Autark Ventures](https://autark.ventures/)
    * Regulation Framework
 
 4. [Researchers & Academics](./#researchers-and-academics) 
