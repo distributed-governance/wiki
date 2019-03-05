@@ -1,6 +1,4 @@
-
-    
-# Practitioner Support/Success /  Create more DAOs
+# More DAOs
 
 **Purpose:** more successful DAO pilots, support the creation of more DAOs
 
@@ -12,8 +10,9 @@
 4. ...
 
 Team: Grace + Max, Fran, Phil  
-Develop wiki through AMA sessions?  
-+ translation in French \(Phil\)
+Develop wiki through AMA sessions?
+
+* translation in French \(Phil\)
 
 ## 2. [Expertise center](https://dao-incubator.gitbook.io/wiki/) is established
 
@@ -49,3 +48,4 @@ Phoebe + Lucas, Liraz, Ruth, Maria
 Ruth + Grace, Tim, Phoebe
 
 for artists on London\*
+
