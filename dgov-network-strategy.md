@@ -25,8 +25,7 @@
 
    * Tools & Services by [Providers](dgov-network-strategy.md#providers)
    * Funding – [VCs](dgov-network-strategy.md#vcs)
-   * Expertise – [DAO Incubator](http://daoincubator.org), DAO Hackathon
-   * Knowledge – [Body of Knowledge](./)
+   * Expertise – [DAO Incubator](http://daoincubator.org), DAO Hackathon, [Body of Knowledge](./)
    * Regulation – [DAO Zero](https://docs.google.com/document/d/1rrhkRKq2fK72Vmbn-xxt6bPwUX3GYDtGuCkoopbjVpw/edit#heading=h.frcxq7smt4ir)
 
 4. [Researchers & Academics](dgov-network-strategy.md#researchers-and-academics)
