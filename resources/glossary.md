@@ -8,7 +8,9 @@ The **commons** is the cultural and [natural](https://en.wikipedia.org/wiki/Natu
 
 ## DAO
 
-DAO is an entity that lives on the internet and exists autonomously, but also heavily relies on hiring individuals to perform certain tasks that the automaton itself cannot do \[[source](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/)\].
+DAO is an entity that lives on the internet and exists autonomously, but also heavily relies on hiring individuals to perform certain tasks that the automaton itself cannot do \[Vitalik, [source](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/)\].
+
+Matan is saying that a dao means ownership + DGov system.
 
 ### DAC
 
@@ -19,6 +21,10 @@ Decentralized autonomous corporations/companies are a smaller topic, because the
 Wood’s definition of governance as “\[that which\] changes a multi-party system into a _moral person_.” \[[source](https://medium.com/cryptolawreview/the-wood-zamfir-governance-debates-80e92436a457)\]
 
 Zamfir: Decisions, decision-making processes, norms, and other institutions for coordination that we use to determine the future of our shared resources. \[[source](https://medium.com/cryptolawreview/the-wood-zamfir-governance-debates-80e92436a457)\]
+
+Governance is the process by which we attempt to establish \(and maintain/revoke\) the legitimacy of decisions, decision making process, and related governance norms/expectations. \(Vlad Zamfir, twitter\)
+
+Who makes the decision and how they make them \(Hudson Jameson\).
 
 ### Distributed Governance
 
