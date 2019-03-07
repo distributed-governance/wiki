@@ -55,10 +55,11 @@
 * [dOrg](https://github.com/dOrgTech) – dApp for creating and interacting with DAOs
 * [Ethereum](https://www.ethereum.org/) – blockchain App Platform
 * [Tezos](https://tezos.com/) – a new platform for decentralized applications and smart contracts
-* [CONE Network](http://www.cone.network/) + [Demo](https://vimeo.com/314549856)
-* [Sobol](https://sobol.io/)
-* [Metaorg](https://www.metaorg.one/)
-* [Abie](http://abie.fund) – minimalist DAO that includes a Sybil-resistant voting system based on liquid democracy.
+* [CONE Network](http://www.cone.network/) – Enabling companies to harness time-tested market principles to become immensely scalable, innovative, and resilient
+* [Sobol](https://sobol.io/) – Advance your organization toward decentralized, humanistic work
+* [Metaorg](https://www.metaorg.one/) – Self Aware Network Organism
+* [Abie](http://abie.fund) – minimalist DAO that includes a Sybil-resistant voting system based on liquid democracy
+* [Ellcrys](https://ellcrys.org/) – helps you start, co-own and contribute to open source software products and organizations
 
 ### Bounties & Donations
 
