@@ -100,8 +100,8 @@
 
 ### Other
 
-* Gnosis
-* * * fairmint.co
+* [Gnosis](https://gnosis.pm/) – prediction markets platform
+* [Fairmint](https://fairmint.co) – continuous funding
 
 ## DO / DAOs / Co-ops
 
