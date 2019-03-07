@@ -18,6 +18,7 @@
 * [LUCID Dawning :: Connecting Transformative Culture-Makers](https://www.facebook.com/events/352606141958607/) \(Feb 1, Berlin\)
 * [Melonport M-1](https://m-1.melonport.com/) \(Feb 7-8, Zug\)
 * [Rebooting the Web of Trust VIII](https://www.eventbrite.com/e/rebooting-the-web-of-trust-viii-spring-2019-barcelona-tickets-54843077120) \(Mar 1, Barcelona\)
+* [EthCC](https://ethcc.io/) \(Mar 5-7, Paris\)
 * [\#dgov Commnuity Assembly](https://dgovfoundation.typeform.com/to/b0nVmw) \(Mar 8, Paris\)
 * [radicalXchange](https://radicalxchange.org/) \(Mar 22-24, Detroit\)
 * [DAOCon](https://daocon.io/) \(Apr 26, Split, Croatia\)
