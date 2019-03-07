@@ -15,6 +15,12 @@ Develop the principles for a highly-adaptable society operating system fit to ov
 
 The goal of the DGOV Foundation is to create a highly-potent group of approximate 150 people which are bond together in a vision and by a culture allowing them to build and implement distributed governance models. This group acts as a role-model for \(if successful\) many independent groups iterating in collaboration on distributed governance models. Provide meaningful connections & direction.
 
+Can get more people from:
+
+* Political Science / Governance researchers
+* Psychologists
+* Anthropologists
+
 ### **Help to execute projects**
 
 e.g. DGOV SEED DAO, Strategy papers
