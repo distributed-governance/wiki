@@ -71,6 +71,7 @@
 * [Bounties Network](https://bounties.network/)
 * [Talao](https://talao.io) – The Reputation Protocol and DAO for the 100 million freelancing talent
 * [Covee](https://covee.network/) – The Trusted Platform for Knowledge Workers
+* [Alice](https://alice.si/) – 
 
 ### Identity Solutions
 
@@ -88,7 +89,7 @@
 ### Integrators
 
 * [4IRE labs](https://4irelabs.com/)
-* Horatii Partners
+* Horatii Partners / Pando / Aragon Black
 * inblock.io
 * [Rethinkery Labs](http://rethinkerylabs.com/)
 
@@ -97,17 +98,12 @@
 * [Kleros](https://kleros.io/) – dispute resolution
 * Mattereum
 * DAO Bridge
+* [Lexon](https://claryon.github.io/lexon/) – a contract programming language for lawyers
 
 ### Other
 
 * Gnosis
-* Ocean Protocol
-* [https://alice.si/](https://alice.si/)
-* Akasha
-* [https://variabl.io/](https://variabl.io/)
-* Pando / Aragon Black
-* [https://claryon.github.io/lexon/](https://claryon.github.io/lexon/)
-* aeternity
+* * * fairmint.co
 
 ## DO / DAOs / Co-ops
 
