@@ -11,7 +11,8 @@
   * [Newsletter \#4 \(december\)](newsletter/newsletter-4-december.md)
   * [Newsletter \#5 \(january\)](newsletter/newsletter-5-january.md)
   * [Newsletter \#6 \(february\)](newsletter/newsletter-6-february.md)
-* [\#dgov Network Strategy \(draft\)](dgov-network-strategy.md)
+* [\#dgov Network Strategy \(draft\)](dgov-network-strategy/README.md)
+  * [Network Strategy Building](dgov-network-strategy/network-strategy-building.md)
 
 ## Resources
 

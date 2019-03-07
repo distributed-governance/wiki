@@ -8,30 +8,28 @@
 
 1.  Network capacity \(Open, Transparent and Participative\)
 
-   * Maintain the [strategy](dgov-network-strategy.md) / [governance](foundation/roles/) up to date \(quarterly retro + strategy clarification\), [newsletter](newsletter/) report routine. Interview more dgov stakeholders \(needs, expectations, strategies\). Board of Advisors is gathered \(e.g. Aragon, DAO Stack, Colony\) / Meta calls?
-   * Support Integration of knowledge by [Dgov Foundation](https://dgov.foundation/), [DAO Stack Polinators](https://t.me/joinchat/HfsmOEXV0YP6P5rGmRBaCQ), [Bushwick Generator](https://www.thebushwickgenerator.com/), COALAs, [starfish network](https://www.starfish.network/), [Event Calendar](dgov-industry-landscape/), [Industry Landscape](dgov-industry-landscape/) and [Global Hubs](map-of-the-industry-landscape.md)
-   * Rich Movement Culture Exists by [Ministry of Memes](https://t.me/MinistryofMemes)
+   * [Network strategy building](network-strategy-building.md)
 
-2. [Providers](dgov-network-strategy.md#providers)
+2. [Providers](./#providers)
 
    * Access to Users
    * Product Feedback & Ideation
 
 3. DO / DAO / Co-ops Support by providers
 
-   * Tools & Services by [Providers](dgov-network-strategy.md#providers)
-   * Funding – [VCs](dgov-network-strategy.md#vcs)
-   * Expertise – [DAO Incubator](http://daoincubator.org), DAO Hackathon, [Body of Knowledge](./)
+   * Tools & Services by [Providers](./#providers)
+   * Funding – [VCs](./#vcs)
+   * Expertise – [DAO Incubator](http://daoincubator.org), DAO Hackathon, [Body of Knowledge](../)
    * Regulation – [DAO Zero](https://docs.google.com/document/d/1rrhkRKq2fK72Vmbn-xxt6bPwUX3GYDtGuCkoopbjVpw/edit#heading=h.frcxq7smt4ir)
 
-4. [Researchers & Academics](dgov-network-strategy.md#researchers-and-academics)
+4. [Researchers & Academics](./#researchers-and-academics)
 
    * Identifying research needs
    * Feedback / Ideation
    * Coverage?
 
-5. [Investors / VCs](dgov-network-strategy.md#investors-vcs) 
-6. [Ecosystem / wider communities ](dgov-network-strategy.md#ecosystem-wider-communities)
+5. [Investors / VCs](./#investors-vcs) 
+6. [Ecosystem / wider communities ](./#ecosystem-wider-communities)
    * DAO progress is tracked and shared
    * Integration?
    * Smth ~Policies?

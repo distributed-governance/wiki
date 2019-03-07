@@ -10,7 +10,7 @@ We in \#dgov want to bring more distributed/decentralized design to the organiza
 * [Related Events](dgov-industry-landscape/)
 * [Global Map & Hubs](map-of-the-industry-landscape.md)
 * [Newsletter / Monthly reports](newsletter/)
-* [\#dgov Network Strategy](dgov-network-strategy.md)
+* [\#dgov Network Strategy](dgov-network-strategy/)
 
 ### Also we have a couple of rules:
 
@@ -31,7 +31,7 @@ Whenever you have a question or siggestion feel free to ping the community manag
 
 ### How to Contribute
 
-* Support the projects from the [\#dgov strategy 2019](dgov-network-strategy.md)
+* Support the projects from the [\#dgov strategy 2019](dgov-network-strategy/)
 * [Host](dgov-industry-landscape/meetups.md) & [Attend](dgov-industry-landscape/#events) local meetups and events
 
 ### Edit this wiki
