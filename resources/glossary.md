@@ -10,7 +10,9 @@ The **commons** is the cultural and [natural](https://en.wikipedia.org/wiki/Natu
 
 DAO is an entity that lives on the internet and exists autonomously, but also heavily relies on hiring individuals to perform certain tasks that the automaton itself cannot do \[Vitalik, [source](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/)\].
 
-Matan is saying that a dao means ownership + DGov system.
+DAO means ownership + DGov system. \(Matan Field, in COALA conversations\)
+
+DAO is corporation running on the digital jurisdiction. \(Yalda, EthCC presentation\)
 
 ### DAC
 
