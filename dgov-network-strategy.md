@@ -25,10 +25,13 @@
    * Regulation – [DAO Zero](https://docs.google.com/document/d/1rrhkRKq2fK72Vmbn-xxt6bPwUX3GYDtGuCkoopbjVpw/edit#heading=h.frcxq7smt4ir)
 
 4. [Researchers & Academics](dgov-network-strategy.md#researchers-and-academics)
+
    * Identifying research needs
    * Feedback / Ideation
-   * Coverage? 
-5. [Ecosystem / wider communities ](dgov-network-strategy.md#ecosystem-wider-communities)
+   * Coverage?
+
+5. [Investors / VCs](dgov-network-strategy.md#investors-vcs) 
+6. [Ecosystem / wider communities ](dgov-network-strategy.md#ecosystem-wider-communities)
    * DAO progress is tracked and shared
    * Integration?
    * Smth ~Policies?
@@ -95,17 +98,6 @@
 * Mattereum
 * DAO Bridge
 
-### VCs
-
-* [Placeholder](https://www.placeholder.vc/)
-* [Cambrial Capital](https://cambrial.com/)
-* [Index ventures](https://www.indexventures.com/)
-* [Coinfund](https://coinfund.io/)
-* Outlier Ventures
-* [https://www.libertuscapital.com/](https://www.libertuscapital.com/)
-* [Autark Ventures](https://autark.ventures/)
-* [Consensys Labs](https://consensys.net/labs/)
-
 ### Other
 
 * Gnosis
@@ -171,6 +163,17 @@
 * r/​[Colony](https://www.reddit.com/r/joincolony)​
 * r/​[DAO Stack](https://www.reddit.com/r/daostack/)​
 * ​r/[District0x](https://www.reddit.com/r/district0x)​
+
+## Investors / VCs
+
+* [Placeholder](https://www.placeholder.vc/)
+* [Cambrial Capital](https://cambrial.com/)
+* [Index ventures](https://www.indexventures.com/)
+* [Coinfund](https://coinfund.io/)
+* Outlier Ventures
+* [https://www.libertuscapital.com/](https://www.libertuscapital.com/)
+* [Consensys Labs](https://consensys.net/labs/)
+* [Autark Ventures](https://autark.ventures/)
 
 ## Ecosystem / Wider Communities
 
