@@ -19,6 +19,7 @@
 * [Intro](resources/toc.md)
 * [Glossary](resources/glossary.md)
 * [DAO Use Cases](resources/dao-use-cases.md)
+* [Governance Mechanism Categorization](resources/governance-mechanism-categorization.md)
 * [On-chain Governance Case Studies](resources/protocol-governance-case-studies.md)
 * [DAO Tech Evaluation Framework](resources/dao-infrastructure-interoperability.md)
 * [Articles by Topic](resources/articles-by-topic-1/README.md)
