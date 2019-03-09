@@ -6,17 +6,11 @@
 
 The **commons** is the cultural and [natural](https://en.wikipedia.org/wiki/Natural) resources accessible to all members of a society, including natural materials such as air, water, and a habitable earth. These resources are held in common, not owned privately. Commons can also be understood as natural resources that groups of people \(communities, user groups\) manage for individual and collective benefit. Characteristically, this involves a variety of informal norms and values \(social practice\) employed for a governance mechanism. [\[1\]](https://en.wikipedia.org/wiki/Commons#cite_note-1) \[[source](https://en.wikipedia.org/wiki/Commons)\]
 
-## DAO
+## Community
 
-DAO is an entity that lives on the internet and exists autonomously, but also heavily relies on hiring individuals to perform certain tasks that the automaton itself cannot do \[Vitalik, [source](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/)\].
+A community is a small or large social unit \(a group of living things\) that has something in common, such as norms, religion, values, or identity. Communities often share a sense of place that is situated in a given geographical area \(e.g. a country, village, town, or neighborhood\) or in virtual space through communication platforms. \[[source](https://en.wikipedia.org/wiki/Community)\]
 
-DAO means ownership + DGov system. \(Matan Field, in COALA conversations\)
-
-DAO is corporation running on the digital jurisdiction. \(Yalda, EthCC presentation\)
-
-### DAC
-
-Decentralized autonomous corporations/companies are a smaller topic, because they are basically a subclass of DAOs, but they are worth mentioning. Since the main exponent of DAC as terminology is Daniel Larimer, we will borrow as a definition the point that he himself consistently promotes: a DAC pays dividends \[[source](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/)\]. 
+In Gemeinschaft und Gesellschaft \(1887\), German sociologist [Ferdinand Tönnies](https://en.wikipedia.org/wiki/Ferdinand_T%C3%B6nnies) described two types of human association: Gemeinschaft \(usually translated as "community"\) and Gesellschaft \("society" or "association"\). Tönnies proposed the Gemeinschaft–Gesellschaft [dichotomy](https://en.wikipedia.org/wiki/Dichotomy) as a way to think about social ties. No group is exclusively one or the other. Gemeinschaft stress personal social interactions, and the roles, values, and beliefs based on such interactions. Gesellschaft stress indirect interactions, impersonal roles, formal values, and beliefs based on such interactions.[\[6\]](https://en.wikipedia.org/wiki/Community#cite_note-6)
 
 ## Governance
 
@@ -40,29 +34,41 @@ Distributed governance is the specification of principles and methods which enab
 
 A collection of [normative](https://en.wikipedia.org/wiki/Normative) [beliefs](https://en.wikipedia.org/wiki/Beliefs) and [values](https://en.wikipedia.org/wiki/Values) that an individual or group holds for other than purely [epistemic](https://en.wikipedia.org/wiki/Epistemic) reasons.[\[1\]](https://en.wikipedia.org/wiki/Ideology#cite_note-1)
 
-## Legitimacy
-
-
-
-## Network
-
-Type of organization focused on connecting members for collaboration, opportunities exchange \(projects, sales\), hiring etc. 
-
-Personal Networks – e.g., alumni, professional, social and affinity groups — these allow you to meet a diverse group of like-minded professionals. Good for career moves, and to link you to new kinds of networks for your current work when opportunities emerge there. \[[source](https://100trillion.wordpress.com/2008/06/21/three-types-of-professional-networks/)\]
-
-### Community
-
-A community is a small or large social unit \(a group of living things\) that has something in common, such as norms, religion, values, or identity. Communities often share a sense of place that is situated in a given geographical area \(e.g. a country, village, town, or neighborhood\) or in virtual space through communication platforms. \[[source](https://en.wikipedia.org/wiki/Community)\]
-
-In Gemeinschaft und Gesellschaft \(1887\), German sociologist [Ferdinand Tönnies](https://en.wikipedia.org/wiki/Ferdinand_T%C3%B6nnies) described two types of human association: Gemeinschaft \(usually translated as "community"\) and Gesellschaft \("society" or "association"\). Tönnies proposed the Gemeinschaft–Gesellschaft [dichotomy](https://en.wikipedia.org/wiki/Dichotomy) as a way to think about social ties. No group is exclusively one or the other. Gemeinschaft stress personal [social interactions](https://en.wikipedia.org/wiki/Social_interaction), and the roles, values, and beliefs based on such interactions. Gesellschaft stress indirect interactions, impersonal roles, formal values, and beliefs based on such interactions.[\[6\]](https://en.wikipedia.org/wiki/Community#cite_note-6)
-
 ## Organization
 
 Organization is an entity comprising multiple people, such as an institution or an association, that has a particular purpose. There are a variety of legal types of organisations, including corporations, governments, non-governmental organisations, political organisations, international organisations, armed forces, charities, not-for-profit corporations, partnerships, cooperatives, and educational institutions. \[[source](https://en.wikipedia.org/wiki/Organization)\]
 
+### Cooperative
+
+A **cooperative** \(also known as **co-operative**, **co-op**, or **coop**\) is "an autonomous association of persons united voluntarily to meet their common economic, social, and cultural needs and aspirations through a jointly-owned and democratically-controlled enterprise".[\[1\]](https://en.wikipedia.org/wiki/Cooperative#cite_note-ica-principles-1) Cooperatives may include:
+
+* businesses owned and managed by the people who use their services \(a consumer cooperative\)
+* organizations managed by the people who work there \(worker cooperatives\)
+* multi-stakeholder or hybrid cooperatives that share ownership between different stakeholder groups. For example, care cooperatives where ownership is shared between both care-givers and receivers. Stakeholders might also include non-profits or investors.
+* second- and third-tier cooperatives whose members are other cooperatives
+* [platform cooperatives](https://en.wikipedia.org/wiki/Platform_cooperative) that use a cooperatively owned and governed website, mobile app or a protocol to facilitate the sale of goods and services.
+
+### DAO
+
+DAO is an entity that lives on the internet and exists autonomously, but also heavily relies on hiring individuals to perform certain tasks that the automaton itself cannot do \[Vitalik, [source](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/)\].
+
+DAO means ownership + DGov system. \(Matan Field, in COALA conversations\)
+
+DAO is corporation running on the digital jurisdiction. \(Yalda, EthCC presentation\)
+
+### DAC
+
+Decentralized autonomous corporations/companies are a smaller topic, because they are basically a subclass of DAOs, but they are worth mentioning. Since the main exponent of DAC as terminology is Daniel Larimer, we will borrow as a definition the point that he himself consistently promotes: a DAC pays dividends \[[source](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/)\]. 
+
 ### Firm, Business, Enterprise
 
 A firm is a business organization, such as a corporation, limited liability company or partnership, that sells goods or services to make a profit. \[[source](https://www.investopedia.com/terms/f/firm.asp)\]
+
+### Network
+
+Type of organization focused on connecting members for collaboration, opportunities exchange \(projects, sales\), hiring etc. 
+
+Personal Networks – e.g., alumni, professional, social and affinity groups — these allow you to meet a diverse group of like-minded professionals. Good for career moves, and to link you to new kinds of networks for your current work when opportunities emerge there. \[[source](https://100trillion.wordpress.com/2008/06/21/three-types-of-professional-networks/)\]
 
 ## Platform
 
