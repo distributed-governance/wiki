@@ -6,7 +6,7 @@
 
 ## Needs
 
-1.  Network capacity \(Open, Transparent and Participative\)
+1. Network capacity \(Open, Transparent and Participative\)
 
    * [Network strategy building](network-strategy-building.md)
 
