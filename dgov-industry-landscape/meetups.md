@@ -2,6 +2,11 @@
 
 Anyone can start a meetup in his \(her\) region. Meetup can be in a form of an informal dinner for 3-12 people. Or can be an educational / network meetup with a dedicated place.
 
+Formats:
+
+* Networking Dinner / Drinks
+* [Lean Coffee](https://www.youtube.com/watch?v=d0VBsZOBc_0)
+
 ## **Process**
 
 1. [Preparation](meetups.md#preparation)
