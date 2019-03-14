@@ -48,17 +48,17 @@ e.g. DGOV SEED DAO, Strategy papers
 
 ## Governance
 
-Foundation uses a Holacracy-like model as a governance model. Check brief [holacracy onboarding]().
+Foundation uses a Holacracy-like model as a governance model. Check brief holacracy onboarding.
 
 Changes to policies and roles are done through the Holacracy IDM process. Telegram and Loomio voting can be used for consulting with the community.
 
 ### Roles
 
-* Council Event Organizer – Tim
+* Community manager / Council Event Organizer – Tim
 * Newsletter Editor – Max
 * Facilitators \(incl. council events\) – Max, Fran, Phoebe, Lucas, Ela
 * Mediators \(preliminary\) – Chris, Loie, Felix, Phoebe, Anuj
-* [Outreach & Advocacy / PR Manager]() – Anja
+* Outreach & Advocacy / PR Manager – Anja
 * Designer – Max
 
 ### Outreach & Advocacy / PR Manager

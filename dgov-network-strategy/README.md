@@ -7,28 +7,20 @@
 ## Needs
 
 1. Network capacity \(Open, Transparent and Participative\)
-
    * [Network strategy building](network-strategy-building.md)
-
 2. [Providers](./#providers)
-
    * Access to Users
    * Product Feedback & Ideation
-
 3. DO / DAO / Co-ops Support by providers
-
    * Tools & Services by [Providers](./#providers)
    * Funding – [VCs](./#vcs)
-   * Expertise – [DAO Incubator](http://daoincubator.org), DAO Hackathon, [Body of Knowledge](../)
-   * Regulation – [DAO Zero](https://docs.google.com/document/d/1rrhkRKq2fK72Vmbn-xxt6bPwUX3GYDtGuCkoopbjVpw/edit#heading=h.frcxq7smt4ir)
-
+   * Expertise – [DAO Incubator](http://daoincubator.org), DAO Hackathon, [Body of Knowledge](../)
+   * Regulation – [DAO Zero](https://docs.google.com/document/d/1rrhkRKq2fK72Vmbn-xxt6bPwUX3GYDtGuCkoopbjVpw/edit#heading=h.frcxq7smt4ir)
 4. [Researchers & Academics](./#researchers-and-academics)
-
    * Identifying research needs
    * Feedback / Ideation
    * Coverage?
-
-5. [Investors / VCs](./#investors-vcs) 
+5. [Investors / VCs](./#investors-vcs)
 6. [Ecosystem / wider communities ](./#ecosystem-wider-communities)
    * DAO progress is tracked and shared
    * Integration?
@@ -52,31 +44,31 @@
 * [xDAC](https://xdac.co/) is A Place To Start and Manage Decentralized Companies
 * [Edgeware](https://edgewa.re/) – an experimental blockchain for demonstrating the effectiveness of on-chain governance
 * [Kelsen](https://klsn.io/) – a dapp and a smart contract framework for building secure and transparent governance systems on Ethereum
-* [Decidim](https://decidim.org/) – free open-source participatory democracy for cities and organizations
+* [Decidim](https://decidim.org/) – free open-source participatory democracy for cities and organizations
 * [dOrg](https://github.com/dOrgTech) – dApp for creating and interacting with DAOs
-* [Ethereum](https://www.ethereum.org/) – blockchain App Platform
-* [Tezos](https://tezos.com/) – a new platform for decentralized applications and smart contracts
+* [Ethereum](https://www.ethereum.org/) – blockchain App Platform
+* [Tezos](https://tezos.com/) – a new platform for decentralized applications and smart contracts
 * [CONE Network](http://www.cone.network/) – Enabling companies to harness time-tested market principles to become immensely scalable, innovative, and resilient
-* [Sobol](https://sobol.io/) – Advance your organization toward decentralized, humanistic work
+* [Sobol](https://sobol.io/) – Advance your organization toward decentralized, humanistic work
 * [Metaorg](https://www.metaorg.one/) – Self Aware Network Organism
 * [Abie](http://abie.fund) – minimalist DAO that includes a Sybil-resistant voting system based on liquid democracy
-* [Ellcrys](https://ellcrys.org/) – helps you start, co-own and contribute to open source software products and organizations
+* [Ellcrys](https://ellcrys.org/) – helps you start, co-own and contribute to open source software products and organizations
 
 ### Bounties & Donations
 
-* [Giveth](https://giveth.io/) – donation platform and community
+* [Giveth](https://giveth.io/) – donation platform and community
 * [Gitcoin](https://gitcoin.co/)
 * [Bounties Network](https://bounties.network/)
-* [Talao](https://talao.io) – The Reputation Protocol and DAO for the 100 million freelancing talent
-* [Covee](https://covee.network/) – The Trusted Platform for Knowledge Workers
-* [Alice](https://alice.si/) – 
+* [Talao](https://talao.io) – The Reputation Protocol and DAO for the 100 million freelancing talent
+* [Covee](https://covee.network/) – The Trusted Platform for Knowledge Workers
+* [Alice](https://alice.si/) – 
 
 ### Identity Solutions
 
-* [Iden3](https://iden3.io/)​ – identity solution
-* [uPort](https://www.uport.me/)​ – identity solution
-* ​[BrightID](https://www.brightid.org/)​ – identity solution
-* [Jolocom](https://jolocom.io/) – identity solution
+* [Iden3](https://iden3.io/)​ – identity solution
+* [uPort](https://www.uport.me/)​ – identity solution
+* ​[BrightID](https://www.brightid.org/)​ – identity solution
+* [Jolocom](https://jolocom.io/) – identity solution
 
 ### Soft Governance
 
@@ -93,14 +85,14 @@
 
 ### Legal / Jurisdiction
 
-* [Kleros](https://kleros.io/) – dispute resolution
+* [Kleros](https://kleros.io/) – dispute resolution
 * Mattereum
 * DAO Bridge
 * [Lexon](https://claryon.github.io/lexon/) – a contract programming language for lawyers
 
 ### Other
 
-* [Gnosis](https://gnosis.pm/) – prediction markets platform
+* [Gnosis](https://gnosis.pm/) – prediction markets platform
 * [Fairmint](https://fairmint.co) – continuous funding
 
 ## DO / DAOs / Co-ops
@@ -196,6 +188,4 @@
 * Globatalent
 * SUPERMARKT
 * BlockchainCommons
-
-
 
