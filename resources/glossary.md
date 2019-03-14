@@ -50,15 +50,17 @@ A **cooperative** \(also known as **co-operative**, **co-op**, or **coop**\) is 
 
 ### DAO \(Decentralized Autonomous Organization\)
 
-DAO is an entity that lives on the internet and exists autonomously, but also heavily relies on hiring individuals to perform certain tasks that the automaton itself cannot do \[Vitalik, [source](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/)\].
+DAO is an entity that lives on the internet and exists autonomously, but also heavily relies on hiring individuals to perform certain tasks that the automaton itself cannot do \[[Vitalik Buterin](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/)\].
 
 DAO means ownership + DGov system. \(Matan Field, in COALA conversations\)
 
 DAO is corporation running on the digital jurisdiction. \(Yalda, EthCC presentation\)
 
-A DAO can be seen as the most complex form of a smart contract, where the bylaws of the decentralized organization are embedded into the code of the smart contract, using complex token governance rules. \([Blockchain Hub](https://blockchainhub.net/dao-decentralized-autonomous-organization/)\).
+A DAO can be seen as the most complex form of a smart contract, where the bylaws of the decentralized organization are embedded into the code of the smart contract, using complex token governance rules. \([Blockchain Hub](https://blockchainhub.net/dao-decentralized-autonomous-organization/)\)
 
 The DAO was an organization that was designed to be automated and decentralized. \([Investopedia](https://www.investopedia.com/tech/what-dao/)\)
+
+DAO is a fancy way of saying a digital system living on Ethereum. \([Richard Burton, Balance](https://medium.com/balance-io/why-open-source-finance-will-win-a1f3a61544c2)\)
 
 ### DAC
 
