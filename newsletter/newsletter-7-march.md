@@ -1,4 +1,4 @@
-# Newsletter \#7 \(march\)
+# Newsletter \#7 \(march\) - work in progress
 
 ## \#dgov Community Updates
 
@@ -44,7 +44,7 @@ More themed upcoming events
 
 ### orgtech.io
 
-
+“top 3 materials from this month” + subscribe button
 
 ### daotalk forum
 
