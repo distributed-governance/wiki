@@ -2,29 +2,48 @@
 
 \#dgov is a network for people and organizations interested in bringing more distributed / decentralized designs to the organizations.
 
+Purpose: bring more distributed / decentralized designs to the organizations through the ecosystem development \(strategy forming & initiative support\).
+
 [Discussions](http://forum.dgov.foundation/t/dgov-industry-landscape/15)
 
-## Needs
+## Stakeholders & Needs
 
-1. Network capacity \(Open, Transparent and Participative\)
-   * [Network strategy building](network-strategy-building.md)
-2. [Providers](./#providers)
-   * Access to Users
-   * Product Feedback & Ideation
-3. DO / DAO / Co-ops Support by providers
-   * Tools & Services by [Providers](./#providers)
-   * Funding – [VCs](./#vcs)
-   * Expertise – [DAO Incubator](http://daoincubator.org), DAO Hackathon, [Body of Knowledge](../)
-   * Regulation – [DAO Zero](https://docs.google.com/document/d/1rrhkRKq2fK72Vmbn-xxt6bPwUX3GYDtGuCkoopbjVpw/edit#heading=h.frcxq7smt4ir)
-4. [Researchers & Academics](./#researchers-and-academics)
+1. [Providers](./#providers)
+   * Increase adoption \(users, developers\)
+   * Collect product feedback & feature ideation
+   * Establish case studies 
+2. DO / DAO / Co-ops
+   * Tools & Services by Providers
+   * Funding – VCs
+   * Expertise – [DAO Incubator](http://daoincubator.org/), DAO Hackathon, Body of Knowledge
+   * Regulation Compliance Framework 
+3. [Researchers & Academics](./#researchers-and-academics)
    * Identifying research needs
    * Feedback / Ideation
-   * Coverage?
-5. [Investors / VCs](./#investors-vcs)
-6. [Ecosystem / wider communities ](./#ecosystem-wider-communities)
+   * Coverage? 
+4. [Investors / VCs](./#investors-vcs)
+   * Valuation framework
+   * Access to growing orgs 
+5. [Ecosystem / wider communities ](./#ecosystem-wider-communities)
    * DAO progress is tracked and shared
    * Integration?
    * Smth ~Policies?
+
+## 1. Platform / Community building
+
+[Direction / Strategy](network-strategy-building.md)
+
+* Dgov Foundation Events
+* Dgov Newsletter
+* OrgTech.io
+* DAO Talk forum
+
+## 2. DAO Practitioner Support/Success
+
+* DAO Incubator
+* Dgov Landscape / Body of Knowledge
+
+## 3. Outreach & Advocacy
 
 ## Providers
 
@@ -170,7 +189,6 @@
 * Holacracy
 * [Revision](https://revision.io/)
 * WEF
-* orgtech.io
 
 ## Unsorted
 

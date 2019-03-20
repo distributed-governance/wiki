@@ -1,25 +1,24 @@
-# Amsterdam 14.03.2019 \(draft\)
+# Dgov Amsterdam Community Meetup 16.04.2019 \(draft\)
 
-Place: [Meet Berlage](https://meetberlage.com/)  
+Venue: Primal Base  
+Date & Time: 7pm – 9:30pm  
 Partner: [https://blockchaintalks.io/](https://blockchaintalks.io/)  
-Attendees: 50-70 
+Attendees: up to 50 
 
 ### Format:
 
-* Informational \(20m speeches + 10m question\)
-  * Max Semenchuk, DGOV Foundation
-  * Rinke Hendriksen
-  * Ruben Russel, Caribbean Blockchain Network
-  * ...
-* Networking in Pub 
+* Intro / Registration / Coffee / Topic Selection – 30 mins
+* Lightning talks \(presentation\) 1-3 x 10 mins
+* Facilitated Discussion \(Lean Coffee Format\) – 90 mins
+* More Networking at the Place / Nearby Bar \(optional\) – unlimited
 
 ### Costs:
 
-* Ticket EUR 9-16
+* Ticket EUR ?
 * + Extra Sponsors
 
-## Tasks:
+## Todo:
 
-* Max check on Speakers
-* Continue after sunday, Luuk gets back with the info from the team
+* Invite Rinke Hendriksen, Ruben Russel \(Caribbean Blockchain Network\)
+* Invite Aron Fischer and his students
 
