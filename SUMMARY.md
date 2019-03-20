@@ -31,7 +31,7 @@
 * [\#dgov Strategy & Governance](foundation/roles/README.md)
   * [\#dgov Community Council 1](foundation/roles/dgov-community-council.md)
   * [Paris Assembly, Mar 8, 2019](foundation/roles/paris-assembly-mar-8-2019.md)
-  * [Dgov Amsterdam Community Meetup 16.04.2019 \(draft\)](foundation/roles/amsterdam-14.02.2019.md)
+  * [Dgov Amsterdam Community Meetup 16.04.2019 \(draft\)](foundation/roles/amsterdam-meetup.md)
   * [Workshop in Ljubljana, Apr 28](foundation/roles/workshop-in-ljubljana-apr-28.md)
   * [Festival in Athens 2020](foundation/roles/festival-in-athens-2020.md)
 * [About us](foundation/dgov-history.md)
