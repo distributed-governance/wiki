@@ -29,7 +29,7 @@ Purpose: bring more distributed / decentralized designs to the organizations thr
    * Integration?
    * Smth ~Policies?
 
-## 1. Platform / Community building
+## 1. Coordination
 
 [Direction / Strategy](network-strategy-building.md)
 
@@ -37,13 +37,22 @@ Purpose: bring more distributed / decentralized designs to the organizations thr
 * Dgov Newsletter
 * OrgTech.io
 * DAO Talk forum
+* ​[Ethereum Research Forum / Economics](https://ethresear.ch/c/economics)​
+* ​[Aragon Research Forum](https://research.aragon.org/)​
+* [DAO Stack Forum](https://forum.daostack.io/)​
+* [Colony Forum](https://build.colony.io/)
 
-## 2. DAO Practitioner Support/Success
+## 2. Education
 
-* DAO Incubator
 * Dgov Landscape / Body of Knowledge
 
-## 3. Outreach & Advocacy
+## 3. Incubation
+
+* DAO Incubator
+
+## 4. Regulation
+
+* COALAs?
 
 ## Providers
 
@@ -157,18 +166,6 @@ Purpose: bring more distributed / decentralized designs to the organizations thr
 * Web3 Foundation?
 * Ethereum Foundation?
 
-### Forums
-
-* ​[Ethereum Research Forum / Economics](https://ethresear.ch/c/economics)​
-* ​[Aragon Research Forum](https://research.aragon.org/)​
-* ​[DAO Stack Forum](https://forum.daostack.io/)​
-* [Colony Forum](https://build.colony.io/)
-* ​r/[Dgov](https://new.reddit.com/r/dgov/)​
-* ​r/[Aragon](https://www.reddit.com/r/aragonproject/)​
-* r/​[Colony](https://www.reddit.com/r/joincolony)​
-* r/​[DAO Stack](https://www.reddit.com/r/daostack/)​
-* ​r/[District0x](https://www.reddit.com/r/district0x)​
-
 ## Investors / VCs
 
 * [Placeholder](https://www.placeholder.vc/)
@@ -189,9 +186,6 @@ Purpose: bring more distributed / decentralized designs to the organizations thr
 * Holacracy
 * [Revision](https://revision.io/)
 * WEF
-
-## Unsorted
-
 * [Dezentrum](https://www.dezentrum.ch/en/)
 * Amatus
 * Greenfield.one
