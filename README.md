@@ -8,7 +8,7 @@ We in \#dgov want to bring more distributed/decentralized design to the organiza
 * Check out our [Wiki / Body of Knowledge](http://resources/toc)
 * Subscribe to our [Twitter](https://earth.us18.list-manage.com/track/click?u=566b6b2a60e0829db656d3b34&id=b3dd507d36&e=7265fe9357)
 * [Related Events](dgov-industry-landscape/)
-* [Global Map & Hubs](map-of-the-industry-landscape.md)
+* [Global Map & Hubs](resources/map-of-the-industry-landscape.md)
 * [Newsletter / Monthly reports](newsletter/)
 * [\#dgov Network Strategy](dgov-network-strategy/)
 

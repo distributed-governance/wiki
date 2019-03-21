@@ -4,6 +4,7 @@
 
 * [Glossary](https://wiki.dgov.foundation/resources/glossary)​
 * [DAO Use Cases](dao-use-cases.md)
+* [\#dgov Global Map & Hubs](map-of-the-industry-landscape.md)
 * [Governance Mechanism Categorization](governance-mechanism-categorization.md)
 * [On-chain governance Case Studies](https://wiki.dgov.foundation/resources/protocol-governance-case-studies)​
 * [DAO Tech Evaluation Framework](https://wiki.dgov.foundation/resources/dao-infrastructure-interoperability)​

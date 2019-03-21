@@ -18,7 +18,7 @@ Purpose: bring more distributed / decentralized designs to the organizations thr
    * Increase adoption \(users, developers\)
    * Collect product feedback & feature ideation
    * Establish case studies
-   * Coordination? 
+   * Coordination – Councils, Newsletter 
 3. [Researchers & Academics](./#researchers-and-academics)
    * Identifying research needs
    * Feedback / Ideation

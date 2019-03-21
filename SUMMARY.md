@@ -1,9 +1,10 @@
 # Table of contents
 
 * [Welcome to the \#dgov network](README.md)
-* [\#dgov Global Map & Hubs](map-of-the-industry-landscape.md)
 * [Events](dgov-industry-landscape/README.md)
   * [Host Local Meetups](dgov-industry-landscape/meetups.md)
+* [\#dgov Network Strategy \(draft\)](dgov-network-strategy/README.md)
+  * [Network Strategy Building](dgov-network-strategy/network-strategy-building.md)
 * [\#dgov Newsletter](newsletter/README.md)
   * [Newsletter \#1 \(september\)](newsletter/newsletter-1-september.md)
   * [Newsletter \#2 \(october\)](newsletter/newsletter-2-october.md)
@@ -12,13 +13,12 @@
   * [Newsletter \#5 \(january\)](newsletter/newsletter-5-january.md)
   * [Newsletter \#6 \(february\)](newsletter/newsletter-6-february.md)
   * [Newsletter \#7 \(march\) - work in progress](newsletter/newsletter-7-march.md)
-* [\#dgov Network Strategy \(draft\)](dgov-network-strategy/README.md)
-  * [Network Strategy Building](dgov-network-strategy/network-strategy-building.md)
 
 ## Resources
 
 * [Intro](resources/toc.md)
 * [Glossary](resources/glossary.md)
+* [\#dgov Global Map & Hubs](resources/map-of-the-industry-landscape.md)
 * [DAO Use Cases](resources/dao-use-cases.md)
 * [Governance Mechanism Categorization](resources/governance-mechanism-categorization.md)
 * [On-chain Governance Case Studies](resources/protocol-governance-case-studies.md)
