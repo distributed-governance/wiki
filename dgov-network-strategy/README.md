@@ -8,15 +8,17 @@ Purpose: bring more distributed / decentralized designs to the organizations thr
 
 ## Stakeholders & Needs
 
-1. [Providers](./#providers)
+1. [DO / DAO / Co-ops](./#do-daos-co-ops)
+
+   * Education – Body of Knowledge
+   * Incubation \(Funding & Expertise\) – VCs, [DAO Incubator](http://daoincubator.org/), DAO Hackathon, 
+   * Regulation Compliance
+
+2. [Providers](./#providers)
    * Increase adoption \(users, developers\)
    * Collect product feedback & feature ideation
-   * Establish case studies 
-2. DO / DAO / Co-ops
-   * Tools & Services by Providers
-   * Funding – VCs
-   * Expertise – [DAO Incubator](http://daoincubator.org/), DAO Hackathon, Body of Knowledge
-   * Regulation Compliance Framework 
+   * Establish case studies
+   * Coordination? 
 3. [Researchers & Academics](./#researchers-and-academics)
    * Identifying research needs
    * Feedback / Ideation
@@ -53,6 +55,33 @@ Purpose: bring more distributed / decentralized designs to the organizations thr
 ## 4. Regulation
 
 * COALAs?
+
+## DO / DAOs / Co-ops
+
+### Layer 1: Network-based
+
+* Bitcoin
+* Ethereum
+* Tezos
+* EOS
+* Polkadot
+* Decred
+* DASH
+* Grin
+* Beam
+* Cardano
+* Bitshares
+
+### Layer 2: Application-based
+
+* Alchemy: Genesis, DxDAO
+* Maker DAO
+* The DAO
+* Aragon Association
+* 0x Association
+* \(Water\)Melonport
+* Digix DAO
+* Leap DAO
 
 ## Providers
 
@@ -122,33 +151,6 @@ Purpose: bring more distributed / decentralized designs to the organizations thr
 
 * [Gnosis](https://gnosis.pm/) – prediction markets platform
 * [Fairmint](https://fairmint.co) – continuous funding
-
-## DO / DAOs / Co-ops
-
-### Layer 1: Network-based
-
-* Bitcoin
-* Ethereum
-* Tezos
-* EOS
-* Polkadot
-* Decred
-* DASH
-* Grin
-* Beam
-* Cardano
-* Bitshares
-
-### Layer 2: Application-based
-
-* Alchemy: Genesis, DxDAO
-* Maker DAO
-* The DAO
-* Aragon Association
-* 0x Association
-* \(Water\)Melonport
-* Digix DAO
-* Leap DAO
 
 ## Researchers & Academics
 
