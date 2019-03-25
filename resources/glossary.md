@@ -62,7 +62,9 @@ The DAO was an organization that was designed to be automated and decentralized.
 
 DAO is a fancy way of saying a digital system living on Ethereum. \([Richard Burton, Balance](https://medium.com/balance-io/why-open-source-finance-will-win-a1f3a61544c2)\)
 
-DAO is a composition of smart contracts running on the underlying permissionless blockchain \(e.g. Ethereum\) to form an organisation infrastructure. \(Tim Bansemer\)
+DAO is a composition of smart contracts running on the underlying permissionless blockchain \(e.g. Ethereum\) to form an organisation infrastructure. \(Tim Bansemer\).
+
+DAO – An organization that runs autonomously, in a decentralized manner, that functions without the need for centralized parties to make decisions for the organization to grow, to be profitable, or \*physically\* exist to serve its overall purpose. A DAO can be an on-chain contract, or a series of on-chain contracts that interoperate to complete some greater organizational function. \([Steven McKie](https://medium.com/amentum/the-year-of-the-dao-comeback-9c888b44980)\)
 
 ### DAC
 
