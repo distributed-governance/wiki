@@ -1,64 +1,42 @@
 # Newsletter \#7 \(march\) - work in progress
 
-## \#dgov Community Updates
-
-### Consensus on the Direction
-
-Manifesto...
-
-More themed upcoming events
-
-* [Rebooting the Web of Trust VIII](https://www.eventbrite.com/e/rebooting-the-web-of-trust-viii-spring-2019-barcelona-tickets-54843077120) \(Mar 1, Barcelona\)
-* [radicalXchange](https://radicalxchange.org/) \(Mar 22-24, Detroit\) – ping Beth, she might be gathering a \#dgov group there
-* [DAOCon](https://daocon.io/) \(Apr 26, Split, Croatia\)
-
-### Structure of Work
+## Intro
 
 ...
 
-## DAO Practitioner Support/Success
+## 1. Coordination
 
-### Gathering a Body of Knowledge
+### OrgTech.io Highlights
 
-...
+### DAO Talk forum
 
-### Expertise Center / DAO Incubator
+### [Ethereum Research Forum / Economics](https://ethresear.ch/c/economics)​
 
-...
+### ​[Aragon Research Forum](https://research.aragon.org/)​
 
-### DAO progress
+### [DAO Stack Forum](https://forum.daostack.io/)​
 
-**Aragon Network** 
+### [Colony Forum](https://build.colony.io/)
 
-**Genesis Alpha**
+### Upcoming events
 
-**Kyber**
+## 2. Education
 
-**MakerDAO**
+* Dgov Landscape / Body of Knowledge
 
-## Outreach & Advocacy
+## 3. Incubation
 
-### dgov forum
+* DAO Incubator
 
-### 
+## 4. Regulation
 
-### orgtech.io
-
-“top 3 materials from this month” + subscribe button
-
-### daotalk forum
-
-
-
-### \#dgov culture & memes
-
-...
+* COALAs?
 
 ## Support the Movement!  <a id="DgovCompilation#3October2018-Events"></a>
 
 If you're enthusiastic about the distributed governance – go give us a hand. Here're some tips on what's going on:
 
-\#dgov community: [join](https://dgov.foundation/#join), [onboarding and resources](../), [twitter](https://twitter.com/dgovearth), [website](http://dgov.foundation)
+\#dgov community: [join](https://dgov.foundation/#join), [onboarding and resources](../), [twitter](https://twitter.com/dgovearth), [website](http://dgov.foundation), [events](../dgov-industry-landscape/)
 
 \#dgov foundation: [strategy and projects](../dgov-network-strategy/), [governance](../foundation/roles/), [KPIs](https://docs.google.com/spreadsheets/d/1B0XGN2uMeStBHcOcr0VySbSzYz_V67zmKCjJ-NBwvNU/edit#gid=590065571)
 
