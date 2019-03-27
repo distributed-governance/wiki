@@ -40,7 +40,7 @@ Made a decision to switch to Jack's Orgtech review. He does a better job with mo
 
 ## 2. Education
 
-Dgov Landscape / Body of Knowledge group did 2 tactical calls with 5-8 people on board, established the preliminary scope, appointed Pedro Parracia for the coordinator. Goal is to push the report in the next 2 month. Setting up a funding proposal in Genesis.
+Dgov Landscape Research group did 2 tactical calls with 5-8 people on board, established the preliminary scope, appointed Pedro Parracia as coordinator. Goal is to push the report in the next 2 month. Setting up funding proposal for preliminary research in Genesis.
 
 More on ...
 
