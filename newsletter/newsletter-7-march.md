@@ -42,6 +42,7 @@ Made a decision to switch to Jack's Orgtech review. He does a better job with mo
 * \#dgov Amsterdam Meetup \#1 \(Apr 16, Amsterdam\)
 * [DAOCon](https://daocon.io/) \(Apr 26, Split, Croatia\)
 * [Governance and new organizational challenges](https://www.eublockchainforum.eu/events/governance-and-new-organizational-challenges) \(Apr 30, Brussels\)
+* [Steps 2019](https://www.blockchainforscience.com/2019/01/31/steps_barcelona/) \(May 10-11, Barcelona\)
 
 ## 2. Education
 

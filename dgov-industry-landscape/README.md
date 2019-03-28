@@ -23,6 +23,7 @@
 * [radicalXchange](https://radicalxchange.org/) \(Mar 22-24, Detroit\)
 * [DAOCon](https://daocon.io/) \(Apr 26, Split, Croatia\)
 * [Governance and new organizational challenges](https://www.eublockchainforum.eu/events/governance-and-new-organizational-challenges) \(Apr 30, Brussels\)
+* [Steps 2019](https://www.blockchainforscience.com/2019/01/31/steps_barcelona/) \(May 10-11, Barcelona\)
 
 Want to host a local meetup?[ here're some tips](https://wiki.dgov.foundation/meetups)
 
