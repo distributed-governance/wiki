@@ -6,7 +6,11 @@
 
 ## 1. Coordination
 
-### OrgTech.io Highlights
+### \#dgov Community
+
+Got an informal event during the RadicalxChange conference in Detroit with ~35 on board. Next meetup is planned in Amsterdam on Apr 16 \(will share a link and more details soon\).
+
+### OrgTech Review Highlights
 
 Made a decision to switch to Jack's Orgtech review. He does a better job with more frequent and elaborate distribution of news.
 
@@ -35,6 +39,7 @@ Made a decision to switch to Jack's Orgtech review. He does a better job with mo
 
 ### Upcoming events
 
+* \#dgov Amsterdam Meetup \#1 \(Apr 16, Amsterdam\)
 * [DAOCon](https://daocon.io/) \(Apr 26, Split, Croatia\)
 * [Governance and new organizational challenges](https://www.eublockchainforum.eu/events/governance-and-new-organizational-challenges) \(Apr 30, Brussels\)
 
@@ -46,7 +51,7 @@ More on ...
 
 ## 3. Incubation
 
-DAO Incubator got 4 incubation request and gathered a group of 18 mentors around. Current tasks are forming the practice and establishing relations with key organizations in the field. 
+DAO Incubator got 4 incubation request and gathered a group of 18 mentors around. Current tasks are forming the practice and establishing relations with key organizations in the field.
 
 More on [https://daoincubator.org/](https://daoincubator.org/)
 
@@ -54,11 +59,25 @@ More on [https://daoincubator.org/](https://daoincubator.org/)
 
 COALAs? Anja. Results in Paris
 
-## Support the Movement!  <a id="DgovCompilation#3October2018-Events"></a>
+## 5. Having Fun
+
+Regular collection of memes from Pedro Parrachia and the Ministry of Memes.
+
+![](../.gitbook/assets/image.png)
+
+![](../.gitbook/assets/image%20%281%29.png)
+
+![](../.gitbook/assets/image%20%2830%29.png)
+
+![](../.gitbook/assets/image%20%288%29.png)
+
+![](../.gitbook/assets/image%20%282%29.png)
+
+## Support the Movement!   <a id="DgovCompilation#3October2018-Events"></a>
 
 If you're enthusiastic about the distributed governance – go give us a hand. Here're some tips on what's going on:
 
 \#dgov community: [join](https://dgov.foundation/#join), [onboarding and resources](../), [twitter](https://twitter.com/dgovearth), [website](http://dgov.foundation), [events](../dgov-industry-landscape/)
 
-\#dgov foundation: [strategy and projects](../dgov-network-strategy/), [governance](../foundation/roles/), [KPIs](https://docs.google.com/spreadsheets/d/1B0XGN2uMeStBHcOcr0VySbSzYz_V67zmKCjJ-NBwvNU/edit#gid=590065571)
+\#dgov foundation: [strategy and governance](../foundation/roles/)
 

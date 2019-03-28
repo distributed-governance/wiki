@@ -61,7 +61,7 @@ Use [Grins way](https://medium.com/blockchain-capital-blog/grin-governance-a-nov
 
 Time-lock Voting + Delayed Enactment
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
 * [https://github.com/paritytech/polkadot/wiki/Governance](https://github.com/paritytech/polkadot/wiki/Governance)
 

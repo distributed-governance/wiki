@@ -73,19 +73,19 @@ First of all thanks to Aragon we now have the "Fight for freedom" day \(Feb 10\)
 
 Here're also some highlights from the Ministry of Memes chat and Pedro Parrachia specifically:
 
-![](../.gitbook/assets/image%20%2820%29.png)
+![](../.gitbook/assets/image%20%2826%29.png)
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2813%29.png)
 
-![](../.gitbook/assets/image%20%2811%29.png)
-
-![](../.gitbook/assets/image%20%2817%29.png)
-
-![](../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%2815%29.png)
 
 ![](../.gitbook/assets/image%20%2821%29.png)
 
-![](../.gitbook/assets/image%20%2822%29.png)
+![](../.gitbook/assets/image%20%2812%29.png)
+
+![](../.gitbook/assets/image%20%2827%29.png)
+
+![](../.gitbook/assets/image%20%2828%29.png)
 
 ## Support the Movement!  <a id="DgovCompilation#3October2018-Events"></a>
 
