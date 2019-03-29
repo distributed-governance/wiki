@@ -60,6 +60,8 @@ More on [https://daoincubator.org/](https://daoincubator.org/)
 
 COALAs? Anja. Results in Paris
 
+[https://medium.com/cryptolawreview](https://medium.com/cryptolawreview)
+
 ## 5. Having Fun
 
 Regular collection of memes from Pedro Parrachia and the Ministry of Memes.
@@ -71,8 +73,6 @@ Regular collection of memes from Pedro Parrachia and the Ministry of Memes.
 ![](../.gitbook/assets/image%20%2830%29.png)
 
 ![](../.gitbook/assets/image%20%288%29.png)
-
-![](../.gitbook/assets/image%20%282%29.png)
 
 ## Support the Movement!   <a id="DgovCompilation#3October2018-Events"></a>
 
