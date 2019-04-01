@@ -28,8 +28,8 @@ Markets Are Eating The World: An in-depth history of how various innovations hav
 
 ### DAO Talk Forum Highlights
 
-* [https://daotalk.org/t/genesis-beta-what-do-we-want-to-be/388](https://daotalk.org/t/genesis-beta-what-do-we-want-to-be/388)
-* [https://daotalk.org/t/case-studies-decentralized-orgs-with-on-chain-governance/395](https://daotalk.org/t/case-studies-decentralized-orgs-with-on-chain-governance/395)
+* [Genesis Beta - what do we want to be](https://daotalk.org/t/genesis-beta-what-do-we-want-to-be/388)
+* [Case Studies: Decentralized Orgs with On-chain Governance](%20https://daotalk.org/t/case-studies-decentralized-orgs-with-on-chain-governance/395)
 
 ### Ethereum Research Forum / Economics​ Highlights
 
