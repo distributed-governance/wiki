@@ -1,14 +1,16 @@
 # Newsletter \#7 \(march\)
 
-## Intro
+Hi friends, Max here.
 
-Dear friends, the spring feels so good and brings a lot of inspiration and enlightenments. Check out how ecosystem projects mature. We've gathered the updates we now and if we missed covering your project or initiative – please get in touch and we'll resolve this.
+The spring feels really good! Hope the new cycle will bring a lot of inspiration and enlightenments for all of us. Btw check out how ecosystem matures.
+
+Once more we've tried to gather the updates within our range of vision. If we haven't covered your project or initiative – please get in touch and we'll resolve this.
 
 ## 1. Coordination
 
 ### \#dgov Community
 
-Thanks to [Thom Ivy](https://twitter.com/thom_ivy_1) from Edgeware that organized and indie \#dgov event during RadicalxChange conference in Detroit with ~35 people on board. [Next meetup](https://www.eventbrite.com/e/decentralized-governance-and-daos-meetup-with-lightning-talks-tickets-59638108187) is planned in Amsterdam on Apr 16.
+Thanks to [Thom Ivy](https://twitter.com/thom_ivy_1) from Edgeware that organized an indie \#dgov event during RadicalxChange conference in Detroit with ~35 people on board. [Next meetup](https://www.eventbrite.com/e/decentralized-governance-and-daos-meetup-with-lightning-talks-tickets-59638108187) is planned in Amsterdam on Apr 16.
 
 ### OrgTech Review Highlights
 
