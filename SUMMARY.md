@@ -12,7 +12,7 @@
   * [Newsletter \#4 \(december\)](newsletter/newsletter-4-december.md)
   * [Newsletter \#5 \(january\)](newsletter/newsletter-5-january.md)
   * [Newsletter \#6 \(february\)](newsletter/newsletter-6-february.md)
-  * [Newsletter \#7 \(march\) - work in progress](newsletter/newsletter-7-march.md)
+  * [Newsletter \#7 \(march\)](newsletter/newsletter-7-march.md)
 * [\#dgov network logo](dgov-network-logo.md)
 
 ## Resources

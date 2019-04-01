@@ -1,8 +1,8 @@
-# Newsletter \#7 \(march\) - work in progress
+# Newsletter \#7 \(march\)
 
 ## Intro
 
-...
+Dear friends, the spring feels so good and brings a lot of inspiration and enlightenments. Check out how ecosystem projects mature. We've gathered the updates we now and if we missed covering your project or initiative – please get in touch and we'll resolve this.
 
 ## 1. Coordination
 
