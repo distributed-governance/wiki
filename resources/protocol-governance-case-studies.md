@@ -2,50 +2,63 @@
 
 [Discussion](https://daotalk.org/t/case-studies-decentralized-orgs-with-on-chain-governance/395)
 
-Plan:
-
-1. Gather the team
-2. Agree on methodology, structure, reviewing process
-3. Distribute the case studies
-4. ...
-5. Request feedback
-
 ## Introduction
 
-* what, why, relevance?
+We need to make a lot of experiments and thoroughly document them in order to find a working formula for the on-chain governance. This research is dedicated to collect, categorize and compare different attempts in governance automation and scaling with blockchain systems.
 
 ## Methodology
 
-{% hint style="info" %}
-what are the formal criteria to include \(and to exclude\) a certain case related to blockchain governance?
-{% endhint %}
-
 Structure of the report:
 
-* Purpose of DAO
-* Objects to be governed \(e.g. repo, funds distribution\)
-* Used mechanics \(on-chain, off-chain\)
+* Purpose
 * History & key events
-
-Use [Grins way](https://medium.com/blockchain-capital-blog/grin-governance-a-novel-approach-154aca07291b) to describe governance?
+* Objects of governance \(e.g. repo, funds distribution\) & Used mechanics \(on-chain, off-chain\)
+* Risk Management
+* Network Stats
+* Summary
+* Links
 
 ## Layer 1: Network-based
 
-### Bitcoin
-
-* [https://medium.com/@pierre\_rochard/bitcoin-governance-37e86299470f](https://medium.com/@pierre_rochard/bitcoin-governance-37e86299470f)
-* [https://bitcoinmagazine.com/articles/a-primer-on-bitcoin-governance-or-why-developers-aren-t-in-charge-of-the-protocol-1473270427/](https://bitcoinmagazine.com/articles/a-primer-on-bitcoin-governance-or-why-developers-aren-t-in-charge-of-the-protocol-1473270427/)
-* [https://bitcoinexchangeguide.com/bitcoin-governance-how-btcs-consensus-system-works-why-it-matters/](https://bitcoinexchangeguide.com/bitcoin-governance-how-btcs-consensus-system-works-why-it-matters/)
-
-### Ethereum
-
-* [https://medium.com/shyft-network-media/the-philosophy-of-ethereum-governance-52c530a8830c](https://medium.com/shyft-network-media/the-philosophy-of-ethereum-governance-52c530a8830c)
-* [https://github.com/ethereum/wiki/wiki/Governance-compendium](https://github.com/ethereum/wiki/wiki/Governance-compendium)
-* [https://unblock.net/what-is-ethereum-governance/](https://unblock.net/what-is-ethereum-governance/)
-
 ### Tezos
 
-* [https://medium.com/tezos/amending-tezos-b77949d97e1e](https://medium.com/tezos/amending-tezos-b77949d97e1e)
+![](../.gitbook/assets/image%20%288%29.png)
+
+#### Purpose
+
+Tezos is a self-amending blockchain network which incorporates a formal, on-chain mechanism for proposing, selecting, testing, and activating protocol upgrades without the need to hard fork.
+
+#### History & key events
+
+* 2017 – $232 million ICO
+* Feb 2018 – Board reshuffle 
+* Jun 2018 – Testnet launch
+* Sep 2018 – Mainnet Launch
+
+#### Objects of governance & Used mechanics
+
+* Upgrades to the protocol through voting. Uses min quorum adapted to the average participation and and 80% of supermajority support level to pass. _Uses coin voting?_
+
+#### Risk Management
+
+As a security measure, the Tezos foundation will have a veto power expiring after twelve months, until we rule out any kinks in the voting procedure\).
+
+#### Network Stats
+
+* Market cap $0.79B
+* ...
+
+#### Summary
+
+* Any experiments done?
+
+#### Links
+
+* [Tezos Whitepaper](https://tezos.com/static/white_paper-2dc8c02267a8fb86bd67a108199441bf.pdf)
+* [Amending Tezos](https://medium.com/tezos/amending-tezos-b77949d97e1e) by Jacob Arluck
+* [https://messari.io/asset/tezos](https://messari.io/asset/tezos)
+* [https://tzscan.io/charts\_bakers](https://tzscan.io/charts_bakers)
+* [https://www.coindesk.com/tezos-board-reshuffled-johann-gevers-steps](https://www.coindesk.com/tezos-board-reshuffled-johann-gevers-steps)
 
 ### EOS
 
@@ -86,6 +99,10 @@ Time-lock Voting + Delayed Enactment
 ### Cardano
 
 * [https://cryptovest.com/news/cardano-ada-hit-by-governance-woes-as-iohk-emurgo-chairs-split-with-cardano-foundation/](https://cryptovest.com/news/cardano-ada-hit-by-governance-woes-as-iohk-emurgo-chairs-split-with-cardano-foundation/)
+
+### Edgeware
+
+* [https://edgewa.re/](https://edgewa.re/)
 
 ## Layer 2: Application-based
 
@@ -135,6 +152,22 @@ Based on Alchemy
 ### Bitshares
 
 ### Leap DAO
+
+## Informal Governance Protocols
+
+
+
+### Bitcoin
+
+* [https://medium.com/@pierre\_rochard/bitcoin-governance-37e86299470f](https://medium.com/@pierre_rochard/bitcoin-governance-37e86299470f)
+* [https://bitcoinmagazine.com/articles/a-primer-on-bitcoin-governance-or-why-developers-aren-t-in-charge-of-the-protocol-1473270427/](https://bitcoinmagazine.com/articles/a-primer-on-bitcoin-governance-or-why-developers-aren-t-in-charge-of-the-protocol-1473270427/)
+* [https://bitcoinexchangeguide.com/bitcoin-governance-how-btcs-consensus-system-works-why-it-matters/](https://bitcoinexchangeguide.com/bitcoin-governance-how-btcs-consensus-system-works-why-it-matters/)
+
+### Ethereum
+
+* [https://medium.com/shyft-network-media/the-philosophy-of-ethereum-governance-52c530a8830c](https://medium.com/shyft-network-media/the-philosophy-of-ethereum-governance-52c530a8830c)
+* [https://github.com/ethereum/wiki/wiki/Governance-compendium](https://github.com/ethereum/wiki/wiki/Governance-compendium)
+* [https://unblock.net/what-is-ethereum-governance/](https://unblock.net/what-is-ethereum-governance/)
 
 ## Summary
 
