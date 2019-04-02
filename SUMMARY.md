@@ -3,7 +3,7 @@
 * [Welcome to the \#dgov network](README.md)
 * [Events](dgov-industry-landscape/README.md)
   * [Host Local Meetups](dgov-industry-landscape/meetups.md)
-* [\#dgov Network Strategy \(draft\)](dgov-network-strategy/README.md)
+* [\#dgov Network Strategy](dgov-network-strategy/README.md)
   * [Network Strategy Building](dgov-network-strategy/network-strategy-building.md)
 * [\#dgov Newsletter](newsletter/README.md)
   * [Newsletter \#1 \(september\)](newsletter/newsletter-1-september.md)

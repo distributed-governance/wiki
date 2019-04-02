@@ -1,4 +1,4 @@
-# \#dgov Network Strategy \(draft\)
+# \#dgov Network Strategy
 
 \#dgov is a network for people and organizations interested in bringing more distributed / decentralized designs to the organizations.
 
