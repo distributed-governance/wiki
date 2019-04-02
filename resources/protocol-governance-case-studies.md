@@ -22,7 +22,7 @@ Structure of the report:
 
 ### Tezos
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%289%29.png)
 
 #### Purpose
 
@@ -73,6 +73,22 @@ As a security measure, the Tezos foundation will have a veto power expiring afte
 * [https://blockgeeks.com/guides/what-is-tezos/](https://blockgeeks.com/guides/what-is-tezos/)
 
 ### EOS
+
+![](../.gitbook/assets/image%20%285%29.png)
+
+#### Purpose
+
+#### History & key events
+
+#### Objects of governance & Used mechanics 
+
+#### Risk Management
+
+#### Network Stats
+
+#### Summary
+
+#### Links
 
 * [https://medium.com/coinmonks/a-deep-dive-into-eos-governance-49e892eeb4a2](https://medium.com/coinmonks/a-deep-dive-into-eos-governance-49e892eeb4a2)
 * [https://medium.com/coinmonks/possible-improvements-to-eos-governance-7432b7afea1b](https://medium.com/coinmonks/possible-improvements-to-eos-governance-7432b7afea1b)
