@@ -26,18 +26,25 @@ Structure of the report:
 
 #### Purpose
 
-Tezos is a self-amending blockchain network which incorporates a formal, on-chain mechanism for proposing, selecting, testing, and activating protocol upgrades without the need to hard fork.
+Tezos is a self-amending blockchain network which incorporates a formal, on-chain mechanism for proposing, selecting, testing, and activating protocol upgrades without the need to hard fork. Operates with liquid PoS consensus.
 
 #### History & key events
 
+* 2014 – Arthur Breitman and Kathleen Breitman, started developing Tezos with a core group of developers
 * 2017 – $232 million ICO
-* Feb 2018 – Board reshuffle 
+* Feb 2018 – Dispute and Board reshuffle 
 * Jun 2018 – Testnet launch
 * Sep 2018 – Mainnet Launch
 
 #### Objects of governance & Used mechanics
 
-* Upgrades to the protocol through voting. Uses min quorum adapted to the average participation and and 80% of supermajority support level to pass. _Uses coin voting?_
+Upgrades to the protocol through proposal & voting process. Uses min quorum adapted to the average participation and and 80% of supermajority support level to pass.
+
+* Developers independently submit proposals for protocol upgrades and request for compensation for their work.
+* The request for compensation makes sure that the developers have a strong economic incentive to contribute to the ecosystem
+* The proposal goes through a testing period wherein the community tests the protocol and criticizes it for possible improvements.
+* After repeated testing, the Tezos token holders can then vote on whether the proposal should be approved or not.
+* Once a legitimate upgrade is decided on, a “hot swap” occurs on the protocol, which initiates the new version of the protocol.
 
 #### Risk Management
 
@@ -46,11 +53,11 @@ As a security measure, the Tezos foundation will have a veto power expiring afte
 #### Network Stats
 
 * Market cap $0.79B
-* ...
+* 107 bakers on April 2019
 
 #### Summary
 
-* Any experiments done?
+* Results of current votings?
 
 #### Links
 
@@ -59,6 +66,11 @@ As a security measure, the Tezos foundation will have a veto power expiring afte
 * [https://messari.io/asset/tezos](https://messari.io/asset/tezos)
 * [https://tzscan.io/charts\_bakers](https://tzscan.io/charts_bakers)
 * [https://www.coindesk.com/tezos-board-reshuffled-johann-gevers-steps](https://www.coindesk.com/tezos-board-reshuffled-johann-gevers-steps)
+* [https://tezos.gitlab.io/master/whitedoc/voting.html](https://tezos.gitlab.io/master/whitedoc/voting.html)
+* [https://www.reddit.com/r/tezos/](https://www.reddit.com/r/tezos/)
+* [https://kukai.app/bakers-list](https://kukai.app/bakers-list)
+* [https://mytezosbaker.com/](https://mytezosbaker.com/)
+* [https://blockgeeks.com/guides/what-is-tezos/](https://blockgeeks.com/guides/what-is-tezos/)
 
 ### EOS
 
