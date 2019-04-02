@@ -33,16 +33,19 @@ Purpose: bring more distributed / decentralized designs to the organizations thr
 
 ## 1. Coordination
 
-[Direction / Strategy](network-strategy-building.md)
-
-* Dgov Foundation Events
-* Dgov Newsletter
-* OrgTech.io
-* DAO Talk forum
-* ​[Ethereum Research Forum / Economics](https://ethresear.ch/c/economics)​
-* ​[Aragon Research Forum](https://research.aragon.org/)​
-* [DAO Stack Forum](https://forum.daostack.io/)​
-* [Colony Forum](https://build.colony.io/)
+* Events
+  * Dgov Foundation Events \(Councils & Meetups\)
+  * Promote other events through the calendar 
+* [Dgov Strategy](network-strategy-building.md) 
+* Medias
+  * Dgov Newsletter
+  * Dgov forum
+  * OrgTech.io
+  * DAO Talk forum
+  * ​[Ethereum Research Forum / Economics](https://ethresear.ch/c/economics)​
+  * ​[Aragon Research Forum](https://research.aragon.org/)​
+  * [DAO Stack Forum](https://forum.daostack.io/)​
+  * [Colony Forum](https://build.colony.io/)
 
 ## 2. Education
 
@@ -54,7 +57,7 @@ Purpose: bring more distributed / decentralized designs to the organizations thr
 
 ## 4. Regulation
 
-* COALAs?
+* COALAs Overview
 
 ## DO / DAOs / Co-ops
 
