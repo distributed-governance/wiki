@@ -138,7 +138,7 @@ Regular collection of memes from [Pedro Parrachia](https://twitter.com/parrachia
 
 ![](../.gitbook/assets/image%20%281%29.png)
 
-![](../.gitbook/assets/image%20%2833%29.png)
+![](../.gitbook/assets/image%20%2834%29.png)
 
 ![](../.gitbook/assets/image%20%2810%29.png)
 
