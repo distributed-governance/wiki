@@ -4,7 +4,7 @@
 
 Purpose: bring more distributed / decentralized designs to the organizations through the ecosystem development \(strategy forming & initiative support\).
 
-[Discussions](http://forum.dgov.foundation/t/dgov-industry-landscape/15)
+[Discussions happen here](http://forum.dgov.foundation/t/dgov-industry-landscape/15)
 
 ## Stakeholders & Needs
 
