@@ -26,7 +26,7 @@ Structure of the report:
 
 #### Purpose
 
-Tezos is a self-amending blockchain network which incorporates a formal, on-chain mechanism for proposing, selecting, testing, and activating protocol upgrades without the need to hard fork. Operates with liquid PoS consensus.
+Tezos is a self-amending blockchain network which incorporates a formal, on-chain mechanism for proposing, selecting, testing, and activating protocol upgrades without the need to hard fork. Operates under liquid PoS consensus.
 
 #### History & key events
 

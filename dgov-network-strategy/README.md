@@ -10,8 +10,9 @@ Purpose: bring more distributed / decentralized designs to the organizations thr
 
 1. [DO / DAO / Co-ops](./#do-daos-co-ops)
 
+   * Coordination – Councils, Newsletter
    * Education – Body of Knowledge
-   * Incubation \(Funding & Expertise\) – VCs, [DAO Incubator](http://daoincubator.org/), DAO Hackathon, 
+   * Incubation \(Funding & Expertise\) – [DAO Incubator](http://daoincubator.org/), DAO Hackathon
    * Regulation Compliance
 
 2. [Providers](./#providers)
@@ -27,25 +28,29 @@ Purpose: bring more distributed / decentralized designs to the organizations thr
    * Valuation framework
    * Access to growing orgs 
 5. [Ecosystem / wider communities ](./#ecosystem-wider-communities)
+   * Coordination
    * DAO progress is tracked and shared
    * Integration?
    * Smth ~Policies?
 
 ## 1. Coordination
 
-* Events
-  * Dgov Foundation Events \(Councils & Meetups\)
-  * Promote other events through the calendar 
-* [Dgov Strategy](network-strategy-building.md) 
-* Medias
-  * Dgov Newsletter
-  * Dgov forum
-  * OrgTech.io
-  * DAO Talk forum
-  * ​[Ethereum Research Forum / Economics](https://ethresear.ch/c/economics)​
-  * ​[Aragon Research Forum](https://research.aragon.org/)​
-  * [DAO Stack Forum](https://forum.daostack.io/)​
-  * [Colony Forum](https://build.colony.io/)
+### Supporting Global Collaborations
+
+* Organizing global Councils & Retreats
+* Develop the \#dgov network strategy
+
+### Supporting Local Offline Communities
+
+* Maintain [the ecosystem map](../resources/map-of-the-industry-landscape.md)
+* Organize and participate in local community events / meetups
+* Find partners to do an umbrella with people who benefit
+* Promote other events through the calendar
+
+### Supporting Online Communities
+
+* Stewardship of the \#dgov chat, forum and the newsletter
+* Support Medias: [Dgov Newsletter](https://medium.com/dgov), [Dgov forum](http://forum.dgov.foundation), [OrgTech Review](https://orgtech.substack.com/), [DAO Talk forum](https://daotalk.org/), ​[Ethereum Research Forum / Economics](https://ethresear.ch/c/economics)​, ​[Aragon Research Forum](https://research.aragon.org/)​
 
 ## 2. Education
 
