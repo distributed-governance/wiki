@@ -48,7 +48,7 @@ Upgrades to the protocol through proposal & voting process. Uses min quorum adap
 
 #### Risk Management
 
-As a security measure, the Tezos foundation will have a veto power expiring after twelve months, until we rule out any kinks in the voting procedure\).
+As a security measure, the Tezos foundation will have a veto power expiring after twelve months, until we rule out any kinks in the voting procedure.
 
 #### Network Stats
 
