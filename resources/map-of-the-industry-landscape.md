@@ -4,16 +4,16 @@ Local hubs aligned with \#dgov
 
 ## Europe
 
+* Berlin – Supermarkt, Full Node
+* Amsterdam – Colony, Blockchain Talks
 * London – Furtherfield
-* Berlin – Supermarkt
 * Paris – Tribute
 * Madrid – LegalBlock, P2P Models
 * Prague – Institute of crypto-anarchy
 * Zug – Aragon
-* Amsterdam – Colony
-* Barcelona – 
-* Tallinn
-* Lubljana
+* Barcelona – Giveth
+* Lubljana – Anja
+* Split \(Croatia\) – Tomo
 
 ## Americas
 
