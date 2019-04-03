@@ -50,7 +50,7 @@ Purpose: bring more distributed / decentralized designs to the organizations thr
 ### Supporting Online Communities
 
 * Stewardship of the \#dgov chat, forum and the newsletter
-* Support Medias: [Dgov Newsletter](https://medium.com/dgov), [Dgov forum](http://forum.dgov.foundation), [OrgTech Review](https://orgtech.substack.com/), [DAO Talk forum](https://daotalk.org/), ​[Ethereum Research Forum / Economics](https://ethresear.ch/c/economics)​, ​[Aragon Research Forum](https://research.aragon.org/)​
+* Support Medias: [OrgTech Review](https://orgtech.substack.com/), [DAO Talk forum](https://daotalk.org/), ​[Ethereum Research Forum / Economics](https://ethresear.ch/c/economics)​, ​[Aragon Research Forum](https://research.aragon.org/)​
 
 ## 2. Education
 
