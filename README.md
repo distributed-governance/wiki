@@ -21,9 +21,8 @@ We in \#dgov want to bring more distributed/decentralized design to the organiza
 
 ### If you're interested in active project/foundation participation you might want to check out our
 
-* [Strategy & Governance](http://foundation/roles)
-* [About us](http://foundation/dgov-history)
-* [Logo / Identity](http://foundation/identity)
+* [Strategy & Governance](dgov-network-strategy/)
+* [About us](foundation/dgov-history.md)
 
 Whenever you have a question or siggestion feel free to ping the community manager – Max, that's me =\) Quick contacts: [max.semenchuk@gmail.com](mailto:max.semenchuk@gmail.com), telegram, twitter: @maxsemenchuk
 
