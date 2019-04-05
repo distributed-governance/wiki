@@ -5,7 +5,7 @@ Purpose: to bring together the pioneers and explorers for new principles of huma
 ## Results
 
 * [Videos from the lightning talks and end fishbowl](https://www.youtube.com/watch?v=qTHHZN6bhlQ&list=PLDj0XyKkeYnfKo_yGij3ciK8lI9f3_VhL)
-* [“Distributed Governance Challenges” Open Space Discussion](../../resources/articles-by-topic-1/distributed-governance-challenges.md) transcript
+* [“Distributed Governance Challenges” Open Space Discussion](distributed-governance-challenges.md) transcript
 
 ## **Schedule**
 

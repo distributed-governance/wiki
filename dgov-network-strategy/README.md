@@ -44,7 +44,7 @@ Purpose: bring more distributed / decentralized designs to the organizations thr
 
 ### Supporting Local Offline Communities
 
-* Maintain [the ecosystem map](../resources/map-of-the-industry-landscape.md)
+* Maintain [the ecosystem map](map-of-the-industry-landscape.md)
 * Organize and participate in local community events / meetups
 * Find partners to do an umbrella with people who benefit
 * Promote other events through the calendar

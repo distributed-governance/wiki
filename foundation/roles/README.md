@@ -37,7 +37,7 @@ e.g. DGOV SEED DAO, Strategy papers
 
 ## Projects
 
-1. [~~Council \#1 by inblock.io~~](dgov-community-council.md)
+1. [~~Council \#1 by inblock.io~~](dgov-community-council/)
 2. ~~~~[~~Setup Discourse Forum for deep debates & research~~](http://forum.dgov.foundation)~~~~
 3. ~~~~[~~Paris Assembly Mar 8, 2019~~](paris-assembly-mar-8-2019.md)~~~~
 4. [Movement Manifesto]() is developed & published
