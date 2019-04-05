@@ -115,6 +115,7 @@ Time-lock Voting + Delayed Enactment
 * [https://www.dash.org/governance/](https://www.dash.org/governance/)
 * [https://www.dash.org/2017/09/07/dashdecentral.html](https://www.dash.org/2017/09/07/dashdecentral.html)
 * [https://docs.dash.org/en/stable/governance/understanding.html](https://docs.dash.org/en/stable/governance/understanding.html)
+* [https://medium.com/@richardred/observations-of-the-dash-treasury-dao-c94231b2b5c4](https://medium.com/@richardred/observations-of-the-dash-treasury-dao-c94231b2b5c4)
 
 ### Grin
 
