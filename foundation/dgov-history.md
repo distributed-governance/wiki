@@ -38,4 +38,5 @@ Twitter: [@AnjaBlaj](https://twitter.com/AnjaBlaj)
 * [https://akasha.org/blog/2019/02/08/distributed-governance](https://akasha.org/blog/2019/02/08/distributed-governance)
 * [https://futurethinkers.org/collective-intelligence-and-meme-tribes/](https://futurethinkers.org/collective-intelligence-and-meme-tribes/)
 * [\#dgov council 1 videos](https://www.youtube.com/watch?v=qTHHZN6bhlQ&list=PLDj0XyKkeYnfKo_yGij3ciK8lI9f3_VhL)
+* [Alive and Kicking: Decentralized Governance Picks Up Momentum](https://irishtechnews.ie/alive-and-kicking-decentralized-governance-picks-up-momentum/)
 
