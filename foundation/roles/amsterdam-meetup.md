@@ -24,5 +24,7 @@ Attendees: up to 50
 
 ### Topics
 
-when to DAO/when not to DAO, Platform coops, Holacracy
+* When to DAO/when not to DAO
+* Platform coops on blockchain
+* Use of radical markets in existent corps
 
