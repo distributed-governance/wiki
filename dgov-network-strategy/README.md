@@ -51,12 +51,14 @@ Purpose: bring more distributed / decentralized designs to the organizations thr
 
 ### Supporting Online Communities
 
-* Stewardship of the \#dgov chat, forum and the newsletter
+* Develop the forum with valuable info
+* Moderate the \#dgov chat \(move to discord?\)
+* Monthly newsletter
 * Support Medias: [OrgTech Review](https://orgtech.substack.com/), [DAO Talk forum](https://daotalk.org/), ​[Ethereum Research Forum / Economics](https://ethresear.ch/c/economics)​, ​[Aragon Research Forum](https://research.aragon.org/)​
 
 ## 2. Education
 
-* Dgov Landscape / Body of Knowledge
+* Produce Dgov Landscape / Body of Knowledge
 
 ## 3. Incubation
 
