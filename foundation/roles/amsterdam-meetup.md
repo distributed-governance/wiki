@@ -1,4 +1,4 @@
-# Dgov Amsterdam Community Meetup 16.04.2019 \(draft\)
+# Dgov Amsterdam Community Meetup 16.04.2019
 
 Venue: Primal Base  
 Date & Time: 7pm – 9:30pm  
@@ -21,4 +21,8 @@ Attendees: up to 50
 
 * Invite Rinke Hendriksen, Ruben Russel \(Caribbean Blockchain Network\)
 * Invite Aron Fischer and his students
+
+### Topics
+
+when to DAO/when not to DAO, Platform coops, Holacracy
 
