@@ -3,7 +3,8 @@
 Venue: Primal Base  
 Date & Time: 7pm – 9:30pm  
 Partner: [https://blockchaintalks.io/](https://blockchaintalks.io/)  
-Attendees: up to 50 
+Attendees: up to 50  
+Registration: [https://www.eventbrite.com/e/decentralized-governance-and-daos-meetup-with-lightning-talks-tickets-59638108187](https://www.eventbrite.com/e/decentralized-governance-and-daos-meetup-with-lightning-talks-tickets-59638108187)
 
 ### Format:
 

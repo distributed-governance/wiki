@@ -39,22 +39,23 @@ Purpose: bring more distributed / decentralized designs to the organizations thr
 
 ### Supporting Global Collaborations
 
-* Organizing global Councils & Retreats
-* Develop the \#dgov network strategy
+* Organize 3 Councils / Retreats per year – Tim
 
-### Supporting Local Offline Communities
+### Supporting Local Offline Communities – Max
 
 * Maintain [the ecosystem map](map-of-the-industry-landscape.md)
 * Organize and participate in local community events / meetups
 * Find partners to do an umbrella with people who benefit
 * Promote other events through the calendar
 
-### Supporting Online Communities
+### Supporting Online Communities – Max
 
 * Develop the forum with valuable info
 * Moderate the \#dgov chat \(move to discord?\)
 * Monthly newsletter
-* Support Medias: [OrgTech Review](https://orgtech.substack.com/), [DAO Talk forum](https://daotalk.org/), ​[Ethereum Research Forum / Economics](https://ethresear.ch/c/economics)​, ​[Aragon Research Forum](https://research.aragon.org/)​
+* Twitter
+* Setup info partnerships
+* Support Medias: [OrgTech Review](https://orgtech.substack.com/), [DAO Talk forum](https://daotalk.org/)​, ​[Aragon Research Forum](https://research.aragon.org/)​
 
 ## 2. Education
 

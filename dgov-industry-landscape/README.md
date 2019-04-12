@@ -21,6 +21,7 @@
 * [EthCC](https://ethcc.io/) \(Mar 5-7, Paris\)
 * [\#dgov Commnuity Assembly](https://dgovfoundation.typeform.com/to/b0nVmw) \(Mar 8, Paris\)
 * [radicalXchange](https://radicalxchange.org/) \(Mar 22-24, Detroit\)
+* [\#dgov meetup Amsterdam](https://www.eventbrite.com/e/decentralized-governance-and-daos-meetup-with-lightning-talks-tickets-59638108187) \(Apr 16, Amsterdam\)
 * [DAOCon](https://daocon.io/) \(Apr 26, Split, Croatia\)
 * [Governance and new organizational challenges](https://www.eublockchainforum.eu/events/governance-and-new-organizational-challenges) \(Apr 30, Brussels\)
 * [Sociocracy Online Conference](https://conference.sociocracyforall.org/) ****\(May 2, Online\)
