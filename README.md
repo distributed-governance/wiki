@@ -7,7 +7,7 @@ We in \#dgov want to bring more distributed/decentralized design to the organiza
 * [Use forum](https://earth.us18.list-manage.com/track/click?u=566b6b2a60e0829db656d3b34&id=ce349e1f74&e=7265fe9357) for substantial & deep conversations
 * Check out our [Wiki / Body of Knowledge](https://dao-landscape.gitbook.io/project/)
 * Subscribe to our [Twitter](https://earth.us18.list-manage.com/track/click?u=566b6b2a60e0829db656d3b34&id=b3dd507d36&e=7265fe9357)
-* [Related Events](dgov-industry-landscape/)
+* [Related Events](dgov-industry-landscape.md)
 * [Global Map & Hubs](dgov-network-strategy/map-of-the-industry-landscape.md)
 * [Newsletter / Monthly reports](newsletter/)
 * [\#dgov Network Strategy](dgov-network-strategy/)
@@ -31,7 +31,7 @@ Whenever you have a question or siggestion feel free to ping the community manag
 ### How to Contribute
 
 * Support the projects from the [\#dgov strategy 2019](dgov-network-strategy/)
-* [Host](dgov-industry-landscape/meetups.md) & [Attend](dgov-industry-landscape/#events) local meetups and events
+* [Host]() & [Attend](dgov-industry-landscape.md#events) local meetups and events
 
 ### Edit this wiki
 

@@ -146,7 +146,7 @@ Regular collection of memes from [Pedro Parrachia](https://twitter.com/parrachia
 
 If you're enthusiastic about the distributed governance – go give us a hand. Here're some tips on what's going on:
 
-\#dgov community: [join](https://dgov.foundation/#join), [onboarding and resources](../), [twitter](https://twitter.com/dgovearth), [website](http://dgov.foundation), [events](../dgov-industry-landscape/)
+\#dgov community: [join](https://dgov.foundation/#join), [onboarding and resources](../), [twitter](https://twitter.com/dgovearth), [website](http://dgov.foundation), [events](../dgov-industry-landscape.md)
 
 \#dgov foundation: [strategy and governance](../foundation/roles/)
 

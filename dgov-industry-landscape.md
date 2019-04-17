@@ -27,5 +27,5 @@
 * [Sociocracy Online Conference](https://conference.sociocracyforall.org/) ****\(May 2, Online\)
 * [Steps 2019](https://www.blockchainforscience.com/2019/01/31/steps_barcelona/) \(May 10-11, Barcelona\)
 
-Want to host a local meetup?[ here're some tips](https://wiki.dgov.foundation/meetups)
+Want to host a local meetup? [here're some tips](http://forum.dgov.foundation/t/host-local-meetups/42)
 
