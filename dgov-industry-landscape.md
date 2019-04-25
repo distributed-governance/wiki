@@ -28,8 +28,8 @@
 * [Steps 2019](https://www.blockchainforscience.com/2019/01/31/steps_barcelona/) \(May 10-11, Barcelona\)
 * [Open Education & Digital Citizenship](https://blockchaineducationfrance.fr/) \(28-29 May, Lille, France\)
 * [Web3 Summit](https://web3summit.com/) \(Aug 19-21, Berlin\) – might have a dedicated dgov track!
-* Massive Adoption Conference
-* Floating Man
+* Floating Man \(Aug 13, Liberland\)
+* [Massive Adoption Crypto Festival](https://www.massiveadoption.com/) \(2020\)
 
 Want to host a local meetup? [here're some tips](http://forum.dgov.foundation/t/host-local-meetups/42)
 

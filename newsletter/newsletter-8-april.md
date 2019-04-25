@@ -45,6 +45,8 @@ top 3 articles?
 * [Steps 2019](https://www.blockchainforscience.com/2019/01/31/steps_barcelona/) \(May 10-11, Barcelona\)
 * [Open Education & Digital Citizenship](https://blockchaineducationfrance.fr/) \(28-29 May, Lille, France\)
 * [Web3 Summit](https://web3summit.com/) \(Aug 19-21, Berlin\) – might have a dedicated dgov track!
+* Floating Man \(Aug 13, Liberland\)
+* [Massive Adoption Crypto Festival](https://www.massiveadoption.com/) \(2020\)
 
 ## 2. Education
 
