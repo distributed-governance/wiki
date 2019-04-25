@@ -8,11 +8,21 @@ So once more we've tried to gather the updates within our range of vision. If we
 
 ## 1. Coordination
 
-We've done the first Amsterdam Meetup
+### Amsterdam Meetup
 
-DAOcon chill
+...
+
+### DAOcon chill
+
+...
 
 ![](../.gitbook/assets/image%20%2834%29.png)
+
+### Grace spoke at Liberland
+
+Liberland launched its ecitizenship applications and distributed its first biometric citizenship IDs.
+
+The Liberland team is using the DAOstack platform to offer DAO-as-a-service to any company incorporating in Liberland. Meanwhile their own election system launched on the EOS testnet with the Ghostbusters team behind it
 
 ### OrgTech Review **Highlights**
 
