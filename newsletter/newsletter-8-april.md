@@ -28,9 +28,9 @@ Overall, 200 attendees over two days used this opportunity to learn about DAOs a
 
 By [Tomislav Mamić](https://twitter.com/tomislavmamic)
 
-### Grace spoke at Liberland
+### Liberland 4th Anniversary Celebration
 
-Liberland launched its e-citizenship applications and distributed its first biometric citizenship IDs.
+Grace spoke there. Liberland launched its e-citizenship applications and distributed its first biometric citizenship IDs.
 
 The Liberland team is using the DAOstack platform to offer DAO-as-a-service to any company incorporating in Liberland. Meanwhile their own election system launched on the EOS testnet with the Ghostbusters team behind it
 
