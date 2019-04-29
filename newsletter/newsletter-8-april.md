@@ -42,6 +42,7 @@ top 3 articles?
 ### Upcoming events
 
 * [Sociocracy Online Conference](https://conference.sociocracyforall.org/) ****\(May 2, Online\)
+* [Computational Law + Blockchain Festival: Berlin Node](https://www.eventbrite.com/e/computational-law-blockchain-festival-berlin-node-tickets-60922170853) \(May 4, Berlin\)
 * [Steps 2019](https://www.blockchainforscience.com/2019/01/31/steps_barcelona/) \(May 10-11, Barcelona\)
 * [Open Education & Digital Citizenship](https://blockchaineducationfrance.fr/) \(28-29 May, Lille, France\)
 * [Web3 Summit](https://web3summit.com/) \(Aug 19-21, Berlin\) – might have a dedicated dgov track!
