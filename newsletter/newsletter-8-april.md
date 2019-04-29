@@ -30,9 +30,17 @@ By [Tomislav Mamić](https://twitter.com/tomislavmamic)
 
 ### Liberland 4th Anniversary Celebration
 
-Grace spoke there. Liberland launched its e-citizenship applications and distributed its first biometric citizenship IDs.
+[Liberland's 4th Anniversary](https://docs.google.com/document/d/1ee1UcdyjxQn4SsLC_LYTOc5eo6DzjzwZuChoBg5jEGs/edit) was celebrated on April 13-14 in Sombor, Serbia and Liberland on the Danube, with a lineup of speakers from around the globe.   
+  
+Notably in the dGov arena, Alex Zak of [DAOstack ](https://daostack.io/)presented the DAO-as-a-service that Liberland will offer to any company incorporating in the jurisdiction.  While Liberland is not yet recognized by international bodies as a country, they are implementing sophisticated means of decentralized governance on the [EOSIO platform](https://cryptodaily.co.uk/2019/04/liberland-initiates-decentralized-autonomous-government-with-eosio), and the [Ghostbusters ](https://github.com/HKEOS/Ghostbusters-Testnet)group showed off the testnet version of the e-voting platform for the representational government. Grace Rachmany of [DAO Leadership](http://www.daoleadership.com/) presented on the State of Decentralized Governance, and made suggestions to the group about how to implement government systems for the emerging nation. 
 
-The Liberland team is using the DAOstack platform to offer DAO-as-a-service to any company incorporating in Liberland. Meanwhile their own election system launched on the EOS testnet with the Ghostbusters team behind it
+Also in April, Liberland [relased its sovereign cryptocurrency, the Liberland Merit,](https://news.bitcoin.com/liberlands-merit-token-built-on-bitcoin-cash-captures-a-1m-market-cap/) based on a BTC fork. 
+
+On the second day of the festivities, the group of approximately 80 people set off in boats to drink champaign and [Liberbeer](https://www.liberbeer.ll.land/en/about/). As expected, the C[roatian police trailed the group ](https://www.youtube.com/watch?v=knJB7S2_BHw&feature=youtu.be)and did not allow anyone to disembark on the territory of Liberland. Although Croatia does not formally claim the land and the abandoned floodplain is unused, they prevent anyone from coming ashore or arrest and detain those who do. 
+
+The next [Liberland meetup is May 7 ](https://www.facebook.com/events/309070439740228/)in Prague. 
+
+By [Grace Rachmany ](https://twitter.com/RebeccaRachmany)
 
 ### OrgTech Review Top 3 **Highlights**
 
@@ -42,7 +50,7 @@ The Liberland team is using the DAOstack platform to offer DAO-as-a-service to a
 
 [A Relative Value Model for Governance Tokens](https://github.com/coinfund/governance-model): Coinfund's founder outlines how governance tokens can be valued based on their "decisiveness", i.e. how often a stake can overturn the outcome of a vote. 
 
-&gt; [**Subscribe for a weekly newsletter here**](https://orgtech.substack.com/) &lt;
+[**Subscribe for a weekly newsletter here**](https://orgtech.substack.com/) and thanks to [Jack Laing](https://twitter.com/JackALaing) for doing it.
 
 ### Forum Highlights
 
@@ -57,6 +65,7 @@ The Liberland team is using the DAOstack platform to offer DAO-as-a-service to a
 
 * [Sociocracy Online Conference](https://conference.sociocracyforall.org/) ****\(May 2, Online\)
 * [Computational Law + Blockchain Festival: Berlin Node](https://www.eventbrite.com/e/computational-law-blockchain-festival-berlin-node-tickets-60922170853) \(May 4, Berlin\)
+* [Liberland meetup Praha](https://www.facebook.com/events/309070439740228/) \(May 7, Prague\)
 * [Steps 2019](https://www.blockchainforscience.com/2019/01/31/steps_barcelona/) \(May 10-11, Barcelona\)
 * [Open Education & Digital Citizenship](https://blockchaineducationfrance.fr/) \(28-29 May, Lille, France\)
 * [Web3 Summit](https://web3summit.com/) \(Aug 19-21, Berlin\) – might have a dedicated dgov track!
