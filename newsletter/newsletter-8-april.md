@@ -20,7 +20,7 @@ So once more we've tried to gather the updates within our range of vision. If we
 
 ### Grace spoke at Liberland
 
-Liberland launched its ecitizenship applications and distributed its first biometric citizenship IDs.
+Liberland launched its e-citizenship applications and distributed its first biometric citizenship IDs.
 
 The Liberland team is using the DAOstack platform to offer DAO-as-a-service to any company incorporating in Liberland. Meanwhile their own election system launched on the EOS testnet with the Ghostbusters team behind it
 
@@ -69,7 +69,17 @@ DAO Incubator updates:
 
 ## 4. Regulation
 
-%asked Anja% 
+Last week we’ve witnessed lots of legalise in the crypto space. Not only are we observing more and more legal questions popping out \(e.g. does a DAO need a legal entity, what legal accountability, responsibility do DAO members have?\), there is a whole legal revolution incoming!  
+
+
+![](https://lh6.googleusercontent.com/EYckAAJcbx3Wy7HRSgGeqvlZHkerU0r7l0aRfamGqjIU9nRr0o-F8aPH6vJhHfPa8unlQHgI-e1C-pbAxuEeI0TPta6P4-y4Ms9BmEFMf1NV_i-4NvAMC3tYhuUn8gYsGXbpPApR)
+
+If previously crypto space was considered anarchistic, we’re now facing an era where people are eager to understand why law exists, how it functions, and how it might be changed to become more human.  
+
+
+A presentation about legal issues was held by Marina Markežič and Anja Blaj at the BlockSplit Conference a couple of days ago. The presentation started with various definitions of a DAO, legal applications regarding blockchain and opened numerous questions regarding DAOs. “Legally DAO” turned out to be a topic that triggered a vivid discussion, concluding with basic principles for DAOs which we are co-creating today.
+
+by [Anja Blaj](https://twitter.com/AnjaBlaj)
 
 ## 5. Having Fun
 
