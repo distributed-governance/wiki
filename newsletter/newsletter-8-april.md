@@ -10,13 +10,23 @@ So once more we've tried to gather the updates within our range of vision. If we
 
 ### Amsterdam Meetup
 
-...
-
-### DAOcon chill
+\(photo\)
 
 ...
 
-![](../.gitbook/assets/image%20%2834%29.png)
+make local meetups
+
+### DAOcon Recap
+
+![](../.gitbook/assets/image%20%2841%29.png)
+
+The first ever DAO Convention, called "DaoCon Zero” was held last week in Split, Croatia. Organized by Blockada \(co-organizers of blocksplit.org, blockconf.io and Ethereum Magicians Council of Paris\) and supported by Ethereum Foundation, it brought together members and representatives of DAOstack, Aragon, DAO Incubator, LeapDAO, Kleros, AMPnet, Status, Aave, Tenderly, Fluence, Limechain, Aeternity, BridgeDAO and numerous other blockchain projects from different parts of Europe.
+
+Developers had an opportunity to learn how to create a custom DAO, arbitrable smart contracts, decentralized app backends, and use IPFS and Zero Knowledge Proofs. Entrepreneurs and legal professionals learned about business models and DAO legality; made their first Aragon DAO, and designed a DAO Canvas. There were many other talks covering topics spanning from Self-Sovereign identity to design and DeFi.
+
+Overall, 200 attendees over two days used this opportunity to learn about DAOs and make important connections with partners, infrastructure providers, and users.
+
+By [Tomislav Mamić](https://twitter.com/tomislavmamic)
 
 ### Grace spoke at Liberland
 
@@ -24,11 +34,15 @@ Liberland launched its e-citizenship applications and distributed its first biom
 
 The Liberland team is using the DAOstack platform to offer DAO-as-a-service to any company incorporating in Liberland. Meanwhile their own election system launched on the EOS testnet with the Ghostbusters team behind it
 
-### OrgTech Review **Highlights**
+### OrgTech Review Top 3 **Highlights**
 
-top 3 articles?
+[Fostering Worker Cooperatives with Blockchain Technology: Lessons from the Colony Project](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3356774): The scarcity of worker cooperatives can be attributed to non-conducive legal environments, scarce financing options, and coordination problems that only grow worse with scale. OrgTech \(and Colony specifically\) promises to revitalise cooperatives by providing intuitive platforms that solve these problems. 
 
-&gt; [Subscribe for a weekly newsletter here](https://orgtech.substack.com/)
+[Introducing Distense - A Decentralized Code Cooperative](https://medium.com/@distenseorg/introducing-distense-a-decentralized-code-cooperative-260cf6211aef). "It’s the first for-profit company governed and managed solely by its contributors run on the Ethereum blockchain. Anyone, anywhere can join and work anonymously for Distense. The only requirement to contribute is that you can complete the work." 
+
+[A Relative Value Model for Governance Tokens](https://github.com/coinfund/governance-model): Coinfund's founder outlines how governance tokens can be valued based on their "decisiveness", i.e. how often a stake can overturn the outcome of a vote. 
+
+&gt; [**Subscribe for a weekly newsletter here**](https://orgtech.substack.com/) &lt;
 
 ### Forum Highlights
 
