@@ -216,4 +216,5 @@ Purpose: bring more distributed / decentralized designs to the organizations thr
 * Globatalent
 * SUPERMARKT
 * BlockchainCommons
+* [https://issdg.org/](https://issdg.org/)
 
