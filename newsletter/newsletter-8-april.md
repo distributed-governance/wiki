@@ -10,11 +10,9 @@ So once more we've tried to gather the updates within our range of vision. If we
 
 ### Amsterdam Meetup
 
-\(photo\)
+Organized \#dgov meetup in Amsterdam on Apr 16 together with Blockchain Talk, special thanks to [Luuk Weber](https://twitter.com/Luukjweber). Discussed intrinsic motivation and incentives in DAOs, teaching/learning soft governance, science fiction on DAOs. You can find [meeting notes on our forum](https://forum.dgov.foundation/t/dgov-meetup-amsterdam-apr-17/38).
 
-...
-
-make local meetups
+FYI: you can host local \#dgov meetups, we'll help with promo and organization. Here're [some tips](https://forum.dgov.foundation/t/host-local-meetups/42).
 
 ### DAOcon Recap
 
