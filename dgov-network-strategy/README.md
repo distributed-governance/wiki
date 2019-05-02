@@ -61,6 +61,7 @@ Purpose: bring more distributed / decentralized designs to the organizations thr
 
 * Produce Dgov Landscape / Body of Knowledge
 * Research: Self organizing practices / soft governance in the blockchain teams \(e.g. Aragon, Consensys...\)
+* Soft governance workshops
 
 ## 3. Incubation
 
