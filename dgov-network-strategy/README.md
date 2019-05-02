@@ -44,9 +44,9 @@ Purpose: bring more distributed / decentralized designs to the organizations thr
 ### Supporting Local Offline Communities – Max
 
 * Maintain [the ecosystem map](map-of-the-industry-landscape.md)
+* Event Calendar – curate & promote
 * Organize and participate in local community events / meetups
 * Find partners to do an umbrella with people who benefit
-* Promote other events through the calendar
 
 ### Supporting Online Communities – Max
 
