@@ -50,10 +50,10 @@ Purpose: bring more distributed / decentralized designs to the organizations thr
 
 ### Supporting Online Communities – Max
 
+* Maintain Twitter
+* Monthly newsletter
 * Develop the forum with valuable info
 * Moderate the \#dgov chat \(move to discord?\)
-* Monthly newsletter
-* Twitter
 * Setup info partnerships
 * Support Medias: [OrgTech Review](https://orgtech.substack.com/), [DAO Talk forum](https://daotalk.org/)​, ​[Aragon Research Forum](https://research.aragon.org/)​
 
