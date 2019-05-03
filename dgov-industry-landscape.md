@@ -28,6 +28,7 @@
 * [Computational Law + Blockchain Festival: Berlin Node](https://www.eventbrite.com/e/computational-law-blockchain-festival-berlin-node-tickets-60922170853) \(May 4, Berlin\)
 * [Liberland meetup Praha](https://www.facebook.com/events/309070439740228/) \(May 7, Prague\)
 * [Steps 2019](https://www.blockchainforscience.com/2019/01/31/steps_barcelona/) \(May 10-11, Barcelona\)
+* [DAOify](https://www.eventbrite.com/e/daoify-tickets-60875576488) \(May 15, New York\)
 * [\#Dgov Network Meetup](https://www.eventbrite.com/e/decentralized-governance-dgov-network-tickets-61151048432) \(May 16, New York\)
 * [Open Education & Digital Citizenship](https://blockchaineducationfrance.fr/) \(May 28-29 , Lille, France\)
 * [Web3 Summit](https://web3summit.com/) \(Aug 19-21, Berlin\) – might have a dedicated dgov track!
