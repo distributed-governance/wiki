@@ -19,6 +19,7 @@
 ## Foundation
 
 * [\#dgov Strategy & Governance](foundation/roles/README.md)
+  * [Web 3 dgov track](foundation/roles/web-3-dgov-track.md)
   * [\#dgov Community Council 1](foundation/roles/dgov-community-council/README.md)
     * [Distributed Governance Challenges](foundation/roles/dgov-community-council/distributed-governance-challenges.md)
   * [Paris Assembly, Mar 8, 2019](foundation/roles/paris-assembly-mar-8-2019.md)
