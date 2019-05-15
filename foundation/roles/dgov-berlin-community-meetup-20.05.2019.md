@@ -5,8 +5,6 @@ Date & Time: May 20th, 5pm – 7pm
 Attendance: Free \(50 people max\)  
 Registration: [https://www.eventbrite.com/e/dgov-berlin-community-meetup-20052019-tickets-61783471025](https://www.eventbrite.com/e/dgov-berlin-community-meetup-20052019-tickets-61783471025?ref=estw)
 
-Come if you're interested in distributed governance, future of governance, DAOs, blockchain governance and meet other dGOV community members over a beer :\)
-
 Are you involved or interested in distributed governance, future of governance, DAOs, blockchain governance? Join us on Monday 20th and have the opportunity to discuss topics related to that in an open conference format.   
   
 We will run a similar format to the DGOV Council, with open discussion format and some lightning talks. If you’re working on an interesting project related to Decentralized Governance, DAOs or Blockchain and want to present please email: max.semenchuk@gmail.com The Lighting Talks topics will be communicated once confirmed.
