@@ -1,4 +1,4 @@
-# \#dgov Strategy & Governance
+# DGov Foundation Strategy & Governance
 
 ## **Purpose \(why\)**
 
