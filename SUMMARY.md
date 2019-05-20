@@ -31,3 +31,7 @@
 * [\#dgov Logo /  Identity](foundation/identity.md)
 * [Official Website](https://dgov.foundation)
 
+## Community
+
+* [Community Vision](community/community-vision.md)
+
