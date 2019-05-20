@@ -63,11 +63,11 @@ Purpose: bring more distributed / decentralized designs to the organizations thr
 * Research: Self organizing practices / soft governance in the blockchain teams \(e.g. Aragon, Consensys...\)
 * Soft governance workshops
 
-## 3. Incubation
+## 3. Experimentation
 
 * DAO Incubator
 
-## 4. Regulation
+## 4. Implementation / Regulation
 
 * COALAs Overview
 
