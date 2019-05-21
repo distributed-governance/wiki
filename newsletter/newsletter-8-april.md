@@ -16,7 +16,7 @@ FYI: you can host local \#dgov meetups, we'll help with promo and organization.
 
 ### DAOcon Recap
 
-![](../.gitbook/assets/image%20%2841%29.png)
+![](../.gitbook/assets/image%20%2842%29.png)
 
 The first ever DAO Convention, called "DaoCon Zero” was held last week in Split, Croatia. Organized by Blockada \(co-organizers of blocksplit.org, blockconf.io and Ethereum Magicians Council of Paris\) and supported by Ethereum Foundation, it brought together members and representatives of DAOstack, Aragon, DAO Incubator, LeapDAO, Kleros, AMPnet, Status, Aave, Tenderly, Fluence, Limechain, Aeternity, BridgeDAO and numerous other blockchain projects from different parts of Europe.
 

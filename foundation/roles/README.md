@@ -2,14 +2,24 @@
 
 ## **Purpose \(why\)**
 
-Develop the principles for a highly-adaptable society operating system fit to overcome global challenges:
+DGOV connects people to discover, implement and create the practices, culture and technology to build a complex, scalable governance system to create cohesion for people to flourish.
 
-* Rivalrous environment
-* VUCA \(Volatility, uncertainty, complexity and ambiguity\)
-* Scarcity
-* ...
+Values: Trust, Fairness, Integrity, Respect, Empathy, Appreciation, Egoless, Honesty, Caring, Joyfulness, Fun, Relaxed, Timely, Kindness, Self-reflection
+
+Tools: Deep and Active Listening, Non-violent communication, Hand Gestures, Letting Go, Leadership
 
 ## **Strategy \(how\)**
+
+### **Goals 2019**
+
+* Raise funds \($50-100k\)
+* Launch DGOV Seed DAO \(have 50 members prereg.\)
+* Continue Athens Conference preparations
+* Launch 3 public governance experiments
+* Improve communication platforms \(website, chat, forum, presentation etc\)
+* Regular meetups \( 4 / +10 indie\)
+* Continue getting reputation for doing amazing events
+* Best knowledge base on \#dgov
 
 ### **Build connectivity / a network**
 
@@ -20,6 +30,8 @@ Can get more people from:
 * Political Science / Governance researchers
 * Psychologists
 * Anthropologists
+
+![](../../.gitbook/assets/image%20%2841%29.png)
 
 ### **Help to execute projects**
 
