@@ -1,6 +1,6 @@
 # DGov Foundation Strategy & Governance
 
-## **Purpose \(why\)**
+## **Purpose**
 
 DGOV connects people to discover, implement and create the practices, culture and technology to build a complex, scalable governance system to create cohesion for people to flourish.
 
@@ -8,36 +8,39 @@ Values: Trust, Fairness, Integrity, Respect, Empathy, Appreciation, Egoless, Hon
 
 Tools: Deep and Active Listening, Non-violent communication, Hand Gestures, Letting Go, Leadership
 
-## **Strategy \(how\)**
+## **Strategy 2019**
 
-### **Goals 2019**
+### Develop vibrant community
 
-* Raise funds \($50-100k\)
-* Launch DGOV Seed DAO \(have 50 members prereg.\)
-* Continue Athens Conference preparations
-* Launch 3 public governance experiments
-* Improve communication platforms \(website, chat, forum, presentation etc\)
-* Regular meetups \( 4 / +10 indie\)
-* Continue getting reputation for doing amazing events
-* Best knowledge base on \#dgov
+Provide meaningful connections & direction.
 
-### **Build connectivity / a network**
+#### Continue Athens Conference preparations
 
-The goal of the DGOV Foundation is to create a highly-potent group of approximate 150 people which are bond together in a vision and by a culture allowing them to build and implement distributed governance models. This group acts as a role-model for \(if successful\) many independent groups iterating in collaboration on distributed governance models. Provide meaningful connections & direction.
+...
 
-Can get more people from:
+#### Improve communication platforms \(website, chat, forum, presentation etc\)
+
+...
+
+#### Regular meetups \( 4 / +10 indie\)
+
+...
+
+#### Dgov retreat
+
+...
+
+#### Can get more people from
 
 * Political Science / Governance researchers
 * Psychologists
 * Anthropologists
 
-![](../../.gitbook/assets/image%20%2841%29.png)
+#### Newsletter
 
-### **Help to execute projects**
+...
 
-e.g. DGOV SEED DAO, Strategy papers
-
-### **Suggest guiding principles & culture for the world we want to live in**
+#### **Suggest guiding principles & culture for the world we want to live in**
 
 * Maximum integratable cognitive diversity
 * Omni-considerative / omni-win decision making
@@ -47,25 +50,31 @@ e.g. DGOV SEED DAO, Strategy papers
 * Collaboration “Act local - think global”
 * Be excellent to each other
 
-## Projects
+### Research and share knowledge
 
-1. [~~Council \#1 by inblock.io~~](dgov-community-council/)
-2. ~~~~[~~Setup Discourse Forum for deep debates & research~~](http://forum.dgov.foundation)~~~~
-3. ~~~~[~~Paris Assembly Mar 8, 2019~~](paris-assembly-mar-8-2019.md)~~~~
-4. [Movement Manifesto]() is developed & published
-5. Retreat \#1 in Ljubljana by inblock.io ~Apr-Jun 2019
-6. Council \#2 by inblock.io ~Sep-Oct 2019 \(Tim + help from Felix, Ela, Phoebe, Lucas, Max\)
+* Best knowledge base on \#dgov
+* Web3 conf Node
+* Dgov council \#2
 
-[Key Performance Indicators & Reports](https://docs.google.com/spreadsheets/d/1B0XGN2uMeStBHcOcr0VySbSzYz_V67zmKCjJ-NBwvNU/edit#gid=590065571)  \|  [Task board](https://trello.com/b/CIKoPoBt/q1-2019)
+### Launch more experiments
+
+* Launch 3 public governance experiments
+* Launch DGOV SEED DAO
+
+### Raise funds \($50-100k\)
+
+* Get 50 members to DGOV Seed DAO
+* Continue getting reputation for doing amazing events
 
 ## Governance
 
-Foundation uses a Holacracy-like model as a governance model. Check brief holacracy onboarding.
+Foundation uses a Holacracy model as a governance model. Check brief holacracy onboarding.
 
 Changes to policies and roles are done through the Holacracy IDM process. Telegram and Loomio voting can be used for consulting with the community.
 
 ### Roles
 
+* Leadlink – Tim
 * Community manager / Council Event Organizer – Tim
 * Newsletter Editor – Max
 * Facilitators \(incl. council events\) – Max, Fran, Phoebe, Lucas, Ela
