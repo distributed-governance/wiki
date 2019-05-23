@@ -14,6 +14,7 @@
   * [Newsletter \#6 \(february\)](newsletter/newsletter-6-february.md)
   * [Newsletter \#7 \(march\)](newsletter/newsletter-7-march.md)
   * [Newsletter \#8 \(april\)](newsletter/newsletter-8-april.md)
+  * [Newsletter \#9 \(may\)](newsletter/newsletter-9-may.md)
 * [\#dgov network logo](dgov-network-logo.md)
 
 ## Foundation
