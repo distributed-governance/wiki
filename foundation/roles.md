@@ -20,7 +20,7 @@ Provide meaningful connections & direction.
 
 #### Improve communication platforms \(website, chat, forum, presentation etc\)
 
-...
+Dgov tweets in telegram
 
 #### Regular meetups \( 4 / +10 indie\)
 
