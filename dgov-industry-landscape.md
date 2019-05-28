@@ -35,7 +35,7 @@
 * [\#Dgov Network Meetup](https://www.eventbrite.com/e/decentralized-governance-dgov-network-tickets-61151048432) \(May 16, New York\)
 * [Open Education & Digital Citizenship](https://blockchaineducationfrance.fr/) \(May 28-29 , Lille, France\)
 * [OPEN 2019 Community Gathering](https://open.coop/events/open-2019-community-gathering-decentralised-collaboration/) \(Jun 27-28, London\)
-* [Web3 Summit](https://web3summit.com/) \(Aug 19-21, Berlin\) – might have a dedicated dgov track!
+* [Web3 Summit](https://web3summit.com/) \(Aug 19-21, Berlin\) – will have a dedicated \#dgov node
 * Floating Man \(Aug 13, Liberland\)
 * [Massive Adoption Crypto Festival](https://www.massiveadoption.com/) \(2020\)
 
