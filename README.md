@@ -1,6 +1,8 @@
 # Welcome to the \#dgov network
 
-We in \#dgov want to bring more distributed/decentralized design to the organizations. It's a pleasure to welcome you here.
+We connect people to discover practices, implement technical solutions and create complex, scalable governance systems that create cohesion and allow people to flourish. 
+
+It's a pleasure to welcome you here :\)
 
 ### Some tips that can help you to be productive:
 
