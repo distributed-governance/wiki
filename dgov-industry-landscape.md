@@ -34,6 +34,8 @@
 * [DAOify](https://www.eventbrite.com/e/daoify-tickets-60875576488) \(May 15, New York\)
 * [\#Dgov Network Meetup](https://www.eventbrite.com/e/decentralized-governance-dgov-network-tickets-61151048432) \(May 16, New York\)
 * [Open Education & Digital Citizenship](https://blockchaineducationfrance.fr/) \(May 28-29 , Lille, France\)
+* [Be your own DAO – Luis Cuende](https://paralelnapolis.sk/event/be-your-own-dao-luis-cuende/) \(Jun 3, Bratislava\)
+* [Creating a global co-op with Aragon](https://www.eventbrite.com/e/creating-a-global-co-op-with-aragon-hosted-by-progressbar-tickets-62187928769) \(Jun 4, Bratislava\)
 * [OPEN 2019 Community Gathering](https://open.coop/events/open-2019-community-gathering-decentralised-collaboration/) \(Jun 27-28, London\)
 * [Web3 Summit](https://web3summit.com/) \(Aug 19-21, Berlin\) – will have a dedicated \#dgov node
 * Floating Man \(Aug 13, Liberland\)
