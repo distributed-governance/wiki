@@ -52,7 +52,7 @@ Dgov tweets in telegram
 
 ### Research and share knowledge
 
-* Best knowledge base on \#dgov
+* \#dgov report \(+DAO legal page\)
 * Web3 conf Node
 * Dgov council \#2
 
