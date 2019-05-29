@@ -49,7 +49,7 @@ We had a nice community gathering in the Supermarkt Berlin \(thanks to Ela Kagel
 
 ## 2. Research & Education
 
-* [First version of the dgov report ready](https://dgov.gitbook.io/project/report-1/preliminary-research)
+* [First version of the dgov report ready](https://app.gitbook.com/@dao-landscape/s/project/)
 * [Is it a DAO without blockchain and dgov? tweet query](https://twitter.com/maxsemenchuk/status/1133020336490995712)
 * [DAO Design Principles](https://forum.dgov.foundation/t/dao-design-principles/48)
 
