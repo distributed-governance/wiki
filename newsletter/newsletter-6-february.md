@@ -93,5 +93,5 @@ If you're enthusiastic about the distributed governance – go give us a hand. H
 
 \#dgov community: [join](https://dgov.foundation/#join), [onboarding and resources](../), [twitter](https://twitter.com/dgovearth), [website](http://dgov.foundation)
 
-\#dgov foundation: [strategy and projects](), [governance](../foundation/roles/), [KPIs](https://docs.google.com/spreadsheets/d/1B0XGN2uMeStBHcOcr0VySbSzYz_V67zmKCjJ-NBwvNU/edit#gid=590065571)
+\#dgov foundation: [strategy and projects](), [governance](../foundation/strategy/), [KPIs](https://docs.google.com/spreadsheets/d/1B0XGN2uMeStBHcOcr0VySbSzYz_V67zmKCjJ-NBwvNU/edit#gid=590065571)
 

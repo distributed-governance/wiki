@@ -17,10 +17,10 @@
 
 ## Foundation
 
-* [Strategy & Goals 2019](foundation/roles/README.md)
-  * [Stakeholders](foundation/roles/stakeholders.md)
-  * [Governance](foundation/roles/governance.md)
-  * [Team & History](foundation/roles/dgov-history.md)
+* [Strategy & Goals 2019](foundation/strategy/README.md)
+  * [Stakeholders](foundation/strategy/stakeholders.md)
+  * [Governance](foundation/strategy/governance.md)
+  * [Team & History](foundation/strategy/dgov-history.md)
 * [Official Website](https://dgov.foundation)
 
 ## Community

@@ -24,7 +24,7 @@ It's a pleasure to welcome you here :\)
 ### If you're interested in active project/foundation participation you might want to check out our
 
 * [Strategy & Governance]()
-* [About us](foundation/roles/dgov-history.md)
+* [About us](foundation/strategy/dgov-history.md)
 
 Whenever you have a question or siggestion feel free to ping the community manager – Max, that's me =\) Quick contacts: [max.semenchuk@gmail.com](mailto:max.semenchuk@gmail.com), telegram, twitter: @maxsemenchuk
 
