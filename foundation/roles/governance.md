@@ -1,76 +1,17 @@
-# DGov Foundation Strategy & Governance
-
-## **Purpose**
-
-DGOV connects people to discover, implement and create the practices, culture and technology to build a complex, scalable governance system to create cohesion for people to flourish.
-
-Values: Trust, Fairness, Integrity, Respect, Empathy, Appreciation, Egoless, Honesty, Caring, Joyfulness, Fun, Relaxed, Timely, Kindness, Self-reflection
-
-Tools: Deep and Active Listening, Non-violent communication, Hand Gestures, Letting Go, Leadership
-
-## **Strategy 2019**
-
-### Develop vibrant community
-
-Provide meaningful connections & direction.
-
-#### Continue Athens Conference preparations
-
-...
-
-#### Improve communication platforms \(website, chat, forum, presentation etc\)
-
-Dgov tweets in telegram
-
-#### Regular meetups \( 4 / +10 indie\)
-
-...
-
-#### Dgov retreat
-
-...
-
-#### Can get more people from
-
-* Political Science / Governance researchers
-* Psychologists
-* Anthropologists
-
-#### Newsletter
-
-...
-
-#### **Suggest guiding principles & culture for the world we want to live in**
-
-* Maximum integratable cognitive diversity
-* Omni-considerative / omni-win decision making
-* The principle Life - Change and Adoption
-* The principles of wholeness - interconnectedness.
-* Cohesion
-* Collaboration “Act local - think global”
-* Be excellent to each other
-
-### Research and share knowledge
-
-* \#dgov report \(+DAO legal page\)
-* Web3 conf Node
-* Dgov council \#2
-
-### Launch more experiments
-
-* Launch 3 public governance experiments
-* Launch DGOV SEED DAO
-
-### Raise funds \($50-100k\)
-
-* Get 50 members to DGOV Seed DAO
-* Continue getting reputation for doing amazing events
-
-## Governance
+# Governance
 
 Foundation uses a Holacracy model as a governance model. Check brief holacracy onboarding.
 
 Changes to policies and roles are done through the Holacracy IDM process. Telegram and Loomio voting can be used for consulting with the community.
+
+### Governed objects
+
+* Website / Domain
+* Wiki
+* Communication channels \(SoMe accounts, Telegram Chat, Loomio etc\)
+* Email list
+* Logo / Brand
+* Budget
 
 ### Roles
 
@@ -81,6 +22,8 @@ Changes to policies and roles are done through the Holacracy IDM process. Telegr
 * Mediators \(preliminary\) – Chris, Loie, Felix, Phoebe, Anuj
 * Outreach & Advocacy / PR Manager – Anja
 * Designer – Max
+
+## Accountabilities
 
 ### Outreach & Advocacy / PR Manager
 
@@ -112,17 +55,6 @@ Changes to policies and roles are done through the Holacracy IDM process. Telegr
 * Friday: Fun
 
 ## Policies
-
-\*Work in progress
-
-### Governed Assets
-
-* Website / Domain
-* Wiki
-* Communication channels \(SoMe accounts, Telegram Chat, Loomio etc\)
-* Email list
-* Logo / Brand
-* Budget \(0 for now\)
 
 ### Accepting new members
 
@@ -162,4 +94,18 @@ Everything should be transparent, except of
 ### Moral code
 
 Being excellent with each other \(respect, support, caring\). Intentional dishonour of this rule can lead to ban.
+
+### Strategy building \(wip\)
+
+* quarterly retro
+* strategy clarification\)
+* [newsletter](../../newsletter/) report routine
+* Interview more dgov stakeholders \(needs, expectations, strategies\).
+* Board of Advisors is gathered + Meta calls?
+
+Ecosystem development managers from Aragon \(Maria\), DAO Stack \(Oren, Natalia\), Colony \(?\)
+
+Support Integration of knowledge by [Dgov Foundation](https://dgov.foundation/), [DAO Stack Polinators](https://t.me/joinchat/HfsmOEXV0YP6P5rGmRBaCQ), [Bushwick Generator](https://www.thebushwickgenerator.com/), COALAs, [starfish network](https://www.starfish.network/), [Event Calendar](../../dgov-industry-landscape.md), [Industry Landscape](../../dgov-industry-landscape.md) and [Global Hubs](../../map-of-the-industry-landscape.md)
+
+Rich Movement Culture Exists by [Ministry of Memes](https://t.me/MinistryofMemes)
 

@@ -1,9 +1,9 @@
 # Table of contents
 
 * [Welcome to the \#dgov network](README.md)
-* [\#dgov Network Strategy](dgov-network-strategy/README.md)
-  * [\#dgov Global Map & Hubs](dgov-network-strategy/map-of-the-industry-landscape.md)
+* [\#dgov Strategy](dgov-network-strategy/README.md)
   * [Network Strategy Building](dgov-network-strategy/network-strategy-building.md)
+* [\#dgov Global Map & Hubs](map-of-the-industry-landscape.md)
 * [Events](dgov-industry-landscape.md)
 * [\#dgov Newsletter](newsletter/README.md)
   * [Newsletter \#1 \(september\)](newsletter/newsletter-1-september.md)
@@ -19,7 +19,9 @@
 
 ## Foundation
 
-* [DGov Foundation Strategy & Governance](foundation/roles.md)
+* [DGov Strategy & Goals](foundation/roles/README.md)
+  * [Stakeholders](foundation/roles/stakeholders.md)
+  * [Governance](foundation/roles/governance.md)
 * [About us](foundation/dgov-history.md)
 * [\#dgov Logo /  Identity](foundation/identity.md)
 * [Official Website](https://dgov.foundation)

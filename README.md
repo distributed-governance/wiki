@@ -10,7 +10,7 @@ It's a pleasure to welcome you here :\)
 * Check out our [Wiki / Body of Knowledge](https://dao-landscape.gitbook.io/project/)
 * Subscribe to our [Twitter](https://earth.us18.list-manage.com/track/click?u=566b6b2a60e0829db656d3b34&id=b3dd507d36&e=7265fe9357)
 * [Related Events](dgov-industry-landscape.md)
-* [Global Map & Hubs](dgov-network-strategy/map-of-the-industry-landscape.md)
+* [Global Map & Hubs](map-of-the-industry-landscape.md)
 * [Newsletter / Monthly reports](newsletter/)
 * [\#dgov Network Strategy](dgov-network-strategy/)
 
