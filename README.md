@@ -12,7 +12,7 @@ It's a pleasure to welcome you here :\)
 * [Related Events](dgov-industry-landscape.md)
 * [Global Map & Hubs](map-of-the-industry-landscape.md)
 * [Newsletter / Monthly reports](newsletter/)
-* [\#dgov Network Strategy](dgov-network-strategy/)
+* [\#dgov Network Strategy]()
 
 ### Also we have a couple of rules:
 
@@ -23,8 +23,8 @@ It's a pleasure to welcome you here :\)
 
 ### If you're interested in active project/foundation participation you might want to check out our
 
-* [Strategy & Governance](dgov-network-strategy/)
-* [About us](foundation/dgov-history.md)
+* [Strategy & Governance]()
+* [About us](foundation/roles/dgov-history.md)
 
 Whenever you have a question or siggestion feel free to ping the community manager – Max, that's me =\) Quick contacts: [max.semenchuk@gmail.com](mailto:max.semenchuk@gmail.com), telegram, twitter: @maxsemenchuk
 
@@ -32,7 +32,7 @@ Whenever you have a question or siggestion feel free to ping the community manag
 
 ### How to Contribute
 
-* Support the projects from the [\#dgov strategy 2019](dgov-network-strategy/)
+* Support the projects from the [\#dgov strategy 2019]()
 * [Host](http://forum.dgov.foundation/t/host-local-meetups/42) & [Attend](dgov-industry-landscape.md#events) local meetups and events
 
 ### Edit this wiki

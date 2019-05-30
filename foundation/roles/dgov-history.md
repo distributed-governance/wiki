@@ -1,4 +1,4 @@
-# About us
+# Team & History
 
 ## Core Team
 
