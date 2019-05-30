@@ -12,7 +12,7 @@ On may 17-19th Tim, Max, Anja, Phoebe and Martin gathered for our first strategi
 
 Here's the mission statement:
 
-> “DGOV connects people to discover, implement and create the practices, culture and technology to build a complex, scalable governance system to create cohesion for people to flourish.”
+> DGOV connects people to discover, implement and create the practices, culture and technology to build a complex, scalable governance system to create cohesion for people to flourish.
 
 Find more outcomes & plans in [our presentation](https://docs.google.com/presentation/d/1NB8sucaIaBXqi_pKu6hWpd_IQbfiC_fqY959A0IYTuQ/edit?usp=sharing).
 
@@ -32,9 +32,17 @@ We had a nice community gathering in the Supermarkt Berlin \(thanks to Ela Kagel
 
 **&gt; Support the dialogue, action and change in your cities** – [Host local meetups](https://forum.dgov.foundation/t/host-local-meetups/42)
 
-### OrgTech Review Top 3 **Highlights**
+### OrgTech Review **Highlights**
 
-...coming...
+[Colony Q2 2019 Update](https://blog.colony.io/q2-2019-update/). Ahead of their mainnet launch, Colony has made major protocol improvements that realise a more modular vision of the Colony Network, one that will enable Colony to support a broader variety of use cases than just DAOs. A new payment function simplifies fund transfers, in cases where the task function might be too complex, and can be enhanced with smart contract extensions like escrow and performance review. Permissions are now divided into classes \(Funding, Administration, Arbitration, Architecture, Root\) which can be assigned to accounts/contracts within different domains and reconfigured for a range of use cases; some technical examples outlined inside. Private beta testing is now open to applications; details and other updates inside.
+
+[Aragon vote shows the perils of onchain governance](https://www.evanvanness.com/post/184616403861/aragon-vote-shows-the-perils-of-onchain-governance). Evan Van Ness points out that one whale was able to flip three controversial votes at the last minute. Interesting discussions \(including the Aragon One team\) in this Twitter thread.
+
+[Dumb on Purpose - A Behavioral Criticism of Meritocracy](https://medium.com/ezras-wellspring/dumb-on-purpose-596e7f7a29b5): Meritocracy incentivizes people to pursue ideas they know are bad, but which will also earn them rewards. The solution is to 1\) measure merit more accurately, and/or 2\) decouple rewards from measured accomplishment.
+
+[Blockchains are Bureaucracies par Excellence](https://medium.com/@mariolaul/blockchains-are-bureaucracies-par-excellence-db39cfda7ea9): Blockchains automate bureaucracy by replacing human administrators with “middlemachines". By formalising coordination rules and procedures, they help to power global systems that are seemingly less fettered by individual preference, subjective human judgement, or personal authority. However, we should be wary of their potential to become dehumanised “silicon cages” that could end up seriously hindering our freedom and creativity.
+
+[MolochDAO: a primitive solution](https://medium.com/metacartel/molochdao-a-primitive-solution-d11cc522b18e). MetaCartel \(the team who [forked MolochDAO](https://medium.com/metacartel/forking-moloch-dao-d140a37d6649) for their own data sharing use case\) present an overview of the MolochDAO system, which they praise for its simplicity.
 
 [**Subscribe for a weekly newsletter here**](https://orgtech.substack.com/) and thanks to [Jack Laing](https://twitter.com/JackALaing) for doing it.
 
