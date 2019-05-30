@@ -74,6 +74,8 @@ We had a nice community gathering in the Supermarkt Berlin \(thanks to Ela Kagel
 
 ## 5. Having Fun
 
+Regular collection of memes from [Pedro Parrachia](https://twitter.com/parrachia) and the Ministry of Memes.
+
 ![](../.gitbook/assets/image%20%2819%29.png)
 
 ![](../.gitbook/assets/image%20%285%29.png)
