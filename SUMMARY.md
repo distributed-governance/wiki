@@ -21,6 +21,12 @@
   * [Stakeholders](foundation/strategy/stakeholders.md)
   * [Governance](foundation/strategy/governance.md)
   * [Team & History](foundation/strategy/dgov-history.md)
+* [Tacticals](foundation/tacticals/README.md)
+  * [Tactical 08.05.2019](foundation/tacticals/tactical-08.05.2019.md)
+  * [Tactical 15.05.2019](foundation/tacticals/tactical-15.05.2019.md)
+  * [Tactical 19.05.2019](foundation/tacticals/tactical-19.05.2019.md)
+  * [Tactical 22.05.2019](foundation/tacticals/tactical-22.05.2019.md)
+  * [Tactical 29.05.2019](foundation/tacticals/tactical-29.05.2019.md)
 * [Official Website](https://dgov.foundation)
 
 ## Community
