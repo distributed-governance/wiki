@@ -1,4 +1,4 @@
-# Logos
+# Logo & Identity
 
 \#dgov – all equal, no domination \(better than DGov, DGOV or Dgov\)
 

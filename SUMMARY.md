@@ -1,9 +1,9 @@
 # Table of contents
 
 * [Welcome to the \#dgov network](README.md)
-* [\#dgov Global Map & Hubs](map-of-the-industry-landscape.md)
+* [Global Hubs](map-of-the-industry-landscape.md)
 * [Events](dgov-industry-landscape.md)
-* [\#dgov Newsletter](newsletter/README.md)
+* [Newsletter & Reports](newsletter/README.md)
   * [Newsletter \#1 \(september\)](newsletter/newsletter-1-september.md)
   * [Newsletter \#2 \(october\)](newsletter/newsletter-2-october.md)
   * [Newsletter \#3 \(november\)](newsletter/newsletter-3-november.md)
@@ -13,7 +13,7 @@
   * [Newsletter \#7 \(march\)](newsletter/newsletter-7-march.md)
   * [Newsletter \#8 \(april\)](newsletter/newsletter-8-april.md)
   * [Newsletter \#9 \(may\)](newsletter/newsletter-9-may.md)
-* [Logos](dgov-network-logo.md)
+* [Logo & Identity](dgov-network-logo.md)
 
 ## Foundation
 
@@ -27,9 +27,7 @@
   * [Tactical 19.05.2019](foundation/tacticals/tactical-19.05.2019.md)
   * [Tactical 22.05.2019](foundation/tacticals/tactical-22.05.2019.md)
   * [Tactical 29.05.2019](foundation/tacticals/tactical-29.05.2019.md)
+* [Projects](foundation/projects/README.md)
+  * [Community Vision](foundation/projects/community-vision.md)
 * [Official Website](https://dgov.foundation)
-
-## Community
-
-* [Community Vision](community/community-vision.md)
 

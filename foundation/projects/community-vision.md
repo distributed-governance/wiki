@@ -2,8 +2,6 @@
 
 Dgov community is the 
 
-\*\*\*\*
-
 **What can be improved?**
 
 Tim: interpersonal relationships, deep connections
