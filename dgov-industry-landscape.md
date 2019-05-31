@@ -37,6 +37,7 @@
 * [Be your own DAO – Luis Cuende](https://paralelnapolis.sk/event/be-your-own-dao-luis-cuende/) \(Jun 3, Bratislava\)
 * [Creating a global co-op with Aragon](https://www.eventbrite.com/e/creating-a-global-co-op-with-aragon-hosted-by-progressbar-tickets-62187928769) \(Jun 4, Bratislava\)
 * [OPEN 2019 Community Gathering](https://open.coop/events/open-2019-community-gathering-decentralised-collaboration/) \(Jun 27-28, London\)
+* [DWeb Camp](https://dwebcamp.org/) \(Jul 18-21, SF\)
 * [Web3 Summit](https://web3summit.com/) \(Aug 19-21, Berlin\) – will have a dedicated \#dgov node
 * Floating Man \(Aug 13, Liberland\)
 * [Massive Adoption Crypto Festival](https://www.massiveadoption.com/) \(2020\)

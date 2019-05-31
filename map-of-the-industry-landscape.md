@@ -1,26 +1,25 @@
 # Global Hubs
 
-Local hubs aligned with \#dgov
-
 ## Europe
 
-* Berlin – Supermarkt, Full Node
+* Berlin – Supermarkt, Full Node, Revision, Amatus, Web3 Summit
 * Amsterdam – Colony, Blockchain Talks
-* London – Furtherfield
-* Paris – Tribute
+* London – Furtherfield, Open Platform Coops
+* Paris – Tribute, EthCC
 * Madrid – LegalBlock, P2P Models
-* Prague – Institute of crypto-anarchy
-* Zug – Aragon
-* Barcelona – Giveth
+* Prague – Institute of crypto-anarchy, Liberland
+* Zug – Aragon, Melonport
+* Barcelona – Giveth, Rebooting the Web of Trust, Steps
 * Lubljana – Anja
-* Split \(Croatia\) – Tomo
+* Split \(Croatia\) – DAOcon
 
 ## Americas
 
-* New York – Bushwick generator
+* New York – Bushwick generator, Edgeware
 * San Francisco – Starfish Network
 * Seattle – Bright ID
 * Toronto \(?\)
+* Detroit – RadicalxChange
 
 ## Asia
 
@@ -31,4 +30,8 @@ Local hubs aligned with \#dgov
 
 * Israel: DAO Stack
 * Dubai \(?\)
+
+## Oceania
+
+* New Zealand – Enspiral
 
