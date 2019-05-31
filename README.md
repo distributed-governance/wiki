@@ -12,7 +12,7 @@ It's a pleasure to welcome you here :\)
 * [Related Events](dgov-industry-landscape.md)
 * [Global Map & Hubs](map-of-the-industry-landscape.md)
 * [Newsletter / Monthly reports](newsletter/)
-* [Strategy & Goals](foundation/strategy/)
+* [\#dgov Network Strategy]()
 
 ### Also we have a couple of rules:
 
