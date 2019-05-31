@@ -61,6 +61,7 @@ We had a nice community gathering in the Supermarkt Berlin \(thanks to Ela Kagel
 * [First version of the dgov report ready](https://app.gitbook.com/@dao-landscape/s/project/)
 * [Is it a DAO without blockchain and dgov? tweet query](https://twitter.com/maxsemenchuk/status/1133020336490995712)
 * [DAO Design Principles](https://forum.dgov.foundation/t/dao-design-principles/48)
+* Organization Science have put out a call for papers on "Emerging Technologies and Organizing", mentioning blockchain. [https://pubsonline.informs.org/doi/10.1287/orsc.2019.1299](https://pubsonline.informs.org/doi/10.1287/orsc.2019.1299)
 
 ## 3. Experimentation & Incubation
 
@@ -68,6 +69,7 @@ We had a nice community gathering in the Supermarkt Berlin \(thanks to Ela Kagel
 * [Info on DAO Stack Predictors Network](https://medium.com/daostack/joining-the-gen-predictors-network-f7be2d93754d)
 * [Report from the AragonCoop](https://forum.aragon.org/t/aragoncoop-two-weeks-of-operations-what-has-been-done/954/4)
 * DAO Incubator conducted the DAO Crash Test \#2 [\(Report here\)](https://forum.dgov.foundation/t/dao-crash-test-2-report/52)
+* [EIC Horizon Prize for Blockchains for Social Good](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/blockchain-eicprize-2019;freeTextSearchKeyword=;typeCodes=1;statusCodes=31094501,31094502,31094503;programCode=H2020;programDivisionCode=null;focusAreaCode=null;crossCuttingPriorityCode=null;callCode=H2020-BLOCKCHAIN-EICPRIZE-2019;sortQuery=openingDate;orderBy=asc;onlyTenders=false;topicListKey=callTopicSearchTableState)
 
 ## 4. Integration & Regulation
 
