@@ -73,9 +73,9 @@ We had a nice community gathering in the Supermarkt Berlin \(thanks to Ela Kagel
 
 ## 4. Integration & Regulation
 
-**We’ve been exploring legal diaspora for a while and are calling upon all lawyers, legal practitioners, enthusiasts and perhaps even representatives of authoritative bodies, to join in distributed co-creation of a curation list.**
+We’ve been exploring legal diaspora for a while and are calling upon all lawyers, legal practitioners, enthusiasts and perhaps even representatives of authoritative bodies, to join in distributed co-creation of a curation list.
 
-**There’s many of us and many to come, yet the first step towards a success according to Henry Ford, is the the ‘’coming together’’ phase.**
+There’s many of us and many to come, yet the first step towards a success according to Henry Ford, is the the ‘’coming together’’ phase.
 
 ![](https://lh6.googleusercontent.com/5JZatqagqo7Hwwx331oZuiDI_9IA-2mHDnxo2aWdEEtxSxGWQbxKJe3vZfcoa0Rf3ICwnmBoyATrcDYXhamyi6YqrK-ZRnlOntLPbKyqHYpMD5F-OzyU9L0CweW5vbAaOW5o44cz)
 
