@@ -73,7 +73,34 @@ We had a nice community gathering in the Supermarkt Berlin \(thanks to Ela Kagel
 
 ## 4. Integration & Regulation
 
-...coming...
+**We’ve been exploring legal diaspora for a while and are calling upon all lawyers, legal practitioners, enthusiasts and perhaps even representatives of authoritative bodies, to join in distributed co-creation of a curation list.**
+
+**There’s many of us and many to come, yet the first step towards a success according to Henry Ford, is the the ‘’coming together’’ phase.**
+
+![](https://lh6.googleusercontent.com/5JZatqagqo7Hwwx331oZuiDI_9IA-2mHDnxo2aWdEEtxSxGWQbxKJe3vZfcoa0Rf3ICwnmBoyATrcDYXhamyi6YqrK-ZRnlOntLPbKyqHYpMD5F-OzyU9L0CweW5vbAaOW5o44cz)
+
+And so DGov movement with all its affiliates, associates, participants and change-makers hereby provides an incomplete list of all actors we want to keep an eye on.
+
+* [Mechanism Design](http://github.com/mechanism-design)
+* [DAO Legal](https://t.me/joinchat/ICRVPRbsfBQv2--PRfuunA) Telegram
+* [DAOtalk Legal forum](https://daotalk.org/c/ecosystem/legal)
+* [Legal Resources](https://daotalk.org/t/resource-list-dao-legal/533)
+* [Publications on the subject of the legal status of The DAO](https://daowiki.atlassian.net/wiki/spaces/DAO/pages/5996567/Publications+on+the+subject+of+the+legal+status+of+The+DAO)
+* [Blockchain- and Cryptocurrency-Related Legal Issues: A Research Roadmap](http://blockchainforlawstudents.com/wp-content/uploads/2018/07/Roadmap0712.pdf)
+* [Crypto Law Review – Medium journal](https://medium.com/cryptolawreview)
+* [Most Cited Decentralized Autonomous Organization Publications](https://blockchainlibrary.org/2017/10/most-cited-decentralized-autonomous-organization-publications/)
+* [Fintech, Bitcoins, Blockchains, Decentralized autonomous organizations \(DAOs\): the future is bright, the future is decentralized](https://jusletter-it.weblaw.ch/en/dam/publicationsystem/articles/Jusletter-IT/2017/flash/fintech,-bitcoins,-b_0c30331c5a/Jusletter-IT_fintech,-bitcoins,-b_0c30331c5a_en.pdf)
+* Legalico
+* Coala
+* DGov forum legal
+* Open law
+* Clean App
+* Unlawcked
+* Individual lawyers
+
+We want to explore potential legal collaboration and have so far identify numerous brilliant lawyers who support the idea of bringing law closer to people and making it more human.
+
+by [Anja Blaj](https://twitter.com/AnjaBlaj)
 
 ## 5. Having Fun
 
