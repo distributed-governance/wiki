@@ -28,6 +28,7 @@
   * [Tactical 19.05.2019](foundation/tacticals/tactical-19.05.2019.md)
   * [Tactical 22.05.2019](foundation/tacticals/tactical-22.05.2019.md)
   * [Tactical 29.05.2019](foundation/tacticals/tactical-29.05.2019.md)
+  * [Tactical 05.06.2019](foundation/tacticals/tactical-05.06.2019.md)
 * [Projects](foundation/projects/README.md)
   * [Community Vision](foundation/projects/community-vision.md)
 * [Official Website](https://dgov.foundation)
