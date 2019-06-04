@@ -13,5 +13,9 @@
 
 ## Tensions
 
-Max / soft governance workshop
+### Max / Web 3 deadlines
+
+### Max / Phoebe soft governance workshop topics
+
+### Max / web 3 knowledge harvest Aeon
 
