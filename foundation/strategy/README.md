@@ -55,6 +55,7 @@ Purpose: Provide meaningful connections & direction.
 * Web3 conf Node
 * Dgov council \#2
 * Soft governance workshops
+* Tweet about \(new?\) projects in the space \(e.g. weekly\)
 
 ## Launch more experiments
 
