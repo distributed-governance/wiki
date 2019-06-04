@@ -36,6 +36,8 @@
 * [Open Education & Digital Citizenship](https://blockchaineducationfrance.fr/) \(May 28-29 , Lille, France\)
 * [Be your own DAO – Luis Cuende](https://paralelnapolis.sk/event/be-your-own-dao-luis-cuende/) \(Jun 3, Bratislava\)
 * [Creating a global co-op with Aragon](https://www.eventbrite.com/e/creating-a-global-co-op-with-aragon-hosted-by-progressbar-tickets-62187928769) \(Jun 4, Bratislava\)
+* [Blockchain, Crypto and DAO ](https://www.eventbrite.com/e/tt-blockchain-crypto-and-daos-registration-62266197874?aff=ehomesaved)\(Jun 7, Trinidad and Tobago\)
+* [The year of a DAO](https://www.facebook.com/blockchainzdruzenje/) \(Jun 19, Ljubljana\)
 * [OPEN 2019 Community Gathering](https://open.coop/events/open-2019-community-gathering-decentralised-collaboration/) \(Jun 27-28, London\)
 * [DWeb Camp](https://dwebcamp.org/) \(Jul 18-21, SF\)
 * [Web3 Summit](https://web3summit.com/) \(Aug 19-21, Berlin\) – will have a dedicated \#dgov node
