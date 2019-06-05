@@ -32,6 +32,10 @@ Is decentralization always the answer? When is decentralization \*not\* the most
 
 ...
 
+### Aeon Hochberg
+
+...
+
 ## History
 
 * May 2018 – EthCC discussions about the conferenc
