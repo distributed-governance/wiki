@@ -4,13 +4,13 @@
 
 * Berlin – Supermarkt, Full Node, Revision, Amatus, Web3 Summit
 * Amsterdam – Colony, Blockchain Talks
-* London – Furtherfield, Open Platform Coops
+* London – Furtherfield, Open Platform Coops, Colony, Phoebe, Newspeakhouse, hackspace
 * Paris – Tribute, EthCC
 * Madrid – LegalBlock, P2P Models
 * Prague – Institute of crypto-anarchy, Liberland
 * Zug – Aragon, Melonport
 * Barcelona – Giveth, Rebooting the Web of Trust, Steps
-* Lubljana – Anja
+* Lubljana – Anja, Marina
 * Split \(Croatia\) – DAOcon
 
 ## Americas
