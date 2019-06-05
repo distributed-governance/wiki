@@ -22,6 +22,16 @@ Anja is a legal professional focusing on Space law and Blockchain legal matters.
   
 Twitter: [@AnjaBlaj](https://twitter.com/AnjaBlaj)
 
+### Phoebe Tickell
+
+Distributed self-governing network Enspiral \(NZ\) Organisational innovation lab Percolab \(CA\).
+
+Is decentralization always the answer? When is decentralization \*not\* the most appropriate system to use in organising? What are the questions necessary to ask in making those decisions? I am interested in the deep social protocols and legal structures necessary to actualise decentralised/distributed organising and governance of assets in the real world. Debunking DGOV hype.
+
+### Martin Unruh
+
+...
+
 ## History
 
 * May 2018 – EthCC discussions about the conferenc
