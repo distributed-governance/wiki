@@ -56,6 +56,7 @@ Purpose: Provide meaningful connections & direction.
 * Dgov council \#2
 * Soft governance workshops
 * Tweet about \(new?\) projects in the space \(e.g. weekly\)
+* Coop with Nathan Schneider / [**MEDLabBoulder**](https://twitter.com/MEDLabBoulder)
 
 ## Launch more experiments
 
