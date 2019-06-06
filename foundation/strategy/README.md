@@ -16,6 +16,7 @@ Purpose: Provide meaningful connections & direction.
 * Continue Athens Conference preparations
 * Regular meetups \( 4 / +10 indie\)
 * Organize Dgov retreat
+* Global meetup page
 
 ### Develop higher professional diversity \(get more people from\)
 
