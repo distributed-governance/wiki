@@ -3,17 +3,15 @@
 ## Needs
 
 1. DO / DAO / Co-ops
-
-   * Coordination – Councils, Newsletter
-   * Education – Body of Knowledge
+   * Coordination – Councils, Newsletter
+   * Education – Body of Knowledge
    * Incubation \(Funding & Expertise\) – [DAO Incubator](http://daoincubator.org/), DAO Hackathon
    * Regulation Compliance
-
 2. Providers
    * Increase adoption \(users, developers\)
    * Collect product feedback & feature ideation
    * Establish case studies
-   * Coordination – Councils, Newsletter 
+   * Coordination – Councils, Newsletter 
 3. Researchers & Academics
    * Identifying research needs
    * Feedback / Ideation
