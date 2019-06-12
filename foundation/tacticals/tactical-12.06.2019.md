@@ -10,6 +10,9 @@
 * Retreat in Ljubljana \(Tim\) – 
 * Funding with Seed DAO \(Tim\) – 
 * Web 3 track \(Max\) –
+  * Day 1 \(Tim\)
+  * Day 2 \(Max\)
+  * Day 3 \(Phoebe\)
 
 ## Tensions
 
@@ -20,8 +23,6 @@
 ### Martin / Leadlink discussion
 
 ### Phoebe / website
-
-### Max / Phoebe soft governance workshop topics
 
 ### Max / Web 3 knowledge harvest Aeon
 
