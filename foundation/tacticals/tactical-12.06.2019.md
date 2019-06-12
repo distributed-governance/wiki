@@ -16,6 +16,8 @@
 
 ## Tensions
 
+### Martin / dgov study group
+
 ### Max / Web3+DAO stack collusion
 
 ### Phoebe / Seeds DAO
