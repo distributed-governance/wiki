@@ -54,7 +54,15 @@ Next point who is it. And what about rotation/revisiting.
 
 ### 1 Phoebe / Ljubljana retreat
 
+Phoebe: There was a sense that Tim's holding this – especially dates.
 
+Tim: need somebody to take leadership here \(Anja, Phoebe?\). Maybe we don't have a driver for this right now. Is somebody willing to take it? There're people who can support.
+
+Phoebe: we allocate our funds? \(no\). Can make a draft budget.
+
+Tim: we need to sell tickets in advance for security \(3 months in advance\). So probably September-October.
+
+Phoebe: need to check with Anja and Marina \(Aeon will check\).
 
 ### 1 Martin / dgov study group
 
@@ -81,6 +89,8 @@ Can be Aeon, Max.
 ### Tim / Move to spreadsheet from doc
 
 ### Tim / should we bring equipment?
+
+### Phoebe / Attendance question
 
 ### 
 
