@@ -3,20 +3,64 @@
 ## Project Updates
 
 * Work until 4:00 pm CET
-* Coordination \(Max\) – Anja did a meetup at Carribean
-* Research and share knowledge \(Max\) – no update
-* Experimentation & Incubation \(Max\) – no update
-* Implementation & Regulation \(Anja\) – Tim will participate in the DAO workshop, have the DAO principles doc
-* Retreat in Ljubljana \(Tim\) – expected Maria and Anja to come up with locations, but no news there, no capacity to push it forward. Will ping
-* Funding with Seed DAO \(Tim\) – have a point on that to discuss. There's some backlog on the marketing. Had a conversation with Decred and Colony, they and other players have tools they can provide. Very interesting opportunity is to be interdisciplinary network, but we need to finalize funding. Next step – work through solution providers, have professional knowledge about solutions. Requires attention.
-* Web 3 track \(Max\) – we have some speakers \(~30% agenda ready\), have some collusion with DAO stack event. 2 weeks before read
+* Coordination \(Max\) – dgov meetup in London, opencoop+dgov collab coming
+* Research and share knowledge \(Max\) – we're rethinking our wiki, forming the product vision
+* Experimentation & Incubation \(Max\) – DAO crash test 3 is next friday, @aragon ecosystem, Luke Duncan would be one of the experts
+* Implementation & Regulation \(Anja\) – published the list of all legal groups
+* Retreat in Ljubljana \(Tim\) – Aeon started to do an orga sheet, outlined the goals, date defined?, waiting for venue proposal \(2-3 weeks for that\)
+* Funding with Seed DAO \(Tim\) – worked on the architecture, can't use Aragon or DAO Stack, those tools can be used for coordination inside \(overlay abstraction layer\)
+* Web 3 track \(Max\) – [preparing the announcement](https://forum.dgov.foundation/t/web-3-summit-dgov-node/63), defined outcomes a bit more, 
   * Day 1 \(Tim\)
-  * Day 2 \(Max\)
+  * Day 2 \(Max\) 
   * Day 3 \(Phoebe\)
 
 ## Tensions
 
-### Max / Web 3 outcomes - check once more
+### 1 Max / Web 3 outcomes - check once more
+
+Shared, thanks for your feedback
+
+### 1 Tim / Funding question
+
+Need full time person for building the community. Also funds for research. Need somebody from the community to lead this, who has trust from the core and the community. Spoke with some people. The only person i feel good about is Ela. Wanted to org the funding before that. Want to organize a year of funding. Need to organize the funding round. Will give further updates on that. If you propose and ready to organize the funding – ho ahead. $50k.
+
+Tim: seed dao has specs, don't want to work with agents. We rather make people invest than get rewards.
+
+Anja: not sure if it should be a full job. But you can also give a commission rate for funding. Support Ela on board
+
+Max: like Ela. Somebody from the core team knows better what's needed to be done.
+
+Phoebe: feel excited to spend more time in the following year. Big decision – let's make it together. Who, how much, how many people we need. Is it really full time? To do only this full time. We shouldn't just decide so quickly on person and amount. Becoming a member haven't even been started for Ela. Can help with funding.
+
+Martin: like Ela, know what she did for the rchain. Close to the heart of the idea. The right to propose shouldn't be linked to I bring the funds for it.
+
+Aeon: Ela – the only person with the experience, but not comfortable to discuss it without her.
+
+### 1 Phoebe / dgov funding
+
+### 1 Tim / Resource availability
+
+### 1 Aeon / Dates on Ljubljana
+
+### 1 Phoebe / Who goes where in the agenda
+
+### 1 Phoebe / how to best publicise DGOV - web3, retreat etc - at OPEN 2019
+
+### Feedback:
+
+* Could have done better job with prioritization
+* There's difference between governance & tactical
+* Can start with urgent practical, and more abstract leave for later
+* See the need for separate meetings \(urgent+important, only important\)
+* 1 hour / week might not be enough
+* Meeting important, neet to separate governance/tactical
+* Need to allocate more time
+* Separate call for Ljubljana
+* Will setup a web3 dedicated all
+
+### 
+
+### 
 
 ### Phoebe / Seeds DAO
 
@@ -27,8 +71,6 @@
 ### Max / OrgHackers Name
 
 ### Phoebe / dgov London meet up
-
-### Phoebe / dgov funding
 
 ### Phoebe / Roles
 
@@ -41,6 +83,8 @@
 ### Phoebe / Attendance question
 
 ### Max / Devcon node
+
+### Anja / Luuk
 
 ### 
 
