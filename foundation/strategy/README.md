@@ -17,6 +17,8 @@ Purpose: Provide meaningful connections & direction.
 * Regular meetups \( 4 / +10 indie\)
 * Organize Dgov retreat
 * Global meetup page
+* Web3 node
+* Devcon node
 
 ### Develop higher professional diversity \(get more people from\)
 
