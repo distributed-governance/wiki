@@ -64,6 +64,8 @@ Purpose: Provide meaningful connections & direction.
 ## Launch more experiments
 
 * Launch 3 public governance experiments
+* Support the projects
+* Create open workshops \(e.g. DAO Crash Test\)
 * Launch DGOV SEED DAO
   * Raise funds \($50-100k\)
   * Get 50 members to DGOV Seed DAO
