@@ -31,6 +31,7 @@
   * [Tactical 05.06.2019](foundation/tacticals/tactical-05.06.2019.md)
   * [Tactical 12.06.2019](foundation/tacticals/tactical-12.06.2019.md)
   * [Tactical 19.06.2019](foundation/tacticals/tactical-19.06.2019.md)
+  * [Tactical 26.06.2019](foundation/tacticals/tactical-26.06.2019.md)
 * [Products & Projects](foundation/projects/README.md)
   * [Community Vision](foundation/projects/community-vision.md)
   * [Web3](foundation/projects/web3/README.md)
