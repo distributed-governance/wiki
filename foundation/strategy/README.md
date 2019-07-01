@@ -4,11 +4,11 @@ DGov connects people to discover practices, implement technical solutions and cr
 
 Values: Trust, Fairness, Integrity, Respect, Empathy, Appreciation, Egoless, Honesty, Caring, Joyfulness, Fun, Relaxed, Timely, Kindness, Self-reflection
 
-Tools: Deep and Active Listening, Non-violent communication, Hand Gestures, Letting Go, Leadership
+Principles: Deep and Active Listening, Non-violent communication, Horizontal Organizing and Participatory Leadership.
 
 ## Develop vibrant community
 
-Purpose: Provide meaningful connections & direction.
+Purpose: Create meaningful connections and shared agency among its members. ****
 
 ### Events 
 
