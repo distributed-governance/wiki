@@ -6,11 +6,33 @@ Values: Trust, Fairness, Integrity, Respect, Empathy, Appreciation, Egoless, Hon
 
 Principles: Deep and Active Listening, Non-violent communication, Horizontal Organizing and Participatory Leadership.
 
-## Develop vibrant community
+## Develop a Vibrant Network
 
 Purpose: Create meaningful connections and shared agency among its members. ****
 
-### Events 
+### Facilitate group communication
+
+* Integrate ID system
+* Maintaining the twitter communication channel, so everyone has a chance to exchange news under the „hashtag“ \#dgov and can keep up to date with what is going on in the space.
+* Developing the \#dgov forum, so members can exchange valuable info on more in-depth topics
+* Moderating the \#dgov chat on Telegram \(and potential other channels\)
+* Allowing for cross-posting: \#dgov tweets on Telegram.
+
+###  ****Create information flows
+
+* Maintaining and expanding the \#dgov wiki
+* Maintaining and expanding[ the ecosystem map](https://wiki.dgov.foundation/map-of-the-industry-landscape)
+* Curating a monthly newsletter
+* Curating a \#dgov event calendar 
+
+### Establish processes within the network
+
+* Organize and participate in local network events / meetups
+* Find partners to do an umbrella with people who benefit
+* Support Medias:[ OrgTech Review](https://orgtech.substack.com/),[ DAO Talk forum](https://daotalk.org/) ,[ Aragon Research Forum](https://research.aragon.org/)
+* Setup info partnerships
+
+### Co-Create Events 
 
 * Continue getting reputation for doing amazing events
 * Continue Athens Conference preparations
@@ -20,30 +42,19 @@ Purpose: Create meaningful connections and shared agency among its members. ****
 * Web3 node
 * Devcon node
 
-### Develop higher professional diversity \(get more people from\)
+### Advocate diversity in the \#dgov space
+
+\#dgov aims at including a more diverse groups of practitioners and researchers from the following domains:
 
 * Political Science / Governance researchers
 * Psychologists
 * Anthropologists
-
-### Develop the Communication Layer
-
-* Updated twitter
-* Monthly newsletter
-* Maintain [the ecosystem map](../../map-of-the-industry-landscape.md)
-* Event Calendar – curate & promote
-* Organize and participate in local community events / meetups
-* Find partners to do an umbrella with people who benefit
-* Develop the forum with valuable info
-* Moderate the \#dgov chat \(move to discord?\)
-* Setup info partnerships
-* Support Medias: [OrgTech Review](https://orgtech.substack.com/), [DAO Talk forum](https://daotalk.org/)​, ​[Aragon Research Forum](https://research.aragon.org/)​
-* Improve communication platforms \(website, chat, forum, presentation etc\)
-* Dgov tweets in telegram \(cross tools comms\)
+* Facilitators
+* Legal consulting 
 
 ### **Promote our values / Suggest guiding principles & culture for the world we want to live in**
 
-* Maximum integratable cognitive diversity
+* Maximum integratabtle cognitive diversity
 * Omni-considerative / omni-win decision making
 * The principle Life - Change and Adoption
 * The principles of wholeness - interconnectedness.
@@ -51,7 +62,7 @@ Purpose: Create meaningful connections and shared agency among its members. ****
 * Collaboration “Act local - think global”
 * Be excellent to each other
 
-## Research and share knowledge
+## Create research opportunities
 
 * \#dgov report \(+DAO legal page\)
   * Research: Self organizing practices / soft governance in the blockchain teams \(e.g. Aragon, Consensys...\)
@@ -59,9 +70,9 @@ Purpose: Create meaningful connections and shared agency among its members. ****
 * Dgov council \#2
 * Soft governance workshops
 * Tweet about \(new?\) projects in the space \(e.g. weekly\)
-* Coop with Nathan Schneider / [**MEDLabBoulder**](https://twitter.com/MEDLabBoulder)
+* Coop with Nathan Schneider / [MEDLabBoulder](https://twitter.com/MEDLabBoulder)
 
-## Launch more experiments
+## Launch \#dgov experiments
 
 * Launch 3 public governance experiments
 * Support the projects
