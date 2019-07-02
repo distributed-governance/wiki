@@ -16,7 +16,7 @@ FYI: you can host local \#dgov meetups, we'll help with promo and organization.
 
 ### DAOcon Recap
 
-![](../.gitbook/assets/image%20%2848%29.png)
+![](../.gitbook/assets/image%20%2852%29.png)
 
 The first ever DAO Convention, called "DaoCon Zero” was held last week in Split, Croatia. Organized by Blockada \(co-organizers of blocksplit.org, blockconf.io and Ethereum Magicians Council of Paris\) and supported by Ethereum Foundation, it brought together members and representatives of DAOstack, Aragon, DAO Incubator, LeapDAO, Kleros, AMPnet, Status, Aave, Tenderly, Fluence, Limechain, Aeternity, BridgeDAO and numerous other blockchain projects from different parts of Europe.
 
@@ -108,15 +108,15 @@ by [Anja Blaj](https://twitter.com/AnjaBlaj)
 
 Regular collection of memes from [Pedro Parrachia](https://twitter.com/parrachia) and the Ministry of Memes.
 
-![](../.gitbook/assets/image%20%2828%29.png)
+![](../.gitbook/assets/image%20%2832%29.png)
 
-![](../.gitbook/assets/image%20%2829%29.png)
-
-![](../.gitbook/assets/image%20%2822%29.png)
+![](../.gitbook/assets/image%20%2833%29.png)
 
 ![](../.gitbook/assets/image%20%2825%29.png)
 
-![](../.gitbook/assets/image%20%2811%29.png)
+![](../.gitbook/assets/image%20%2829%29.png)
+
+![](../.gitbook/assets/image%20%2812%29.png)
 
 ## Support the Movement!   <a id="DgovCompilation#3October2018-Events"></a>
 

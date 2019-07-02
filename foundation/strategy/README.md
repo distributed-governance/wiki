@@ -22,7 +22,7 @@ Purpose: Create meaningful connections and shared agency among its members. ****
 
 * Maintaining and expanding the \#dgov wiki
 * Maintaining and expanding[ the ecosystem map](https://wiki.dgov.foundation/map-of-the-industry-landscape)
-* Curating a monthly newsletter
+* Curating a monthly newsletter \(+ dgov highlight of the month\)
 * Curating a \#dgov event calendar 
 
 ### Establish processes within the network
