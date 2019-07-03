@@ -12,13 +12,15 @@ newsletter, numbers, maps. Maintaining and expanding[ the ecosystem map](https:/
 
 ### Web3 dgov node
 
+
+
 Is happenning, PROGRAM HERE. If you'd like to contribute to the program \(your talk, topic, recommendation\) – get in touch with me email: max.semenchuk@gmail.com , telegram: @maxsemenchuk.
 
 ### Meetups
 
-Caribbean
+First Caribbean meetup \(in Trinidad and Tobago\) happened on Jun 7. It included lightning talk and workshops [find more info here](https://medium.com/@A.Blaj/trinidao-grassroots-3c46d9137e35). Thanks to Anja Blaj, Luuk Weber and Ruben Russel for the organization!
 
-London
+Also first time in London, thanks to Phoebe Tickell and Martin. Regular monthly meetups are planned in London now.
 
 **&gt; Support the dialogue, action and change in your cities** – [Host local meetups](https://forum.dgov.foundation/t/host-local-meetups/42)
 
