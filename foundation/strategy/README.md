@@ -17,7 +17,7 @@ Purpose: Create meaningful connections and shared agency among its members. ****
 * Developing the \#dgov forum, so members can exchange valuable info on more in-depth topics
 * Moderating the \#dgov chat on Telegram and potentially other channels \(rotating moderation?\)
 * Allowing for cross-posting: \#dgov tweets on Telegram
-* Beweekly community calls – Ela
+* Beweekly community calls \(Ela\)
 
 ###  ****Create information flows
 
@@ -26,10 +26,13 @@ Purpose: Create meaningful connections and shared agency among its members. ****
 * Curating a monthly newsletter \(+ dgov highlight of the month\)
 * Curating a \#dgov event calendar 
 
-### Establish processes within the network
+### Establish processes within the network \(Ela?\)
 
 * Organize and participate in local network events / meetups
-  * Regular meetups in Berlin, London, Barcelona, Amsterdam
+  * Regular meetups in Berlin \(Ela?\)
+  * London \(Phoebe\)
+  * Barcelona
+  * Amsterdam
   * Global meetup page?
 * Support Medias + info partnerships
 
