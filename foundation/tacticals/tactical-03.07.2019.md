@@ -57,6 +57,40 @@ Ela: What it takes to fund the seed dao? Plan? \(yes\) Roadmap rather than strat
 
 Tim: Both – network and plan. All soft governance aspects don't need to be specified, need a multisig first and partner contracts. dgov as a project.
 
+### Afterhours
+
+Phoebe: focusing on dgov seed dao and funding. Is it an open call or focusing on one person
+
+TIM: One person as a lead, but open call to all contributors. The proposal Tim had, he feels confident if he supports two projects and shoots this in direction of Ela, who would help with funding and would take the role of getting the funding. Also all are invited to catalyse the role of funding. Anything else is not such a problem, the timing should be right, we should close the funding in next 6 months. The earlier we can do this, the better. We’re not the only ones - other projects are doing the same, they might be copying some of our ideas. 
+
+Ela: Suggestion, she would like to see this as an open call, it is difficult to see what it is that needs to be tackled. Who is going to be a reference point. If we sent a link, Ela can get a better understanding of what are the next steps. 
+
+When we have our next call, we can see how to proceed. 
+
+TIM: Agree, will share the document and have a meeting about the document which will serve as the information source. It’s super useful to increase the transparency about how we do things. 
+
+Phoebe: which document? Minimum viable DAO  ‘’DGOV Seed DAO’’. Want to get better understanding of what are the roles in DGOV, is this really an open call or have you decided that Ela is taking the lead? 
+
+Tim: Proposed that Ela joins the core team and that she takes over the funding. Trust because of the RChain and knows she can reach the goal. Made a mistake as he did not proposed this early on. Had a feeling that Phoebe would be interested in driving other things in DGov. Would love to see collaboration. 
+
+Ela: Feels very odd, not comfortable. This is not the setting of collaboration she wants to have. Thankful for trust, but feels odd if we qualify the potential we see in each other, doesn’t seem right. Ela made a proposal to look into the Seed DAO document and derive concrete steps, proposing them and see who would like to work on those with Ela. 
+
+Tim: This is not answering the question on how to get the funding, would need a profile of a person that can provide funding. 
+
+Ela: This is not technical question. 
+
+Tim: If i go to three sources, getting 50k, cross-funded by DAOStack, it’s a small investment from their side. If Supermarkt would receive that, how do we split this. If Phoebe takes more responsibility in this, it’s totally fine with TIm. What Tim is trying to get clarity is who the contact person is, how we receive the funding, how to communicate this with sponsors and what story we tell. 
+
+Ela: would be ok with being point of contact and take care of the funds. 
+
+Phoebe: this is a longer conversation. Understand that Tim has worked with Ela for a longer time. Can see operational points. We need to practice with each other the way we see governance and collaboration. 
+
+Tim: It’s not easy to govern distribution and think of this all the time. 
+
+Ela: What we’re going through is a formation process, it’s not really about complicated communication. Cannot tackle what the issue is. Technicality - having a point of contact is an easy one, but assuring fund raising is a process where more people engage. 
+
+Phoebe: Can imagine working with three people, Ela and Tim. Working out what is the best way of doing it. 
+
 ### Anja / Onboarding people
 
 ### Phoebe / Handbook on dgov \(decision making, onboarding, offboarding etc\)
