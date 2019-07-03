@@ -15,8 +15,9 @@ Purpose: Create meaningful connections and shared agency among its members. ****
 * Integrate ID system
 * Maintaining the twitter communication channel, so everyone has a chance to exchange news under the „hashtag“ \#dgov and can keep up to date with what is going on in the space.
 * Developing the \#dgov forum, so members can exchange valuable info on more in-depth topics
-* Moderating the \#dgov chat on Telegram \(and potential other channels\)
-* Allowing for cross-posting: \#dgov tweets on Telegram.
+* Moderating the \#dgov chat on Telegram and potentially other channels \(rotating moderation?\)
+* Allowing for cross-posting: \#dgov tweets on Telegram
+* Beweekly community calls – Ela
 
 ###  ****Create information flows
 
@@ -28,17 +29,16 @@ Purpose: Create meaningful connections and shared agency among its members. ****
 ### Establish processes within the network
 
 * Organize and participate in local network events / meetups
-* Find partners to do an umbrella with people who benefit
-* Support Medias:[ OrgTech Review](https://orgtech.substack.com/),[ DAO Talk forum](https://daotalk.org/) ,[ Aragon Research Forum](https://research.aragon.org/)
-* Setup info partnerships
+  * Regular meetups in Berlin, London, Barcelona, Amsterdam
+  * Global meetup page?
+* Support Medias + info partnerships
 
 ### Co-Create Events 
 
-* Continue getting reputation for doing amazing events
-* Continue Athens Conference preparations
-* Regular meetups \( 4 / +10 indie\)
-* Organize Dgov retreat
-* Global meetup page
+Doing amazing events
+
+* Athens Conference
+* Dgov retreat
 * Web3 node
 * Devcon node
 
@@ -80,4 +80,8 @@ Purpose: Create meaningful connections and shared agency among its members. ****
 * Launch DGOV SEED DAO
   * Raise funds \($50-100k\)
   * Get 50 members to DGOV Seed DAO
+
+## Sustainability for the team
+
+Aquire funding for the team
 
