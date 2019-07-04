@@ -2,9 +2,9 @@
 
 Hi my dear org hackers, Max here.
 
-Congrats with the summer. Hope this season will bring lots of energy as well as recreation. Without further due let's dive in the updates of May.
+June was pretty hot in all aspects – check out all the updates we've prepared for you to.
 
-## 1. Network development
+## Network development
 
 ### Stats
 
