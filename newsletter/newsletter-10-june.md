@@ -8,11 +8,11 @@ Congrats with the summer. Hope this season will bring lots of energy as well as 
 
 ### Stats
 
-newsletter, numbers, maps. Maintaining and expanding[ the ecosystem map](https://wiki.dgov.foundation/map-of-the-industry-landscape)
+We're maintaining and expanding the [ecosystem map by type](https://wiki.dgov.foundation/foundation/strategy/stakeholders) and [by geography](https://wiki.dgov.foundation/map-of-the-industry-landscape). Overall there're 400+ members in the community,  300+ subscribers to this newsletter and 200+ in the telegram chat. Only people working in dgov implementation, research etc. If you need to use those channels to transmit the information – get in touch.
 
 ### Web3 dgov node
 
-Is happenning, PROGRAM HERE. If you'd like to contribute to the program \(your talk, topic, recommendation\) – get in touch with me email: max.semenchuk@gmail.com , telegram: @maxsemenchuk.
+It's happening, we'll have 3 days with different focus \(law & philosophy, market & incentives, soft governance\). Check out [an early draft of the agenda](https://forum.dgov.foundation/t/web-3-summit-dgov-node/63). If you'd like to contribute to the program \(talk, topic, speaker recommendation\) – get in touch with me email: max.semenchuk@gmail.com , telegram: @maxsemenchuk.
 
 ### Meetups
 
@@ -38,15 +38,24 @@ Also first time in London, thanks to Phoebe Tickell and Martin. Regular monthly 
 
 ### Upcoming events
 
-* [OPEN 2019 Community Gathering](https://open.coop/events/open-2019-community-gathering-decentralised-collaboration/) \(Jun 27-28, London\)
+* [Webinar Dynamic Governance \(Sociocracy\) in intentional communities](https://www.eventbrite.com/e/dynamic-governance-sociocracy-in-intentional-communities-tickets-64138930267?mc_cid=cca4b514a1&mc_eid=295b1316b7) \(Jul 17, online\)
 * [DWeb Camp](https://dwebcamp.org/) \(Jul 18-21, SF\)
 * [Web3 Summit](https://web3summit.com/) \(Aug 19-21, Berlin\) – will have a dedicated \#dgov node
+* [Webinar Sociocracy for non-profits and associations](https://www.eventbrite.com/e/sociocracy-for-non-profits-and-associations-tickets-64139351527?mc_cid=cca4b514a1&mc_eid=295b1316b7) \(Aug 20, online\)
 * Floating Man \(Aug 13, Liberland\)
 * [Massive Adoption Crypto Festival](https://www.massiveadoption.com/) \(2020\)
 
 ## Integration & Regulation
 
-**...coming...**
+Quick overview of legalese happening in the previous month: 
+
+* Fresh new Vol. 2, No. 2 issue of the Stanford Journal of Blockchain Law & Policy is out and available [here](https://stanford-jblp.pubpub.org/). This is how the cover will look like: ![](https://lh6.googleusercontent.com/-EFRaCPW5734hxabWLi2gGBeV02kaZ_x-U5qd_kGqYQLOJuKhh4cV_HZf3lPAPvbIqy38Z2ubFloe-pZNu87oGxaubcPZ9jTjfg3NfIfhYoT7yikBVqDE3AthaDsrjASnmVNgQyc)
+* Head of Policy at Chainanalysis, Jesse Spiro has written about the FATF's new regulatory guidance. You can read more about it [here](https://blog.chainalysis.com/reports/fatf-regulatory-guidance-is-here). 
+* The Guidance for a Risk-Based Approach to Virtual Assets and Virtual Asset Service Providers delivered by FATF were published on June 21, you can download them [here](http://www.fatf-gafi.org/publications/fatfrecommendations/documents/guidance-rba-virtual-assets.html). 
+* We’ve discovered a world-wide report which surveys the legal and policy landscape surrounding cryptocurrencies. Check it out [here](https://www.loc.gov/law/help/cryptocurrency/world-survey.php). 
+* As there was some [proposals](http://twitter.com/ameensol/status/1143228564826779648) to merge Ethereum and  Libra and making Ethereum a validator, we cannot go around regulators’ [response](https://www.ft.com/content/5535fb3a-91ea-11e9-b7ea-60e35ef678d2) the this new crypto consortium. What are your thoughts? 
+
+As mentioned above, Web3 is happening at the end of August and we’ll be hosting a DGOV Node there as well! Launching it with a presentation of DGov community, a legal discussion will be held on Day 1. If you’re interested in taking a speaker position and participate in a group discussion, let us know and write to Anja. Either use telegram handle @anjablaj or sent an email to [anja.blaj@unlawcked.com](mailto:anja.blaj@unlawcked.com).
 
 by [Anja Blaj](https://twitter.com/AnjaBlaj)
 
