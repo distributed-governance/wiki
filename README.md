@@ -4,11 +4,16 @@ We connect people to discover practices, implement technical solutions and creat
 
 It's a pleasure to welcome you here :\)
 
+### Questions of dgov:
+
+* How should we govern networks \(e.g. Ethereum\)? Principles of decentralization, \(crypto\)law, self-organization etc
+* What tools produce best results? On-chain + soft practices, decision making, execution, dispute resolution, radical markets etc
+
 ### Some tips that can help you to be productive:
 
-* [Use forum](https://earth.us18.list-manage.com/track/click?u=566b6b2a60e0829db656d3b34&id=ce349e1f74&e=7265fe9357) for substantial & deep conversations
 * Check out our [Wiki / Body of Knowledge](https://dao-landscape.gitbook.io/project/)
-* Subscribe to our [Twitter](https://earth.us18.list-manage.com/track/click?u=566b6b2a60e0829db656d3b34&id=b3dd507d36&e=7265fe9357)
+* [Use forum](https://earth.us18.list-manage.com/track/click?u=566b6b2a60e0829db656d3b34&id=ce349e1f74&e=7265fe9357) for substantial & deep conversations
+* Follow [\#dgov](https://twitter.com/search?q=%23dgov&src=typd) and [our profile](https://twitter.com/dgovearth) on Twitter
 * [Related Events](dgov-industry-landscape.md)
 * [Global Map & Hubs](map-of-the-industry-landscape.md)
 * [Newsletter / Monthly reports](newsletter/)

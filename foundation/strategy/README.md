@@ -12,7 +12,7 @@ Purpose: Create meaningful connections and shared agency among its members. ****
 
 ### Facilitate group communication
 
-* Integrate ID system
+* Integrate ID system with contacts, hubs maps etc
 * Maintaining the twitter communication channel, so everyone has a chance to exchange news under the „hashtag“ \#dgov and can keep up to date with what is going on in the space.
 * Developing the \#dgov forum, so members can exchange valuable info on more in-depth topics
 * Moderating the \#dgov chat on Telegram and potentially other channels \(rotating moderation?\)
