@@ -86,7 +86,9 @@ Doing amazing events
   * Raise funds \($50-100k\)
   * Get 50 members to DGOV Seed DAO
 
-## Sustainability for the team
+## Increase the capacity
 
-Aquire funding for the team
+* Aquire funding for the team
+* Get more volunteering
+  * Promote dgov art/culture
 
