@@ -73,6 +73,7 @@ Doing amazing events
 * Dgov council \#2
 * Soft governance workshops
 * Tweet about \(new?\) projects in the space \(e.g. weekly\)
+* Help scholars, ask them to help us with wiki etc
 * Partnership \(strategy sync\)
   * RMIT
   * Coop with Nathan Schneider / [MEDLabBoulder](https://twitter.com/MEDLabBoulder)
