@@ -74,6 +74,7 @@ Doing amazing events
 * Soft governance workshops
 * Tweet about \(new?\) projects in the space \(e.g. weekly\)
 * Help scholars, ask them to help us with wiki etc
+* Update the [Governance family tree](https://coinmetrics.io/papers/dissertation.pdf)
 * Partnership \(strategy sync\)
   * RMIT
   * Coop with Nathan Schneider / [MEDLabBoulder](https://twitter.com/MEDLabBoulder)
