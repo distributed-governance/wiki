@@ -36,7 +36,7 @@ Purpose: Create meaningful connections and shared agency among its members. ****
   * Global meetup page?
 * Support Medias + info partnerships
 
-### Co-Create Events 
+### 📅 Co-Create Events 
 
 Doing amazing events
 
@@ -45,7 +45,7 @@ Doing amazing events
 * Web3 node
 * Devcon node
 
-### Advocate diversity in the \#dgov space
+### [🎌](https://emojipedia.org/crossed-flags/) Advocate diversity in the \#dgov space
 
 \#dgov aims at including a more diverse groups of practitioners and researchers from the following domains:
 
