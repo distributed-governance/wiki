@@ -10,7 +10,7 @@ Principles: Deep and Active Listening, Non-violent communication, Horizontal Org
 
 Purpose: Create meaningful connections and shared agency among its members. ****
 
-### Facilitate group communication
+### 👨‍👨‍👦‍👦 Facilitate group communication
 
 * Integrate ID system with contacts, hubs maps etc
 * Maintaining the twitter communication channel, so everyone has a chance to exchange news under the „hashtag“ \#dgov and can keep up to date with what is going on in the space.
@@ -19,14 +19,14 @@ Purpose: Create meaningful connections and shared agency among its members. ****
 * Allowing for cross-posting: \#dgov tweets on Telegram
 * Beweekly community calls \(Ela\)
 
-###  ****Create information flows
+###  ****💬 Create information flows
 
-* Maintaining and expanding the \#dgov wiki
-* Maintaining and expanding[ the ecosystem map](https://wiki.dgov.foundation/map-of-the-industry-landscape)
+* Maintaining and expanding the \#dgov/DAO Landscape report \(+[the ecosystem map](https://wiki.dgov.foundation/map-of-the-industry-landscape)\)
 * Curating a monthly newsletter \(+ dgov highlight of the month\)
 * Curating a \#dgov event calendar 
+* Tweet about \(new?\) projects in the space \(e.g. weekly\)
 
-### Establish processes within the network \(Ela?\)
+### 🎼 Establish processes within the network \(Ela?\)
 
 * Organize and participate in local network events / meetups
   * Regular meetups in Berlin \(Ela?\)
@@ -40,10 +40,11 @@ Purpose: Create meaningful connections and shared agency among its members. ****
 
 Doing amazing events
 
-* Athens Conference
-* Dgov retreat
-* Web3 node
-* Devcon node
+* Aug 19-21: Web3 \#dgov node
+* Sep: Dgov retreat
+* Oct 8-11 Devcon node
+* Q4 Dgov council \#2
+* 2020 Athens Conference
 
 ### [🎌](https://emojipedia.org/crossed-flags/) Advocate diversity in the \#dgov space
 
@@ -55,7 +56,7 @@ Doing amazing events
 * Facilitators
 * Legal consulting 
 
-### **Promote our values / Suggest guiding principles & culture for the world we want to live in**
+### 🧠 **Promote our values / Suggest guiding principles & culture for the world we want to live in**
 
 * Maximum integratabtle cognitive diversity
 * Omni-considerative / omni-win decision making
@@ -68,12 +69,7 @@ Doing amazing events
 ## Create research opportunities
 
 * Network Governance Research Group
-* \#dgov report \(+DAO legal page\)
-  * Research: Self organizing practices / soft governance in the blockchain teams \(e.g. Aragon, Consensys...\)
-* Web3 conf Node
-* Dgov council \#2
 * Soft governance workshops
-* Tweet about \(new?\) projects in the space \(e.g. weekly\)
 * Help scholars, ask them to help us with wiki etc
 * Update the [Governance family tree](https://coinmetrics.io/papers/dissertation.pdf)
 * Partnership \(strategy sync\)
