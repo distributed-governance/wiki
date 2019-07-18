@@ -67,6 +67,7 @@ Doing amazing events
 
 ## Create research opportunities
 
+* Network Governance Research Group
 * \#dgov report \(+DAO legal page\)
   * Research: Self organizing practices / soft governance in the blockchain teams \(e.g. Aragon, Consensys...\)
 * Web3 conf Node
