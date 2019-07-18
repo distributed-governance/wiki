@@ -66,16 +66,6 @@ Doing amazing events
 * Collaboration “Act local - think global”
 * Be excellent to each other
 
-## Create research opportunities
-
-* Network Governance Research Group
-* Soft governance workshops
-* Help scholars, ask them to help us with wiki etc
-* Update the [Governance family tree](https://coinmetrics.io/papers/dissertation.pdf)
-* Partnership \(strategy sync\)
-  * RMIT
-  * Coop with Nathan Schneider / [MEDLabBoulder](https://twitter.com/MEDLabBoulder)
-
 ## Launch \#dgov experiments
 
 * Launch 3 public governance experiments
