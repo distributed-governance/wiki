@@ -3,6 +3,7 @@
 * [Welcome to the \#dgov network](README.md)
 * [Global Hubs](map-of-the-industry-landscape.md)
 * [Events](dgov-industry-landscape.md)
+* [Dgov related chats](dgov-related-chats.md)
 * [Newsletter & Reports](newsletter/README.md)
   * [Newsletter \#1 \(september\)](newsletter/newsletter-1-september.md)
   * [Newsletter \#2 \(october\)](newsletter/newsletter-2-october.md)
