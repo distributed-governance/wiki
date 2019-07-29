@@ -10,7 +10,7 @@ Principles: Deep and Active Listening, Non-violent communication, Horizontal Org
 
 Purpose: Create meaningful connections and shared agency among its members. ****
 
-### 👨‍👨‍👦‍👦 Facilitate group communication \(community manager?\)
+### 👨‍👨‍👦‍👦 Facilitate group communication by community manager \(Ela?\)
 
 * Integrate ID system with contacts, hubs maps etc
 * Maintaining the twitter communication channel, so everyone has a chance to exchange news under the „hashtag“ \#dgov and can keep up to date with what is going on in the space.
@@ -19,17 +19,6 @@ Purpose: Create meaningful connections and shared agency among its members. ****
 * Allowing for cross-posting: \#dgov tweets on Telegram
 * Beweekly community calls \(Ela\)
 * Maintaining and expanding the \#dgov/DAO Landscape report \(+[the ecosystem map](https://wiki.dgov.foundation/map-of-the-industry-landscape)\)
-
-###  ****💬 Create information flows \(pr person?\)
-
-* Curating a monthly newsletter \(+ dgov highlight of the month\)
-* Curating a \#dgov event calendar 
-* Tweet about \(new?\) projects in the space \(e.g. weekly\)
-* Support Medias + info partnerships
-
-### 🎼 Establish processes within the network \(Ela?\)
-
-* Setup the meetup.com page
 * Organize and participate in local network events / meetups
   * Regular meetups in Berlin \(Ela?\)
   * London \(Phoebe\)
@@ -37,7 +26,14 @@ Purpose: Create meaningful connections and shared agency among its members. ****
   * Amsterdam
   * Global meetup page?
 
-### 📅 Co-Create Events 
+###  ****💬 Create information flows by pr manager
+
+* Curating a monthly newsletter \(+ dgov highlight of the month\)
+* Curating a \#dgov event calendar 
+* Tweet about \(new?\) projects in the space \(e.g. weekly\)
+* Support dgov space projects with publicity
+
+### 📅 Co-Create Events by event manager
 
 Doing amazing events
 
