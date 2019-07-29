@@ -39,6 +39,7 @@
   * [Tactical 17.07.2019](foundation/tacticals/tactical-17.07.2019.md)
 * [Products & Projects](foundation/projects/README.md)
   * [Community Vision](foundation/projects/community-vision.md)
+  * [Dgov Retreat Slovenia](foundation/projects/dgov-retreat.md)
   * [Web3](foundation/projects/web3/README.md)
     * [21.06.2019](foundation/projects/web3/21.06.2019.md)
 * [Official Website](https://dgov.foundation)
