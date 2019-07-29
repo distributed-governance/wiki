@@ -1,2 +1,0 @@
-# Dgov Retreat Slovenia
-
