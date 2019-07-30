@@ -41,7 +41,6 @@
   * [Community Vision](foundation/projects/community-vision.md)
   * [Dgov Retreat Slovenia](foundation/projects/dgov-retreat/README.md)
     * [DGOV Retreat Links](foundation/projects/dgov-retreat/dgov-retreat-links.md)
-  * [Web3](foundation/projects/web3/README.md)
-    * [21.06.2019](foundation/projects/web3/21.06.2019.md)
+  * [Web3](foundation/projects/web3.md)
 * [Official Website](https://dgov.foundation)
 
