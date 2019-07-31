@@ -39,7 +39,7 @@ No meetups we're aware of, but you can support the dialogue, action and change i
 
 ![](../.gitbook/assets/frame-2.1-2.jpg)
 
-## OrgTech Review **Highlights**
+## [✨](https://emojipedia.org/sparkles/) OrgTech Review **Highlights**
 
 ...
 
