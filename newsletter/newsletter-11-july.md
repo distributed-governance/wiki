@@ -4,9 +4,9 @@ Hi my dear org hackers, Max here.
 
 July is the traditional vacation month ...
 
-## 👨‍👨‍👦‍👦 Dgov Network Development
+## 👨‍👨‍👦‍👦 Dgov Network Updates
 
-### Stats
+### Stats & Community highlight \(project, person\)
 
 New People & Projects
 
