@@ -96,7 +96,7 @@ Follow Anja on [Twitter](https://twitter.com/AnjaBlaj)
 
 Regular collection of memes from [Pedro Parrachia](https://twitter.com/parrachia) and the Ministry of Memes.
 
-## Support the Movement!   <a id="DgovCompilation#3October2018-Events"></a>
+## [🎗️](https://emojipedia.org/reminder-ribbon/) Support the Movement!   <a id="DgovCompilation#3October2018-Events"></a>
 
 If you're enthusiastic about the distributed governance – go give us a hand. Here're some tips on what's going on in the dgov movement: [join](https://dgov.foundation/#join), [twitter](https://twitter.com/dgovearth), [website](http://dgov.foundation), [events](../dgov-industry-landscape.md)
 
