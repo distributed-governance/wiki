@@ -2,7 +2,7 @@
 
 DGov connects people to discover practices, implement technical solutions and create complex, scalable governance systems that create cohesion and allow people to flourish.
 
-Values: Trust, Fairness, Integrity, Respect, Empathy, Appreciation, Egoless, Honesty, Caring, Joyfulness, Fun, Relaxed, Timely, Kindness, Self-reflection, Cohesion
+Values: Trust, Fairness, Integrity, Respect, Empathy, Appreciation, Egoless, Honesty, Caring, Joyfulness, Fun, Relaxed, Timely, Kindness, Self-reflection.
 
 Principles:
 
