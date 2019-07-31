@@ -1,7 +1,5 @@
 # Tactical 31.07.2019
 
-
-
 ## Project Updates
 
 Purpose: Develop a Vibrant Network
