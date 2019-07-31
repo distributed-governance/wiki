@@ -37,6 +37,7 @@
   * [Tactical 03.07.2019](foundation/tacticals/tactical-03.07.2019.md)
   * [Tactical 10.07.2019](foundation/tacticals/tactical-10.07.2019.md)
   * [Tactical 17.07.2019](foundation/tacticals/tactical-17.07.2019.md)
+  * [Tactical 31.07.2019](foundation/tacticals/tactical-31.07.2019.md)
 * [Products & Projects](foundation/projects/README.md)
   * [Community Vision](foundation/projects/community-vision.md)
   * [Dgov Retreat Slovenia](foundation/projects/dgov-retreat/README.md)
