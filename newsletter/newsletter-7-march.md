@@ -136,11 +136,11 @@ Regular collection of memes from [Pedro Parrachia](https://twitter.com/parrachia
 
 ![](../.gitbook/assets/image.png)
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%282%29.png)
 
-![](../.gitbook/assets/image%20%2853%29.png)
+![](../.gitbook/assets/image%20%2859%29.png)
 
-![](../.gitbook/assets/image%20%2816%29.png)
+![](../.gitbook/assets/image%20%2818%29.png)
 
 ## Support the Movement!   <a id="DgovCompilation#3October2018-Events"></a>
 

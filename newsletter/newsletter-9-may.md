@@ -106,15 +106,15 @@ by [Anja Blaj](https://twitter.com/AnjaBlaj)
 
 Regular collection of memes from [Pedro Parrachia](https://twitter.com/parrachia) and the Ministry of Memes.
 
-![](../.gitbook/assets/image%20%2822%29.png)
+![](../.gitbook/assets/image%20%2824%29.png)
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
-![](../.gitbook/assets/image%20%2848%29.png)
+![](../.gitbook/assets/image%20%2854%29.png)
 
-![](../.gitbook/assets/image%20%2810%29.png)
+![](../.gitbook/assets/image%20%2812%29.png)
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
 ## Support the Movement!   <a id="DgovCompilation#3October2018-Events"></a>
 

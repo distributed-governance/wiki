@@ -63,13 +63,13 @@ by [Anja Blaj](https://twitter.com/AnjaBlaj)
 
 Regular collection of memes from [Pedro Parrachia](https://twitter.com/parrachia) and the Ministry of Memes.
 
-![](../.gitbook/assets/image%20%2821%29.png)
+![](../.gitbook/assets/image%20%2823%29.png)
 
-![](../.gitbook/assets/image%20%2828%29.png)
+![](../.gitbook/assets/image%20%2830%29.png)
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2811%29.png)
 
-![](../.gitbook/assets/image%20%2815%29.png)
+![](../.gitbook/assets/image%20%2817%29.png)
 
 ## Support the Movement!   <a id="DgovCompilation#3October2018-Events"></a>
 
