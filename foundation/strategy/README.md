@@ -2,9 +2,19 @@
 
 DGov connects people to discover practices, implement technical solutions and create complex, scalable governance systems that create cohesion and allow people to flourish.
 
-Values: Trust, Fairness, Integrity, Respect, Empathy, Appreciation, Egoless, Honesty, Caring, Joyfulness, Fun, Relaxed, Timely, Kindness, Self-reflection
+Values: Trust, Fairness, Integrity, Respect, Empathy, Appreciation, Egoless, Honesty, Caring, Joyfulness, Fun, Relaxed, Timely, Kindness, Self-reflection, Cohesion
 
-Principles: Deep and Active Listening, Non-violent communication, Horizontal Organizing and Participatory Leadership.
+Principles:
+
+* Deep and Active Listening,
+* Non-violent communication, 
+* Horizontal Organizing and Participatory Leadership,
+* Be excellent to each other,
+* Omni-considerative / omni-win decision making,
+* Maximum integratabtle cognitive diversity
+* The principle Life - Change and Adoption
+* The principles of wholeness - interconnectedness.
+* Collaboration “Act local - think global”
 
 ## Develop a Vibrant Network
 
@@ -52,16 +62,6 @@ Doing amazing events
 * Anthropologists
 * Facilitators
 * Legal consulting 
-
-### 🧠 **Promote our values / Suggest guiding principles & culture for the world we want to live in**
-
-* Maximum integratabtle cognitive diversity
-* Omni-considerative / omni-win decision making
-* The principle Life - Change and Adoption
-* The principles of wholeness - interconnectedness.
-* Cohesion
-* Collaboration “Act local - think global”
-* Be excellent to each other
 
 ## Launch \#dgov experiments
 
