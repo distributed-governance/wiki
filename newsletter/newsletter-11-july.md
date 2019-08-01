@@ -17,10 +17,11 @@ This month we're welcoming
 * Eric Arsenault, works on DAO stuff
 * Donna Wate, a female medical doctor and founder of a health social enterprise,offering low cost health care services to women and girls in periurban City of Honiara, Solomon Islands
 * Mauro Velazquez, mapping the ecosystem at [DAO Browser](http://www.daobrowser.com) \(list of all DAOs\)
-* Nick Allen
+* Nick Allen, [MakerDAO](https://makerdao.com/)
 * Jantine Derksen, generalist with a background in history, fine arts, journalism and business administration
 * Seth Goldfarb, [Evernym](https://www.evernym.com/), decentralized identity company
 * Jed Grant, [KYC3](https://www.kyc3.com/), compliance solution
+* Philip Silva, [ZeroProverty](http://zeropoverty.io), OpenUBI promoter, and decentralization enthusiast
 
 Also check out the [ecosystem map by type](https://wiki.dgov.foundation/foundation/strategy/stakeholders) and [by geography](https://wiki.dgov.foundation/map-of-the-industry-landscape)
 
