@@ -72,7 +72,7 @@ dOrg are working on a fundraising module for DAOstack, which will use bonding cu
 
 ![](../.gitbook/assets/frame-2.3.jpg)
 
-[Subscribe for a weekly newsletter](https://orgtech.substack.com/) and follow Jack on [Twitter](https://twitter.com/JackALaing).
+[Subscribe for OrgTech newsletter](https://orgtech.substack.com/) to get weekly news on the topic and follow Jack on [Twitter](https://twitter.com/JackALaing).
 
 ## ⚖️ Cryptolaw updates
 
@@ -111,6 +111,8 @@ Follow Anja on [Twitter](https://twitter.com/AnjaBlaj)
 
 ## 😂 Having Fun
 
+Regular collection of memes from Pedro Parrachia and the Ministry of Memes.
+
 ![](../.gitbook/assets/image%20%2840%29.png)
 
 ![](../.gitbook/assets/image%20%2842%29.png)
@@ -121,9 +123,11 @@ Follow Anja on [Twitter](https://twitter.com/AnjaBlaj)
 
 ![](../.gitbook/assets/image%20%288%29.png)
 
+
+
 ![](../.gitbook/assets/frame-2.2-2.jpg)
 
-Regular collection of memes from [Pedro Parrachia](https://twitter.com/parrachia) and the Ministry of Memes.
+Follow Pedro on [Twitter](https://twitter.com/parrachia)
 
 ## 🎗️ Support the Movement!   <a id="DgovCompilation#3October2018-Events"></a>
 
