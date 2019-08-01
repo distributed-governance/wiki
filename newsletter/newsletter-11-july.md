@@ -36,6 +36,8 @@ Also would like to thank [Aragon](https://aragon.org/) for sponsoring the video 
 
 We’re retreating into nature \(a rural mountain range in Slovenia\) to xplore new forms of governance in theory and practice for 3 full days. We do this in the context of the current time of existential risks and aiming for a future of human flourishing and life-sustaining society. [Sign up and find more info here](https://forum.dgov.foundation/t/dgov-retreat-slovenia/69).
 
+![](../.gitbook/assets/dgov-retreat.jpg)
+
 ### Meetups
 
 No meetups we're aware of, but you can support the dialogue, action and change in your cities – [Host local meetups](https://forum.dgov.foundation/t/host-local-meetups/42)
