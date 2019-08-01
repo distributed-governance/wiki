@@ -13,4 +13,6 @@ Subscribe to the newsletter: [https://dgov.foundation\#join](https://dgov.founda
 * [March 2019](newsletter-7-march.md)
 * [April 2019](newsletter-8-april.md)
 * [May 2019](newsletter-9-may.md)
+* [June 2019](newsletter-10-june.md)
+* [July 2019](newsletter-11-july.md)
 

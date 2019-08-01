@@ -1,20 +1,27 @@
 # Newsletter \#11 \(july\)
 
-Hi my dear org hackers, Max here.
+Ola, Org Hackers, Max here.
 
-July is the traditional vacation month ...
+July is the traditional vacation month, but we never stop and have produced more cool updates for you. Hope you've got some rest yourself =\)
 
 ## 👨‍👨‍👦‍👦 Dgov Network Updates
 
-### Stats & Community highlight \(project, person\)
+### Community highlights
 
-New People & Projects
+This month we're welcoming
 
-[ecosystem map by type](https://wiki.dgov.foundation/foundation/strategy/stakeholders) 
-
- [by geography](https://wiki.dgov.foundation/map-of-the-industry-landscape)
-
-Send us your info
+* Rob Allen from [eosDAC](http://members.eosdac.io), fully operational distributed governance focused project running on multiple eosio chains
+* Julius Schmidt \(active as a validator in various POS systems\)
+* Rebecca Johnson, cofounder of the [European Blockchain Association](https://europeanblockchainassociation.org/) and a blockchain architect for [Datarella](https://datarella.com/)
+* Anna Muir, Governance professional and in-house lawyer with NZ and international experience
+* Eric Arsenault, works on DAO stuff
+* Donna Wate, a female medical doctor and founder of a health social enterprise,offering low cost health care services to women and girls in periurban City of Honiara, Solomon Islands
+* Mauro Velazquez, mapping the ecosystem at [http://www.daobrowser.com](http://www.daobrowser.com)
+* Nick Allen
+* Jantine Derksen, generalist with a background in history, fine arts, journalism and business administration
+* Seth Goldfarb from Evernym
+* 
+Also check out the [ecosystem map by type](https://wiki.dgov.foundation/foundation/strategy/stakeholders) and [by geography](https://wiki.dgov.foundation/map-of-the-industry-landscape)
 
 ### Web3 dgov node
 
@@ -23,6 +30,8 @@ Who's coming
 Workshop
 
 [agenda](https://forum.dgov.foundation/t/web-3-summit-dgov-node/63)
+
+Dgov Retreat Ljubljana
 
 ### Meetups
 
@@ -41,7 +50,19 @@ No meetups we're aware of, but you can support the dialogue, action and change i
 
 ## [✨](https://emojipedia.org/sparkles/) OrgTech Review **Highlights**
 
-...
+A Colony for Developers \([https://blog.colony.io/a-colony-for-developers/amp/](https://blog.colony.io/a-colony-for-developers/amp/)\). Colony launched their own developer's colony, which will reward CDEV and reputation to any developers who contribute to Colony's open source repositories. The developer dashboard \([https://docs.colony.io/contribute/](https://docs.colony.io/contribute/)\) integrates with this colony so that all you need to do to start earning is login and link your Metamask and Github accounts.
+
+1Hive's "Dandelion Orgs" request for funding approved by the Nest program \([https://github.com/aragon/nest/pull/172](https://github.com/aragon/nest/pull/172)\). Luke Duncan \(Aragon researcher\) and his 1Hive team will spend the next 5 months replicating Moloch DAO \([https://molochdao.com/\)'s](https://molochdao.com/%29's) functionality by building 5 new modular Aragon apps. The popular "rage quit" mechanism will be executed via the Redemptions app, demoed here \([https://twitter.com/AragonProject/status/1149770653962129408](https://twitter.com/AragonProject/status/1149770653962129408)\).
+
+DAOstack's Alchemy now allows DAOs to modify their own structure \([https://daotalk.org/t/how-to-use-the-scheme-registrar-in-alchemy/669](https://daotalk.org/t/how-to-use-the-scheme-registrar-in-alchemy/669)\). The scheme registrar scheme enables adding, editing, and removing elements of a DAOstack DAO. Read more how to use schemes in this technical introduction.
+
+Gnosis has Stepped Back from the dxDAO \([https://blog.gnosis.pm/gnosis-is-stepping-back-from-the-dxdao-5d368bc269a3](https://blog.gnosis.pm/gnosis-is-stepping-back-from-the-dxdao-5d368bc269a3)\). Gnosis has cut all ties to the dxDAO, the DAO it launched to control the auctioneer powers of its DutchX decentralised exchange. While Gnosis never held any voting power in the dxDAO, the company has now also archived the DAO's Github and Twitter accounts and has given up admin rights to the DAO's Telegram and Discourse communities.
+
+Panvala Beta Release: What Would You Fund \([https://medium.com/@Panvala/panvala-beta-release-what-would-you-fund-22e4018a9cd3\)?](https://medium.com/@Panvala/panvala-beta-release-what-would-you-fund-22e4018a9cd3%29?). A year after inception, Panvala releases a beta version of their funding allocation tool. Aiming to be a "decentralized Ethereum Foundation", Panvala holds a public vote among holders of test tokens to choose which projects will receive PAN token grants. Mainnet launch is planned for August.
+
+dOrg are working on a fundraising module for DAOstack, which will use bonding curves and facilitate more transparent DAICOs \(like the Aragon Fundraising app\). Check out the spec here \([https://github.com/dOrgTech/BC-DAO](https://github.com/dOrgTech/BC-DAO)\) and give them feedback here \([https://t.me/bc\_dao](https://t.me/bc_dao)\).
+
+![](../.gitbook/assets/frame-2.3.jpg)
 
 [**Subscribe for a weekly newsletter here**](https://orgtech.substack.com/) and thanks to [Jack Laing](https://twitter.com/JackALaing) for doing it.
 
@@ -92,11 +113,13 @@ Follow Anja on [Twitter](https://twitter.com/AnjaBlaj)
 
 ![](../.gitbook/assets/image%20%288%29.png)
 
-![](../.gitbook/assets/frame-2.2-1.jpg)
+![](../.gitbook/assets/frame-2.2-2.jpg)
 
 Regular collection of memes from [Pedro Parrachia](https://twitter.com/parrachia) and the Ministry of Memes.
 
 ## [🎗️](https://emojipedia.org/reminder-ribbon/) Support the Movement!   <a id="DgovCompilation#3October2018-Events"></a>
 
 If you're enthusiastic about the distributed governance – go give us a hand. Here're some tips on what's going on in the dgov movement: [join](https://dgov.foundation/#join), [twitter](https://twitter.com/dgovearth), [website](http://dgov.foundation), [events](../dgov-industry-landscape.md)
+
+If you want your info published in this newsletter – ping me \(Max\) in the reply.
 
