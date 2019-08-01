@@ -16,22 +16,25 @@ This month we're welcoming
 * Anna Muir, Governance professional and in-house lawyer with NZ and international experience
 * Eric Arsenault, works on DAO stuff
 * Donna Wate, a female medical doctor and founder of a health social enterprise,offering low cost health care services to women and girls in periurban City of Honiara, Solomon Islands
-* Mauro Velazquez, mapping the ecosystem at [http://www.daobrowser.com](http://www.daobrowser.com)
+* Mauro Velazquez, mapping the ecosystem at [DAO Browser](http://www.daobrowser.com) \(list of all DAOs\)
 * Nick Allen
 * Jantine Derksen, generalist with a background in history, fine arts, journalism and business administration
-* Seth Goldfarb from Evernym
-* 
+* Seth Goldfarb, [Evernym](https://www.evernym.com/), decentralized identity company
+* Jed Grant, [KYC3](https://www.kyc3.com/), compliance solution
+
 Also check out the [ecosystem map by type](https://wiki.dgov.foundation/foundation/strategy/stakeholders) and [by geography](https://wiki.dgov.foundation/map-of-the-industry-landscape)
 
 ### Web3 dgov node
 
-Who's coming
+So it's less than a month till [Web3 Summit](https://web3summit.com/), where we do a \#dgov node. There's more than 30 great speakers, workshops \(including one from DAOincubator involving synthesizer 😮\). People say it's cool, but [check it out for yourself](https://forum.dgov.foundation/t/web-3-summit-dgov-node/63/3).
 
-Workshop
+![](../.gitbook/assets/group-5.jpg)
 
-[agenda](https://forum.dgov.foundation/t/web-3-summit-dgov-node/63)
+Also would like to thank [Aragon](https://aragon.org/) for sponsoring the video shoot and few extra tickets. We still want to fund few more things, if you'd like to help us out – please get in touch.
 
-Dgov Retreat Ljubljana
+### Dgov Retreat Ljubljana
+
+We’re retreating into nature \(a rural mountain range in Slovenia\) to xplore new forms of governance in theory and practice for 3 full days. We do this in the context of the current time of existential risks and aiming for a future of human flourishing and life-sustaining society. [Sign up and find more info here](https://forum.dgov.foundation/t/dgov-retreat-slovenia/69).
 
 ### Meetups
 
@@ -39,11 +42,10 @@ No meetups we're aware of, but you can support the dialogue, action and change i
 
 ### Upcoming events
 
-* [Web3 Summit](https://web3summit.com/) \(Aug 19-21, Berlin\) – will have a dedicated \#dgov node
-* [Webinar Sociocracy for non-profits and associations](https://www.eventbrite.com/e/sociocracy-for-non-profits-and-associations-tickets-64139351527?mc_cid=cca4b514a1&mc_eid=295b1316b7) \(Aug 20, online\)
-* Floating Man \(Aug 13, Liberland\)
+* [Web3 Summit](https://web3summit.com/) \(Aug 19-21, Berlin\) – with a dedicated \#dgov node
+* [Webinar: Sociocracy for non-profits and associations](https://www.eventbrite.com/e/sociocracy-for-non-profits-and-associations-tickets-64139351527?mc_cid=cca4b514a1&mc_eid=295b1316b7) \(Aug 20, online\)
 * [Enspiral Org Academy](http://enspiralorgacademy.co/) \(Sep 5-8, Belgium\)
-* DGOV Retreat 2019 \(Sep 19-23, Slovenia\)
+* [DGOV Retreat 2019](https://forum.dgov.foundation/t/dgov-retreat-slovenia/69) \(Sep 19-23, Slovenia\)
 * [Massive Adoption Crypto Festival](https://www.massiveadoption.com/) \(2020\)
 
 ![](../.gitbook/assets/frame-2.1-2.jpg)
