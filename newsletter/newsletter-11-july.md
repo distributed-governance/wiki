@@ -56,7 +56,7 @@ No meetups we're aware of, but you can support the dialogue, action and change i
 
 ![](../.gitbook/assets/frame-2.1-2.jpg)
 
-## [✨](https://emojipedia.org/sparkles/) OrgTech Review **Highlights**
+## ✨ OrgTech Review **Highlights**
 
 [A Colony for Developers](https://blog.colony.io/a-colony-for-developers/amp/). Colony launched their own developer's colony, which will reward CDEV and reputation to any developers who contribute to Colony's open source repositories. The [developer dashboard](https://docs.colony.io/contribute/) integrates with this colony so that all you need to do to start earning is login and link your Metamask and Github accounts.
 
@@ -125,7 +125,7 @@ Follow Anja on [Twitter](https://twitter.com/AnjaBlaj)
 
 Regular collection of memes from [Pedro Parrachia](https://twitter.com/parrachia) and the Ministry of Memes.
 
-## [🎗️](https://emojipedia.org/reminder-ribbon/) Support the Movement!   <a id="DgovCompilation#3October2018-Events"></a>
+## 🎗️ Support the Movement!   <a id="DgovCompilation#3October2018-Events"></a>
 
 If you're enthusiastic about the distributed governance – go give us a hand. Here're some tips on what's going on in the dgov movement: [join](https://dgov.foundation/#join), [twitter](https://twitter.com/dgovearth), [website](http://dgov.foundation), [events](../dgov-industry-landscape.md)
 
