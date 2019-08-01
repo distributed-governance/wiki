@@ -11,7 +11,7 @@ July is the traditional vacation month, but we never stop and have produced more
 This month we're welcoming
 
 * Rob Allen from [eosDAC](http://members.eosdac.io), fully operational distributed governance focused project running on multiple eosio chains
-* Julius Schmidt \(active as a validator in various POS systems\)
+* Julius Schmidt, active as a validator in various POS systems
 * Rebecca Johnson, cofounder of the [European Blockchain Association](https://europeanblockchainassociation.org/) and a blockchain architect for [Datarella](https://datarella.com/)
 * Anna Muir, Governance professional and in-house lawyer with NZ and international experience
 * Eric Arsenault, works on DAO stuff
