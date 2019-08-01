@@ -22,6 +22,9 @@ This month we're welcoming
 * Seth Goldfarb, [Evernym](https://www.evernym.com/), decentralized identity company
 * Jed Grant, [KYC3](https://www.kyc3.com/), compliance solution
 * Philip Silva, [ZeroProverty](http://zeropoverty.io), OpenUBI promoter, and decentralization enthusiast
+* Stani Kulechov and Jordan Lazaro Gustave from [Aave](https://aave.com/)
+* Anna George from [Gnosis](https://gnosis.io/)
+* Eugenio Battaglia, an advisor, researcher and facilitator focused on collaborative strategy making and ecosystem-platform thinking
 
 Also check out the [ecosystem map by type](https://wiki.dgov.foundation/foundation/strategy/stakeholders) and [by geography](https://wiki.dgov.foundation/map-of-the-industry-landscape)
 
@@ -55,21 +58,21 @@ No meetups we're aware of, but you can support the dialogue, action and change i
 
 ## [✨](https://emojipedia.org/sparkles/) OrgTech Review **Highlights**
 
-A Colony for Developers \([https://blog.colony.io/a-colony-for-developers/amp/](https://blog.colony.io/a-colony-for-developers/amp/)\). Colony launched their own developer's colony, which will reward CDEV and reputation to any developers who contribute to Colony's open source repositories. The developer dashboard \([https://docs.colony.io/contribute/](https://docs.colony.io/contribute/)\) integrates with this colony so that all you need to do to start earning is login and link your Metamask and Github accounts.
+[A Colony for Developers](https://blog.colony.io/a-colony-for-developers/amp/). Colony launched their own developer's colony, which will reward CDEV and reputation to any developers who contribute to Colony's open source repositories. The [developer dashboard](https://docs.colony.io/contribute/) integrates with this colony so that all you need to do to start earning is login and link your Metamask and Github accounts.
 
-1Hive's "Dandelion Orgs" request for funding approved by the Nest program \([https://github.com/aragon/nest/pull/172](https://github.com/aragon/nest/pull/172)\). Luke Duncan \(Aragon researcher\) and his 1Hive team will spend the next 5 months replicating Moloch DAO \([https://molochdao.com/\)'s](https://molochdao.com/%29's) functionality by building 5 new modular Aragon apps. The popular "rage quit" mechanism will be executed via the Redemptions app, demoed here \([https://twitter.com/AragonProject/status/1149770653962129408](https://twitter.com/AragonProject/status/1149770653962129408)\).
+[1Hive's "Dandelion Orgs" request for funding approved by the Nest program](https://github.com/aragon/nest/pull/172). Luke Duncan \(Aragon researcher\) and his 1Hive team will spend the next 5 months replicating [Moloch DAO's](https://molochdao.com) functionality by building 5 new modular Aragon apps. The popular "rage quit" mechanism will be executed via the Redemptions app, demoed [here](https://twitter.com/AragonProject/status/1149770653962129408).
 
-DAOstack's Alchemy now allows DAOs to modify their own structure \([https://daotalk.org/t/how-to-use-the-scheme-registrar-in-alchemy/669](https://daotalk.org/t/how-to-use-the-scheme-registrar-in-alchemy/669)\). The scheme registrar scheme enables adding, editing, and removing elements of a DAOstack DAO. Read more how to use schemes in this technical introduction.
+[DAOstack's Alchemy now allows DAOs to modify their own structure](https://daotalk.org/t/how-to-use-the-scheme-registrar-in-alchemy/669). The scheme registrar scheme enables adding, editing, and removing elements of a DAOstack DAO. Read more how to use schemes in this technical introduction.
 
-Gnosis has Stepped Back from the dxDAO \([https://blog.gnosis.pm/gnosis-is-stepping-back-from-the-dxdao-5d368bc269a3](https://blog.gnosis.pm/gnosis-is-stepping-back-from-the-dxdao-5d368bc269a3)\). Gnosis has cut all ties to the dxDAO, the DAO it launched to control the auctioneer powers of its DutchX decentralised exchange. While Gnosis never held any voting power in the dxDAO, the company has now also archived the DAO's Github and Twitter accounts and has given up admin rights to the DAO's Telegram and Discourse communities.
+[Gnosis has Stepped Back from the dxDAO](https://blog.gnosis.pm/gnosis-is-stepping-back-from-the-dxdao-5d368bc269a3). Gnosis has cut all ties to the dxDAO, the DAO it launched to control the auctioneer powers of its DutchX decentralised exchange. While Gnosis never held any voting power in the dxDAO, the company has now also archived the DAO's Github and Twitter accounts and has given up admin rights to the DAO's Telegram and Discourse communities.
 
-Panvala Beta Release: What Would You Fund \([https://medium.com/@Panvala/panvala-beta-release-what-would-you-fund-22e4018a9cd3\)?](https://medium.com/@Panvala/panvala-beta-release-what-would-you-fund-22e4018a9cd3%29?). A year after inception, Panvala releases a beta version of their funding allocation tool. Aiming to be a "decentralized Ethereum Foundation", Panvala holds a public vote among holders of test tokens to choose which projects will receive PAN token grants. Mainnet launch is planned for August.
+[Panvala Beta Release: What Would You Fund?](https://medium.com/@Panvala/panvala-beta-release-what-would-you-fund-22e4018a9cd3%29). A year after inception, Panvala releases a beta version of their funding allocation tool. Aiming to be a "decentralized Ethereum Foundation", Panvala holds a public vote among holders of test tokens to choose which projects will receive PAN token grants. Mainnet launch is planned for August.
 
-dOrg are working on a fundraising module for DAOstack, which will use bonding curves and facilitate more transparent DAICOs \(like the Aragon Fundraising app\). Check out the spec here \([https://github.com/dOrgTech/BC-DAO](https://github.com/dOrgTech/BC-DAO)\) and give them feedback here \([https://t.me/bc\_dao](https://t.me/bc_dao)\).
+dOrg are working on a fundraising module for DAOstack, which will use bonding curves and facilitate more transparent DAICOs \(like the Aragon Fundraising app\). Check out the spec [here](https://github.com/dOrgTech/BC-DAO) and give them feedback [here](https://t.me/bc_dao).
 
 ![](../.gitbook/assets/frame-2.3.jpg)
 
-[**Subscribe for a weekly newsletter here**](https://orgtech.substack.com/) and thanks to [Jack Laing](https://twitter.com/JackALaing) for doing it.
+[Subscribe for a weekly newsletter](https://orgtech.substack.com/) and follow Jack on [Twitter](https://twitter.com/JackALaing).
 
 ## ⚖️ Cryptolaw updates
 
