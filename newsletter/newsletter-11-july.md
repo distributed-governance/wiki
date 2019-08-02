@@ -125,7 +125,7 @@ Regular collection of memes from Pedro Parrachia and the Ministry of Memes.
 
 
 
-![](../.gitbook/assets/frame-2.2-2.jpg)
+![](../.gitbook/assets/frame-2.2-3.jpg)
 
 Follow Pedro on [Twitter](https://twitter.com/parrachia)
 
