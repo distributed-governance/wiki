@@ -16,7 +16,7 @@ Principles:
 * The principles of wholeness - interconnectedness.
 * Collaboration “Act local - think global”
 
-## Develop a Vibrant Network
+## Develop the ecosystem around distributed governance
 
 Purpose: Create meaningful connections and shared agency among its members. ****
 
