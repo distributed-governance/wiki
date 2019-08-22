@@ -64,6 +64,10 @@ Doing amazing events
 * Facilitators
 * Legal consulting 
 
+## Grow the knowledge of dgov
+
+Print themed sticker pack \(dlov, nature etc\).
+
 ## Launch \#dgov experiments
 
 * Launch 3 public governance experiments
