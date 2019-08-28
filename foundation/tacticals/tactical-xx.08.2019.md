@@ -1,4 +1,4 @@
-# Tactical xx.08.2019
+# Tactical 28.08.2019
 
 
 
@@ -19,6 +19,8 @@ Purpose: Develop a Vibrant Network
   * Funding with Seed DAO by **Tim** – had a call with Tim & Phoebe – was pretty good, but no follow up. Also at web3 will have a DAOincubator workshop about informing about Seed DAO and also talk about things we want to co-create. How might we get Tim on the same page on the outcomes of the workshop.
 
 ## Tensions
+
+### Max / Secretary
 
 ### Max / Partner ISSDG+Consensys \(show map\)
 
