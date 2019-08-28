@@ -6,6 +6,7 @@
 
 Purpose: Develop a Vibrant Network
 
+* Record?
 * Work until 4:00 pm CET
 * Community
   * Facilitate group communication \(chat, forum, newsletter etc\) by **Max** – all is growing, web3 gives some momentum, big thanks to Anja
