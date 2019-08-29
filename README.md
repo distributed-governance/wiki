@@ -19,6 +19,10 @@ It's a pleasure to welcome you here :\)
 * [Network map](https://graphcommons.com/graphs/6a993e34-d8b0-4425-83ce-67c3560429e7?auto=true&svg=true)
 * [Dgov community councils](foundation/councils.md)
 * [Meetups](foundation/meetups.md)
+* Working groups
+  * [EthSignals](https://ethsignals.org/)
+  * DAO Landscape Research
+  * DAO Incubator
 
 ## Policies & Processes 
 
