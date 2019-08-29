@@ -1,8 +1,7 @@
 # Table of contents
 
 * [Welcome to the \#dgov network](README.md)
-* [Global Hubs](map-of-the-industry-landscape.md)
-* [Events](dgov-industry-landscape.md)
+* [Event Calendar](dgov-industry-landscape.md)
 * [Dgov related chats](dgov-related-chats.md)
 * [Newsletter & Reports](newsletter/README.md)
   * [Newsletter \#1 \(september\)](newsletter/newsletter-1-september.md)
@@ -42,7 +41,8 @@
   * [Tactical 07.08.2019](foundation/tacticals/tactical-07.08.2019.md)
   * [Tactical 14.08.2019](foundation/tacticals/tactical-14.08.2019.md)
   * [Tactical 30.08.2019](foundation/tacticals/tactical-xx.08.2019.md)
-* [Products & Projects](foundation/projects/README.md)
-  * [Community Vision](foundation/projects/community-vision.md)
+* [Councils](foundation/councils.md)
+* [Meetups](foundation/meetups.md)
+* [Community Vision](foundation/community-vision.md)
 * [Official Website](https://dgov.foundation)
 

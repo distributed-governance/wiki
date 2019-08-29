@@ -1,18 +1,4 @@
-# Products & Projects
-
-## [Newsletter](../../newsletter/)
-
-## [Forum](https://forum.dgov.foundation/)
-
-## Chat
-
-* Chat
-
-## Wiki
-
-* [Report / wiki](../../)
-
-## Dgov community council
+# Councils
 
 Need: Thought and people diversity \(coops, anthropologists etc\) \(can cocreate with sponsors/community\)
 
@@ -20,8 +6,4 @@ Need: Thought and people diversity \(coops, anthropologists etc\) \(can cocreate
 * [Dgov Node at web3](https://forum.dgov.foundation/t/web-3-summit-dgov-node/63)
 * Paris Assembly
 * Berlin council
-
-## Dgov meetups
-
-* [Meetups](../../dgov-industry-landscape.md)
 

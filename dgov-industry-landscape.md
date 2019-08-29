@@ -1,4 +1,4 @@
-# Events
+# Event Calendar
 
 * [All events in the google calendar format](https://calendar.google.com/calendar/embed?src=av3fo8o2ocl3ft25s6as54c26s%40group.calendar.google.com&ctz=Europe%2FKiev)
 * [Submit related events](https://forms.gle/opYatCf8hN1gztJs5)

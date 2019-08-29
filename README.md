@@ -4,36 +4,30 @@ We connect people to discover practices, implement technical solutions and creat
 
 It's a pleasure to welcome you here :\)
 
-### Questions of dgov:
+**Questions of dgov:**
 
 * How should we govern networks \(e.g. Ethereum\)? Principles of decentralization, \(crypto\)law, self-organization etc
 * What tools produce best results? On-chain + soft practices, decision making, execution, dispute resolution, radical markets etc
 
-### Some tips that can help you to be productive:
+## Our Products
 
-* Check out our [Wiki / Body of Knowledge](https://dao-landscape.gitbook.io/project/)
-* [Use forum](https://earth.us18.list-manage.com/track/click?u=566b6b2a60e0829db656d3b34&id=ce349e1f74&e=7265fe9357) for substantial & deep conversations
-* Follow [\#dgov](https://twitter.com/search?q=%23dgov&src=typd) and [our profile](https://twitter.com/dgovearth) on Twitter
-* [Related Events](dgov-industry-landscape.md)
-* [Global Map & Hubs](map-of-the-industry-landscape.md)
-* [Newsletter / Monthly reports](newsletter/)
-* [Strategy & Goals](foundation/strategy/)
+* [Newsletter / Reports](newsletter/)
+* [Network & DAO governance](https://mapping.daolandscape.today/) [Case Studies](https://mapping.daolandscape.today/)
+* [\#dgov](https://twitter.com/search?q=%23dgov&src=typd) tag and [our twitter](https://twitter.com/dgovearth)
+* [Forum](https://earth.us18.list-manage.com/track/click?u=566b6b2a60e0829db656d3b34&id=ce349e1f74&e=7265fe9357) for substantial & deep conversations
+* [Event Calendar](dgov-industry-landscape.md)
+* [Network map](https://graphcommons.com/graphs/6a993e34-d8b0-4425-83ce-67c3560429e7?auto=true&svg=true)
+* [Dgov community councils](foundation/councils.md)
+* [Meetups](foundation/meetups.md)
 
-### Also we have a couple of rules:
+## Policies & Processes 
+
+### Communication
 
 * Stay on topic: please post and discuss topics relevant to governance, DAO, token economy etc
 * Give More Than You Take: What makes a community amazing is when members are more focused on helping each other, than on helping themselves. Be as helpful as possible and everyone benefits!
 * No Hate Speech or Bullying: You should respectfully challenge ideas, but never attack the person. Help us make sure everyone feels safe in the community. Bullying of any kind isn't allowed, and degrading comments about things like race, religion, culture, sexual orientation, gender or identity will not be tolerated.
 * We practice [do-acracy](https://earth.us18.list-manage.com/track/click?u=566b6b2a60e0829db656d3b34&id=b9d4ac1cc6&e=7265fe9357)
-
-### If you're interested in active project/foundation participation you might want to check out our
-
-* [Strategy & Governance](foundation/strategy/)
-* [About us](foundation/strategy/dgov-history.md)
-
-Whenever you have a question or siggestion feel free to ping the community manager – Max, that's me =\) Quick contacts: [max.semenchuk@gmail.com](mailto:max.semenchuk@gmail.com), telegram, twitter: @maxsemenchuk
-
-## Process
 
 ### How to Contribute
 
@@ -48,6 +42,13 @@ Feel free to contribute to any part of this wiki – it's very welcome
 * Discussion can happen on [Telegram Chat](https://dgov.foundation/#join), [Twitter](https://twitter.com/hashtag/dgov) \(\#dgov\), [Reddit](https://new.reddit.com/r/dgov/) or research forums
 
 Maintained by the [DGov Foundation](https://dgov.foundation/)
+
+### Participate in the DGOV Foundation
+
+* [Strategy & Governance](foundation/strategy/)
+* [About us](foundation/strategy/dgov-history.md)
+
+Whenever you have a question or suggestion feel free to ping the community manager – Max, that's me =\) Quick contacts: [max.semenchuk@gmail.com](mailto:max.semenchuk@gmail.com), telegram, twitter: @maxsemenchuk
 
 ### Thanks to the Contributors!
 
