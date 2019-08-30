@@ -58,7 +58,6 @@ Berlin Blockchain week was full of great events. We had DAOfest, Governance Game
 ### Upcoming events
 
 * [Enspiral Org Academy](http://enspiralorgacademy.co/) \(Sep 5-8, Belgium\)
-* [DGOV Retreat 2019](https://forum.dgov.foundation/t/dgov-retreat-slovenia/69) \(Sep 19-23, Slovenia\)
 * [Massive Adoption Crypto Festival](https://www.massiveadoption.com/) \(2020\)
 
 Do you want to support the dialogue, action and change in your cities – [Host local meetups](https://forum.dgov.foundation/t/host-local-meetups/42)

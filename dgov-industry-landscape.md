@@ -45,7 +45,6 @@
 * [Web3 Summit](https://web3summit.com/) \(Aug 19-21, Berlin\) – with a dedicated \#dgov node
 * [Webinar: Sociocracy for non-profits and associations](https://www.eventbrite.com/e/sociocracy-for-non-profits-and-associations-tickets-64139351527?mc_cid=cca4b514a1&mc_eid=295b1316b7) \(Aug 20, online\)
 * [Enspiral Org Academy](http://enspiralorgacademy.co/) \(Sep 5-8, Belgium\)
-* [DGOV Retreat 2019](https://forum.dgov.foundation/t/dgov-retreat-slovenia/69) \(Sep 19-23, Slovenia\)
 
 ## 2020
 
