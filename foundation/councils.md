@@ -7,5 +7,7 @@ Need: Thought and people diversity \(coops, anthropologists etc\) \(can cocreate
 * Paris Assembly
 * Berlin council
 
+{% embed url="https://www.youtube.com/watch?v=WAI0pb1ULhA" %}
+
 Identify the working groups/group problems to work together. Collab starts online and only is getting to the peak at the council.
 
