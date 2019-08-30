@@ -2,21 +2,21 @@
 
 Bonjorno, dear Org Hackers, Max here.
 
-This is the \#12 issue of our newsletter, meaning that a year passed since we started to do this newsletter. We're put 
+This is the \#12 issue of our newsletter, meaning that a year passed since we started to do this newsletter. We're putting a lot of effort to serve the community, please let us know how it works so far – [**fill in the dgov survey**](https://forms.gle/x8XhucK2mC1PQF8M9) ****😍 🙄 🥵. It takes only 3-5 mins but would be a super valuable info for us
 
-* [https://forms.gle/x8XhucK2mC1PQF8M9](https://forms.gle/x8XhucK2mC1PQF8M9)
+Thanks in advance. And let's get to the updates.
 
 ## 👨‍👨‍👦‍👦 Dgov Network Updates
 
 ### Community highlights
 
-![](../.gitbook/assets/image%20%2836%29.png)
+![](../.gitbook/assets/image%20%2840%29.png)
 
-We've build the dgov network map with [graph commons](https://graphcommons.com/) tool. [Follow the link](https://graphcommons.com/graphs/6a993e34-d8b0-4425-83ce-67c3560429e7?auto=true&svg=true) reorder and click play to see how it moves dynamically – looks super cool! It's still work in progress – if you need something changed or added \(like yourself or your organization\) – please [create an issue](https://github.com/distributed-governance/map/issues) or ping Max \(e.g. in the reply\).
+We've build the dgov network map with [graph commons](https://graphcommons.com/) tool. [Follow the link](https://graphcommons.com/graphs/6a993e34-d8b0-4425-83ce-67c3560429e7?auto=true&svg=true) reorder and click play to see how it moves dynamically – looks super cool! It's still work in progress. If you need something changed or added \(like yourself or your organization\) – please [create an issue](https://github.com/distributed-governance/map/issues) or ping Max \(e.g. here in the reply\).
 
-This led to the discussion of the  Self Sovereign ID for dgov network \(ideas like matchmaking, reputation etc\). [Join the conversation here](https://forum.dgov.foundation/t/self-sovereign-id-for-the-dgov-network/82).
+Creating of this map led to the discussion of the  Self Sovereign ID for dgov network \(ideas like matchmaking, reputation etc\). [Join the conversation here](https://forum.dgov.foundation/t/self-sovereign-id-for-the-dgov-network/82).
 
-Also this month we're welcoming:
+### Also this month we're welcoming
 
 * Laura Harvey – Certified Trainer in NVC shared space.org.uk
 * Ola Kohut – Ecosystem Strategy & Partnerships at [Autark](https://www.autark.xyz/)
@@ -35,7 +35,7 @@ Also this month we're welcoming:
 * Ruby Wu – Partner at ASResearch
 * Laurie Michaelis – his core inquiry is around how humans can develop the collective intelligence, values and practices to flourish - as individuals, as collectives and in relation to the planet. He has a background in climate policy and collaborative/community approaches to sustainable living. Worked within Quakers in Britain on these issues since 2001, and since 2016 have been working with several different organisations and networks, including Global Ecovillage Network, Climate Psychology Alliance, Extinction Rebellion and others. Particularly interested in organisation and governance. Sociocracy \(used by GEN\) and Holacracy \(used by XR\) are inspired by Quaker structure and process, which at its best is Yellow in Spiral Dynamics.
 * Leo Morozovskii – Investor, Finance guy, MBA, PhD, Blockchain enthusiast.
-* zhongqian ding – working for web3 foundation research team now
+* Zhongqian Ding – working for web3 foundation research team now
 * Paula Berman – does operations for Democracy Earth Foundation, a nonprofit developing governance & identity protocols.
 * Harry Hendrickx – Advisor, strategische, coach, program manager and consultant for transformation initiatives and business governance. Harry has been responsible for aligning IT operations to business and technology strategy as a Chief Technology Officer in IT Operations for Telecom Service Providers
 * Sharon Sciammas – just explorer :\)
@@ -47,18 +47,13 @@ Also this month we're welcoming:
 * Bartolomej Kozorog – Interested in modern fields that inhibit complex systems thinking such as Distributed Systems, Game Theory,.. Developer by skill, constant learner by hearth.
 * Gerrie Smits – When everybody zigs, I'm curious about the zag. A freelancer, trying to help business understand concepts like blockchain/decentralisation. Particularly interested in new organisations and how projects/platforms like Commons Stack, Colony,... can facilitate that.
 * Benjamin Du Peloux – a contributor and board member of the MANA project : an environmental index that brings the voice of civil society to investors. An NGO with the goal to make the information, i.e. negative impacts of corporate, free and available for everyone. In the mid term looking at a decentralized governance of the tech and ecosystem.
-
-Also check out the [ecosystem map by type](https://wiki.dgov.foundation/foundation/strategy/stakeholders) and [by geography](https://wiki.dgov.foundation/map-of-the-industry-landscape)
+* Joe Charlesworth – runs [www.prediction.vc](www.prediction.vc), a new type of VC/Incubator using Aragon & Colony. Also organising Eth Lisbon and Lisbon Blockchain Week.
 
 ### Web3 dgov node
 
- [check it out for yourself](https://forum.dgov.foundation/t/web-3-summit-dgov-node/63/3).
+![](../.gitbook/assets/image%20%2860%29.png)
 
-Videos and notes / maybe top videos
-
-### Meetups
-
-No meetups we're aware of, but you can support the dialogue, action and change in your cities – [Host local meetups](https://forum.dgov.foundation/t/host-local-meetups/42)
+Berlin Blockchain week was full of great events. We had DAOfest, Governance Games and of course the \#dgov node at web3 summit. If you have missed it – we've captured all videos from the lightning talks and notes from the panels, [check it out](https://forum.dgov.foundation/t/web-3-summit-dgov-node/63/3).
 
 ### Upcoming events
 
@@ -66,21 +61,13 @@ No meetups we're aware of, but you can support the dialogue, action and change i
 * [DGOV Retreat 2019](https://forum.dgov.foundation/t/dgov-retreat-slovenia/69) \(Sep 19-23, Slovenia\)
 * [Massive Adoption Crypto Festival](https://www.massiveadoption.com/) \(2020\)
 
+Do you want to support the dialogue, action and change in your cities – [Host local meetups](https://forum.dgov.foundation/t/host-local-meetups/42)
+
 ![](../.gitbook/assets/frame-2.1-2.jpg)
 
 ## ✨ OrgTech Review **Highlights**
 
-[A Colony for Developers](https://blog.colony.io/a-colony-for-developers/amp/). Colony launched their own developer's colony, which will reward CDEV and reputation to any developers who contribute to Colony's open source repositories. The [developer dashboard](https://docs.colony.io/contribute/) integrates with this colony so that all you need to do to start earning is login and link your Metamask and Github accounts.
 
-[1Hive's "Dandelion Orgs" request for funding approved by the Nest program](https://github.com/aragon/nest/pull/172). Luke Duncan \(Aragon researcher\) and his 1Hive team will spend the next 5 months replicating [Moloch DAO's](https://molochdao.com) functionality by building 5 new modular Aragon apps. The popular "rage quit" mechanism will be executed via the Redemptions app, demoed [here](https://twitter.com/AragonProject/status/1149770653962129408).
-
-[DAOstack's Alchemy now allows DAOs to modify their own structure](https://daotalk.org/t/how-to-use-the-scheme-registrar-in-alchemy/669). The scheme registrar scheme enables adding, editing, and removing elements of a DAOstack DAO. Read more how to use schemes in this technical introduction.
-
-[Gnosis has Stepped Back from the dxDAO](https://blog.gnosis.pm/gnosis-is-stepping-back-from-the-dxdao-5d368bc269a3). Gnosis has cut all ties to the dxDAO, the DAO it launched to control the auctioneer powers of its DutchX decentralised exchange. While Gnosis never held any voting power in the dxDAO, the company has now also archived the DAO's Github and Twitter accounts and has given up admin rights to the DAO's Telegram and Discourse communities.
-
-[Panvala Beta Release: What Would You Fund?](https://medium.com/@Panvala/panvala-beta-release-what-would-you-fund-22e4018a9cd3%29). A year after inception, Panvala releases a beta version of their funding allocation tool. Aiming to be a "decentralized Ethereum Foundation", Panvala holds a public vote among holders of test tokens to choose which projects will receive PAN token grants. Mainnet launch is planned for August.
-
-dOrg are working on a fundraising module for DAOstack, which will use bonding curves and facilitate more transparent DAICOs \(like the Aragon Fundraising app\). Check out the spec [here](https://github.com/dOrgTech/BC-DAO) and give them feedback [here](https://t.me/bc_dao).
 
 ![](../.gitbook/assets/frame-2.3.jpg)
 
@@ -98,7 +85,13 @@ Follow Anja on [Twitter](https://twitter.com/AnjaBlaj)
 
 Regular collection of memes from Pedro Parrachia and the Ministry of Memes.
 
+![](../.gitbook/assets/image%20%2839%29.png)
 
+![](../.gitbook/assets/image%20%2814%29.png)
+
+![](../.gitbook/assets/image%20%2827%29.png)
+
+![](../.gitbook/assets/image%20%2828%29.png)
 
 ![](../.gitbook/assets/frame-2.2-3.jpg)
 
