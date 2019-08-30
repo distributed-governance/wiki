@@ -21,9 +21,9 @@ Purpose: Develop a Vibrant Network
 
 ## Tensions
 
-### Max / Dgov + we work/coops partnership
+### Max / Elect the lead link, Secretary, Facilitator
 
-### Max / Secretary
+### Max / Dgov + we work/coops partnership
 
 ### Max / Partner ISSDG+Consensys \(show map\)
 
