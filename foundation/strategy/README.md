@@ -20,13 +20,14 @@ Principles:
 
 Purpose: Create meaningful connections and shared agency among its members. ****
 
-### 👨‍👨‍👦‍👦 Facilitate group communication by community manager \(Ela?\)
+### 👨‍👨‍👦‍👦 Facilitate group communication by community manager
 
 * Integrate ID system with contacts, hubs maps etc
 * Add profiling info \(interests, skills etc\)
 * Maintaining the twitter communication channel, so everyone has a chance to exchange news under the „hashtag“ \#dgov and can keep up to date with what is going on in the space.
 * Developing the \#dgov forum, so members can exchange valuable info on more in-depth topics
 * Moderating the \#dgov chat on Telegram and potentially other channels \(rotating moderation?\)
+* Partnership over dgov calendar & media with major organizations
 * Allowing for cross-posting: \#dgov tweets on Telegram
 * Beweekly community calls \(Ela\)
 * Maintaining and expanding the \#dgov/DAO Landscape report \(+[the ecosystem map](https://wiki.dgov.foundation/map-of-the-industry-landscape)\)
