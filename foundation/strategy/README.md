@@ -23,7 +23,7 @@ Purpose: Create meaningful connections and shared agency among its members. ****
 ### **Get more great people in**
 
 * Grow the knowledge of dgov - Print themed sticker pack \(dlov, nature etc\).
-* People like future thinkers, etc \(see survey\)
+* People like future thinkers, yuval harari  etc \(see survey\)
 
 ### 👨‍👨‍👦‍👦 Facilitate group communication by community manager
 
