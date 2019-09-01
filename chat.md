@@ -1,4 +1,12 @@
-# Dgov related chats
+# Chat
+
+Dgov telegram chat is the pace for quick exchange of announcements, feedback etc. [Join the network](https://dgov.foundation/#join) to get the link to it.
+
+Some feedback:
+
+> I just wanted to thank you guys for this Telegram Channel. It has the best signal-to-noise ratio of all the channels I'm on, always engaging, and great references. – Grace Rachmany
+
+## Related chats
 
 * Dgov chat \(join at [https://dgov.foundation](https://dgov.foundation/)\)
 * [Founder's Circle \(MetaCartel\)](https://t.me/Web3Founders)

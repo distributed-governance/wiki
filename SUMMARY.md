@@ -2,7 +2,9 @@
 
 * [Welcome to the \#dgov network](README.md)
 * [Event Calendar](dgov-industry-landscape.md)
-* [Dgov related chats](dgov-related-chats.md)
+* [Chat](chat.md)
+* [Councils](councils.md)
+* [Meetups](meetups.md)
 * [Newsletter & Reports](newsletter/README.md)
   * [2018](newsletter/2018/README.md)
     * [Newsletter \#1 \(september\)](newsletter/2018/newsletter-1-september.md)
@@ -17,7 +19,7 @@
   * [Newsletter \#10 \(june\)](newsletter/newsletter-10-june.md)
   * [Newsletter \#11 \(july\)](newsletter/newsletter-11-july.md)
   * [Newsletter \#12 \(august\)](newsletter/newsletter-12-august.md)
-* [Logo & Identity](dgov-network-logo.md)
+* [Official Website](https://dgov.foundation)
 
 ## Foundation
 
@@ -25,6 +27,7 @@
   * [Stakeholders](foundation/strategy/stakeholders.md)
   * [Governance](foundation/strategy/governance.md)
   * [Team & History](foundation/strategy/dgov-history.md)
+  * [Logo & Identity](foundation/strategy/dgov-network-logo.md)
 * [Tacticals](foundation/tacticals/README.md)
   * [Tactical 08.05.2019](foundation/tacticals/tactical-08.05.2019.md)
   * [Tactical 15.05.2019](foundation/tacticals/tactical-15.05.2019.md)
@@ -42,9 +45,4 @@
   * [Tactical 07.08.2019](foundation/tacticals/tactical-07.08.2019.md)
   * [Tactical 14.08.2019](foundation/tacticals/tactical-14.08.2019.md)
   * [Tactical 30.08.2019](foundation/tacticals/tactical-xx.08.2019.md)
-* [Councils](foundation/councils.md)
-* [Chat](foundation/chat.md)
-* [Meetups](foundation/meetups.md)
-* [Community Vision](foundation/community-vision.md)
-* [Official Website](https://dgov.foundation)
 

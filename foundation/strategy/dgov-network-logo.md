@@ -4,11 +4,11 @@
 
 Icon = Galaxy + Complex Yin Yang
 
-![](.gitbook/assets/frame-20.png)
+![](../../.gitbook/assets/frame-20.png)
 
-![](.gitbook/assets/frame-21.png)
+![](../../.gitbook/assets/frame-21.png)
 
-![Context logos](.gitbook/assets/frame-8.png)
+![Context logos](../../.gitbook/assets/frame-8.png)
 
 ### Find more
 
@@ -17,7 +17,7 @@ Icon = Galaxy + Complex Yin Yang
 
 
 
-![](.gitbook/assets/frame-7.3-1.jpg)
+![](../../.gitbook/assets/frame-7.3-1.jpg)
 
 Figma: [https://www.figma.com/file/VOljSsjBw43q9x6xi5ZYwNf0/%23dgov-graphics?node-id=209%3A45](https://www.figma.com/file/VOljSsjBw43q9x6xi5ZYwNf0/%23dgov-graphics?node-id=209%3A45)
 
