@@ -45,4 +45,5 @@
   * [Tactical 07.08.2019](foundation/tacticals/tactical-07.08.2019.md)
   * [Tactical 14.08.2019](foundation/tacticals/tactical-14.08.2019.md)
   * [Tactical 30.08.2019](foundation/tacticals/tactical-xx.08.2019.md)
+  * [Tactical 04.09.2019](foundation/tacticals/tactical-04.09.2019.md)
 
