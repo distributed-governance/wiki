@@ -16,9 +16,13 @@ Principles:
 * The principles of wholeness - interconnectedness.
 * Collaboration “Act local - think global”
 
-## Develop the ecosystem around distributed governance
+## Dgov enthusiasts
 
 Purpose: Create meaningful connections and shared agency among its members. ****
+
+### **Get more great people in**
+
+* Grow the knowledge of dgov - Print themed sticker pack \(dlov, nature etc\).
 
 ### 👨‍👨‍👦‍👦 Facilitate group communication by community manager
 
@@ -65,10 +69,6 @@ Doing amazing events
 * Facilitators
 * Legal consulting 
 
-## Grow the knowledge of dgov
-
-Print themed sticker pack \(dlov, nature etc\).
-
 ## Launch \#dgov experiments
 
 * Launch 3 public governance experiments
@@ -78,15 +78,7 @@ Print themed sticker pack \(dlov, nature etc\).
   * Raise funds \($50-100k\)
   * Get 50 members to DGOV Seed DAO
 
-## Increase the capacity
+## Produce knowledge
 
-* Aquire funding for the team
-* Get more volunteering
-  * Promote dgov art/culture
-  * Share positive feedback
-    * I just wanted to thank you guys for this Telegram Channel. It has the best signal-to-noise ratio of all the channels I'm on, always engaging, and great references. – Grace Rachmany about the dgov chat
-
-Links:
-
-* [https://graphcommons.com/graphs/6a993e34-d8b0-4425-83ce-67c3560429e7?auto=true&svg=true](https://graphcommons.com/graphs/6a993e34-d8b0-4425-83ce-67c3560429e7?auto=true&svg=true)
+* Think Tank
 

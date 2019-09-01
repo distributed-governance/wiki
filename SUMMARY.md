@@ -43,6 +43,7 @@
   * [Tactical 14.08.2019](foundation/tacticals/tactical-14.08.2019.md)
   * [Tactical 30.08.2019](foundation/tacticals/tactical-xx.08.2019.md)
 * [Councils](foundation/councils.md)
+* [Chat](foundation/chat.md)
 * [Meetups](foundation/meetups.md)
 * [Community Vision](foundation/community-vision.md)
 * [Official Website](https://dgov.foundation)
