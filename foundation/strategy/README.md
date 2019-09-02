@@ -2,25 +2,33 @@
 
 DGov connects people to discover practices, implement technical solutions and create complex, scalable governance systems that create cohesion and allow people to flourish.
 
-Values: Trust, Fairness, Integrity, Respect, Empathy, Appreciation, Egoless, Honesty, Caring, Joyfulness, Fun, Relaxed, Timely, Kindness, Self-reflection.
-
-Principles:
-
-* Deep and Active Listening,
-* Non-violent communication, 
-* Horizontal Organizing and Participatory Leadership,
-* Be excellent to each other,
-* Omni-considerative / omni-win decision making,
-* Maximum integratabtle cognitive diversity
-* The principle Life - Change and Adoption
-* The principles of wholeness - interconnectedness.
-* Collaboration “Act local - think global”
-
-## For Distributed Governance Enthusiasts
-
 Purpose: Create meaningful connections and shared agency among its members. ****
 
-### [🎌](https://emojipedia.org/crossed-flags/) Attract **more great people**
+Values: Trust, Fairness, Integrity, Respect, Empathy, Appreciation, Egoless, Honesty, Caring, Joyfulness, Fun, Relaxed, Timely, Kindness, Self-reflection.
+
+## **Network leaders**
+
+### 🧠 Produce knowledge
+
+* Think Tank
+* Ethereum
+* Consensys
+
+{% hint style="info" %}
+Forum
+
+* Developing the \#dgov forum, so members can exchange valuable info on more in-depth topics
+{% endhint %}
+
+{% hint style="info" %}
+Council
+{% endhint %}
+
+{% hint style="info" %}
+Case Studies
+{% endhint %}
+
+### [🎌](https://emojipedia.org/crossed-flags/) Develop the \#dgov network
 
 * Grow the knowledge of dgov - Print themed sticker pack \(dlov, nature etc\).
 * People like future thinkers, yuval harari  etc \(see survey\)
@@ -37,28 +45,48 @@ Purpose: Create meaningful connections and shared agency among its members. ****
 * Support dgov space projects with publicity
 * Partnership over dgov calendar & media with major organizations
 
+{% hint style="info" %}
+Meetups – Organize and participate in local network events / meetups
+
+* Regular meetups in Berlin \(Ela?\)
+* London \(Phoebe\)
+* Barcelona
+* Amsterdam
+* Global meetup page
+{% endhint %}
+
+{% hint style="info" %}
+Ecosystem Mapping
+
+* Use CONE?
+* Integrate ID system with contacts, hubs maps etc
+* Maintaining and expanding the \#dgov/DAO Landscape report \(+[the ecosystem map](https://wiki.dgov.foundation/map-of-the-industry-landscape)\)
+* Add profiling info \(interests, skills etc\)
+{% endhint %}
+
 ### 💬 Facilitate group communication by community manager
 
-* Integrate ID system with contacts, hubs maps etc
-* Add profiling info \(interests, skills etc\)
-* Developing the \#dgov forum, so members can exchange valuable info on more in-depth topics
-* Moderating the \#dgov chat on Telegram and potentially other channels \(rotating moderation?\)
-* Use CONE?
-* Allowing for cross-posting: \#dgov tweets on Telegram
-* Beweekly community calls \(Ela\)
-* Maintaining and expanding the \#dgov/DAO Landscape report \(+[the ecosystem map](https://wiki.dgov.foundation/map-of-the-industry-landscape)\)
-* DGOV discord?
+{% hint style="info" %}
+Newsletter
+
 * Curating a monthly newsletter \(+ dgov highlight of the month\)
-* Organize and participate in local network events / meetups
-  * Regular meetups in Berlin \(Ela?\)
-  * London \(Phoebe\)
-  * Barcelona
-  * Amsterdam
-  * Global meetup page?
+{% endhint %}
 
-#### Calendar
+{% hint style="info" %}
+Community calls
+{% endhint %}
 
-* Curating a \#dgov event calendar 
+{% hint style="info" %}
+Chat
+
+* DGOV discord?
+* Moderating the \#dgov chat on Telegram and potentially other channels \(rotating moderation?\)
+* Allowing for cross-posting: \#dgov tweets on Telegram
+{% endhint %}
+
+{% hint style="info" %}
+Calendar – curating a \#dgov event calendar 
+{% endhint %}
 
 ### 📅 Co-Create Events by event manager
 
@@ -77,9 +105,35 @@ Doing amazing events
   * Raise funds \($50-100k\)
   * Get 50 members to DGOV Seed DAO
 
-## Produce knowledge
+## **DO / DAO / Co-ops leaders**
 
-* Think Tank
-* Ethereum
-* Consensys
+* Coordination – Councils, Newsletter
+* Education – Body of Knowledge
+* Incubation \(Funding & Expertise\) – [DAO Incubator](http://daoincubator.org/), DAO Hackathon
+* Regulation Compliance
+
+## **Service Providers**
+
+* Increase adoption \(users, developers\)
+* Collect product feedback & feature ideation
+* Establish case studies
+* Coordination – Councils, Newsletter 
+
+## **Researchers & Academics**
+
+* Identifying research needs
+* Feedback / Ideation
+* Coverage? 
+
+## **Investors / VCs**
+
+* Valuation framework
+* Access to growing orgs 
+
+## **External communities**
+
+* Awareness
+* Integration
+
+
 

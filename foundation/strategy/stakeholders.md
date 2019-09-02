@@ -1,30 +1,5 @@
 # Stakeholders
 
-## Needs
-
-1. DO / DAO / Co-ops
-   * Coordination – Councils, Newsletter
-   * Education – Body of Knowledge
-   * Incubation \(Funding & Expertise\) – [DAO Incubator](http://daoincubator.org/), DAO Hackathon
-   * Regulation Compliance
-2. Providers
-   * Increase adoption \(users, developers\)
-   * Collect product feedback & feature ideation
-   * Establish case studies
-   * Coordination – Councils, Newsletter 
-3. Researchers & Academics
-   * Identifying research needs
-   * Feedback / Ideation
-   * Coverage? 
-4. Investors / VCs
-   * Valuation framework
-   * Access to growing orgs 
-5. Ecosystem / wider communities 
-   * Coordination
-   * DAO progress is tracked and shared
-   * Integration?
-   * Smth ~Policies?
-
 ## DO / DAOs / Co-ops
 
 ### Layer 1: Network-based

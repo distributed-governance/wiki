@@ -23,6 +23,18 @@ Changes to policies and roles are done through the Holacracy IDM process. Telegr
 * Outreach & Advocacy / PR Manager – Anja
 * Designer – Max
 
+### Principles
+
+* Deep and Active Listening,
+* Non-violent communication, 
+* Horizontal Organizing and Participatory Leadership,
+* Be excellent to each other,
+* Omni-considerative / omni-win decision making,
+* Maximum integratabtle cognitive diversity
+* The principle Life - Change and Adoption
+* The principles of wholeness - interconnectedness.
+* Collaboration “Act local - think global"
+
 ## Accountabilities
 
 ### Outreach & Advocacy / PR Manager
