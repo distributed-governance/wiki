@@ -1,4 +1,4 @@
-# Strategy & Goals 2019
+# Strategy & Goals
 
 DGov connects people to discover practices, implement technical solutions and create complex, scalable governance systems that create cohesion and allow people to flourish.
 
