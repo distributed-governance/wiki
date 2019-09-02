@@ -80,4 +80,6 @@ Doing amazing events
 ## Produce knowledge
 
 * Think Tank
+* Ethereum
+* Consensys
 
