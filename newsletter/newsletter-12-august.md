@@ -16,6 +16,18 @@ We've build the dgov network map with [graph commons](https://graphcommons.com/)
 
 Creating of this map led to the discussion of the  Self Sovereign ID for dgov network \(ideas like matchmaking, reputation etc\). [Join the conversation here](https://forum.dgov.foundation/t/self-sovereign-id-for-the-dgov-network/82).
 
+### Web3 dgov node
+
+![](../.gitbook/assets/image%20%2860%29.png)
+
+Berlin Blockchain week was full of great events. We had DAOfest, Governance Games and of course the \#dgov node at web3 summit. If you have missed it – we've captured all videos from the lightning talks and notes from the panels. Here're my top3 picks:
+
+* [Ecosystem Funding DAOs](https://forum.dgov.foundation/t/transcript-panel-ecosystem-funding-daos-dgov-node-at-web3-2019/79)
+* [Self Sovereign Identity in the distributed governance](https://forum.dgov.foundation/t/transcript-panel-identity-in-dgov-dgov-node-at-web3-2019/77)
+* [Bridging the divide between decentralized orgs / coops etc with DAOs](https://forum.dgov.foundation/t/transcript-panel-bridging-the-divide-between-decentralized-orgs-coops-etc-with-daos-dgov-node-at-web3-2019/80)
+
+Find full agenda and materials [on our forum](https://forum.dgov.foundation/t/web-3-summit-dgov-node/63).
+
 ### Also this month we're welcoming
 
 * Laura Harvey – Certified Trainer in NVC shared space.org.uk
@@ -50,18 +62,6 @@ Creating of this map led to the discussion of the  Self Sovereign ID for dgov ne
 * Joe Charlesworth – runs [www.prediction.vc](www.prediction.vc), a new type of VC/Incubator using Aragon & Colony. Also organising Eth Lisbon and Lisbon Blockchain Week.
 * Justine Hannequin – a freelance product designer specialized in pedagological use case. Had several experiences with governance system, reverse-engineering them and experimenting in how they can be visualized by the whole group.
 * Ana Gutierrez Jordano – quite resourceful developer, based in Sevilla, Spain, and part of a small community there called La Colmena. DAOs and governance are the biggest topics for her in blockchain, so this is what I am working on, making workshops, meetups and contributing code to.
-
-### Web3 dgov node
-
-![](../.gitbook/assets/image%20%2860%29.png)
-
-Berlin Blockchain week was full of great events. We had DAOfest, Governance Games and of course the \#dgov node at web3 summit. If you have missed it – we've captured all videos from the lightning talks and notes from the panels. Here're my top3 picks:
-
-* [Ecosystem Funding DAOs](https://forum.dgov.foundation/t/transcript-panel-ecosystem-funding-daos-dgov-node-at-web3-2019/79)
-* [Self Sovereign Identity in the distributed governance](https://forum.dgov.foundation/t/transcript-panel-identity-in-dgov-dgov-node-at-web3-2019/77)
-* [Bridging the divide between decentralized orgs / coops etc with DAOs](https://forum.dgov.foundation/t/transcript-panel-bridging-the-divide-between-decentralized-orgs-coops-etc-with-daos-dgov-node-at-web3-2019/80)
-
-Find full agenda and materials [on our forum](https://forum.dgov.foundation/t/web-3-summit-dgov-node/63).
 
 ### Upcoming events
 
