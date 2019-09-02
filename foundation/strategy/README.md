@@ -6,7 +6,7 @@ Purpose: Create meaningful connections and shared agency among its members. ****
 
 Values: Trust, Fairness, Integrity, Respect, Empathy, Appreciation, Egoless, Honesty, Caring, Joyfulness, Fun, Relaxed, Timely, Kindness, Self-reflection.
 
-## **Network leaders**
+## **Network Leaders**
 
 ### 🧠 Support the knowledge production
 
