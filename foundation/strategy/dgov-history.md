@@ -38,7 +38,7 @@ Is decentralization always the answer? When is decentralization \*not\* the most
 
 ## History
 
-* May 2018 – EthCC discussions about the conferenc
+* May 2018 – EthCC discussions about the conference
 * June 2018 – Working group establishe
 * Sep 2018 – First \#dgov meetup in Berli
 * Oct 2018 – Conference postponed, focus on community building

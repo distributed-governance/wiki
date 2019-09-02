@@ -1,11 +1,11 @@
 # Table of contents
 
 * [Welcome to the \#dgov network](README.md)
-* [Event Calendar](dgov-industry-landscape.md)
-* [Working Groups](working-groups.md)
 * [Chat](chat.md)
 * [Councils](councils.md)
 * [Meetups](meetups.md)
+* [Event Calendar](dgov-industry-landscape.md)
+* [Working Groups](working-groups.md)
 * [Newsletter & Reports](newsletter/README.md)
   * [2018](newsletter/2018/README.md)
     * [Newsletter \#1 \(september\)](newsletter/2018/newsletter-1-september.md)
