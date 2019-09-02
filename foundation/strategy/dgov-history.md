@@ -28,6 +28,12 @@ Distributed self-governing network Enspiral \(NZ\) Organisational innovation lab
 
 Is decentralization always the answer? When is decentralization \*not\* the most appropriate system to use in organising? What are the questions necessary to ask in making those decisions? I am interested in the deep social protocols and legal structures necessary to actualise decentralised/distributed organising and governance of assets in the real world. Debunking DGOV hype.
 
+### Ela Kagel
+
+Digital strategist Ela Kagel specialises in the intersection of society, technology and economy. Since the 1990s she has been working as curator and program advisor for major art & tech festivals such as Transmediale, Republica, Ars Electronica and more.
+
+Ela is co-founder and managing partner of [SUPERMARKT](https://supermarkt-berlin.net/), a collaborative economy hub in Berlin. Central to Ela’s practice is working with grassroots communities and dgov practitioners all over Europe. Over the past years, she has been extensively researching and advocating for the digital commons. As part of her ongoing collaboration with the Platform Coop Consortium Ela is co-hosting the Platform Coop meetups in Berlin. 
+
 ### Martin Unruh
 
 ...
