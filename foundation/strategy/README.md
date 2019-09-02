@@ -53,7 +53,8 @@ Values: Trust, Fairness, Integrity, Respect, Empathy, Appreciation, Egoless, Hon
 {% endhint %}
 
 {% hint style="info" %}
-\*\*\*\*[**Working Groups / Community calls**](../../working-groups.md)\*\*\*\*
+\*\*\*\*[**Working Groups / Community calls**](../../working-groups.md)  
+****Create interoperability / tech stack
 
 * EthSignals
 * \#dgov SSID
