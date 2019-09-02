@@ -20,10 +20,20 @@ Principles:
 
 Purpose: Create meaningful connections and shared agency among its members. ****
 
-### **Get more great people in**
+### [🎌](https://emojipedia.org/crossed-flags/) **Get more great people in**
 
 * Grow the knowledge of dgov - Print themed sticker pack \(dlov, nature etc\).
 * People like future thinkers, yuval harari  etc \(see survey\)
+
+\#dgov aims at including a more diverse groups of practitioners and researchers from the following domains:
+
+* Political Science / Governance researchers
+* Psychologists
+* Anthropologists
+* Facilitators
+* Legal consulting 
+
+
 
 ### 👨‍👨‍👦‍👦 Facilitate group communication by community manager
 
@@ -59,16 +69,6 @@ Doing amazing events
 * Oct 8-11 Devcon node
 * Q4 Dgov council \#2
 * 2020 Athens Conference
-
-### [🎌](https://emojipedia.org/crossed-flags/) Advocate diversity in the \#dgov space
-
-\#dgov aims at including a more diverse groups of practitioners and researchers from the following domains:
-
-* Political Science / Governance researchers
-* Psychologists
-* Anthropologists
-* Facilitators
-* Legal consulting 
 
 ## Launch \#dgov experiments
 
