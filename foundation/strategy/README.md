@@ -16,11 +16,11 @@ Principles:
 * The principles of wholeness - interconnectedness.
 * Collaboration “Act local - think global”
 
-## Dgov enthusiasts
+## For Distributed Governance Enthusiasts
 
 Purpose: Create meaningful connections and shared agency among its members. ****
 
-### [🎌](https://emojipedia.org/crossed-flags/) **Get more great people in**
+### [🎌](https://emojipedia.org/crossed-flags/) Attract **more great people**
 
 * Grow the knowledge of dgov - Print themed sticker pack \(dlov, nature etc\).
 * People like future thinkers, yuval harari  etc \(see survey\)
@@ -32,20 +32,22 @@ Purpose: Create meaningful connections and shared agency among its members. ****
 * Anthropologists
 * Facilitators
 * Legal consulting 
+* Tweet about \(new?\) projects in the space \(e.g. weekly\)
+* Maintaining the twitter communication channel, so everyone has a chance to exchange news under the „hashtag“ \#dgov and can keep up to date with what is going on in the space.
+* Support dgov space projects with publicity
+* Partnership over dgov calendar & media with major organizations
 
-
-
-### 👨‍👨‍👦‍👦 Facilitate group communication by community manager
+### 💬 Facilitate group communication by community manager
 
 * Integrate ID system with contacts, hubs maps etc
 * Add profiling info \(interests, skills etc\)
-* Maintaining the twitter communication channel, so everyone has a chance to exchange news under the „hashtag“ \#dgov and can keep up to date with what is going on in the space.
 * Developing the \#dgov forum, so members can exchange valuable info on more in-depth topics
 * Moderating the \#dgov chat on Telegram and potentially other channels \(rotating moderation?\)
-* Partnership over dgov calendar & media with major organizations
-* Allowing for cross-posting: \#dgov tweets on Telegram
+* * Allowing for cross-posting: \#dgov tweets on Telegram
 * Beweekly community calls \(Ela\)
 * Maintaining and expanding the \#dgov/DAO Landscape report \(+[the ecosystem map](https://wiki.dgov.foundation/map-of-the-industry-landscape)\)
+* DGOV discord?
+* Curating a monthly newsletter \(+ dgov highlight of the month\)
 * Organize and participate in local network events / meetups
   * Regular meetups in Berlin \(Ela?\)
   * London \(Phoebe\)
@@ -53,12 +55,9 @@ Purpose: Create meaningful connections and shared agency among its members. ****
   * Amsterdam
   * Global meetup page?
 
-###  ****💬 Create information flows by pr manager
+#### Calendar
 
-* Curating a monthly newsletter \(+ dgov highlight of the month\)
 * Curating a \#dgov event calendar 
-* Tweet about \(new?\) projects in the space \(e.g. weekly\)
-* Support dgov space projects with publicity
 
 ### 📅 Co-Create Events by event manager
 
