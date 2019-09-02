@@ -2,6 +2,7 @@
 
 * [Welcome to the \#dgov network](README.md)
 * [Event Calendar](dgov-industry-landscape.md)
+* [Working Groups](working-groups.md)
 * [Chat](chat.md)
 * [Councils](councils.md)
 * [Meetups](meetups.md)

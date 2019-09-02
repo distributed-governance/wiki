@@ -8,45 +8,74 @@ Values: Trust, Fairness, Integrity, Respect, Empathy, Appreciation, Egoless, Hon
 
 ## **Network leaders**
 
-### 🧠 Produce knowledge
+### 🧠 Support the knowledge production
 
-* Think Tank
-* Ethereum
-* Consensys
+* Launch 3 public governance experiments
+* Support the projects & researches with connections, coverage etc
 
 {% hint style="info" %}
-Forum
+[**Forum**](https://forum.dgov.foundation/)\*\*\*\*
 
 * Developing the \#dgov forum, so members can exchange valuable info on more in-depth topics
 {% endhint %}
 
 {% hint style="info" %}
-Council
+[**Council - Think Tank**](../../councils.md)\*\*\*\*
+
+* 2020 Q1 Dgov council \#2
+* 2020 Athens Conference/council \#3?
+* Invite people like future thinkers, yuval harari  etc \(see survey\)
 {% endhint %}
 
 {% hint style="info" %}
-Case Studies
+[**Case Studies**](https://mapping.daolandscape.today)\*\*\*\*
+
+* [Blockchain Networks](https://mapping.daolandscape.today/network-governance/blockchain-summary)
+* [DAO/Digital Coops](https://mapping.daolandscape.today/network-governance/dao-case-study-research)
 {% endhint %}
 
-### [🎌](https://emojipedia.org/crossed-flags/) Develop the \#dgov network
+### [🤝](https://emojipedia.org/handshake/) **Support collaboration**
 
-* Grow the knowledge of dgov - Print themed sticker pack \(dlov, nature etc\).
-* People like future thinkers, yuval harari  etc \(see survey\)
+{% hint style="info" %}
+\*\*\*\*[**Ecosystem Map**](https://graphcommons.com/graphs/6a993e34-d8b0-4425-83ce-67c3560429e7?auto=true&svg=true)\*\*\*\*
 
-\#dgov aims at including a more diverse groups of practitioners and researchers from the following domains:
+* Use CONE?
+* Integrate ID system with contacts, hubs maps etc
+* Maintaining and expanding the \#dgov/DAO Landscape report \(+[the ecosystem map](https://wiki.dgov.foundation/map-of-the-industry-landscape)\)
+* Add profiling info \(interests, skills etc\) 
+{% endhint %}
 
-* Political Science / Governance researchers
-* Psychologists
-* Anthropologists
-* Facilitators
-* Legal consulting 
-* Tweet about \(new?\) projects in the space \(e.g. weekly\)
-* Maintaining the twitter communication channel, so everyone has a chance to exchange news under the „hashtag“ \#dgov and can keep up to date with what is going on in the space.
+{% hint style="info" %}
+[**Newsletter**](../../newsletter/)\*\*\*\*
+
+* Curating a monthly newsletter \(+ dgov highlight of the month\)
 * Support dgov space projects with publicity
-* Partnership over dgov calendar & media with major organizations
+{% endhint %}
 
 {% hint style="info" %}
-Meetups – Organize and participate in local network events / meetups
+\*\*\*\*[**Working Groups / Community calls**](../../working-groups.md)\*\*\*\*
+
+* EthSignals
+* \#dgov SSID
+* ...
+{% endhint %}
+
+{% hint style="info" %}
+\*\*\*\*[**Chat**](../../chat.md)\*\*\*\*
+
+* DGOV discord?
+* Moderating the \#dgov chat on Telegram and potentially other channels \(rotating moderation?\)
+* Allowing for cross-posting: \#dgov tweets on Telegram
+{% endhint %}
+
+{% hint style="info" %}
+[**Calendar**](../../dgov-industry-landscape.md) – curating a \#dgov event calendar 
+
+* Partnership over dgov calendar & media with major organizations
+{% endhint %}
+
+{% hint style="info" %}
+[**Meetups**](../../meetups.md) – Organize and participate in local network events / meetups
 
 * Regular meetups in Berlin \(Ela?\)
 * London \(Phoebe\)
@@ -55,85 +84,33 @@ Meetups – Organize and participate in local network events / meetups
 * Global meetup page
 {% endhint %}
 
-{% hint style="info" %}
-Ecosystem Mapping
+## External Community
 
-* Use CONE?
-* Integrate ID system with contacts, hubs maps etc
-* Maintaining and expanding the \#dgov/DAO Landscape report \(+[the ecosystem map](https://wiki.dgov.foundation/map-of-the-industry-landscape)\)
-* Add profiling info \(interests, skills etc\)
-{% endhint %}
+### [🎗️](https://emojipedia.org/reminder-ribbon/)Build awareness & integration
 
-### 💬 Facilitate group communication by community manager
+\#dgov aims at including a more diverse groups of practitioners and researchers from the following domains:
 
-{% hint style="info" %}
-Newsletter
-
-* Curating a monthly newsletter \(+ dgov highlight of the month\)
-{% endhint %}
+* Political Science / Governance researchers
+* Psychologists
+* Anthropologists
+* Facilitators
+* Legal consulting 
 
 {% hint style="info" %}
-Community calls
+\*\*\*\*[**Brand / Identity**](dgov-network-logo.md)\*\*\*\*
+
+* Print themed sticker pack \(dlov, nature etc\).
 {% endhint %}
 
 {% hint style="info" %}
-Chat
-
-* DGOV discord?
-* Moderating the \#dgov chat on Telegram and potentially other channels \(rotating moderation?\)
-* Allowing for cross-posting: \#dgov tweets on Telegram
+\*\*\*\*[**\#dgov tag**](https://twitter.com/hashtag/dgov)  
+****Maintaining the twitter communication channel, so everyone has a chance to exchange news under the „hashtag“ \#dgov and can keep up to date with what is going on in the space.
 {% endhint %}
 
-{% hint style="info" %}
-Calendar – curating a \#dgov event calendar 
-{% endhint %}
+## Core Team
 
-### 📅 Co-Create Events by event manager
+### [💸](https://emojipedia.org/money-with-wings/) Sustainable participation
 
-Doing amazing events
-
-* Aug 19-21: Web3 \#dgov node
-* 2020 Q1 Dgov council \#2
-* 2020 Athens Conference?
-
-## Launch \#dgov experiments
-
-* Launch 3 public governance experiments
-* Support the projects
-* Create open workshops \(e.g. DAO Crash Test\)
-* Launch DGOV SEED DAO
-  * Raise funds \($50-100k\)
-  * Get 50 members to DGOV Seed DAO
-
-## **DO / DAO / Co-ops leaders**
-
-* Coordination – Councils, Newsletter
-* Education – Body of Knowledge
-* Incubation \(Funding & Expertise\) – [DAO Incubator](http://daoincubator.org/), DAO Hackathon
-* Regulation Compliance
-
-## **Service Providers**
-
-* Increase adoption \(users, developers\)
-* Collect product feedback & feature ideation
-* Establish case studies
-* Coordination – Councils, Newsletter 
-
-## **Researchers & Academics**
-
-* Identifying research needs
-* Feedback / Ideation
-* Coverage? 
-
-## **Investors / VCs**
-
-* Valuation framework
-* Access to growing orgs 
-
-## **External communities**
-
-* Awareness
-* Integration
-
-
+* Sync on plans and mutual expectations
+* Raise funds \($50-100k\) for next 6 month
 

@@ -23,6 +23,7 @@ It's a pleasure to welcome you here :\)
   * [EthSignals](https://ethsignals.org/)
   * DAO Landscape Research
   * DAO Incubator
+* Brand / Identity
 
 ## Policies & Processes 
 
