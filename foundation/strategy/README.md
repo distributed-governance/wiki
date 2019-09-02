@@ -43,7 +43,8 @@ Purpose: Create meaningful connections and shared agency among its members. ****
 * Add profiling info \(interests, skills etc\)
 * Developing the \#dgov forum, so members can exchange valuable info on more in-depth topics
 * Moderating the \#dgov chat on Telegram and potentially other channels \(rotating moderation?\)
-* * Allowing for cross-posting: \#dgov tweets on Telegram
+* Use CONE?
+* Allowing for cross-posting: \#dgov tweets on Telegram
 * Beweekly community calls \(Ela\)
 * Maintaining and expanding the \#dgov/DAO Landscape report \(+[the ecosystem map](https://wiki.dgov.foundation/map-of-the-industry-landscape)\)
 * DGOV discord?
