@@ -48,12 +48,20 @@ Creating of this map led to the discussion of the  Self Sovereign ID for dgov ne
 * Gerrie Smits – When everybody zigs, I'm curious about the zag. A freelancer, trying to help business understand concepts like blockchain/decentralisation. Particularly interested in new organisations and how projects/platforms like Commons Stack, Colony,... can facilitate that.
 * Benjamin Du Peloux – a contributor and board member of the MANA project : an environmental index that brings the voice of civil society to investors. An NGO with the goal to make the information, i.e. negative impacts of corporate, free and available for everyone. In the mid term looking at a decentralized governance of the tech and ecosystem.
 * Joe Charlesworth – runs [www.prediction.vc](www.prediction.vc), a new type of VC/Incubator using Aragon & Colony. Also organising Eth Lisbon and Lisbon Blockchain Week.
+* Justine Hannequin – a freelance product designer specialized in pedagological use case. Had several experiences with governance system, reverse-engineering them and experimenting in how they can be visualized by the whole group.
+* Ana Gutierrez Jordano – quite resourceful developer, based in Sevilla, Spain, and part of a small community there called La Colmena. DAOs and governance are the biggest topics for her in blockchain, so this is what I am working on, making workshops, meetups and contributing code to.
 
 ### Web3 dgov node
 
 ![](../.gitbook/assets/image%20%2860%29.png)
 
-Berlin Blockchain week was full of great events. We had DAOfest, Governance Games and of course the \#dgov node at web3 summit. If you have missed it – we've captured all videos from the lightning talks and notes from the panels, [check it out](https://forum.dgov.foundation/t/web-3-summit-dgov-node/63/3).
+Berlin Blockchain week was full of great events. We had DAOfest, Governance Games and of course the \#dgov node at web3 summit. If you have missed it – we've captured all videos from the lightning talks and notes from the panels. Here're my top3 picks:
+
+* [Ecosystem Funding DAOs](https://forum.dgov.foundation/t/transcript-panel-ecosystem-funding-daos-dgov-node-at-web3-2019/79)
+* [Self Sovereign Identity in the distributed governance](https://forum.dgov.foundation/t/transcript-panel-identity-in-dgov-dgov-node-at-web3-2019/77)
+* [Bridging the divide between decentralized orgs / coops etc with DAOs](https://forum.dgov.foundation/t/transcript-panel-bridging-the-divide-between-decentralized-orgs-coops-etc-with-daos-dgov-node-at-web3-2019/80)
+
+Find full agenda and materials [on our forum](https://forum.dgov.foundation/t/web-3-summit-dgov-node/63).
 
 ### Upcoming events
 
@@ -64,17 +72,19 @@ Do you want to support the dialogue, action and change in your cities – [Host
 
 ![](../.gitbook/assets/frame-2.1-2.jpg)
 
-## ✨ OrgTech Review **Highlights**
-
-
-
-![](../.gitbook/assets/frame-2.3.jpg)
-
-[Subscribe for OrgTech newsletter](https://orgtech.substack.com/) to get weekly news on the topic and follow Jack on [Twitter](https://twitter.com/JackALaing).
-
 ## ⚖️ Cryptolaw updates
 
-### \*\*\*\*
+This month has been all about legal entities for DAOs! The news about DOrg LLC DAO is still echoing strong and many have been thinking whether coming together virtually, pooling the funds and managing them in a coherent, democratical way through votes is worth the risk. Without a legal entity, all DAO members enter into a “general partnership” which puts everyone at risk all stakeholders, DAO members can be liable for debts or legal actions that a DAO may undergo. This is why through history we have created legal instruments and entities with a limited liability. Yet, the important part is the configuration of a legal entity and the process one needs to go through in order to bring more clarity and certainty regarding the risks members are taking 
+
+Many have written about and we highly recommend articles published by the [OpenLaw](https://medium.com/@OpenLawOfficial/the-era-of-legally-compliant-daos-491edf88fed0). 
+
+We also addressed the legal perspectives and challenges of a DAO on our DGov Node at the Web3 Summit. Check out our outcomes: 
+
+![](../.gitbook/assets/unnamed-22.jpg)
+
+We were also lucky to hear some thoughts Stephen Palley and Vlad Zamfir shared on a panel regarding Szabo’s Law and Vlad’s perception of the emerging crypto law. While Palley made a solid statement smart contracts automate the performance components of a contract, he does not support the idea of a consensus protocol as an agreement. We witnessed quite a debate about the governance, which is supposedly required with human interaction and debatably not with the code. 
+
+Another thing Blockchain Week brought to us is the new programming language for lawyers, [Lexon](http://lexon.tech/). It holds the potential to integrate smart contracts with agreements lawyers are used to read and make the programming languages much more pleasant for a lawyer’s eye. Not only are we excited for this phenomenal user experience but also the possibility to digitalize long pages of text and make the performance component much fluid, transparent and automated.
 
 ![](../.gitbook/assets/frame-2-5.jpg)
 
