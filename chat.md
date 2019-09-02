@@ -8,7 +8,6 @@ Some feedback:
 
 ## Related chats
 
-* Dgov chat \(join at [https://dgov.foundation](https://dgov.foundation/)\)
 * [Founder's Circle \(MetaCartel\)](https://t.me/Web3Founders)
 * [DAOincubator Channel](https://t.me/DAOincubator)
 * Genesis DAO Community \(for Genesis DAO members\)
