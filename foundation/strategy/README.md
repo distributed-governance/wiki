@@ -65,10 +65,8 @@ Purpose: Create meaningful connections and shared agency among its members. ****
 Doing amazing events
 
 * Aug 19-21: Web3 \#dgov node
-* Sep: Dgov retreat
-* Oct 8-11 Devcon node
-* Q4 Dgov council \#2
-* 2020 Athens Conference
+* 2020 Q1 Dgov council \#2
+* 2020 Athens Conference?
 
 ## Launch \#dgov experiments
 
