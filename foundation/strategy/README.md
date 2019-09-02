@@ -34,7 +34,7 @@ Values: Trust, Fairness, Integrity, Respect, Empathy, Appreciation, Egoless, Hon
 * [DAO/Digital Coops](https://mapping.daolandscape.today/network-governance/dao-case-study-research)
 {% endhint %}
 
-### [🤝](https://emojipedia.org/handshake/) **Support collaboration**
+### [🤝](https://emojipedia.org/handshake/) **Support the collaboration**
 
 {% hint style="info" %}
 \*\*\*\*[**Ecosystem Map**](https://graphcommons.com/graphs/6a993e34-d8b0-4425-83ce-67c3560429e7?auto=true&svg=true)\*\*\*\*
