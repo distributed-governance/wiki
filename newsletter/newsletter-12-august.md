@@ -80,7 +80,7 @@ Many have written about and we highly recommend articles published by the [OpenL
 
 We also addressed the legal perspectives and challenges of a DAO on our DGov Node at the Web3 Summit. Check out our outcomes: 
 
-![](../.gitbook/assets/unnamed-22.jpg)
+![](../.gitbook/assets/unnamed-22-1.jpg)
 
 We were also lucky to hear some thoughts Stephen Palley and Vlad Zamfir shared on a panel regarding Szabo’s Law and Vlad’s perception of the emerging crypto law. While Palley made a solid statement smart contracts automate the performance components of a contract, he does not support the idea of a consensus protocol as an agreement. We witnessed quite a debate about the governance, which is supposedly required with human interaction and debatably not with the code. 
 
