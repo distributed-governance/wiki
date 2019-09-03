@@ -1,6 +1,6 @@
 # Strategy & Goals
 
-Purpose: Create meaningful connections and shared agency among its members. ****
+Purpose: Create meaningful connections and shared agency among its members; Shaping the future of networks.
 
 DGov connects people to discover practices, implement technical solutions and create complex, scalable governance systems that create cohesion and allow people to flourish.
 
