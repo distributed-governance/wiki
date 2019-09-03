@@ -79,7 +79,7 @@ Developing the \#dgov forum, so members can exchange valuable info on more in-de
 {% hint style="info" %}
 [**Meetups**](../../meetups.md) – Organize and participate in local network events / meetups
 
-* Regular meetups in Berlin \(Ela?\)
+* Regular meetups in Berlin
 * London \(Phoebe\)
 * Barcelona
 * Amsterdam
