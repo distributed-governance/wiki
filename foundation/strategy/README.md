@@ -12,6 +12,7 @@ Values: Trust, Fairness, Integrity, Respect, Empathy, Appreciation, Egoless, Hon
 
 * Launch 3 public governance experiments
 * Support the projects & researches with connections, coverage etc
+* Coordinate the ongoing researches with the academics
 
 {% hint style="info" %}
 [**Forum**](https://forum.dgov.foundation/)\*\*\*\*
