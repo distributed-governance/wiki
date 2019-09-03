@@ -23,16 +23,13 @@ Values: Trust, Fairness, Integrity, Respect, Empathy, Appreciation, Egoless, Hon
 {% endhint %}
 
 {% hint style="info" %}
-[**Forum**](https://forum.dgov.foundation/)\*\*\*\*
+[**Case Studies & Materials**](https://mapping.daolandscape.today)
 
-* Developing the \#dgov forum, so members can exchange valuable info on more in-depth topics
-{% endhint %}
-
-{% hint style="info" %}
-[**Case Studies**](https://mapping.daolandscape.today)\*\*\*\*
+Developing the \#dgov forum, so members can exchange valuable info on more in-depth topics. Harvest from events etc.
 
 * [Blockchain Networks](https://mapping.daolandscape.today/network-governance/blockchain-summary)
 * [DAO/Digital Coops](https://mapping.daolandscape.today/network-governance/dao-case-study-research)
+* [\#dgov stack](../../dgov-stack.md)
 {% endhint %}
 
 {% hint style="info" %}
