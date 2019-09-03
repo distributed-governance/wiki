@@ -1,12 +1,12 @@
 # Strategy & Goals
 
-DGov connects people to discover practices, implement technical solutions and create complex, scalable governance systems that create cohesion and allow people to flourish.
-
 Purpose: Create meaningful connections and shared agency among its members. ****
+
+DGov connects people to discover practices, implement technical solutions and create complex, scalable governance systems that create cohesion and allow people to flourish.
 
 Values: Trust, Fairness, Integrity, Respect, Empathy, Appreciation, Egoless, Honesty, Caring, Joyfulness, Fun, Relaxed, Timely, Kindness, Self-reflection.
 
-## **Network Leaders**
+## **Network Researchers**
 
 ### 🧠 Support the knowledge production
 
@@ -34,6 +34,17 @@ Values: Trust, Fairness, Integrity, Respect, Empathy, Appreciation, Egoless, Hon
 * [DAO/Digital Coops](https://mapping.daolandscape.today/network-governance/dao-case-study-research)
 {% endhint %}
 
+{% hint style="info" %}
+[**Working Groups / Community calls**](../../working-groups.md)  
+****Create interoperability / tech stack
+
+* EthSignals
+* \#dgov SSID
+* DAO funding ecosystem?
+{% endhint %}
+
+## **Network Leaders**
+
 ### [🤝](https://emojipedia.org/handshake/) **Support the collaboration**
 
 {% hint style="info" %}
@@ -50,15 +61,7 @@ Values: Trust, Fairness, Integrity, Respect, Empathy, Appreciation, Egoless, Hon
 
 * Curating a monthly newsletter \(+ dgov highlight of the month\)
 * Support dgov space projects with publicity
-{% endhint %}
-
-{% hint style="info" %}
-\*\*\*\*[**Working Groups / Community calls**](../../working-groups.md)  
-****Create interoperability / tech stack
-
-* EthSignals
-* \#dgov SSID
-* ...
+* Enable time-warp \(send in the most convenient time\)
 {% endhint %}
 
 {% hint style="info" %}
