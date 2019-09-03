@@ -6,6 +6,7 @@
 * [Meetups](meetups.md)
 * [Event Calendar](dgov-industry-landscape.md)
 * [Working Groups](working-groups.md)
+* [\#dgov Stack](dgov-stack.md)
 * [Newsletter](newsletter/README.md)
   * [2018](newsletter/2018/README.md)
     * [Newsletter \#1 \(september\)](newsletter/2018/newsletter-1-september.md)
@@ -25,7 +26,7 @@
 ## Foundation
 
 * [Strategy & Goals](foundation/strategy/README.md)
-  * [Stakeholders](foundation/strategy/stakeholders.md)
+  * [Networks](foundation/strategy/stakeholders.md)
   * [Governance](foundation/strategy/governance.md)
   * [Team & History](foundation/strategy/dgov-history.md)
   * [Logo & Identity](foundation/strategy/dgov-network-logo.md)
