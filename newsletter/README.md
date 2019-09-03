@@ -1,4 +1,4 @@
-# Newsletter & Reports
+# Newsletter
 
 Newsletter comes out on the first business day of the month and contains updates from the network, top news and articles and of course dunk memes!
 

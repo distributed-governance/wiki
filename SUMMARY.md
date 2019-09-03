@@ -6,7 +6,7 @@
 * [Meetups](meetups.md)
 * [Event Calendar](dgov-industry-landscape.md)
 * [Working Groups](working-groups.md)
-* [Newsletter & Reports](newsletter/README.md)
+* [Newsletter](newsletter/README.md)
   * [2018](newsletter/2018/README.md)
     * [Newsletter \#1 \(september\)](newsletter/2018/newsletter-1-september.md)
     * [Newsletter \#2 \(october\)](newsletter/2018/newsletter-2-october.md)
