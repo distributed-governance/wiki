@@ -15,17 +15,17 @@ Values: Trust, Fairness, Integrity, Respect, Empathy, Appreciation, Egoless, Hon
 * Coordinate the ongoing researches with the academics
 
 {% hint style="info" %}
-[**Forum**](https://forum.dgov.foundation/)\*\*\*\*
-
-* Developing the \#dgov forum, so members can exchange valuable info on more in-depth topics
-{% endhint %}
-
-{% hint style="info" %}
 [**Council - Think Tank**](../../councils.md)\*\*\*\*
 
 * 2020 Q1 Dgov council \#2
 * 2020 Athens Conference/council \#3?
 * Invite people like future thinkers, yuval harari  etc \(see survey\)
+{% endhint %}
+
+{% hint style="info" %}
+[**Forum**](https://forum.dgov.foundation/)\*\*\*\*
+
+* Developing the \#dgov forum, so members can exchange valuable info on more in-depth topics
 {% endhint %}
 
 {% hint style="info" %}
