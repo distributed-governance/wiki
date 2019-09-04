@@ -33,7 +33,7 @@ Developing the \#dgov forum, so members can exchange valuable info on more in-de
 {% endhint %}
 
 {% hint style="info" %}
-[**Working Groups / Community calls**](../../working-groups.md)  
+[**Working Groups / Community calls**]()  
 ****Create interoperability / tech stack
 
 * EthSignals

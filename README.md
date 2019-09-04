@@ -6,18 +6,15 @@ It's a pleasure to welcome you here :\)
 
 ## Our Products
 
-* [Newsletter / Reports](newsletter/)
-* [Network & DAO governance](https://mapping.daolandscape.today/) [Case Studies](https://mapping.daolandscape.today/)
+* [Newsletter](newsletter/)
+* [Network Research Body of Knowledge](https://mapping.daolandscape.today/)
 * [\#dgov](https://twitter.com/search?q=%23dgov&src=typd) tag and [our twitter](https://twitter.com/dgovearth)
 * [Forum](https://earth.us18.list-manage.com/track/click?u=566b6b2a60e0829db656d3b34&id=ce349e1f74&e=7265fe9357) for substantial & deep conversations
 * [Event Calendar](dgov-industry-landscape.md)
 * [Network map](https://graphcommons.com/graphs/6a993e34-d8b0-4425-83ce-67c3560429e7?auto=true&svg=true)
 * [Community councils](councils.md)
 * [Meetups](meetups.md)
-* Working groups
-  * [EthSignals](https://ethsignals.org/)
-  * DAO Landscape Research
-  * DAO Incubator
+* [Working groups \(DAO incubator, Mapping etc\)](https://forum.dgov.foundation/c/working-groups)
 * Brand / Identity
 
 ## Policies & Processes 

@@ -5,7 +5,6 @@
 * [Councils](councils.md)
 * [Meetups](meetups.md)
 * [Event Calendar](dgov-industry-landscape.md)
-* [Working Groups](working-groups.md)
 * [\#dgov Stack](dgov-stack.md)
 * [Newsletter](newsletter/README.md)
   * [2018](newsletter/2018/README.md)
