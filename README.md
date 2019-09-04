@@ -7,7 +7,7 @@ It's a pleasure to welcome you here :\)
 ## Our Products
 
 * [Newsletter](newsletter/)
-* [Network Research Body of Knowledge](https://mapping.daolandscape.today/)
+* [Network Governance Research](https://mapping.daolandscape.today/)
 * [\#dgov](https://twitter.com/search?q=%23dgov&src=typd) tag and [our twitter](https://twitter.com/dgovearth)
 * [Forum](https://earth.us18.list-manage.com/track/click?u=566b6b2a60e0829db656d3b34&id=ce349e1f74&e=7265fe9357) for substantial & deep conversations
 * [Event Calendar](dgov-industry-landscape.md)
