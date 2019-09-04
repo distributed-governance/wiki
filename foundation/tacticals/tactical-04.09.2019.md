@@ -63,6 +63,18 @@ Whats are the next 1-2 steps we see?
 * Aeon: up for planning the next retreat. Also up to do small meetups in Berlin. Very motivated to communicate with the local community
 * Anja: up to renew the retreat talks. Web3 people were open to host us, like Zurich or Romania. Maybe have a small call with them. Open to have new councils.
 
+### Tim / Feedback on Erasmus
+
+* Ela: Haven't thought about Erasmus as weren't focused on young people. But is nice and 2 pages is easy. Maybe have a personal meeting with them after that.
+* Max: i never thought about student as audience. We got few students doing their MD papers on governance. And getting the fund under that can move us from the trajectory. The Erasmus Programme \(EuRopean Community Action Scheme for the Mobility of University Students\)
+* Tim: we should do what we do, they deliver else. They take $5k for their work \(pay 50/50\). Then we can stay focus on our stuff. It's too much of an opportunity and a good exercise.
+* Aeon: good to have a clear task. Getting funds is also a commitment and security
+* Anja: $5k seems legit. Never thought of Erasmus either. Having students onboard is an opportunity. Utilizing blockchain fro students needs is a hand-in-hand work. A lot of blockchain apps can help students. Great opportunity. Having a consortium is a great opportunity as well.
+
+### Tim / when can we come together?
+
+Aeon can prepare the doodle and finalize at the call
+
 ## Community
 
 * Dgov Identity \(**Max**\) – no update, just discussions
@@ -74,13 +86,29 @@ Whats are the next 1-2 steps we see?
 
 Haven't agreed on [the cancellation letter](https://docs.google.com/document/d/1HrPMz53Ef0x4PwhbFMCysYVeZN1uAEOh3U3vFI9VNy8/edit) – pls comment. Would be nice to have something feasible.
 
-\(Max: trust you\)
+\(Max: I trust you\)
 
 ### Anja / Retreat
 
+Need to schedule the call with Ori and Orzan and include that in the letter.
+
+Tim: can you ask Ori, & i'll ask Orzan until the end if the week. Like your plan.
+
 ### Max / Next Council
+
+Overall, when, where
+
+* Anja: virtual summit on 20th of Jan – set date. If we know dates of Aragon – good idea. In the middle of nowhere is brave. Before or after Aracon is great. There's also a place in UK \(Ambercom\).
+* Tim: share the perspective, but also we're big enough. Have traction. If we find the host for  free - that can be the determining partner. Don't want to be in the shadow. Should be neutral. For small events nice to have it connected. But next council can be a standalone. Shouldn't go with the paid location. Will priotitize our meeting as soon as possible.
+* Aeon: nothing to add
+* Max: Full node, other major players DAO stack, maybe EU grant, web3... if association would be broad, still like people to not travel twice. Berlin is THE CITY.
+
+Next steps: Max will ask Aragon about their plan/dates. Prepare the council concept paper \(why and what outcomes we want to have\).
 
 ## Closing thought
 
-
+* Anja: good meeting, like 2 hours and discussions about new events
+* Aeon: love it, all's cool, commitments are clear, feel motivated
+* Max: super great meeting, moving in the right direction
+* Tim: great meeting. Thankful that we could resolve inner tensions
 
