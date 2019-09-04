@@ -4,11 +4,6 @@ We connect people to discover practices, implement technical solutions and creat
 
 It's a pleasure to welcome you here :\)
 
-**Questions of dgov:**
-
-* How should we govern networks \(e.g. Ethereum\)? Principles of decentralization, \(crypto\)law, self-organization etc
-* What tools produce best results? On-chain + soft practices, decision making, execution, dispute resolution, radical markets etc
-
 ## Our Products
 
 * [Newsletter / Reports](newsletter/)
