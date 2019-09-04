@@ -33,7 +33,7 @@ Developing the \#dgov forum, so members can exchange valuable info on more in-de
 {% endhint %}
 
 {% hint style="info" %}
-[**Working Groups / Community calls**]()  
+\*\*\*\*[**Working Groups**](https://forum.dgov.foundation/c/working-groups)  
 ****Create interoperability / tech stack
 
 * EthSignals
@@ -44,6 +44,8 @@ Developing the \#dgov forum, so members can exchange valuable info on more in-de
 ## **Network Leaders**
 
 ### [🤝](https://emojipedia.org/handshake/) **Support the collaboration**
+
+**+**Matching \(by the graph theory?\)
 
 {% hint style="info" %}
 \*\*\*\*[**Ecosystem Map**](https://graphcommons.com/graphs/6a993e34-d8b0-4425-83ce-67c3560429e7?auto=true&svg=true)\*\*\*\*
