@@ -111,10 +111,20 @@ Developing the \#dgov forum, so members can exchange valuable info on more in-de
 ****Maintaining the twitter communication channel, so everyone has a chance to exchange news under the „hashtag“ \#dgov and can keep up to date with what is going on in the space.
 {% endhint %}
 
+{% hint style="info" %}
+\*\*\*\*[**Website**](https://twitter.com/hashtag/dgov)
+{% endhint %}
+
 ## Core Team
 
 ### [💸](https://emojipedia.org/money-with-wings/) Sustainable participation
 
 * Sync on plans and mutual expectations
 * Raise funds \($50-100k\) for next 6 month
+
+{% hint style="info" %}
+[**Strategy**](./)
+
+* Open up roles
+{% endhint %}
 

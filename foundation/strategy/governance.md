@@ -4,24 +4,16 @@ Foundation uses a Holacracy model as a governance model. Check brief holacracy o
 
 Changes to policies and roles are done through the Holacracy IDM process. Telegram and Loomio voting can be used for consulting with the community.
 
-### Governed objects
-
-* Website / Domain
-* Wiki
-* Communication channels \(SoMe accounts, Telegram Chat, Loomio etc\)
-* Email list
-* Logo / Brand
-* Budget
-
 ### Roles
 
 * Leadlink – Tim
 * Community manager / Council Event Organizer – Tim
 * Newsletter Editor – Max
-* Facilitators \(incl. council events\) – Max, Fran, Phoebe, Lucas, Ela
 * Mediators \(preliminary\) – Chris, Loie, Felix, Phoebe, Anuj
 * Outreach & Advocacy / PR Manager – Anja
 * Designer – Max
+* Secretary – Aeon
+* Facilitator – Ela
 
 ### Principles
 
