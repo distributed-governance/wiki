@@ -18,8 +18,6 @@
 
 ### Tim / when can we come together?
 
-
-
 ## Community
 
 * Case Studies \(Max\)
@@ -33,7 +31,7 @@
 
 ### Max / Partners ISSDG+Consensys \(show map\)
 
-### Max / Meetups help
+### Max / Regular Meetups in Berlin
 
 ## Closing thought
 
