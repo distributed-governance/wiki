@@ -66,7 +66,7 @@ Developing the \#dgov forum, so members can exchange valuable info on more in-de
 {% hint style="info" %}
 \*\*\*\*[**Chat**](../../chat.md)\*\*\*\*
 
-* DGOV discord?
+* DGOV chat with channels
 * Moderating the \#dgov chat on Telegram and potentially other channels \(rotating moderation?\)
 * Allowing for cross-posting: \#dgov tweets on Telegram
 {% endhint %}
