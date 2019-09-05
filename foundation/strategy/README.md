@@ -100,7 +100,7 @@ Developing the \#dgov forum, so members can exchange valuable info on more in-de
 * Legal consulting 
 
 {% hint style="info" %}
-\*\*\*\*[**Brand / Identity**](dgov-network-logo.md)\*\*\*\*
+\*\*\*\*[**Brand / Identity**](../../dgov-network-logo.md)\*\*\*\*
 
 * Print themed sticker pack \(dlov, nature etc\).
 {% endhint %}

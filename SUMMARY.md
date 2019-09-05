@@ -20,6 +20,7 @@
   * [Newsletter \#10 \(june\)](newsletter/newsletter-10-june.md)
   * [Newsletter \#11 \(july\)](newsletter/newsletter-11-july.md)
   * [Newsletter \#12 \(august\)](newsletter/newsletter-12-august.md)
+* [Logo & Identity](dgov-network-logo.md)
 * [Official Website](https://dgov.foundation)
 
 ## Foundation
@@ -28,7 +29,6 @@
   * [Networks](foundation/strategy/stakeholders.md)
   * [Governance](foundation/strategy/governance.md)
   * [Team & History](foundation/strategy/dgov-history.md)
-  * [Logo & Identity](foundation/strategy/dgov-network-logo.md)
 * [Tacticals](foundation/tacticals/README.md)
   * [Tactical 08.05.2019](foundation/tacticals/tactical-08.05.2019.md)
   * [Tactical 15.05.2019](foundation/tacticals/tactical-15.05.2019.md)
