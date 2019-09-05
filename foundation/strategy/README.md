@@ -48,11 +48,10 @@ Developing the \#dgov forum, so members can exchange valuable info on more in-de
 **+**Matching \(by the graph theory?\)
 
 {% hint style="info" %}
-\*\*\*\*[**Ecosystem Map**](https://graphcommons.com/graphs/6a993e34-d8b0-4425-83ce-67c3560429e7?auto=true&svg=true)\*\*\*\*
+\*\*\*\*[**Ecosystem Map & SSID**](https://graphcommons.com/graphs/6a993e34-d8b0-4425-83ce-67c3560429e7?auto=true&svg=true) ****
 
-* Use CONE?
 * Integrate ID system with contacts, hubs maps etc
-* Maintaining and expanding the \#dgov/DAO Landscape report \(+[the ecosystem map](https://wiki.dgov.foundation/map-of-the-industry-landscape)\)
+* Maintaining and expanding the [ecosystem map](https://wiki.dgov.foundation/map-of-the-industry-landscape)
 * Add profiling info \(interests, skills etc\) 
 {% endhint %}
 
