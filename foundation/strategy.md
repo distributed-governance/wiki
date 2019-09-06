@@ -89,6 +89,7 @@ Create more interoperability, collaboration and experimentation.
   * Mediators list & process
   * Ethical and legal platform for innovation
 * Custodians \(funds, personal data\)
+* Workshops \(Design Thinking etc\)
 {% endhint %}
 
 {% hint style="info" %}
