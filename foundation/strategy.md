@@ -22,16 +22,18 @@ Network & community Builders, DAO member & practitioners, entrepreneurs and acad
 [**Strategy**](strategy.md)
 
 * Open up roles
-* Use underscore protocol?
+* Use participative tools \(github/underscore, google docs...\)
 * Resource distribution protocols
+* Alignment/agreement across the majority
 {% endhint %}
 
 ### 🤝 **Leaders / Collaboration and communication support**
 
-* Matching \(by the graph theory?\)
+* Mapping & Matching \(use the graph theory\)
 * Building partnerships and alignment
 * Open Value Network Approach
-* Communication infrastructure:
+
+Communication infrastructure:
 
 {% hint style="info" %}
 \*\*\*\*[**Ecosystem Map & SSID**](https://graphcommons.com/graphs/6a993e34-d8b0-4425-83ce-67c3560429e7?auto=true&svg=true) ****
