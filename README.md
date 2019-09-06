@@ -43,7 +43,7 @@ Maintained by the [DGov Foundation](https://dgov.foundation/)
 ### Participate in the DGOV Foundation
 
 * [Strategy & Governance](foundation/strategy.md)
-* [About us](foundation/dgov-history.md)
+* [About us](foundation/about.md)
 
 Whenever you have a question or suggestion feel free to ping the community manager – Max, that's me =\) Quick contacts: [max.semenchuk@gmail.com](mailto:max.semenchuk@gmail.com), telegram, twitter: @maxsemenchuk
 
