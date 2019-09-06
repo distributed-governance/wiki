@@ -12,11 +12,11 @@ Network & community Builders, DAO member & practitioners, entrepreneurs and acad
 
 ### 🌱 Contributors / Sustainable participation
 
-* Sync on plans and mutual expectations
-* Planning events ahead
-* Concrete goals & tasks
-* Focus
-* Raise funds for the strategy
+* Clear expectations agreements and participation
+* Specific goals & tasks
+* Clear focus, priorities and planning
+* Decrease cognitive load 
+* Provide financial compensation
 
 {% hint style="info" %}
 [**Strategy**](strategy.md)
