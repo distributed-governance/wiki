@@ -46,6 +46,10 @@ Network & community Builders, DAO member & practitioners, entrepreneurs and acad
 
 {% hint style="info" %}
 **Onboarding & Contribution Guidance**
+
+* Checklist
+* Wiki
+* Personal support
 {% endhint %}
 
 ### 🤝 **Leaders / Collaboration and communication support**
@@ -109,7 +113,7 @@ Create more interoperability, collaboration and experimentation.
 **Goals:**
 
 * Support the projects & researches with connections, coverage etc
-* Coordinate the ongoing researches with the academics
+* Coordinate the ongoing researches with the academics \(avoid overlaps\)
 * Help researchers find right people to interview
 
 {% hint style="info" %}
