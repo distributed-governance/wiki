@@ -25,6 +25,8 @@ Network & community Builders, DAO member & practitioners, entrepreneurs and acad
 * Use participative tools \(github/underscore, google docs...\)
 * Resource distribution protocols
 * Alignment/agreement across the majority
+* Strategy presentations
+* Regular surveying
 {% endhint %}
 
 ### 🤝 **Leaders / Collaboration and communication support**
