@@ -34,7 +34,7 @@ Network & community Builders, DAO member & practitioners, entrepreneurs and acad
 
 * Mapping & Matching \(use the graph theory\)
 * Building partnerships and alignment
-* Open Value Network Approach
+* Amplify the Open Value Network Formation
 
 Communication infrastructure:
 
@@ -58,7 +58,7 @@ Content Curation
 {% endhint %}
 
 {% hint style="info" %}
-\*\*\*\*[**Chat**](../chat.md)\*\*\*\*
+\*\*\*\*[**Communication platform**](../chat.md)\*\*\*\*
 
 * DGOV chat with channels
 * Moderating the \#dgov chat on Telegram and potentially other channels \(rotating moderation?\)
