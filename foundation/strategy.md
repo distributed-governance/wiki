@@ -46,6 +46,10 @@ Network & community Builders, DAO member & practitioners, entrepreneurs and acad
 
 {% hint style="info" %}
 **Onboarding & Contribution Guidance**
+
+* Checklist
+* Wiki
+* Personal support
 {% endhint %}
 
 ### 🤝 **Leaders / Collaboration and communication support**
@@ -135,15 +139,10 @@ Political scientists \(governance researchers and academics\), Social scientists
 
 ### 🎗️Build awareness & integration
 
-Be more vocal about the work being done
+**Goals:**
 
-\#dgov aims at including a more diverse groups of practitioners and researchers from the following domains:
-
-* Political Science / Governance researchers
-* Psychologists
-* Anthropologists
-* Facilitators
-* Legal consulting 
+* Create greater awareness about the topic
+* Amplify the movement and the network
 
 {% hint style="info" %}
 \*\*\*\*[**Brand / Identity**](../identity.md)\*\*\*\*
@@ -155,11 +154,11 @@ Be more vocal about the work being done
 {% hint style="info" %}
 [**Awareness / educational campaign**](../awareness-educational-campaign.md)\*\*\*\*
 
-* [Blockchain Networks](https://mapping.daolandscape.today/network-governance/blockchain-summary)
-* [DAO/Digital Coop](https://mapping.daolandscape.today/network-governance/dao-case-study-research)
-* [\#dgov stack](../dgov-stack.md)
+* [Blockchain Network Governance Case Studies](https://mapping.daolandscape.today/network-governance/blockchain-summary)
+* [DAO/Digital Cooperative Case Studies](https://mapping.daolandscape.today/network-governance/dao-case-study-research)
+* [\#dgov/orgtech stack](../dgov-stack.md)
 * [Website](https://twitter.com/hashtag/dgov)
-* \*\*\*\*[\#dgov tag](https://twitter.com/hashtag/dgov) **–** Maintaining the twitter communication channel, so everyone has a chance to exchange news under the „hashtag“ \#dgov and can keep up to date with what is going on in the space.
-* Educational animated videos
+* \*\*\*\*[\#dgov tag campaign](https://twitter.com/hashtag/dgov) **–** Maintaining the twitter communication channel, so everyone has a chance to exchange news under the „hashtag“ \#dgov and can keep up to date with what is going on in the space.
+* Educational animated videos?
 {% endhint %}
 
