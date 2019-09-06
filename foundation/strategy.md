@@ -29,7 +29,7 @@ Network & community Builders, DAO member & practitioners, entrepreneurs and acad
 * Use participative tools \(github/underscore, google docs...\)
 * Resource distribution protocols
 * Building alignment across the contributors
-* Strategy presentations
+* Strategy presentations \(videos in the newsletter?\)
 * Regular surveying
 {% endhint %}
 
