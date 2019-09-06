@@ -42,6 +42,10 @@ Ela is co-founder and managing partner of [SUPERMARKT](https://supermarkt-berlin
 
 ...
 
+![](../.gitbook/assets/frame-20.png)
+
+![](../.gitbook/assets/frame-21.png)
+
 ## History
 
 * May 2018 – EthCC discussions about the conference
