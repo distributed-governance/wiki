@@ -6,48 +6,26 @@ DGov connects people to discover practices, implement technical solutions and cr
 
 Values: Trust, Fairness, Integrity, Respect, Empathy, Appreciation, Egoless, Honesty, Caring, Joyfulness, Fun, Relaxed, Timely, Kindness, Self-reflection.
 
-
-
-Coordination \(strategy, partnerships, alignment\), education \(case studies, BoK\), communication \(channels, map\)
-
 ## **Network** 
 
-### 🧠 Researchers / Support the knowledge production
+### [🌱](https://emojipedia.org/spring/) Contributors / Sustainable participation
 
-* Launch 3 public governance experiments
-* Support the projects & researches with connections, coverage etc
-* Coordinate the ongoing researches with the academics
-
-{% hint style="info" %}
-[**Council - Think Tank**](../../councils.md)\*\*\*\*
-
-* 2020 Q1 Dgov council \#2
-* 2020 Athens Conference/council \#3?
-* Invite people like future thinkers, yuval harari  etc \(see survey\)
-{% endhint %}
+* Sync on plans and mutual expectations
+* Planning events ahead
+* Concrete goals & tasks
+* Focus
+* Raise funds \($50-100k\) for next 6 month
 
 {% hint style="info" %}
-[**Case Studies & Materials**](https://mapping.daolandscape.today)
+[**Strategy**](./)
 
-Developing the \#dgov forum, so members can exchange valuable info on more in-depth topics. Harvest from events etc.
-
-* [Blockchain Networks](https://mapping.daolandscape.today/network-governance/blockchain-summary)
-* [DAO/Digital Coops](https://mapping.daolandscape.today/network-governance/dao-case-study-research)
-* [\#dgov stack](../../dgov-stack.md)
+* Open up roles
 {% endhint %}
 
-{% hint style="info" %}
-\*\*\*\*[**Working Groups**](https://forum.dgov.foundation/c/working-groups)  
-****Create interoperability / tech stack
+### [🤝](https://emojipedia.org/handshake/) **Leaders / Collaboration and communication support**
 
-* EthSignals
-* \#dgov SSID
-* DAO funding ecosystem?
-{% endhint %}
-
-### [🤝](https://emojipedia.org/handshake/) **Leaders / Support the collaboration**
-
-**+**Matching \(by the graph theory?\)
+* Matching \(by the graph theory?\)
+* Building partnerships and alignment
 
 {% hint style="info" %}
 \*\*\*\*[**Ecosystem Map & SSID**](https://graphcommons.com/graphs/6a993e34-d8b0-4425-83ce-67c3560429e7?auto=true&svg=true) ****
@@ -90,9 +68,43 @@ Developing the \#dgov forum, so members can exchange valuable info on more in-de
 {% endhint %}
 
 {% hint style="info" %}
-Conflict management layer
+[**Conflict management layer**](../../conflict-management-layer.md)\*\*\*\*
 
 * Mediators list & process
+{% endhint %}
+
+### 🧠 Researchers / Knowledge production support
+
+* Launch 3 public governance experiments
+* Support the projects & researches with connections, coverage etc
+* Coordinate the ongoing researches with the academics
+* Help researchers find right people to interview
+
+{% hint style="info" %}
+[**Council - Think Tank**](../../councils.md)\*\*\*\*
+
+* 2020 Q1 Dgov council \#2
+* 2020 Athens Conference/council \#3?
+* Invite people like future thinkers, yuval harari  etc \(see survey\)
+{% endhint %}
+
+{% hint style="info" %}
+[**Case Studies & Materials**](https://mapping.daolandscape.today)
+
+Developing the \#dgov forum, so members can exchange valuable info on more in-depth topics. Harvest from events etc.
+
+* [Blockchain Networks](https://mapping.daolandscape.today/network-governance/blockchain-summary)
+* [DAO/Digital Coops](https://mapping.daolandscape.today/network-governance/dao-case-study-research)
+* [\#dgov stack](../../dgov-stack.md)
+{% endhint %}
+
+{% hint style="info" %}
+\*\*\*\*[**Working Groups**](https://forum.dgov.foundation/c/working-groups)  
+****Create interoperability / tech stack
+
+* EthSignals
+* \#dgov SSID
+* DAO funding ecosystem?
 {% endhint %}
 
 ## External Audience
@@ -100,6 +112,8 @@ Conflict management layer
 Political scientists \(governance researchers and academics\), Social scientists, Sociologists, Economists \(incl. behavioral\), Artists, Judges, Lawyers, Politicians, Philosophers & Ethologists, Activists \(Do-ers, change agents\), Systemic thinkers \(complexity experts, practitioners of transformation\), Anthropologists, Game theory & mathematics.
 
 ### [🎗️](https://emojipedia.org/reminder-ribbon/)Build awareness & integration
+
+Be more vocal about the work being done
 
 \#dgov aims at including a more diverse groups of practitioners and researchers from the following domains:
 
@@ -126,21 +140,8 @@ Political scientists \(governance researchers and academics\), Social scientists
 {% endhint %}
 
 {% hint style="info" %}
-Educational campaign
+Awareness / educational campaign
 {% endhint %}
 
-
-
-## Core Team
-
-### [💸](https://emojipedia.org/money-with-wings/) Sustainable participation
-
-* Sync on plans and mutual expectations
-* Raise funds \($50-100k\) for next 6 month
-
-{% hint style="info" %}
-[**Strategy**](./)
-
-* Open up roles
-{% endhint %}
+### 
 

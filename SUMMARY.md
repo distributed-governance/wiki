@@ -22,6 +22,7 @@
   * [Newsletter \#12 \(august\)](newsletter/newsletter-12-august.md)
 * [Logo & Identity](identity.md)
 * [Conflict Management Layer](conflict-management-layer.md)
+* [Awareness / educational campaign](awareness-educational-campaign.md)
 * [Official Website](https://dgov.foundation)
 
 ## Foundation
