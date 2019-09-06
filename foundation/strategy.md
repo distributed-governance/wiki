@@ -8,7 +8,7 @@ Values: Trust, Fairness, Integrity, Respect, Empathy, Appreciation, Egoless, Hon
 
 ## **Network** 
 
-Network & Community Builder, DAO member / practitioner, Entrepreneur / Founders, Researchers: Governance or Blockchain
+Network & community Builders, DAO member & practitioners, entrepreneurs and academics working with the networks.
 
 ### 🌱 Contributors / Sustainable participation
 
@@ -16,7 +16,7 @@ Network & Community Builder, DAO member / practitioner, Entrepreneur / Founders,
 * Planning events ahead
 * Concrete goals & tasks
 * Focus
-* Raise funds \($50-100k\) for next 6 month
+* Raise funds for the strategy
 
 {% hint style="info" %}
 [**Strategy**](strategy.md)
