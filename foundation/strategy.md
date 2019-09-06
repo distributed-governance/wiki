@@ -8,6 +8,8 @@ Values: Trust, Fairness, Integrity, Respect, Empathy, Appreciation, Egoless, Hon
 
 ## **Network** 
 
+Network & Community Builder, DAO member / practitioner, Entrepreneur / Founders, Researchers: Governance or Blockchain
+
 ### 🌱 Contributors / Sustainable participation
 
 * Sync on plans and mutual expectations
