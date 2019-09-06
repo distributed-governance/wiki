@@ -100,6 +100,8 @@ Content Curation
 
 * 2020 Q1 Dgov council \#2
 * 2020 Athens Conference/council \#3?
+* Preset topics for councils
+* Research WEF/COALA/etc approach
 * Invite people like future thinkers, yuval harari  etc \(see survey\)
 * Developing the \#dgov forum, so members can exchange valuable info on more in-depth topics. Harvest from events etc.
 * Working Groups
