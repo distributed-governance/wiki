@@ -9,7 +9,6 @@ Changes to policies and roles are done through the Holacracy IDM process. Telegr
 * Leadlink – Tim
 * Community manager / Council Event Organizer – Tim
 * Newsletter Editor – Max
-* Mediators \(preliminary\) – Chris, Loie, Felix, Phoebe, Anuj
 * Outreach & Advocacy / PR Manager – Anja
 * Designer – Max
 * Secretary – Aeon

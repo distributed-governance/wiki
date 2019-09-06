@@ -21,6 +21,7 @@
   * [Newsletter \#11 \(july\)](newsletter/newsletter-11-july.md)
   * [Newsletter \#12 \(august\)](newsletter/newsletter-12-august.md)
 * [Logo & Identity](identity.md)
+* [Conflict Management Layer](conflict-management-layer.md)
 * [Official Website](https://dgov.foundation)
 
 ## Foundation

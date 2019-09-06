@@ -6,9 +6,13 @@ DGov connects people to discover practices, implement technical solutions and cr
 
 Values: Trust, Fairness, Integrity, Respect, Empathy, Appreciation, Egoless, Honesty, Caring, Joyfulness, Fun, Relaxed, Timely, Kindness, Self-reflection.
 
-## **Network Researchers**
 
-### 🧠 Support the knowledge production
+
+Coordination \(strategy, partnerships, alignment\), education \(case studies, BoK\), communication \(channels, map\)
+
+## **Network** 
+
+### 🧠 Researchers / Support the knowledge production
 
 * Launch 3 public governance experiments
 * Support the projects & researches with connections, coverage etc
@@ -41,9 +45,7 @@ Developing the \#dgov forum, so members can exchange valuable info on more in-de
 * DAO funding ecosystem?
 {% endhint %}
 
-## **Network Leaders**
-
-### [🤝](https://emojipedia.org/handshake/) **Support the collaboration**
+### [🤝](https://emojipedia.org/handshake/) **Leaders / Support the collaboration**
 
 **+**Matching \(by the graph theory?\)
 
@@ -78,7 +80,7 @@ Developing the \#dgov forum, so members can exchange valuable info on more in-de
 {% endhint %}
 
 {% hint style="info" %}
-[**Meetups**](../../meetups.md) – Organize and participate in local network events / meetups
+[**Meetups**](../../meetups.md) – Organize and participate in local network events / meetups. Goal – self-education?
 
 * Regular meetups in Berlin
 * London \(Phoebe\)
@@ -87,7 +89,15 @@ Developing the \#dgov forum, so members can exchange valuable info on more in-de
 * Global meetup page
 {% endhint %}
 
-## External Community
+{% hint style="info" %}
+Conflict management layer
+
+* Mediators list & process
+{% endhint %}
+
+## External Audience
+
+Political scientists \(governance researchers and academics\), Social scientists, Sociologists, Economists \(incl. behavioral\), Artists, Judges, Lawyers, Politicians, Philosophers & Ethologists, Activists \(Do-ers, change agents\), Systemic thinkers \(complexity experts, practitioners of transformation\), Anthropologists, Game theory & mathematics.
 
 ### [🎗️](https://emojipedia.org/reminder-ribbon/)Build awareness & integration
 
@@ -102,7 +112,8 @@ Developing the \#dgov forum, so members can exchange valuable info on more in-de
 {% hint style="info" %}
 \*\*\*\*[**Brand / Identity**](../../identity.md)\*\*\*\*
 
-* Print themed sticker pack \(dlov, nature etc\).
+* Print themed sticker pack \(dlov, nature etc\)
+* Attract branding specialist
 {% endhint %}
 
 {% hint style="info" %}
@@ -113,6 +124,12 @@ Developing the \#dgov forum, so members can exchange valuable info on more in-de
 {% hint style="info" %}
 \*\*\*\*[**Website**](https://twitter.com/hashtag/dgov)
 {% endhint %}
+
+{% hint style="info" %}
+Educational campaign
+{% endhint %}
+
+
 
 ## Core Team
 
