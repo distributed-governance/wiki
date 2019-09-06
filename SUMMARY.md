@@ -23,6 +23,7 @@
 * [Logo & Identity](identity.md)
 * [Conflict Management Layer](conflict-management-layer.md)
 * [Awareness / educational campaign](awareness-educational-campaign.md)
+* [Informational Partnerships](informational-partnerships.md)
 * [Official Website](https://dgov.foundation)
 
 ## Foundation

@@ -20,14 +20,8 @@ Values: Trust, Fairness, Integrity, Respect, Empathy, Appreciation, Egoless, Hon
 [**Strategy**](strategy.md)
 
 * Open up roles
-{% endhint %}
-
-{% hint style="info" %}
-Setup Informational Partnerships
-
-* P2P foundation
-* ISSDG
-* COALAs
+* Use underscore protocol?
+* Resource distribution protocols
 {% endhint %}
 
 ### 🤝 **Leaders / Collaboration and communication support**
@@ -84,6 +78,14 @@ Setup Informational Partnerships
 * Mediators list & process
 * Custodians
 * Ethical and legal platform for innovation
+{% endhint %}
+
+{% hint style="info" %}
+\*\*\*\*[**Informational Partnerships**](../informational-partnerships.md)\*\*\*\*
+
+* P2P foundation
+* ISSDG
+* COALAs
 {% endhint %}
 
 ### 🧠 Researchers / Knowledge production support
