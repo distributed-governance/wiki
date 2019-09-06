@@ -60,3 +60,18 @@ Work in progress. If you don't see your project here please contact us
 * [Mattereum](https://mattereum.com/) – Organizing the world's property and making it universally accessible and useful
 * [Lexon](https://claryon.github.io/lexon/) – a contract programming language for lawyers
 
+
+
+### Legal / Jurisdiction
+
+* [Kleros](https://kleros.io/) – dispute resolution
+* Mattereum
+* DAO Bridge
+* [Lexon](https://claryon.github.io/lexon/) – a contract programming language for lawyers
+
+### Other
+
+* [Gnosis](https://gnosis.pm/) – prediction markets platform
+* [Fairmint](https://fairmint.co) – continuous funding
+* Aragon dapps
+

@@ -34,7 +34,7 @@ Network & community Builders, DAO member & practitioners, entrepreneurs and acad
 {% endhint %}
 
 {% hint style="info" %}
-**Fund**
+\*\*\*\*[**Fund**](../fund.md)\*\*\*\*
 
 * Sources
   * Individual donations 
@@ -50,6 +50,10 @@ Network & community Builders, DAO member & practitioners, entrepreneurs and acad
 * Checklist
 * Wiki
 * Personal support
+{% endhint %}
+
+{% hint style="info" %}
+\*\*\*\*[**Governance model and practices**](governance.md)\*\*\*\*
 {% endhint %}
 
 ### 🤝 **Leaders / Collaboration and communication support**

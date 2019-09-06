@@ -1,18 +1,8 @@
 # Governance
 
-Foundation uses a Holacracy model as a governance model. Check brief holacracy onboarding.
+DGOV Foundation uses Holacracy as the governance model. Check out a [brief holacracy onboarding](https://max-semenchuk.gitbook.io/wiki/articles-wip/holacracy-onboarding) and [the constitution](https://holacracy.org/constitution).
 
-Changes to policies and roles are done through the Holacracy IDM process. Telegram and Loomio voting can be used for consulting with the community.
-
-### Roles
-
-* Leadlink – Tim
-* Community manager / Council Event Organizer – Tim
-* Newsletter Editor – Max
-* Outreach & Advocacy / PR Manager – Anja
-* Designer – Max
-* Secretary – Aeon
-* Facilitator – Ela
+Changes to policies and roles are done through the [Holacracy IDM process](https://max-semenchuk.gitbook.io/wiki/articles-wip/holacracy-onboarding/integrative-decision-making-proposal). Telegram and Loomio voting can be used for consulting with the community.
 
 ### Principles
 
@@ -26,7 +16,33 @@ Changes to policies and roles are done through the Holacracy IDM process. Telegr
 * The principles of wholeness - interconnectedness.
 * Collaboration “Act local - think global"
 
-## Accountabilities
+## Roles
+
+* Facilitator – Ela
+* Secretary – Aeon
+* Event Manager – Tim, Max
+* Newsletter Editor – Max
+* Outreach & Advocacy / PR Manager – Anja
+* Designer – Max
+
+### Facilitator
+
+Purpose: Circle governance and operational practices aligned with the Constitution.
+
+Accountabilities:
+
+* Facilitating the Circle’s constitutionally-required meetings
+* Auditing the meetings and records of Sub-Circles as needed, and declaring a Process Breakdown upon discovering a pattern of behavior that conflicts with the rules of the Constitution
+
+### Secretary
+
+Purpose: Steward and stabilize the Circle’s formal records and record-keeping process.
+
+Accountabilities:
+
+* Capturing and publishing the outputs of the Circle’s required meetings, and maintaining a compiled view of the Circle’s current Governance, checklist items, and metrics
+* Interpreting Governance and the Constitution upon request
+* Scheduling the Circle’s required meetings, and notifying all Core Circle Members of scheduled times and locations
 
 ### Outreach & Advocacy / PR Manager
 

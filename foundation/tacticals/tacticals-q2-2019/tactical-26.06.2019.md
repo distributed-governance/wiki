@@ -77,7 +77,7 @@ Also how everybody feels about it? Approve?
 * Martin: greatful for putting it in telegram so clearly. Divide and conquer shouldn't be the style. Not out on somebody shoulder, but be responsible together. Agree overall. Thanks!
 * Phoebe: express many things. Feel strongly – we need to practice the dgov practice. Great that you've brought it. Many things are bundled. Would be great to have Ela with us. Compensating is important. How we decide how much money we want to raise, roles etc. Exicted to put all those topics unbundled. With care and time.
 * Anja: Appreciate it. Hope you feel comfortable, we all are invested. Discussed the fundraising. Good time to discuss the evaluation process so we know how to distribute them. Support creating a shared perspective on funds we already have. Understand you. Couldn't handle all the work. Having someone devoted. Hope it means we can operate.
-* Max: let's select point from the [strategy](../strategy.md) – already some interest found.
+* Max: let's select point from the [strategy](../../strategy.md) – already some interest found.
 
 Ela: maybe talk on the next week meeting. We can discuss and take a step further. 
 
