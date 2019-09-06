@@ -4,7 +4,10 @@ Anyone can start a meetup in his \(her\) region. Meetup can be in a form of an i
 
 Global meetup page: ...
 
-List of \#dgov locations open for meetups: ...
+List of \#dgov locations open for meetups: 
+
+* Berlin: SUPERMARKT
+* ...
 
 ## Process
 
