@@ -34,6 +34,7 @@ Setup Informational Partnerships
 
 * Matching \(by the graph theory?\)
 * Building partnerships and alignment
+* Open Value Network Approach
 
 {% hint style="info" %}
 \*\*\*\*[**Ecosystem Map & SSID**](https://graphcommons.com/graphs/6a993e34-d8b0-4425-83ce-67c3560429e7?auto=true&svg=true) ****
@@ -79,6 +80,8 @@ Setup Informational Partnerships
 [**Conflict management layer**](../conflict-management-layer.md)\*\*\*\*
 
 * Mediators list & process
+* Custodians
+* Ethical and legal platform for innovation
 {% endhint %}
 
 ### 🧠 Researchers / Knowledge production support
@@ -89,26 +92,17 @@ Setup Informational Partnerships
 * Help researchers find right people to interview
 
 {% hint style="info" %}
-[**Council - Think Tank**](../councils.md)\*\*\*\*
+[**Think Tank**](../councils.md)
 
 * 2020 Q1 Dgov council \#2
 * 2020 Athens Conference/council \#3?
 * Invite people like future thinkers, yuval harari  etc \(see survey\)
-{% endhint %}
-
-{% hint style="info" %}
-[**Case Studies & Materials**](https://mapping.daolandscape.today)
-
-Developing the \#dgov forum, so members can exchange valuable info on more in-depth topics. Harvest from events etc.
-{% endhint %}
-
-{% hint style="info" %}
-\*\*\*\*[**Working Groups**](https://forum.dgov.foundation/c/working-groups)  
-****Create interoperability / tech stack
-
-* EthSignals
-* \#dgov SSID
-* DAO funding ecosystem?
+* Developing the \#dgov forum, so members can exchange valuable info on more in-depth topics. Harvest from events etc.
+* Working Groups
+  * Create interoperability / tech stack
+  * EthSignals
+  * \#dgov SSID
+  * DAO funding ecosystem?
 {% endhint %}
 
 ## External Audience
@@ -142,5 +136,6 @@ Be more vocal about the work being done
 * [\#dgov stack](../dgov-stack.md)
 * [Website](https://twitter.com/hashtag/dgov)
 * \*\*\*\*[\#dgov tag](https://twitter.com/hashtag/dgov) **–** Maintaining the twitter communication channel, so everyone has a chance to exchange news under the „hashtag“ \#dgov and can keep up to date with what is going on in the space.
+* Educational animated videos
 {% endhint %}
 
