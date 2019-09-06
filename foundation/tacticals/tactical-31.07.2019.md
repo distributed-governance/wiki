@@ -41,7 +41,7 @@ Community isn't sure about where the strategy is going. It's not well communicat
 
 Aeon: we can mention that retreat is the step to Athens. Want to ensure.
 
-### Max / [Strategy](../strategy/) check
+### Max / [Strategy](../strategy.md) check
 
 * How clear is the strategy?
 * What's missing / My questions to strategy?

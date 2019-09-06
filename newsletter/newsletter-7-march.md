@@ -148,5 +148,5 @@ If you're enthusiastic about the distributed governance – go give us a hand. H
 
 \#dgov community: [join](https://dgov.foundation/#join), [onboarding and resources](../), [twitter](https://twitter.com/dgovearth), [website](http://dgov.foundation), [events](../dgov-industry-landscape.md)
 
-\#dgov foundation: [strategy and governance](../foundation/strategy/)
+\#dgov foundation: [strategy and governance](../foundation/strategy.md)
 

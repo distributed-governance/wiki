@@ -17,7 +17,7 @@ Values: Trust, Fairness, Integrity, Respect, Empathy, Appreciation, Egoless, Hon
 * Raise funds \($50-100k\) for next 6 month
 
 {% hint style="info" %}
-[**Strategy**](./)
+[**Strategy**](strategy.md)
 
 * Open up roles
 {% endhint %}
@@ -36,7 +36,7 @@ Values: Trust, Fairness, Integrity, Respect, Empathy, Appreciation, Egoless, Hon
 {% endhint %}
 
 {% hint style="info" %}
-[**Newsletter**](../../newsletter/)\*\*\*\*
+[**Newsletter**](../newsletter/)\*\*\*\*
 
 * Curating a monthly newsletter \(+ dgov highlight of the month\)
 * Support dgov space projects with publicity
@@ -44,7 +44,7 @@ Values: Trust, Fairness, Integrity, Respect, Empathy, Appreciation, Egoless, Hon
 {% endhint %}
 
 {% hint style="info" %}
-\*\*\*\*[**Chat**](../../chat.md)\*\*\*\*
+\*\*\*\*[**Chat**](../chat.md)\*\*\*\*
 
 * DGOV chat with channels
 * Moderating the \#dgov chat on Telegram and potentially other channels \(rotating moderation?\)
@@ -52,13 +52,13 @@ Values: Trust, Fairness, Integrity, Respect, Empathy, Appreciation, Egoless, Hon
 {% endhint %}
 
 {% hint style="info" %}
-[**Calendar**](../../dgov-industry-landscape.md) – curating a \#dgov event calendar 
+[**Calendar**](../dgov-industry-landscape.md) – curating a \#dgov event calendar 
 
 * Partnership over dgov calendar & media with major organizations
 {% endhint %}
 
 {% hint style="info" %}
-[**Meetups**](../../meetups.md) – Organize and participate in local network events / meetups. Goal – self-education?
+[**Meetups**](../meetups.md) – Organize and participate in local network events / meetups. Goal – self-education?
 
 * Regular meetups in Berlin
 * London \(Phoebe\)
@@ -68,7 +68,7 @@ Values: Trust, Fairness, Integrity, Respect, Empathy, Appreciation, Egoless, Hon
 {% endhint %}
 
 {% hint style="info" %}
-[**Conflict management layer**](../../conflict-management-layer.md)\*\*\*\*
+[**Conflict management layer**](../conflict-management-layer.md)\*\*\*\*
 
 * Mediators list & process
 {% endhint %}
@@ -81,7 +81,7 @@ Values: Trust, Fairness, Integrity, Respect, Empathy, Appreciation, Egoless, Hon
 * Help researchers find right people to interview
 
 {% hint style="info" %}
-[**Council - Think Tank**](../../councils.md)\*\*\*\*
+[**Council - Think Tank**](../councils.md)\*\*\*\*
 
 * 2020 Q1 Dgov council \#2
 * 2020 Athens Conference/council \#3?
@@ -95,7 +95,7 @@ Developing the \#dgov forum, so members can exchange valuable info on more in-de
 
 * [Blockchain Networks](https://mapping.daolandscape.today/network-governance/blockchain-summary)
 * [DAO/Digital Coops](https://mapping.daolandscape.today/network-governance/dao-case-study-research)
-* [\#dgov stack](../../dgov-stack.md)
+* [\#dgov stack](../dgov-stack.md)
 {% endhint %}
 
 {% hint style="info" %}
@@ -124,7 +124,7 @@ Be more vocal about the work being done
 * Legal consulting 
 
 {% hint style="info" %}
-\*\*\*\*[**Brand / Identity**](../../identity.md)\*\*\*\*
+\*\*\*\*[**Brand / Identity**](../identity.md)\*\*\*\*
 
 * Print themed sticker pack \(dlov, nature etc\)
 * Attract branding specialist

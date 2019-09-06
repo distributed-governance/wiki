@@ -27,10 +27,10 @@
 
 ## Foundation
 
-* [Strategy & Goals](foundation/strategy/README.md)
-  * [Networks](foundation/strategy/stakeholders.md)
-  * [Governance](foundation/strategy/governance.md)
-  * [Team & History](foundation/strategy/dgov-history.md)
+* [Strategy & Goals](foundation/strategy.md)
+* [Networks](foundation/stakeholders.md)
+* [Governance](foundation/governance.md)
+* [Team & History](foundation/dgov-history.md)
 * [Tacticals](foundation/tacticals/README.md)
   * [Tactical 08.05.2019](foundation/tacticals/tactical-08.05.2019.md)
   * [Tactical 15.05.2019](foundation/tacticals/tactical-15.05.2019.md)
