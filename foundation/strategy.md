@@ -42,7 +42,8 @@ Setup Informational Partnerships
 
 * Integrate ID system with contacts, hubs maps etc
 * Maintaining and expanding the [ecosystem map](https://wiki.dgov.foundation/map-of-the-industry-landscape)
-* Add profiling info \(interests, skills etc\) 
+* Add profiling info \(interests, skills etc\)
+* Reputation
 {% endhint %}
 
 {% hint style="info" %}
