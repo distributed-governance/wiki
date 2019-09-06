@@ -60,7 +60,6 @@ Ela is co-founder and managing partner of [SUPERMARKT](https://supermarkt-berlin
 * [What is Distributed Governance?](https://medium.com/dgov/what-is-distributed-governance-3b103eb082c0)
 * [How to improve the economy with better organizations and technology](https://irishtechnews.ie/how-to-improve-the-economy-with-better-organisations-and-technology-max-semenchuk-dgov/) for IrishTechNews
 * [https://akasha.org/blog/2019/02/08/distributed-governance](https://akasha.org/blog/2019/02/08/distributed-governance)
-* [https://futurethinkers.org/collective-intelligence-and-meme-tribes/](https://futurethinkers.org/collective-intelligence-and-meme-tribes/)
-* [\#dgov council 1 videos](https://www.youtube.com/watch?v=qTHHZN6bhlQ&list=PLDj0XyKkeYnfKo_yGij3ciK8lI9f3_VhL)
+* [Future Thinkers Podcast: Collective intelligence and meme tribes](https://futurethinkers.org/collective-intelligence-and-meme-tribes/)
 * [Alive and Kicking: Decentralized Governance Picks Up Momentum](https://irishtechnews.ie/alive-and-kicking-decentralized-governance-picks-up-momentum/)
 
