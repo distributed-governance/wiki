@@ -92,10 +92,6 @@ Values: Trust, Fairness, Integrity, Respect, Empathy, Appreciation, Egoless, Hon
 [**Case Studies & Materials**](https://mapping.daolandscape.today)
 
 Developing the \#dgov forum, so members can exchange valuable info on more in-depth topics. Harvest from events etc.
-
-* [Blockchain Networks](https://mapping.daolandscape.today/network-governance/blockchain-summary)
-* [DAO/Digital Coops](https://mapping.daolandscape.today/network-governance/dao-case-study-research)
-* [\#dgov stack](../dgov-stack.md)
 {% endhint %}
 
 {% hint style="info" %}
@@ -131,16 +127,13 @@ Be more vocal about the work being done
 {% endhint %}
 
 {% hint style="info" %}
-\*\*\*\*[**\#dgov tag**](https://twitter.com/hashtag/dgov)  
-****Maintaining the twitter communication channel, so everyone has a chance to exchange news under the „hashtag“ \#dgov and can keep up to date with what is going on in the space.
-{% endhint %}
+[**Awareness / educational campaign**](../awareness-educational-campaign.md)\*\*\*\*
 
-{% hint style="info" %}
-\*\*\*\*[**Website**](https://twitter.com/hashtag/dgov)
-{% endhint %}
-
-{% hint style="info" %}
-Awareness / educational campaign
+* [Blockchain Networks](https://mapping.daolandscape.today/network-governance/blockchain-summary)
+* [DAO/Digital Coop](https://mapping.daolandscape.today/network-governance/dao-case-study-research)
+* [\#dgov stack](../dgov-stack.md)
+* [Website](https://twitter.com/hashtag/dgov)
+* \*\*\*\*[\#dgov tag](https://twitter.com/hashtag/dgov) **–** Maintaining the twitter communication channel, so everyone has a chance to exchange news under the „hashtag“ \#dgov and can keep up to date with what is going on in the space.
 {% endhint %}
 
 ### 
