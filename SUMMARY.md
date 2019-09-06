@@ -24,6 +24,7 @@
 * [Conflict Management Layer](conflict-management-layer.md)
 * [Awareness / educational campaign](awareness-educational-campaign.md)
 * [Informational Partnerships](informational-partnerships.md)
+* [Research Partnership](research-partnership.md)
 * [Official Website](https://dgov.foundation)
 
 ## Foundation

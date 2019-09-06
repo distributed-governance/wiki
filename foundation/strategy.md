@@ -131,6 +131,7 @@ Create more interoperability, collaboration and experimentation.
   * \#dgov SSID
   * DAO funding ecosystem?
 * Grants/lower prices for the students
+* [Research partnership](../research-partnership.md)
 {% endhint %}
 
 ## External Audience
