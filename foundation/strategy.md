@@ -1,8 +1,8 @@
 # Strategy & Goals
 
-Purpose: Create meaningful connections and shared agency among its members; Shaping the future of networks.
+Purpose: Create meaningful connections and shared agency among its members; Shaping the future of networks. 
 
-DGov connects people to discover practices, implement technical solutions and create complex, scalable governance systems that create cohesion and allow people to flourish.
+DGOV Foundation connects people to discover practices, implement technical solutions and create complex, scalable governance systems that create cohesion and allow people to flourish.
 
 Values: Trust, Fairness, Integrity, Respect, Empathy, Appreciation, Egoless, Honesty, Caring, Joyfulness, Fun, Relaxed, Timely, Kindness, Self-reflection.
 
@@ -43,11 +43,13 @@ Network & Community Builder, DAO member / practitioner, Entrepreneur / Founders,
 {% endhint %}
 
 {% hint style="info" %}
-[**Newsletter**](../newsletter/)\*\*\*\*
+Content Curation
 
-* Curating a monthly newsletter \(+ dgov highlight of the month\)
-* Support dgov space projects with publicity
-* Enable time-warp \(send in the most convenient time\)
+* [**Newsletter**](../newsletter/)\*\*\*\*
+  * Curating a monthly newsletter \(+ dgov highlight of the month\)
+  * Support dgov space projects with publicity
+  * Enable time-warp \(send in the most convenient time\)
+* [**Calendar**](../dgov-industry-landscape.md) – curating a \#dgov event calendar 
 {% endhint %}
 
 {% hint style="info" %}
@@ -56,12 +58,6 @@ Network & Community Builder, DAO member / practitioner, Entrepreneur / Founders,
 * DGOV chat with channels
 * Moderating the \#dgov chat on Telegram and potentially other channels \(rotating moderation?\)
 * Allowing for cross-posting: \#dgov tweets on Telegram
-{% endhint %}
-
-{% hint style="info" %}
-[**Calendar**](../dgov-industry-landscape.md) – curating a \#dgov event calendar 
-
-* Partnership over dgov calendar & media with major organizations
 {% endhint %}
 
 {% hint style="info" %}
