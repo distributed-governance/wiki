@@ -1,12 +1,14 @@
-# Chat
+# Communication Platform
 
-Dgov telegram chat is the pace for quick exchange of announcements, feedback etc. [Join the network](https://dgov.foundation/#join) to get the link to it.
+## Chats
+
+\#dgov network telegram chat is the pace for quick exchange of announcements, feedback etc. [Join the network](https://dgov.foundation/#join) to get the link to it.
 
 Some feedback:
 
 > I just wanted to thank you guys for this Telegram Channel. It has the best signal-to-noise ratio of all the channels I'm on, always engaging, and great references. – Grace Rachmany
 
-## Related chats
+### Related chats
 
 * [Founder's Circle \(MetaCartel\)](https://t.me/Web3Founders)
 * [DAOincubator Channel](https://t.me/DAOincubator)
@@ -16,4 +18,8 @@ Some feedback:
 * TCR Community Collaboration Coalition
 * DAOstack: R&D
 * [Token Engineering WG](https://t.me/cfowg)
+
+## Forum
+
+[\#dgov network forum](https://forum.dgov.foundation/) is the place for deep conversation, materials and working groups
 

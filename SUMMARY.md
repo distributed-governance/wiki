@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome to the \#dgov network](README.md)
-* [Chat](chat.md)
+* [Communication Platform](chat.md)
 * [Councils](councils.md)
 * [Meetups](meetups.md)
 * [Event Calendar](dgov-industry-landscape.md)
