@@ -8,7 +8,7 @@ Values: Trust, Fairness, Integrity, Respect, Empathy, Appreciation, Egoless, Hon
 
 ## **Network** 
 
-### [🌱](https://emojipedia.org/spring/) Contributors / Sustainable participation
+### 🌱 Contributors / Sustainable participation
 
 * Sync on plans and mutual expectations
 * Planning events ahead
@@ -22,7 +22,15 @@ Values: Trust, Fairness, Integrity, Respect, Empathy, Appreciation, Egoless, Hon
 * Open up roles
 {% endhint %}
 
-### [🤝](https://emojipedia.org/handshake/) **Leaders / Collaboration and communication support**
+{% hint style="info" %}
+Setup Informational Partnerships
+
+* P2P foundation
+* ISSDG
+* COALAs
+{% endhint %}
+
+### 🤝 **Leaders / Collaboration and communication support**
 
 * Matching \(by the graph theory?\)
 * Building partnerships and alignment
@@ -107,7 +115,7 @@ Developing the \#dgov forum, so members can exchange valuable info on more in-de
 
 Political scientists \(governance researchers and academics\), Social scientists, Sociologists, Economists \(incl. behavioral\), Artists, Judges, Lawyers, Politicians, Philosophers & Ethologists, Activists \(Do-ers, change agents\), Systemic thinkers \(complexity experts, practitioners of transformation\), Anthropologists, Game theory & mathematics.
 
-### [🎗️](https://emojipedia.org/reminder-ribbon/)Build awareness & integration
+### 🎗️Build awareness & integration
 
 Be more vocal about the work being done
 
