@@ -35,6 +35,7 @@ Setup Informational Partnerships
 * Matching \(by the graph theory?\)
 * Building partnerships and alignment
 * Open Value Network Approach
+* Communication infrastructure:
 
 {% hint style="info" %}
 \*\*\*\*[**Ecosystem Map & SSID**](https://graphcommons.com/graphs/6a993e34-d8b0-4425-83ce-67c3560429e7?auto=true&svg=true) ****
