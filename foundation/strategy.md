@@ -20,6 +20,7 @@ Network & community Builders, DAO member & practitioners, entrepreneurs and acad
 * Decrease cognitive load 
 * Provide financial compensation
 * Recognize and praise contributors
+* More transparency \(decision making process etc\)
 
 {% hint style="info" %}
 [**Strategy**](strategy.md)
@@ -41,6 +42,10 @@ Network & community Builders, DAO member & practitioners, entrepreneurs and acad
   * Membership fee 
   * Paid services
 * Distribution Mechanism
+{% endhint %}
+
+{% hint style="info" %}
+**Onboarding & Contribution Guidance**
 {% endhint %}
 
 ### 🤝 **Leaders / Collaboration and communication support**
