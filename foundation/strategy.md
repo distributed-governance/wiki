@@ -17,6 +17,7 @@ Network & community Builders, DAO member & practitioners, entrepreneurs and acad
 * Clear focus, priorities and planning
 * Decrease cognitive load 
 * Provide financial compensation
+* Recognize and praise contributors
 
 {% hint style="info" %}
 [**Strategy**](strategy.md)
