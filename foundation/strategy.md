@@ -136,5 +136,3 @@ Be more vocal about the work being done
 * \*\*\*\*[\#dgov tag](https://twitter.com/hashtag/dgov) **–** Maintaining the twitter communication channel, so everyone has a chance to exchange news under the „hashtag“ \#dgov and can keep up to date with what is going on in the space.
 {% endhint %}
 
-### 
-
