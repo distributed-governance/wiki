@@ -45,6 +45,9 @@
 * [Web3 Summit](https://web3summit.com/) \(Aug 19-21, Berlin\) – with a dedicated \#dgov node
 * [Webinar: Sociocracy for non-profits and associations](https://www.eventbrite.com/e/sociocracy-for-non-profits-and-associations-tickets-64139351527?mc_cid=cca4b514a1&mc_eid=295b1316b7) \(Aug 20, online\)
 * [Enspiral Org Academy](http://enspiralorgacademy.co/) \(Sep 5-8, Belgium\)
+* [The year of DAOs](http://osaka.kickback.events/events/the-year-of-daos/) \(Oct 6, Osaka\)
+* [Devcon 5](https://devcon.org/) \(Oct 8-11, Osaka\)
+* [Dream DAO Party - DAICO Edition](http://osaka.kickback.events/events/aragon/) \(Oct 11, Osaka\)
 
 ## 2020
 
