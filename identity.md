@@ -2,7 +2,7 @@
 
 \#dgov – all equal, no domination \(better than DGov, DGOV or Dgov\)
 
-Icon = Galaxy + Complex Yin Yang
+Icon = Galaxy + Complex Yin Yang \(balance\)
 
 ![](.gitbook/assets/frame-7.3-1.jpg)
 
