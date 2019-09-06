@@ -46,10 +46,6 @@ Network & community Builders, DAO member & practitioners, entrepreneurs and acad
 
 {% hint style="info" %}
 **Onboarding & Contribution Guidance**
-
-* Checklist
-* Wiki
-* Personal support
 {% endhint %}
 
 ### 🤝 **Leaders / Collaboration and communication support**
