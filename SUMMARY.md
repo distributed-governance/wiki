@@ -2,7 +2,7 @@
 
 * [Welcome to the \#dgov network](README.md)
 * [Communication Platform](chat.md)
-* [Councils](councils.md)
+* [Think Tank](councils.md)
 * [Meetups](meetups.md)
 * [Event Calendar](dgov-industry-landscape.md)
 * [\#dgov Stack](dgov-stack.md)

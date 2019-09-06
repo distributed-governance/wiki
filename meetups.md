@@ -1,7 +1,6 @@
 # Meetups
 
-Anyone can start a meetup in his \(her\) region. Meetup can be in a form of an informal dinner for 3-10 people. Or can be an educational / network meetup with a dedicated place \(for 10+ people\).  
-‌
+Anyone can start a meetup in his \(her\) region. Meetup can be in a form of an informal dinner for 3-10 people. Or can be an educational / network meetup with a dedicated place \(for 10+ people\).
 
 ## Process
 

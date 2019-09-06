@@ -42,6 +42,8 @@ Ela is co-founder and managing partner of [SUPERMARKT](https://supermarkt-berlin
 
 ...
 
+## Logo
+
 ![](../.gitbook/assets/frame-20.png)
 
 ![](../.gitbook/assets/frame-21.png)

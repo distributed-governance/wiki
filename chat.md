@@ -23,3 +23,13 @@ Some feedback:
 
 [\#dgov network forum](https://forum.dgov.foundation/) is the place for deep conversation, materials and working groups
 
+## Newsletter
+
+Newsletter comes out on the first business day of the month and contains updates from the network, top news and articles and of course dunk memes!
+
+Subscribe to the newsletter by [joining the dgov network](https://dgov.foundation#join)
+
+## Twitter
+
+...
+

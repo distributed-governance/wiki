@@ -1,4 +1,6 @@
-# Councils
+# Think Tank
+
+## Councils
 
 Council is the community event that happens 2 times a year with the task to build more ties, exchange ideas from a lot of different fields and identify the working groups/group problems to work together. Collab starts online and only is getting to the peak at the council.
 
