@@ -7,6 +7,8 @@ Global meetup page: ...
 List of \#dgov locations open for meetups: 
 
 * Berlin: SUPERMARKT
+* Vienna \(Zoltan Fazekas\)
+* London
 * ...
 
 ## Process
