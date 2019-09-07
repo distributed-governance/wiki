@@ -85,7 +85,7 @@ Create more interoperability, collaboration and experimentation.
 * [Informational Partnerships](../informational-partnerships.md)
 * [Regular meetups](../meetups.md) in Berlin, London, Barcelona, Amsterdam etc – Organize and participate in local network events / meetups. Goal – self-education?
 * Forum
-* \#dgov blog / magazine – Make medium the public/magazine for the network relevant articles
+* \#dgov blog / journal – use medium or [https://dgov.pubpub.org/](https://dgov.pubpub.org/) for the network relevant articles
 * Shared glossary/definitions
 * Job board?
 {% endhint %}
