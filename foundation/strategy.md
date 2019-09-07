@@ -37,10 +37,10 @@ Network & community Builders, DAO member & practitioners, entrepreneurs and acad
 \*\*\*\*[**Fund**](../fund.md)\*\*\*\*
 
 * Sources
-  * Individual donations 
-  * Grants
-  * Membership fee 
-  * Paid services
+  * Individual donations \(open fun prizes for different level contributions\)
+  * Grants \(talk with foundations\)
+  * Membership fee \(magazine?\)
+  * Paid services \(trainings, workshops\)
 * Distribution Mechanism
 {% endhint %}
 
