@@ -18,6 +18,8 @@
 
 ### Tim / when can we come together?
 
+### Max / Donation campaign
+
 ## Community
 
 * Case Studies \(Max\)
