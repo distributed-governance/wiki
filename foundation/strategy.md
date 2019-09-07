@@ -56,6 +56,32 @@ Network & community Builders, DAO member & practitioners, entrepreneurs and acad
 \*\*\*\*[**Governance model and practices**](governance.md)\*\*\*\*
 {% endhint %}
 
+### 🧠 Researchers / Knowledge production support
+
+**Goals:**
+
+* Support the projects & researches with connections, coverage etc
+* Coordinate the ongoing researches with the academics \(avoid overlaps\)
+* Help researchers find right people to interview
+
+{% hint style="info" %}
+[**Think Tank**](../councils.md)
+
+* 2020 Q1 Dgov council \#2
+* 2020 Athens Conference/council \#3?
+* Preset topics for councils
+* Research WEF/COALA/RxC... approach
+* Invite people like future thinkers, yuval harari  etc \(see survey\)
+* Developing the \#dgov forum, so members can exchange valuable info on more in-depth topics. Harvest from events etc.
+* Forum Working Groups
+  * Create interoperability / tech stack
+  * EthSignals
+  * \#dgov SSID
+  * DAO funding ecosystem?
+* Grants/lower prices for the students
+* [Research partnership](../research-partnership.md)
+{% endhint %}
+
 ### 🤝 **Leaders / Collaboration and communication support**
 
 Create more interoperability, collaboration and experimentation.
@@ -110,32 +136,6 @@ Create more interoperability, collaboration and experimentation.
 * Inspiration
 * SWAG
 * Stickers, posters etc
-{% endhint %}
-
-### 🧠 Researchers / Knowledge production support
-
-**Goals:**
-
-* Support the projects & researches with connections, coverage etc
-* Coordinate the ongoing researches with the academics \(avoid overlaps\)
-* Help researchers find right people to interview
-
-{% hint style="info" %}
-[**Think Tank**](../councils.md)
-
-* 2020 Q1 Dgov council \#2
-* 2020 Athens Conference/council \#3?
-* Preset topics for councils
-* Research WEF/COALA/RxC... approach
-* Invite people like future thinkers, yuval harari  etc \(see survey\)
-* Developing the \#dgov forum, so members can exchange valuable info on more in-depth topics. Harvest from events etc.
-* Forum Working Groups
-  * Create interoperability / tech stack
-  * EthSignals
-  * \#dgov SSID
-  * DAO funding ecosystem?
-* Grants/lower prices for the students
-* [Research partnership](../research-partnership.md)
 {% endhint %}
 
 ## External Audience
