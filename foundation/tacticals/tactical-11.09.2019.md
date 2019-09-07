@@ -12,7 +12,7 @@
 * Team Retreat updates \(?\)
 * Survey \(Max\)
 
-### Max / Strategy
+### Max / Strategy presentation & roles discussion
 
 ### Max / PM on retreat
 
