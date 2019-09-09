@@ -166,5 +166,7 @@ Political scientists \(governance researchers and academics\), Social scientists
 * [Website](https://twitter.com/hashtag/dgov)
 * \*\*\*\*[\#dgov tag campaign](https://twitter.com/hashtag/dgov) **–** Maintaining the twitter communication channel, so everyone has a chance to exchange news under the „hashtag“ \#dgov and can keep up to date with what is going on in the space.
 * Educational animated videos?
+* Make a movie about DAOs
+* Create a wiki page about network/governance/dao \(link would be highly important\)
 {% endhint %}
 
