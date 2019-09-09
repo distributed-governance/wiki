@@ -20,6 +20,7 @@
   * [Newsletter \#10 \(june\)](newsletter/newsletter-10-june.md)
   * [Newsletter \#11 \(july\)](newsletter/newsletter-11-july.md)
   * [Newsletter \#12 \(august\)](newsletter/newsletter-12-august.md)
+  * [Newsletter \#13 \(september\)](newsletter/newsletter-13-september.md)
 * [Logo & Identity](identity.md)
 * [Conflict Management Layer](conflict-management-layer.md)
 * [Awareness / educational campaign](awareness-educational-campaign.md)
