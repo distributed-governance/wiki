@@ -80,6 +80,7 @@ Network & community Builders, DAO member & practitioners, entrepreneurs and acad
   * DAO funding ecosystem?
 * Grants/lower prices for the students
 * [Research partnership](../research-partnership.md)
+* Is it really working? Where is it working?
 {% endhint %}
 
 ### 🤝 **Leaders / Collaboration and communication support**
