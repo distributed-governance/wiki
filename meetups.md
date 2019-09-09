@@ -9,6 +9,7 @@ List of \#dgov locations open for meetups:
 * Berlin: SUPERMARKT
 * Vienna \(Zoltan Fazekas\)
 * London
+* Barcelona \(Akasha + [event](https://www.meetup.com/ru-RU/Barcelona-Decentralized-Organizations-DAO-focused/events/264424535/)\)
 * ...
 
 ## Process
