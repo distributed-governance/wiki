@@ -35,6 +35,8 @@
 
 ### Max / Regular Meetups in Berlin
 
+### Max / Ask other contributors to join us at the retreat
+
 ## Closing thought
 
 * Anja: good meeting, like 2 hours and discussions about new events
