@@ -80,7 +80,7 @@ Network & community Builders, DAO member & practitioners, entrepreneurs and acad
   * DAO funding ecosystem?
 * Grants/lower prices for the students
 * [Research partnership](../research-partnership.md)
-* Is it really working? Where is it working? Is it more efficient for the token investors?
+* Is it really working? Where is it working? Is it more efficient for the token investors? Is DAO better in fund distribution than expert board?
 {% endhint %}
 
 ### 🤝 **Leaders / Collaboration and communication support**
