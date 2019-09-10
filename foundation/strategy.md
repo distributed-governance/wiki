@@ -100,7 +100,7 @@ Create more interoperability, collaboration and experimentation.
   * Enable time-warp \(send in the most convenient time\)
 * Twitter
 * [Network Map & SSID](https://graphcommons.com/graphs/6a993e34-d8b0-4425-83ce-67c3560429e7?auto=true&svg=true) 
-  * Integrate ID system with contacts, hubs maps etc
+  * Integrate ID system with contacts, hubs maps etc \(Keybase?\)
   * Maintaining and expanding the [ecosystem map](https://wiki.dgov.foundation/map-of-the-industry-landscape)
   * Add profiling info \(interests, skills etc\)
   * Reputation
