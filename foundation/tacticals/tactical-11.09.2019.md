@@ -4,13 +4,15 @@
 
 * Record?
 * Check-in
-* Work until 5:00 pm CET
+* Work until 5:00 pm CET \(3-4 core group call / 4-5 community service\)
 
 ## Team
 
 * EU Funding \(Tim\)
 * Team Retreat updates \(?\)
 * Survey \(Max\)
+
+### Ela / Aeon: Facilitator & Secretary for 1 month
 
 ### Max / Strategy presentation & roles discussion
 
@@ -39,8 +41,5 @@
 
 ## Closing thought
 
-* Anja: good meeting, like 2 hours and discussions about new events
-* Aeon: love it, all's cool, commitments are clear, feel motivated
-* Max: super great meeting, moving in the right direction
-* Tim: great meeting. Thankful that we could resolve inner tensions
+
 
