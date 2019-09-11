@@ -114,7 +114,8 @@ Create more interoperability, collaboration and experimentation.
 * Forum
 * \#dgov blog / journal – use medium or [https://dgov.pubpub.org/](https://dgov.pubpub.org/) for the network relevant articles
 * Shared glossary/definitions
-* Job board?
+* Job board / forum topic?
+* Arrangements with John L \(Aragon\), Kate B \(DAO Stack\)...
 {% endhint %}
 
 {% hint style="info" %}
