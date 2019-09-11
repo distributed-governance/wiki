@@ -83,6 +83,7 @@ Network & community Builders, DAO member & practitioners, entrepreneurs and acad
 * [Research partnership](../research-partnership.md)
 * Is it really working? Where is it working? Is it more efficient for the token investors? Is DAO better in fund distribution than expert board?
 * Setup research partnership with ISSDG, Ledgerback, Sensorica, govlabs etc
+* Find political scientists to work on Ethereum case / EthSignals
 {% endhint %}
 
 ### 🤝 **Leaders / Collaboration and communication support**
