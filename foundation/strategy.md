@@ -41,7 +41,7 @@ Network & community Builders, DAO member & practitioners, entrepreneurs and acad
   * Grants \(talk with foundations\)
   * Membership fee \(magazine?\)
   * Paid services \(trainings, workshops\)
-* Distribution Mechanism
+* Distribution Mechanism \(Giveth, Moloch, Aragon...\)
 {% endhint %}
 
 {% hint style="info" %}
