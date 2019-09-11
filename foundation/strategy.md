@@ -63,6 +63,7 @@ Network & community Builders, DAO member & practitioners, entrepreneurs and acad
 * Support the projects & researches with connections, coverage etc
 * Coordinate the ongoing researches with the academics \(avoid overlaps\)
 * Help researchers find right people to interview
+* Identify stakeholders & funding strategy
 
 {% hint style="info" %}
 [**Think Tank**](../councils.md)
@@ -91,6 +92,7 @@ Create more interoperability, collaboration and experimentation.
 **Goals:**
 
 * 3 public governance experiments / collaborations
+* Identify stakeholders & funding strategy
 
 {% hint style="info" %}
 \*\*\*\*[**Communication Layer**](../chat.md)\*\*\*\*
@@ -151,6 +153,7 @@ Political scientists \(governance researchers and academics\), Social scientists
 
 * Create greater awareness about the topic
 * Amplify the movement and the network
+* Identify stakeholders & funding strategy
 
 {% hint style="info" %}
 \*\*\*\*[**Brand / Identity**](../identity.md)\*\*\*\*
