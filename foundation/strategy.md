@@ -132,7 +132,7 @@ Create more interoperability, collaboration and experimentation.
 {% hint style="info" %}
 **Culture Layer**
 
-* Ministry of memes – develop artful insights on what's going on in the network
+* Ministry of memes – develop artful insights on what's going on in the network \(sensemaking\)
 * Art
 * Games
 * Fun
