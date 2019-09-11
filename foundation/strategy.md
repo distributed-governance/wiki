@@ -81,6 +81,7 @@ Network & community Builders, DAO member & practitioners, entrepreneurs and acad
 * Grants/lower prices for the students
 * [Research partnership](../research-partnership.md)
 * Is it really working? Where is it working? Is it more efficient for the token investors? Is DAO better in fund distribution than expert board?
+* Setup research partnership with ISSDG, Ledgerback etc
 {% endhint %}
 
 ### 🤝 **Leaders / Collaboration and communication support**
