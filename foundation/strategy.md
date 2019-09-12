@@ -60,9 +60,11 @@ Network & community Builders, DAO member & practitioners, entrepreneurs and acad
 
 **Goals:**
 
+* Run the research producing events
 * Support the projects & researches with connections, coverage etc
 * Coordinate the ongoing researches with the academics \(avoid overlaps\)
 * Help researchers find right people to interview
+* Identify the needs for tools
 * Identify stakeholders & funding strategy
 
 {% hint style="info" %}
