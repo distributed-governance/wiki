@@ -12,7 +12,7 @@ Changes to policies and roles are done through the [Holacracy IDM process](https
 * Be excellent to each other,
 * Omni-considerative / omni-win decision making,
 * Maximum integratabtle cognitive diversity
-* The principle Life - Change and Adoption
+* The principle Life - Change and Adaption
 * The principles of wholeness - interconnectedness.
 * Collaboration “Act local - think global"
 

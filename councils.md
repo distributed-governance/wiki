@@ -6,13 +6,18 @@ Council is the community event that happens 2 times a year with the task to buil
 
 ### Schedule
 
-* Council \#1 \(Berlin\) – Jan 2019
-* Council \#2 \(assembly in Paris\) –Mar 2019
-* [Dgov Node at web3](https://forum.dgov.foundation/t/web-3-summit-dgov-node/63)
-* [Dgov Retreat Slovenia](https://forum.dgov.foundation/t/dgov-retreat-slovenia/69)
-* Council \#3 \(Berlin?\) – Jan 2020
+* Council \#1 \(Berlin\) - Jan 2019
+* DGOV Assembly \(Paris\) - Mar 2019
+* [DGOV Node at web3](https://forum.dgov.foundation/t/web-3-summit-dgov-node/63) - Aug 2019
+* [DGOV Retreat Slovenia](https://forum.dgov.foundation/t/dgov-retreat-slovenia/69) - Sep 2019
+* DGOV Retreat \#2 \(Berlin\) - Oct/Nov 2019
+* Council \#2 \(Berlin, Barcelona, Zurich?\) - Jan 2020
+* DGOV Retreat \#2 - Summer 2020
+* DGOV Council \#3 - Winter 2021
+* DGOV Festival \(Athens\) - Summer 2021
+* + several smaller side events/Meetups
 
-Need: Thought and people diversity \(coops, anthropologists etc\) \(can cocreate with sponsors/community\).
+Need: Thought and people diversity \(coops, anthropologists etc\) \(can co-create with sponsors/community\).
 
 ## Council \#1 \(Jan 2019, Berlin\)
 
