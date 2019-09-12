@@ -1,4 +1,4 @@
-# Think Tank
+# Council / Think Tank
 
 ## Councils
 

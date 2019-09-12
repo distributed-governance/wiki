@@ -69,7 +69,7 @@ Network & community Builders, DAO member & practitioners, entrepreneurs and acad
 * Identify stakeholders & funding strategy
 
 {% hint style="info" %}
-[**Think Tank**](../councils.md)
+\*\*\*\*[**\#dgov council / Think Tank**](../councils.md)\*\*\*\*
 
 * 2020 Q1 Dgov council \#2
 * Preset topics for councils
