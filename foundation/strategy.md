@@ -94,7 +94,8 @@ Create more interoperability, collaboration and experimentation.
 
 **Goals:**
 
-* 3 public governance experiments / collaborations
+* support the industry standardization & collaborations
+* Support 3 governance experiments \(e.g. with coops\)
 * Identify stakeholders & funding strategy
 
 {% hint style="info" %}
