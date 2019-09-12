@@ -88,7 +88,7 @@ Network & community Builders, DAO member & practitioners, entrepreneurs and acad
 * Find political scientists to work on Ethereum case / EthSignals
 {% endhint %}
 
-### 🤝 **Leaders / Collaboration and communication support**
+### 🤝 **Leaders / Collaboration and communication support by Ela Kagel**
 
 Create more interoperability, collaboration and experimentation.
 
