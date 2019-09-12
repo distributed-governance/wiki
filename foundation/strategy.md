@@ -10,17 +10,17 @@ Values: Trust, Fairness, Integrity, Respect, Empathy, Appreciation, Egoless, Hon
 
 Network & community Builders, DAO member & practitioners, entrepreneurs and academics working with the networks.
 
-### 🌱 Contributors / Sustainable participation
+### 🌱 Contributors / Sustainable participation by Phoebe Tickell
 
 **Goals:**
 
 * Clear expectations agreements and participation
-* Specific goals & tasks
+* Help setup specific goals & tasks
 * Clear focus, priorities and planning
 * Decrease cognitive load 
 * Provide financial compensation
 * Recognize and praise contributors
-* More transparency \(decision making process etc\)
+* Enable more transparency \(decision making process etc\)
 
 {% hint style="info" %}
 [**Strategy**](strategy.md)
