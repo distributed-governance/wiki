@@ -129,6 +129,7 @@ Create more interoperability, collaboration and experimentation.
 {% hint style="info" %}
 **Open Value Network Layer**
 
+* Sobol: goals, structures, agreements
 * [Conflict management layer](../conflict-management-layer.md)
   * Mediators list & process
   * Ethical and legal platform for innovation
