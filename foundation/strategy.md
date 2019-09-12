@@ -72,21 +72,28 @@ Network & community Builders, DAO member & practitioners, entrepreneurs and acad
 [**Think Tank**](../councils.md)
 
 * 2020 Q1 Dgov council \#2
-* 2020 Athens Conference/council \#3?
 * Preset topics for councils
 * Research WEF/COALA/RxC... approach
-* Invite people like future thinkers, yuval harari  etc \(see survey\)
+* Invite people like political scientists, future thinkers, yuval harari  etc \(see survey\)
 * Developing the \#dgov forum, so members can exchange valuable info on more in-depth topics. Harvest from events etc.
 * Forum Working Groups
   * Create interoperability / tech stack
-  * EthSignals
+  * Ethereum Governance
   * \#dgov SSID
-  * DAO funding ecosystem?
+  * DAO funding ecosystem? Is it really working? Where is it working? Is it more efficient for the token investors? Is DAO better in fund distribution than expert board?
 * Grants/lower prices for the students
-* [Research partnership](../research-partnership.md)
-* Is it really working? Where is it working? Is it more efficient for the token investors? Is DAO better in fund distribution than expert board?
-* Setup research partnership with ISSDG, Ledgerback, Sensorica, govlabs etc
-* Find political scientists to work on Ethereum case / EthSignals
+{% endhint %}
+
+{% hint style="info" %}
+[**Research partnership**](../research-partnership.md)\*\*\*\*
+
+ISSDG, Ledgerback, Sensorica, govlabs
+{% endhint %}
+
+{% hint style="info" %}
+**\#dgov festival 2020**
+
+Burning man for org innovators
 {% endhint %}
 
 ### 🤝 **Leaders / Collaboration and communication support by Ela Kagel**
