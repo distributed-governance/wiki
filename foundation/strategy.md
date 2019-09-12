@@ -50,6 +50,7 @@ Network & community Builders, DAO member & practitioners, entrepreneurs and acad
 * Checklist
 * Wiki
 * Personal support
+* School of self organization project? e.g. monthly education and consulting session
 {% endhint %}
 
 {% hint style="info" %}
