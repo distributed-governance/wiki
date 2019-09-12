@@ -37,7 +37,7 @@ Network & community Builders, DAO member & practitioners, entrepreneurs and acad
 \*\*\*\*[**Fund**](../fund.md)\*\*\*\*
 
 * Sources
-  * Individual donations \(open fun prizes for different level contributions\)
+  * Individual donations \(open fun prizes for different level contributions – e.g. 1 hour consulting on self organization, or a set of book/articles\)
   * Grants \(talk with foundations\)
   * Membership fee \(magazine?\)
   * Paid services \(trainings, workshops\)
