@@ -1,4 +1,4 @@
-# Communication Platform
+# Collaboration Platform
 
 ## Chats
 

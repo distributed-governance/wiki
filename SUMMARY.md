@@ -1,10 +1,11 @@
 # Table of contents
 
 * [Welcome to the \#dgov network](README.md)
-* [Communication Platform](chat/README.md)
-  * [Meetups](chat/meetups.md)
-  * [Event Calendar](chat/dgov-industry-landscape.md)
-  * [Informational Partnerships](chat/informational-partnerships.md)
+* [Collaboration Platform](collaboration-1/README.md)
+  * [Meetups](collaboration-1/meetups.md)
+  * [Event Calendar](collaboration-1/dgov-industry-landscape.md)
+  * [Informational Partnerships](collaboration-1/informational-partnerships.md)
+  * [SWAG](collaboration-1/swag.md)
 * [Research](research/README.md)
   * [Council / Think Tank](research/councils.md)
   * [Research Partnership](research/research-partnership.md)

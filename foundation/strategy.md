@@ -107,7 +107,7 @@ Create more interoperability, collaboration and experimentation.
 * Identify stakeholders & funding strategy
 
 {% hint style="info" %}
-\*\*\*\*[**Communication Layer**](../chat/)\*\*\*\*
+\*\*\*\*[**Communication Layer**](../collaboration-1/)\*\*\*\*
 
 * [Newsletter](../newsletter/)
   * Curating a monthly newsletter \(+ dgov highlight of the month\)
@@ -123,9 +123,9 @@ Create more interoperability, collaboration and experimentation.
 * DGOV chat with channels
 * Moderating the \#dgov chat on Telegram and potentially other channels \(rotating moderation?\)
 * Allowing for cross-posting: \#dgov tweets on Telegram
-* [Calendar](../chat/dgov-industry-landscape.md) – curating a \#dgov event calendar 
-* [Informational Partnerships](../chat/informational-partnerships.md)
-* [Regular meetups](../chat/meetups.md) in Berlin, London, Barcelona, Amsterdam etc – Organize and participate in local network events / meetups. Goal – self-education?
+* [Calendar](../collaboration-1/dgov-industry-landscape.md) – curating a \#dgov event calendar 
+* [Informational Partnerships](../collaboration-1/informational-partnerships.md)
+* [Regular meetups](../collaboration-1/meetups.md) in Berlin, London, Barcelona, Amsterdam etc – Organize and participate in local network events / meetups. Goal – self-education?
 * Forum
 * \#dgov blog / journal – use medium or [https://dgov.pubpub.org/](https://dgov.pubpub.org/) for the network relevant articles
 * Shared glossary/definitions
