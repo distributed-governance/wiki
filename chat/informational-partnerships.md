@@ -4,7 +4,7 @@ Exchange reports, summaries.
 
 {% hint style="info" %}
 * P2P foundation
-* ISSDG
+* [ISSDG](https://issdg.org)
 * COALAs
 {% endhint %}
 
