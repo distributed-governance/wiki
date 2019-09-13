@@ -18,6 +18,7 @@ Some feedback:
 * TCR Community Collaboration Coalition
 * DAOstack: R&D
 * [Token Engineering WG](https://t.me/cfowg)
+* [Все про DAO](https://t.me/daotalk) \(in russian\)
 
 ## Forum
 

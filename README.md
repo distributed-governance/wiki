@@ -28,7 +28,7 @@ It's a pleasure to welcome you here :\)
 
 ### How to Contribute
 
-* Support the projects from the [\#dgov strategy 2019]()
+* Check out and support our [Strategy](foundation/strategy.md)
 * [Host](http://forum.dgov.foundation/t/host-local-meetups/42) & [Attend](chat/dgov-industry-landscape.md#events) local meetups and events
 
 ### Edit this wiki
