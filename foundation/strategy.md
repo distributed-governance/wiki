@@ -69,7 +69,7 @@ Network & community Builders, DAO member & practitioners, entrepreneurs and acad
 * Identify stakeholders & funding strategy
 
 {% hint style="info" %}
-\*\*\*\*[**\#dgov council / Think Tank**](../councils.md)\*\*\*\*
+\*\*\*\*[**\#dgov council / Think Tank**](../research/councils.md)\*\*\*\*
 
 * 2020 Q1 Dgov council \#2
 * Preset topics for councils
@@ -85,7 +85,7 @@ Network & community Builders, DAO member & practitioners, entrepreneurs and acad
 {% endhint %}
 
 {% hint style="info" %}
-[**Research partnership**](../research-partnership.md)\*\*\*\*
+[**Research partnership**](../research/research-partnership.md)\*\*\*\*
 
 ISSDG, Ledgerback, Sensorica, govlabs
 {% endhint %}

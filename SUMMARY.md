@@ -2,10 +2,12 @@
 
 * [Welcome to the \#dgov network](README.md)
 * [Communication Platform](chat.md)
-* [Council / Think Tank](councils.md)
 * [Meetups](meetups.md)
 * [Event Calendar](dgov-industry-landscape.md)
 * [\#dgov Stack](dgov-stack.md)
+* [Research](research/README.md)
+  * [Council / Think Tank](research/councils.md)
+  * [Research Partnership](research/research-partnership.md)
 * [Newsletter](newsletter/README.md)
   * [2018](newsletter/2018/README.md)
     * [Newsletter \#1 \(september\)](newsletter/2018/newsletter-1-september.md)
@@ -25,7 +27,6 @@
 * [Conflict Management Layer](conflict-management-layer.md)
 * [Awareness / educational campaign](awareness-educational-campaign.md)
 * [Informational Partnerships](informational-partnerships.md)
-* [Research Partnership](research-partnership.md)
 * [Fund](fund.md)
 * [Official Website](https://dgov.foundation)
 

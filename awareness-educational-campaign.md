@@ -11,3 +11,13 @@ Titles:
 * How to manage networks
 * ...
 
+## Want list
+
+* Yuval Noah Harari
+* Jimmy Wales, Wikipedia
+* Peter Senge
+* Jim Whitehurst, CEO Red Hat
+* Dries Buytaert, Drupal Foundation
+* Brian Robertson, Holacracy One
+* Tom Thomison, Encode
+

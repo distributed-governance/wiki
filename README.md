@@ -12,7 +12,7 @@ It's a pleasure to welcome you here :\)
 * [Forum](https://earth.us18.list-manage.com/track/click?u=566b6b2a60e0829db656d3b34&id=ce349e1f74&e=7265fe9357) for substantial & deep conversations
 * [Event Calendar](dgov-industry-landscape.md)
 * [Network map](https://graphcommons.com/graphs/6a993e34-d8b0-4425-83ce-67c3560429e7?auto=true&svg=true)
-* [Community councils](councils.md)
+* [Community councils](research/councils.md)
 * [Meetups](meetups.md)
 * [Working groups \(DAO incubator, Mapping etc\)](https://forum.dgov.foundation/c/working-groups)
 * Brand / Identity
