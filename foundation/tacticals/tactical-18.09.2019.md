@@ -8,7 +8,7 @@
 
 ## Team
 
-* Fund
+* Fund \(?\)
   * EU Funding \(Tim\)
 * Team Retreat updates \(?\)
 
@@ -16,7 +16,7 @@
 
 ### Max / PM on retreat
 
-### Max / Donation campaign
+### Max / Submit funding requests
 
 ## Community
 
