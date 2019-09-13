@@ -20,4 +20,5 @@ Titles:
 * Dries Buytaert, Drupal Foundation
 * Brian Robertson, Holacracy One
 * Tom Thomison, Encode
+* Daniel Schmachtenberger
 
