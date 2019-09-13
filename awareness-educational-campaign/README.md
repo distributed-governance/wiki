@@ -11,7 +11,7 @@ Titles:
 * How to manage networks
 * ...
 
-## Want list
+## Wish list
 
 * Yuval Noah Harari
 * Jimmy Wales, Wikipedia
