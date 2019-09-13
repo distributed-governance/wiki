@@ -7,6 +7,7 @@
 * Ethereum Foundation
 * Tezos Foundation
 * [Luminate Group](https://luminategroup.com)
+* [OSCE](https://www.osce.org/)
 * ...
 
 ## Investors / VCs
