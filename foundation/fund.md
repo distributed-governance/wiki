@@ -6,6 +6,7 @@
 * Web3 Foundation
 * Ethereum Foundation
 * Tezos Foundation
+* [Luminate Group](https://luminategroup.com)
 * ...
 
 ## Investors / VCs
