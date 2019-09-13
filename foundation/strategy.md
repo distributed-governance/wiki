@@ -57,7 +57,7 @@ Network & community Builders, DAO member & practitioners, entrepreneurs and acad
 \*\*\*\*[**Governance model and practices**](governance.md)\*\*\*\*
 {% endhint %}
 
-### 🧠 Researchers / Knowledge production support
+### 🧠 Researchers / Knowledge production support by Max Semenchuk
 
 **Goals:**
 
@@ -160,7 +160,7 @@ Create more interoperability, collaboration and experimentation.
 
 Political scientists \(governance researchers and academics\), Social scientists, Sociologists, Economists \(incl. behavioral\), Artists, Judges, Lawyers, Politicians, Philosophers & Ethologists, Activists \(Do-ers, change agents\), Systemic thinkers \(complexity experts, practitioners of transformation\), Anthropologists, Game theory & mathematics, Hippies, Developers, SSID People, Psychologists, Platform coop people,  Interdisciplinary people, Students, Holacracy and sociocracy experts, Coaches, Social workers.
 
-### 🎗️Build awareness & integration
+### 🎗️Build awareness & integration by Anja Blaj
 
 **Goals:**
 
