@@ -4,9 +4,9 @@
 
 Icon = Galaxy + Complex Yin Yang \(balance\)
 
-![](.gitbook/assets/frame-7.3-1.jpg)
+![](../.gitbook/assets/frame-7.3-1.jpg)
 
-![Context logos](.gitbook/assets/frame-8.png)
+![Context logos](../.gitbook/assets/frame-8.png)
 
 ### Find more
 

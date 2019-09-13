@@ -10,10 +10,10 @@ It's a pleasure to welcome you here :\)
 * [Network Governance Research](https://mapping.daolandscape.today/)
 * [\#dgov](https://twitter.com/search?q=%23dgov&src=typd) tag and [our twitter](https://twitter.com/dgovearth)
 * [Forum](https://earth.us18.list-manage.com/track/click?u=566b6b2a60e0829db656d3b34&id=ce349e1f74&e=7265fe9357) for substantial & deep conversations
-* [Event Calendar](dgov-industry-landscape.md)
+* [Event Calendar](chat/dgov-industry-landscape.md)
 * [Network map](https://graphcommons.com/graphs/6a993e34-d8b0-4425-83ce-67c3560429e7?auto=true&svg=true)
 * [Community councils](research/councils.md)
-* [Meetups](meetups.md)
+* [Meetups](chat/meetups.md)
 * [Working groups \(DAO incubator, Mapping etc\)](https://forum.dgov.foundation/c/working-groups)
 * Brand / Identity
 
@@ -29,7 +29,7 @@ It's a pleasure to welcome you here :\)
 ### How to Contribute
 
 * Support the projects from the [\#dgov strategy 2019]()
-* [Host](http://forum.dgov.foundation/t/host-local-meetups/42) & [Attend](dgov-industry-landscape.md#events) local meetups and events
+* [Host](http://forum.dgov.foundation/t/host-local-meetups/42) & [Attend](chat/dgov-industry-landscape.md#events) local meetups and events
 
 ### Edit this wiki
 

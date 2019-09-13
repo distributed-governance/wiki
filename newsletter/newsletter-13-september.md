@@ -106,7 +106,7 @@ Follow Pedro on [Twitter](https://twitter.com/parrachia)
 
 ## 🎗️ Support the Movement!   <a id="DgovCompilation#3October2018-Events"></a>
 
-If you're enthusiastic about the distributed governance – go give us a hand. Here're some tips on what's going on in the dgov movement: [join](https://dgov.foundation/#join), [twitter](https://twitter.com/dgovearth), [website](http://dgov.foundation), [events](../dgov-industry-landscape.md)
+If you're enthusiastic about the distributed governance – go give us a hand. Here're some tips on what's going on in the dgov movement: [join](https://dgov.foundation/#join), [twitter](https://twitter.com/dgovearth), [website](http://dgov.foundation), [events](../chat/dgov-industry-landscape.md)
 
 If you want your info published in this newsletter – ping me \(Max\) in the reply.
 

@@ -34,7 +34,7 @@ Network & community Builders, DAO member & practitioners, entrepreneurs and acad
 {% endhint %}
 
 {% hint style="info" %}
-\*\*\*\*[**Fund**](../fund.md)\*\*\*\*
+\*\*\*\*[**Fund**](fund.md)\*\*\*\*
 
 * Sources
   * Individual donations \(open fun prizes for different level contributions – e.g. 1 hour consulting on self organization, or a set of book/articles\)
@@ -107,7 +107,7 @@ Create more interoperability, collaboration and experimentation.
 * Identify stakeholders & funding strategy
 
 {% hint style="info" %}
-\*\*\*\*[**Communication Layer**](../chat.md)\*\*\*\*
+\*\*\*\*[**Communication Layer**](../chat/)\*\*\*\*
 
 * [Newsletter](../newsletter/)
   * Curating a monthly newsletter \(+ dgov highlight of the month\)
@@ -123,9 +123,9 @@ Create more interoperability, collaboration and experimentation.
 * DGOV chat with channels
 * Moderating the \#dgov chat on Telegram and potentially other channels \(rotating moderation?\)
 * Allowing for cross-posting: \#dgov tweets on Telegram
-* [Calendar](../dgov-industry-landscape.md) – curating a \#dgov event calendar 
-* [Informational Partnerships](../informational-partnerships.md)
-* [Regular meetups](../meetups.md) in Berlin, London, Barcelona, Amsterdam etc – Organize and participate in local network events / meetups. Goal – self-education?
+* [Calendar](../chat/dgov-industry-landscape.md) – curating a \#dgov event calendar 
+* [Informational Partnerships](../chat/informational-partnerships.md)
+* [Regular meetups](../chat/meetups.md) in Berlin, London, Barcelona, Amsterdam etc – Organize and participate in local network events / meetups. Goal – self-education?
 * Forum
 * \#dgov blog / journal – use medium or [https://dgov.pubpub.org/](https://dgov.pubpub.org/) for the network relevant articles
 * Shared glossary/definitions
@@ -137,7 +137,7 @@ Create more interoperability, collaboration and experimentation.
 **Open Value Network Layer**
 
 * Sobol: goals, structures, agreements
-* [Conflict management layer](../conflict-management-layer.md)
+* [Conflict management layer](../collaboration/conflict-management-layer.md)
   * Mediators list & process
   * Ethical and legal platform for innovation
 * Custodians \(funds, personal data\)
@@ -169,18 +169,18 @@ Political scientists \(governance researchers and academics\), Social scientists
 * Identify stakeholders & funding strategy
 
 {% hint style="info" %}
-\*\*\*\*[**Brand / Identity**](../identity.md)\*\*\*\*
+\*\*\*\*[**Brand / Identity**](../awareness-educational-campaign/identity.md)\*\*\*\*
 
 * Print themed sticker pack \(dlov, nature etc\)
 * Attract branding specialist
 {% endhint %}
 
 {% hint style="info" %}
-[**Awareness / educational campaign**](../awareness-educational-campaign.md)\*\*\*\*
+[**Awareness / educational campaign**](../awareness-educational-campaign/)\*\*\*\*
 
 * [Blockchain Network Governance Case Studies](https://mapping.daolandscape.today/network-governance/blockchain-summary)
 * [DAO/Digital Cooperative Case Studies](https://mapping.daolandscape.today/network-governance/dao-case-study-research)
-* [\#dgov/orgtech stack](../dgov-stack.md)
+* [\#dgov/orgtech stack](../research/dgov-stack.md)
 * [Website](https://twitter.com/hashtag/dgov)
 * \*\*\*\*[\#dgov tag campaign](https://twitter.com/hashtag/dgov) **–** Maintaining the twitter communication channel, so everyone has a chance to exchange news under the „hashtag“ \#dgov and can keep up to date with what is going on in the space.
 * Educational animated videos?
