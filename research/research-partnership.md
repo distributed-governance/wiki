@@ -1,7 +1,11 @@
 # Research Partnership
 
+Exchange reports, summaries.
+
 ### Possible partners:
 
+* [ISSDG](https://issdg.org/)
+* COALAs
 * [Participatory Orgs](https://github.com/ParticipatoryOrgs)
 * [P2P Models](https://p2pmodels.eu)
 * [P2P Foundation](https://p2pfoundation.net/)
@@ -15,5 +19,4 @@
 * [https://www.blockchaincommons.com/](https://www.blockchaincommons.com/)
 * Web3 Foundation?
 * Ethereum Foundation?
-* [https://issdg.org/](https://issdg.org/)
 
