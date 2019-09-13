@@ -49,5 +49,5 @@ Whenever you have a question or suggestion feel free to ping the community manag
 
 ### Thanks to the Contributors!
 
-[@PhilH](https://github.com/PhilH), [@parrachia](https://github.com/parrachia), [@FantasticoFox](https://github.com/FantasticoFox), [@phoebetickell](https://github.com/phoebetickell), [@indekay](https://github.com/indekay), [@john-light](https://github.com/john-light)
+[@PhilH](https://github.com/PhilH), [@parrachia](https://github.com/parrachia), [@FantasticoFox](https://github.com/FantasticoFox), [@phoebetickell](https://github.com/phoebetickell), [@indekay](https://github.com/indekay), [@john-light](https://github.com/john-light), [@thomasbcox](https://github.com/thomasbcox)
 
