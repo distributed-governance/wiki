@@ -115,6 +115,10 @@ Create more interoperability, collaboration and experimentation.
 * Identify stakeholders & funding strategy
 
 {% hint style="info" %}
+### Network governance in WeWork 
+{% endhint %}
+
+{% hint style="info" %}
 \*\*\*\*[**Communication Layer**](../collaboration-1/)\*\*\*\*
 
 * [Newsletter](../newsletter/)
