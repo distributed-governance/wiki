@@ -97,10 +97,11 @@ Burning man for org innovators
 {% endhint %}
 
 {% hint style="info" %}
-### Wikipedia boost
+### Wikipedia as a research platform
 
 * S3nd research straight to the wikipedia. Setup bounties for the successful publish
 * It will also create great traffic magnet
+* Compensate top authors, they can delegate funds
 {% endhint %}
 
 ### 🤝 **Leaders / Collaboration and communication support by Ela Kagel**
