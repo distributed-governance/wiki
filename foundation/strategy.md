@@ -96,6 +96,12 @@ ISSDG, Ledgerback, Sensorica, govlabs
 Burning man for org innovators
 {% endhint %}
 
+{% hint style="info" %}
+### Wikipedia boost
+
+S3nd research straight to the wikipedia. Setup bounties for the successful publish
+{% endhint %}
+
 ### 🤝 **Leaders / Collaboration and communication support by Ela Kagel**
 
 Create more interoperability, collaboration and experimentation.
