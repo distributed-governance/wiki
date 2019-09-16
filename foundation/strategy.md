@@ -99,7 +99,8 @@ Burning man for org innovators
 {% hint style="info" %}
 ### Wikipedia boost
 
-S3nd research straight to the wikipedia. Setup bounties for the successful publish
+* S3nd research straight to the wikipedia. Setup bounties for the successful publish
+* It will also create great traffic magnet
 {% endhint %}
 
 ### 🤝 **Leaders / Collaboration and communication support by Ela Kagel**
