@@ -154,7 +154,7 @@ Create more interoperability, collaboration and experimentation.
 * Inspiration
 * SWAG
 * Stickers, posters etc
-* Create a show
+* Create a show – create funny reviews about the companies and people in the industry
 {% endhint %}
 
 ## External Audience
