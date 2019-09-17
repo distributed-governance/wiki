@@ -18,6 +18,8 @@
 
 ### Max / Submit funding requests
 
+### Anja / Adding new members to the core team
+
 ## Community
 
 * Knowledge production support
