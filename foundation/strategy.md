@@ -192,6 +192,7 @@ Political scientists \(governance researchers and academics\), Social scientists
 {% hint style="info" %}
 ### [**Awareness / educational campaign**](../awareness-educational-campaign/)\*\*\*\*
 
+* Meetups
 * [Blockchain Network Governance Case Studies](https://mapping.daolandscape.today/network-governance/blockchain-summary)
 * [DAO/Digital Cooperative Case Studies](https://mapping.daolandscape.today/network-governance/dao-case-study-research)
 * [\#dgov/orgtech stack](../research/dgov-stack.md)
