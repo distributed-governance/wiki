@@ -23,7 +23,7 @@ Network & community Builders, DAO member & practitioners, entrepreneurs and acad
 * Enable more transparency \(decision making process etc\)
 
 {% hint style="info" %}
-[**Strategy**](strategy.md)
+### [**Strategy**](strategy.md)
 
 * Open up roles
 * Use participative tools \(github/underscore, google docs...\)
@@ -34,7 +34,7 @@ Network & community Builders, DAO member & practitioners, entrepreneurs and acad
 {% endhint %}
 
 {% hint style="info" %}
-\*\*\*\*[**Fund**](fund.md)\*\*\*\*
+### \*\*\*\*[**Fund**](fund.md)\*\*\*\*
 
 * Sources
   * Individual donations \(open fun prizes for different level contributions – e.g. 1 hour consulting on self organization, or a set of book/articles\)
@@ -45,7 +45,7 @@ Network & community Builders, DAO member & practitioners, entrepreneurs and acad
 {% endhint %}
 
 {% hint style="info" %}
-**Onboarding & Contribution Guidance**
+### **Onboarding & Contribution Guidance**
 
 * Checklist
 * Wiki
@@ -54,7 +54,7 @@ Network & community Builders, DAO member & practitioners, entrepreneurs and acad
 {% endhint %}
 
 {% hint style="info" %}
-\*\*\*\*[**Governance model and practices**](governance.md)\*\*\*\*
+### \*\*\*\*[**Governance model and practices**](governance.md)\*\*\*\*
 {% endhint %}
 
 ### 🧠 Researchers / Knowledge production support by Max Semenchuk
@@ -69,7 +69,7 @@ Network & community Builders, DAO member & practitioners, entrepreneurs and acad
 * Identify stakeholders & funding strategy
 
 {% hint style="info" %}
-\*\*\*\*[**\#dgov council / Think Tank**](../research/councils.md)\*\*\*\*
+### \*\*\*\*[**\#dgov council / Think Tank**](../research/councils.md)\*\*\*\*
 
 * 2020 Q1 Dgov council \#2
 * Preset topics for councils
@@ -85,13 +85,13 @@ Network & community Builders, DAO member & practitioners, entrepreneurs and acad
 {% endhint %}
 
 {% hint style="info" %}
-[**Research partnership**](../research/research-partnership.md)\*\*\*\*
+### [**Research partnership**](../research/research-partnership.md)\*\*\*\*
 
 ISSDG, Ledgerback, Sensorica, govlabs
 {% endhint %}
 
 {% hint style="info" %}
-**\#dgov festival 2020**
+### **\#dgov festival 2020**
 
 Burning man for org innovators
 {% endhint %}
@@ -119,7 +119,7 @@ Create more interoperability, collaboration and experimentation.
 {% endhint %}
 
 {% hint style="info" %}
-\*\*\*\*[**Communication Layer**](../collaboration-1/)\*\*\*\*
+### \*\*\*\*[**Communication Layer**](../collaboration-1/)\*\*\*\*
 
 * [Newsletter](../newsletter/)
   * Curating a monthly newsletter \(+ dgov highlight of the month\)
@@ -146,7 +146,7 @@ Create more interoperability, collaboration and experimentation.
 {% endhint %}
 
 {% hint style="info" %}
-**Open Value Network Layer**
+### **Open Value Network Layer**
 
 * Sobol: goals, structures, agreements
 * [Conflict management layer](../collaboration/conflict-management-layer.md)
@@ -154,10 +154,11 @@ Create more interoperability, collaboration and experimentation.
   * Ethical and legal platform for innovation
 * Custodians \(funds, personal data\)
 * Workshops \(Design Thinking etc\)
+* Use blockchain for efficient data exchange inside the network
 {% endhint %}
 
 {% hint style="info" %}
-**Culture Layer**
+### **Culture Layer**
 
 * Ministry of memes – develop artful insights on what's going on in the network \(sensemaking\)
 * Art
@@ -182,14 +183,14 @@ Political scientists \(governance researchers and academics\), Social scientists
 * Identify stakeholders & funding strategy
 
 {% hint style="info" %}
-\*\*\*\*[**Brand / Identity**](../awareness-educational-campaign/identity.md)\*\*\*\*
+### \*\*\*\*[**Brand / Identity**](../awareness-educational-campaign/identity.md)\*\*\*\*
 
 * Print themed sticker pack \(dlov, nature etc\)
 * Attract branding specialist
 {% endhint %}
 
 {% hint style="info" %}
-[**Awareness / educational campaign**](../awareness-educational-campaign/)\*\*\*\*
+### [**Awareness / educational campaign**](../awareness-educational-campaign/)\*\*\*\*
 
 * [Blockchain Network Governance Case Studies](https://mapping.daolandscape.today/network-governance/blockchain-summary)
 * [DAO/Digital Cooperative Case Studies](https://mapping.daolandscape.today/network-governance/dao-case-study-research)
