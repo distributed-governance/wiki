@@ -57,6 +57,14 @@ Network & community Builders, DAO member & practitioners, entrepreneurs and acad
 ### \*\*\*\*[**Governance model and practices**](governance.md)\*\*\*\*
 {% endhint %}
 
+{% hint style="info" %}
+### \#dgov house
+
+* The best place to around major conferences – nice, big, cozy
+* free for contributors of the dgov
+* Place for the afterparties
+{% endhint %}
+
 ### 🧠 Researchers / Knowledge production support by Max Semenchuk
 
 **Goals:**
