@@ -1,9 +1,5 @@
 # Newsletter \#13 \(september\)
 
-Hello i'm member X \(details\) and here's what on the top of my mind:
-
-> 1 sentence
-
 ## 👨‍👨‍👦‍👦 Dgov Network Updates
 
 ### Community highlights
