@@ -77,18 +77,20 @@ Network & community Builders, DAO member & practitioners, entrepreneurs and acad
 * Identify stakeholders & funding strategy
 
 {% hint style="info" %}
-### \*\*\*\*[**\#dgov council / Think Tank**](../research/councils.md)\*\*\*\*
+### [Working Groups](https://forum.dgov.foundation/c/working-groups)
+
+* Manage the portfolio of researches
+* Take any group and develop it forward, even if a bit
+{% endhint %}
+
+{% hint style="info" %}
+### \*\*\*\*[**\#dgov Council**](../research/councils.md)\*\*\*\*
 
 * 2020 Q1 Dgov council \#2
 * Preset topics for councils
 * Research WEF/COALA/RxC... approach
 * Invite people like political scientists, future thinkers, yuval harari  etc \(see survey\)
 * Developing the \#dgov forum, so members can exchange valuable info on more in-depth topics. Harvest from events etc.
-* Forum Working Groups
-  * Create interoperability / tech stack
-  * Ethereum Governance
-  * \#dgov SSID
-  * DAO funding ecosystem? Is it really working? Where is it working? Is it more efficient for the token investors? Is DAO better in fund distribution than expert board?
 * Grants/lower prices for the students
 {% endhint %}
 
