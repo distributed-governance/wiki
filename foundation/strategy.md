@@ -81,6 +81,7 @@ Network & community Builders, DAO member & practitioners, entrepreneurs and acad
 
 * Manage the portfolio of researches
 * Take any group and develop it forward, even if a bit
+* Should be titled as the end result of the work
 {% endhint %}
 
 {% hint style="info" %}
