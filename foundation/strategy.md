@@ -166,6 +166,7 @@ Create more interoperability, collaboration and experimentation.
 * Custodians \(funds, personal data\)
 * Workshops \(Design Thinking etc\)
 * Use blockchain for efficient data exchange inside the network
+* If we loose inactive part of the community moving to the new platform – it can be refershing and good
 {% endhint %}
 
 {% hint style="info" %}
