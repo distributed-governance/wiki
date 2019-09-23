@@ -42,6 +42,7 @@ Network & community Builders, DAO member & practitioners, entrepreneurs and acad
   * Membership fee \(magazine?\)
   * Paid services \(trainings, workshops\)
 * Distribution Mechanism \(Giveth, Moloch, Aragon...\)
+* Workshop on paid products
 {% endhint %}
 
 {% hint style="info" %}
