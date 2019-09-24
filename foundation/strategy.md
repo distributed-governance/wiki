@@ -66,6 +66,10 @@ Network & community Builders, DAO member & practitioners, entrepreneurs and acad
 * Place for the afterparties
 {% endhint %}
 
+{% hint style="info" %}
+### \#dgov retreat
+{% endhint %}
+
 ### 🧠 Researchers / Knowledge production support by Max Semenchuk
 
 **Goals:**
