@@ -191,7 +191,7 @@ Create more interoperability, collaboration and experimentation.
 
 Political scientists \(governance researchers and academics\), Social scientists, Sociologists, Economists \(incl. behavioral\), Artists, Judges, Lawyers, Politicians, Philosophers & Ethologists, Activists \(Do-ers, change agents\), Systemic thinkers \(complexity experts, practitioners of transformation\), Anthropologists, Game theory & mathematics, Hippies, Developers, SSID People, Psychologists, Platform coop people,  Interdisciplinary people, Students, Holacracy and sociocracy experts, Coaches, Social workers.
 
-### 🎗️Build awareness & integration by Anja Blaj
+### 🎗️Build brand awareness & integration by Anja Blaj
 
 **Goals:**
 

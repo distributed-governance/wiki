@@ -20,7 +20,7 @@ Changes to policies and roles are done through the [Holacracy IDM process](https
 
 * Facilitator – Ela
 * Secretary – Aeon
-* Event Manager – Tim, Max
+* Event Manager – Tim, Max, Phoebe
 * Newsletter Editor – Max
 * Outreach & Advocacy / PR Manager – Anja
 * Designer – Max
