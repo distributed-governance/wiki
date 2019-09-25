@@ -59,7 +59,37 @@ Stick to traditional language +
 
 What are the main roles and responsibilities for the core team? Projects or just connecting?
 
+Max showed the [Strategy](../strategy.md) and [Governance](../governance.md)
 
+Phoebe: question of roles is lively. More people, making sense of it.
+
+Anja: have a lot of people who want to help.
+
+Luuk: We can open up – who want's to help and with what.
+
+Anja: it's more about how we form the working groups. e.g. With regulation. We have people interested in different tasks. E.g. in the newsletter we address 3 topics. So we can form the groups and send them stuff only on this topic.
+
+Phoebe: dgov was a top priority, but we lack resources. Was unsustainable. Not everything needs to be paid, but need to cover the bills. We need resources. Even if it's $400/week. Do be able to give upo the paid work.
+
+Luuk: \(have no legal structure\)
+
+Anja: discussed that with Ela. Can use partners companies.
+
+Phoebe: old tension - can bring on the next meeting.
+
+### Phoebe / Working on roles
+
+Role 1 - INTERNAL COMMUNITY BUILDING: DGOV council, Telegram group, weekly community calls \(in future\), newsletter, DGOV DAO, increasing the amount of connectivity, funding, research, collaborators that our members receive.
+
+Role 2 - INTERNAL TEAM MANAGEMENT: internal team governance, calls facilitator, taking notes, internal updates
+
+Role 3 - COMMUNITY GROWTH: brand identity, social media, meet-ups, events at conferences, talks at conferences, growth of Telegram group, writing articles, attracting attention and publicity.
+
+Role 4 - RESOURCING THE TEAM/FUNDING: searching for funding, writing grants, creating a funding strategy, or business model.
+
+Role 5 - OPERATIONS
+
+Role 6 - SECRETARY
 
 ### Max / Other networks
 
