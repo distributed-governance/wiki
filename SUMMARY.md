@@ -59,4 +59,5 @@
   * [Tactical 11.09.2019](foundation/tacticals/tactical-11.09.2019.md)
   * [Tactical 18.09.2019](foundation/tacticals/tactical-18.09.2019.md)
   * [Tactical 25.09.2019](foundation/tacticals/tactical-25.09.2019.md)
+  * [Tactical 02.10.2019](foundation/tacticals/tactical-02.10.2019.md)
 
