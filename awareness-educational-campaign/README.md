@@ -13,6 +13,7 @@ Titles:
 
 ## Wish list
 
+* Sensorica/Open Value Networks
 * Yuval Noah Harari
 * Jimmy Wales, Wikipedia
 * Peter Senge
