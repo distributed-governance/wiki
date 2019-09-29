@@ -11,7 +11,7 @@ Titles:
 * How to manage networks
 * ...
 
-## Wish list
+## Wishlist
 
 * Sensorica/Open Value Networks
 * Yuval Noah Harari
@@ -22,4 +22,5 @@ Titles:
 * Brian Robertson, Holacracy One
 * Tom Thomison, Encode
 * Daniel Schmachtenberger
+* [Daniel Christian Wahl](https://twitter.com/DrDCWahl)
 
