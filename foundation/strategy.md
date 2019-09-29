@@ -141,7 +141,10 @@ Create more interoperability, collaboration and experimentation.
   * Curating a monthly newsletter \(+ dgov highlight of the month\)
   * Support dgov space projects with publicity
   * Enable time-warp \(send in the most convenient time\)
-* Twitter
+  * Summary of the month chat topics/activity
+{% endhint %}
+
+{% hint style="info" %}
 * [Network Map & SSID](https://graphcommons.com/graphs/6a993e34-d8b0-4425-83ce-67c3560429e7?auto=true&svg=true) 
   * Integrate ID system with contacts, hubs maps etc \(Keybase?\)
   * Maintaining and expanding the [ecosystem map](https://wiki.dgov.foundation/map-of-the-industry-landscape)
