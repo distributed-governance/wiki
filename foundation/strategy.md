@@ -43,6 +43,7 @@ Network & community Builders, DAO member & practitioners, entrepreneurs and acad
   * Paid services \(trainings, workshops\)
 * Distribution Mechanism \(Giveth, Moloch, Aragon...\)
 * Workshop on paid products
+* Ask community for help
 {% endhint %}
 
 {% hint style="info" %}
@@ -130,9 +131,9 @@ Create more interoperability, collaboration and experimentation.
 * Support 3 governance experiments \(e.g. with coops\)
 * Identify stakeholders & funding strategy
 
-{% hint style="info" %}
-### Network governance in WeWork 
-{% endhint %}
+Ideas:
+
+* Should Aragon collaborate with DAO stack? Where?
 
 {% hint style="info" %}
 ### \*\*\*\*[**Communication Layer**](../collaboration-1/)\*\*\*\*
