@@ -131,9 +131,9 @@ Create more interoperability, collaboration and experimentation.
 * Support 3 governance experiments \(e.g. with coops\)
 * Identify stakeholders & funding strategy
 
-Ideas:
-
-* Should Aragon collaborate with DAO stack? Where?
+{% hint style="info" %}
+### Network governance in WeWork 
+{% endhint %}
 
 {% hint style="info" %}
 ### \*\*\*\*[**Communication Layer**](../collaboration-1/)\*\*\*\*
