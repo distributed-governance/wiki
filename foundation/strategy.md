@@ -10,7 +10,7 @@ Values: Trust, Fairness, Integrity, Respect, Empathy, Appreciation, Egoless, Hon
 
 Network & community Builders, DAO member & practitioners, entrepreneurs and academics working with the networks.
 
-### 🌱 Contributors / Sustainable participation by Phoebe Tickell
+### 🌱 Contributors Care by Phoebe Tickell
 
 **Goals:**
 
@@ -72,57 +72,7 @@ Network & community Builders, DAO member & practitioners, entrepreneurs and acad
 ### \#dgov retreat
 {% endhint %}
 
-### 🧠 Researchers / Knowledge production support by Max Semenchuk
-
-**Goals:**
-
-* Run the research producing events
-* Support the projects & researches with connections, coverage etc
-* Coordinate the ongoing researches with the academics \(avoid overlaps\)
-* Help researchers find right people to interview
-* Identify the needs for tools
-* Identify stakeholders & funding strategy
-
-{% hint style="info" %}
-### [Working Groups](https://forum.dgov.foundation/c/working-groups)
-
-* Manage the portfolio of researches
-* Take any group and develop it forward, even if a bit
-* Should be titled as the end result of the work
-{% endhint %}
-
-{% hint style="info" %}
-### \*\*\*\*[**\#dgov Council**](../research/councils.md)\*\*\*\*
-
-* 2020 Q1 Dgov council \#2
-* Preset topics for councils
-* Research WEF/COALA/RxC... approach
-* Invite people like political scientists, future thinkers, yuval harari  etc \(see survey\)
-* Developing the \#dgov forum, so members can exchange valuable info on more in-depth topics. Harvest from events etc.
-* Grants/lower prices for the students
-{% endhint %}
-
-{% hint style="info" %}
-### [**Research partnership**](../research/research-partnership.md)\*\*\*\*
-
-ISSDG, Ledgerback, Sensorica, govlabs, Institute of innovating governance
-{% endhint %}
-
-{% hint style="info" %}
-### **\#dgov festival 2020**
-
-Burning man for org innovators
-{% endhint %}
-
-{% hint style="info" %}
-### Wikipedia as a research platform
-
-* S3nd research straight to the wikipedia. Setup bounties for the successful publish
-* It will also create great traffic magnet
-* Compensate top authors, they can delegate funds
-{% endhint %}
-
-### 🤝 **Leaders / Collaboration and communication support by Ela Kagel**
+### 🤝 **Leadership, Collaboration and communication support by Ela Kagel**
 
 Create more interoperability, collaboration and experimentation.
 
@@ -191,6 +141,56 @@ Ideas:
 * SWAG
 * Stickers, posters etc
 * Create a show – create funny reviews about the companies and people in the industry
+{% endhint %}
+
+### 🧠 Researchers / Knowledge production support by Max Semenchuk
+
+**Goals:**
+
+* Run the research producing events
+* Support the projects & researches with connections, coverage etc
+* Coordinate the ongoing researches with the academics \(avoid overlaps\)
+* Help researchers find right people to interview
+* Identify the needs for tools
+* Identify stakeholders & funding strategy
+
+{% hint style="info" %}
+### [Working Groups](https://forum.dgov.foundation/c/working-groups)
+
+* Manage the portfolio of researches
+* Take any group and develop it forward, even if a bit
+* Should be titled as the end result of the work
+{% endhint %}
+
+{% hint style="info" %}
+### \*\*\*\*[**\#dgov Council**](../research/councils.md)\*\*\*\*
+
+* 2020 Q1 Dgov council \#2
+* Preset topics for councils
+* Research WEF/COALA/RxC... approach
+* Invite people like political scientists, future thinkers, yuval harari  etc \(see survey\)
+* Developing the \#dgov forum, so members can exchange valuable info on more in-depth topics. Harvest from events etc.
+* Grants/lower prices for the students
+{% endhint %}
+
+{% hint style="info" %}
+### [**Research partnership**](../research/research-partnership.md)\*\*\*\*
+
+ISSDG, Ledgerback, Sensorica, govlabs, Institute of innovating governance
+{% endhint %}
+
+{% hint style="info" %}
+### **\#dgov festival 2020**
+
+Burning man for org innovators
+{% endhint %}
+
+{% hint style="info" %}
+### Wikipedia as a research platform
+
+* S3nd research straight to the wikipedia. Setup bounties for the successful publish
+* It will also create great traffic magnet
+* Compensate top authors, they can delegate funds
 {% endhint %}
 
 ## External Audience
