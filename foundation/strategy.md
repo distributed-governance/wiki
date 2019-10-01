@@ -44,6 +44,7 @@ Network & community Builders, DAO member & practitioners, entrepreneurs and acad
 * Distribution Mechanism \(Giveth, Moloch, Aragon...\)
 * Workshop on paid products
 * Ask community for help
+* Legal Institution?
 {% endhint %}
 
 {% hint style="info" %}
