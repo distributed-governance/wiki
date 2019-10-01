@@ -20,7 +20,14 @@
 
 ### Max / Council invite list
 
-### Max / Other networks
+### Max / Conflict resolution
+
+* Should conflicts be open?
+* How we select the conflicts where we participate?
+* Why it's important to help to solve it?
+* How we can do this
+
+### Max / Other networks \(not only blockchain\)
 
 ### Max / PM on the council
 
