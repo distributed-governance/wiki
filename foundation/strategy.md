@@ -173,6 +173,7 @@ Ideas:
 * [Conflict management layer](../collaboration/conflict-management-layer.md)
   * Mediators list & process
   * Ethical and legal platform for innovation
+  * NVC court
 * Custodians \(funds, personal data\)
 * Workshops \(Design Thinking etc\)
 * Use blockchain for efficient data exchange inside the network
