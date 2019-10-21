@@ -42,7 +42,7 @@ Next Steps
 
 ### Ela / Assessment for Orgateam Commitment
 
-* Luke and Phillippe as contributors
+* Luuk and Felipe as contributors
 
 Next Steps
 
