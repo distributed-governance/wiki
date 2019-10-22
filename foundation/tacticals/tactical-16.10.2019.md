@@ -14,6 +14,10 @@
 
 ### Max / Newsletter for contributors goals
 
+### Max / Where is dgov leadership?
+
+Education, advocacy, community
+
 ## Network
 
 * Knowledge production support \(Max\) –
