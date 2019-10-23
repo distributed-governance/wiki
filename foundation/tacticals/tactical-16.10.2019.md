@@ -48,13 +48,54 @@ Do you expect to be paid?
 
 ## Network
 
-* Knowledge production support \(Max\) –
+* Knowledge production support \(Max\) – 
 * Leaders / Collaboration and communication support \(Ela\) – 
 * External awareness & integration \(Anja\) –
+
+### Luuk / Questions
+
+* Pinged Max and Anja on that. First of all what we are and where we aim to be. Is it an umbrella? Shared values system? Full time working opportunity? In Netherlands there's a community developing. What's the ultimate goal? Also for the coming year? How can I contribute? Specific tasks or strategic vision? More reacting for now.
+* We can answer individually:
+  * Ela: dgov is a place for continuous exchange around governance and building real infrastructure. Help community to strive with ideas, protocols etc. Team is close. Weekly calls have a quality of friend meeting, challenge ideas and enjoy our time.
+  * Max: place of knowledge concentration. dgov is meme. dgov network is a connection platform for different players. dgov foundation \(less than 10 people\) – body that took a task to sustain and develop the network.
+  * Anja: shared platform that provides the calls, agnostic. Reputation of the safe space. Lot's of thing happen in the backstage. But we can maneuver. Education, advocacy, community. A lot of people have materials, courses, canvases. We might provide a space to share and get feedback. Shared governance. How we connect those people together. How we talk to each other, events... Doing for 1.5 years. Don't keep track but see each other at the events. embraces the movement. Freely think about the governance. Interdisciplinary dialog. 
+* Makes sense. The main thing, but how we engage the larger community? Our group can benefit from the gained knowledge. 
+* Resonates a lot. These calls are unique. Taking it step by step.
 
 ### Ela / Council
 
 Basic messaging for the communications. Share the date and how we want to organize and invite for the co-creation.
+
+* 2 things: org the councils in the 24-26 of january in Berlin \(Supermarkt + Full node\). There's a big difference this time – not to be a signle facilitator but organize together with the community. Also try how dec leadership feels. We could dedicated wed 4-5 to community to discuss and submit proposals to have a better sense what people want. 
+* How many people we're aiming for? Less than 200. Haven't identified, last time ~60 people. Aiming that or little more. Curious to see how many people are ready to come. Matter of engaging the community \(event is soon\). Planned to make an open call. Also thinking about starting community calls from the next week.
+* Need to be clear what we need
+* Maybe start a shared google doc and continuously discuss it with people. Asking for contribution is 1 thing, integrating is additional.
+* Have a lot of inspiration from Odyssey – have a lot of forms. Instead of the doc – maybe a form, to understand what works. Maybe we can invite half of people and than create an open call for another half. We can easily gather 200, but we need a specific type of collab.
+* People need guidelines, easy for people to connect to. Check the [google form](https://docs.google.com/forms/d/1ouyYjQqqNN6__K1_bvugvkzkmI9XetocSOY-KSOOEuQ/edit), will provide the credentials. We can start and open it to the community.
+* Need to specify the amount of spots.
+* Smart
+* We can go broader
+* Personal approach is the way to go.
+* There can be a mix of the goal of the council and the curation of the people. Maybe a specific challenge in dgov. Need a specific reason to come, not just friendship or curiosity. Can work but not for long.
+* State of dgov – is that a thing?
+* This sounds like you want smth from me.
+* Having a strong narrative/common problem. To avoid people's conception and missing the expectations. Governance is broken – help us fix it? Highlight: moving to the next stage of governance. Will have a stronger feedback.
+* 2019 there was a big jump of funds managed by the communities. This might be the beginning of the narrative. trying to bridge certain gaps.
+* Really reaching out beyond the blockchain. Is raise in fund good news or should it be discussed.
+* These topics should be discussed. Issues with MakerDAO governance. People don't feel confident to speak about that. What prevents people to talk about it? Can make someone uncomfortable. What i'd really like to focus on – we promoted the global issues to be resolved. We lost the focus. Need people from other communities. Helpful: reach out to other communities – educate, advocate, community. Aragon, DAO stack can talk about it. They can talk share. can easily have subcategories. 
+* Reflects our strategy. Is there some sort of provocation to be added? Can see clearly we're just at the beginning. Honesty about the stuff we don't know. Maybe we can come up with something. To also be frank about that massive stuff. 
+* E.g. where we failed, where the soft spots are. Triggers a lot of debates. 
+* Map the challenges, advantages of the decentralization. Legal, UI ... If we can have a map who tackles what. This map will help. this is smth we should be doing. Dgov implementation as a collective problem. We can see limits of our current powers.
+* You can define what are you [mapping](https://graphcommons.com/graphs/6a993e34-d8b0-4425-83ce-67c3560429e7?auto=true&svg=true)
+* Smth discussed with the DAO fund – need to figure out the problems and collectively solve them.
+* Would english and platform be enough? 
+* Metacartel happened – became a thing, as well as Moloch. The conditions to swarms, simplicity. 
+* How do we get to the theme? Brainstorm more? Waiting for a week isn't good.
+* Maybe crowdsource and share
+* We need the right questions. 2-3 to understand the fears about the dgov. more actionable.
+* Move to telegram group
+* Nurture first within a smaller group
+* Communicate to the dgov core first
 
 ## Closing thought
 
