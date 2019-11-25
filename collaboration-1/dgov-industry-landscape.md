@@ -18,7 +18,7 @@
 ## 2019
 
 * [Distributed Governance in Practice with Alanna Irving](https://www.eventbrite.co.uk/e/dgov-webinar-with-alanna-irving-phoebe-tickell-on-distributed-governance-open-source-tech-radical-tickets-54795438632) \(Webinar, Jan 16\) 
-* [Dgov council](https://wiki.dgov.foundation/events/dgov-community-council) \(Jan 27-28, Berlin\)
+* [Dgov council \#1](https://wiki.dgov.foundation/research/councils#council-1-jan-2019-berlin) \(Jan 27-28, Berlin\)
 * ​[Aracon One](https://aracon.one/) \(Jan 29-30 , Berlin\)
 * [LUCID Dawning :: Connecting Transformative Culture-Makers](https://www.facebook.com/events/352606141958607/) \(Feb 1, Berlin\)
 * [Melonport M-1](https://m-1.melonport.com/) \(Feb 7-8, Zug\)
@@ -51,6 +51,7 @@
 
 ## 2020
 
+* [Dgov council \#2](https://forum.dgov.foundation/t/dgov-council-2020-jan-24-26-berlin/) \(Jan 24-26, Berlin\)
 * [Massive Adoption Crypto Festival](https://www.massiveadoption.com/) \(2020\)
 
 Want to host a local meetup? [here're some tips](http://forum.dgov.foundation/t/host-local-meetups/42)
