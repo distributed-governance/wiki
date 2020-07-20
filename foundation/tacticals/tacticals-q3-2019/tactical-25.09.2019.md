@@ -59,7 +59,7 @@ Stick to traditional language +
 
 What are the main roles and responsibilities for the core team? Projects or just connecting?
 
-Max showed the [Strategy](../../strategy.md) and [Governance](../../governance.md)
+Max showed the [Strategy](../../strategy.md) and [Governance](../../governance/)
 
 Phoebe: question of roles is lively. More people, making sense of it.
 

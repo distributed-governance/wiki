@@ -118,13 +118,13 @@ Being excellent with each other \(respect, support, caring\). Intentional dishon
 
 * quarterly retro
 * strategy clarification\)
-* [newsletter](../newsletter/) report routine
+* [newsletter](../../newsletter/) report routine
 * Interview more dgov stakeholders \(needs, expectations, strategies\).
 * Board of Advisors is gathered + Meta calls?
 
 Ecosystem development managers from Aragon \(Maria\), DAO Stack \(Oren, Natalia\), Colony \(?\)
 
-Support Integration of knowledge by [Dgov Foundation](https://dgov.foundation/), [DAO Stack Polinators](https://t.me/joinchat/HfsmOEXV0YP6P5rGmRBaCQ), [Bushwick Generator](https://www.thebushwickgenerator.com/), COALAs, [starfish network](https://www.starfish.network/), [Event Calendar](../collaboration-1/dgov-industry-landscape.md), [Industry Landscape](../collaboration-1/dgov-industry-landscape.md) and [Global Hubs]()
+Support Integration of knowledge by [Dgov Foundation](https://dgov.foundation/), [DAO Stack Polinators](https://t.me/joinchat/HfsmOEXV0YP6P5rGmRBaCQ), [Bushwick Generator](https://www.thebushwickgenerator.com/), COALAs, [starfish network](https://www.starfish.network/), [Event Calendar](../../collaboration-1/dgov-industry-landscape.md), [Industry Landscape](../../collaboration-1/dgov-industry-landscape.md) and [Global Hubs]()
 
 Rich Movement Culture Exists by [Ministry of Memes](https://t.me/MinistryofMemes)
 

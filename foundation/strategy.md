@@ -57,7 +57,7 @@ Network & community Builders, DAO member & practitioners, entrepreneurs and acad
 {% endhint %}
 
 {% hint style="info" %}
-### \*\*\*\*[**Governance model and practices**](governance.md)\*\*\*\*
+### \*\*\*\*[**Governance model and practices**](governance/)\*\*\*\*
 {% endhint %}
 
 {% hint style="info" %}
