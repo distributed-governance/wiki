@@ -36,6 +36,7 @@
 * [Strategy & Goals](foundation/strategy.md)
 * [Governance](foundation/governance/README.md)
   * [20.07](foundation/governance/20.07.md)
+  * [17.08](foundation/governance/17.08.md)
 * [Fund](foundation/fund.md)
 * [About us](foundation/about.md)
 * [Tacticals](foundation/tacticals/README.md)
